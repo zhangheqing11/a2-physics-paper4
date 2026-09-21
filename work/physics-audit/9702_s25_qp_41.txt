@@ -1,0 +1,1568 @@
+
+=== MERGED PAGE 594 ===
+                                                    * 0000800000001 *                 DFD
+
+
+
+                                                ,            ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬O> 4mHuOªE_z5W
+                          ¬BzZpoQpK¬=£
+                          ¥5 Uu5euuUU EE¥U
+
+
+
+
+* 6 0 5 5 6 7 1 4 2 2 *
+                                               PHYSICS                                                                                         9702/41
+                                               Paper 4 A Level Structured Questions                                                     May/June 2025
+
+                                                                                                                                                2 hours
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 100.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                        This document has 24 pages. Any blank pages are indicated.
+
+
+                                               DC (WW/SW) 342379/2
+                                               © UCLES 2025                                                                                   [Turn over
+
+
+=== MERGED PAGE 595 ===
+       * 0000800000002 *                          DFD
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                                  2
+   ,              ,
+
+
+Data
+
+acceleration of free fall                                  g = 9.81 m s–2
+
+speed of light in free space                               c = 3.00 × 108 m s–1
+
+elementary charge                                          e = 1.60 × 10–19 C
+
+unified atomic mass unit                                 1 u = 1.66 × 10–27 kg
+
+rest mass of proton                                       mp = 1.67 × 10–27 kg
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+rest mass of electron                                     me = 9.11 × 10–31 kg
+
+Avogadro constant                                         NA = 6.02 × 1023 mol–1
+
+molar gas constant                                         R = 8.31 J K–1 mol–1
+
+Boltzmann constant                                         k = 1.38 × 10–23 J K–1
+
+gravitational constant                                     G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space                                 ε0 = 8.85 × 10–12 F m–1
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                         1
+                                                    (        = 8.99 × 109 m F–1)
+                                                        4rf0
+
+Planck constant                                            h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant                                  σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion                               s = ut + 12 at 2
+                                                          v 2 = u 2 + 2as
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+hydrostatic pressure                                      ∆p = ρg∆h
+
+upthrust                                                   F = ρgV
+
+                                                                  fs v
+Doppler effect for sound waves                             fo = v ! v
+                                                                      s
+
+
+electric current                                           I = Anvq
+
+resistors in series                                        R = R1 + R2 + ...
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                          1   1   1
+resistors in parallel                                       =   +   + ...
+                                                          R   R1 R2
+
+
+
+
+                             ĬÍĊ¾Ġ´íÈõÏĪÅĊÞü·þ×
+© UCLES 2025                 ĬÂĆùÛĪüęêāõèÔ·Ó¼ĦĂ             9702/41/M/J/25
+                             ĥĥĕÕµÕĥĕÅĕąÅÅÕåÕÅÕ
+
+
+=== MERGED PAGE 596 ===
+                                     * 0000800000003 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                           32
+                                 ,             ,
+
+
+                                                                                         GM
+                              gravitational potential                                ϕ =– r
+
+                                                                                             GMm
+                              gravitational potential energy                        EP = –    r
+
+                                                                                           1 Nm
+                              pressure of an ideal gas                               p = 3          〈c2〉
+                                                                                             V
+
+                              simple harmonic motion                                 a = – ω 2x
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              velocity of particle in s.h.m.                         v = v0 cos ωt
+                                                                                     v = !ω         (x 02 - x 2)
+
+                                                                                             Q
+                              electric potential                                    V =
+                                                                                           4rf0 r
+
+                                                                                            Qq
+                              electrical potential energy                           EP =
+                                                                                           4rf0 r
+
+                                                                                    1   1   1
+                              capacitors in series                                    =   +   + ...
+                                                                                    C   C1 C2
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              capacitors in parallel                                C = C1 + C2 + ...
+
+                                                                                                    t
+                              discharge of a capacitor                               x = x 0 e - RC
+
+                                                                                           BI
+                              Hall voltage                                          VH =
+                                                                                           ntq
+
+                              alternating current/voltage                            x = x0 sin ωt
+
+                              radioactive decay                                      x = x0e–λt
+
+                                                                                           0.693
+                              decay constant                                         λ =
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                             t1
+                                                                                                2
+
+
+
+                                                                                    IR   (Z 1 - Z 2) 2
+                              intensity reflection coefficient                         =
+                                                                                    I0   (Z 1 + Z 2) 2
+
+                              Stefan–Boltzmann law                                   L = 4πσr 2T 4
+
+                                                                                    ∆λ Df  v
+                              Doppler redshift                                        á   ác
+                                                                                    λ   f
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĊ¾Ġ´íÈõÏĪÅĊÞú·þ×
+                              © UCLES 2025               ĬÂąúÓĠøĩÏ÷ČġĈ¿ć¼ĖĂ
+                                                         ĥĥĥĕõµąõÕĥÕÅÅµÅĕÕÕ
+                                                                                     9702/41/M/J/25                [Turn over
+
+
+=== MERGED PAGE 597 ===
+       * 0000800000004 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           4
+    ,              ,
+
+1   (a) Define gravitational potential at a point.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Mars is a planet that may be considered to be an isolated uniform sphere of radius 3.4 × 106 m.
+
+         A satellite of mass 122 kg is in orbit around Mars at a constant height of 1.7 × 106 m above the
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         surface of the planet.
+
+         The height of the orbit is increased to 6.8 × 106 m above the surface. This increases the
+         gravitational potential energy of the satellite by 5.1 × 108 J.
+
+          (i)    Show that the mass of Mars is 6.4 × 1023 kg.
+
+
+
+
+                                                                                                                                                         [3]    DO NOT WRITE IN THIS MARGIN
+
+         (ii)    Calculate the gravitational potential φ at the surface of Mars. Give a unit with your answer.
+
+
+
+
+                                                                                       φ = .................................. unit ............... [2]          DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊàü·Ā×
+© UCLES 2025                      ĬÂąûÓĦĆĠìùăĪæģåìĞĂ               9702/41/M/J/25
+                                  ĥÕµĕµµąÕµÅåÅąµĥĕÅÕ
+
+
+=== MERGED PAGE 598 ===
+                                     * 0000800000005 *                             DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       5
+                                 ,             ,
+
+                                  (c) The satellite in (b) is moved to an orbit in which the satellite remains at the same point above
+                                      the surface of Mars.
+
+                                        (i)   The orbit has a period of 25 hours.
+
+                                              State what can be deduced from this about the rotation of Mars on its axis.
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [1]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       (ii)   State one other feature of this orbit.
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [1]
+
+                                                                                                                                                                           [Total: 9]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÏĊ¾Ġ´íÈõÏĪÅĊàú·Ā×
+                              © UCLES 2025                    ĬÂĆüÛĤĊĐÍÿîßòěñìĎĂ
+                                                              ĥÕÅÕõÕĥµåµõÅąÕąÕÕÕ
+                                                                                               9702/41/M/J/25                                                          [Turn over
+
+
+=== MERGED PAGE 599 ===
+       * 0000800000006 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           6
+    ,              ,
+
+2   A helium atom may be modelled as a nucleus surrounded by two electrons in diametrically
+    opposite circular orbits, each of radius 170 pm, as shown in Fig. 2.1.
+
+
+                                                                                                    orbit of electrons
+
+
+                                                                  170 pm
+
+
+                        electron                                                                        electron
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                nucleus
+
+
+
+
+                                                                Fig. 2.1
+
+    (a) State Coulomb’s law.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) (i)      State the charge on the nucleus, in terms of the elementary charge e.
+
+
+
+                                                                               charge = ....................................................... e [1]
+
+         (ii)    Show that the electric force between the nucleus and one of the electrons is 1.6 × 10–8 N.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                         [1]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊÝú¶þ×
+© UCLES 2025                      ĬÂąüØĪĢĖÕČÿÖĒģĔĄĞĂ               9702/41/M/J/25
+                                  ĥąĥÕõõĥĕĥÕÕÅÅÕåĕąÕ
+
+
+=== MERGED PAGE 600 ===
+                                     * 0000800000007 *                                DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       7
+                                 ,             ,
+
+                                  (c) Assume that the force in (b)(ii) is the only force on the electrons.
+
+                                        (i)   Calculate the speed of the orbiting electrons.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                           speed = ................................................ m s–1 [2]
+
+                                       (ii)   Calculate the period of the orbit of the electrons.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                           period = ....................................................... s [2]
+
+                                  (d) In practice, the orbit of each electron is affected by the presence of the other electron.
+
+                                        (i)   For the position of one of the electrons, determine the ratio
+
+                                                                             electric field strength due to the other electron
+                                                                                electric field strength due to the nucleus .
+
+
+
+
+DO NOT WRITE IN THIS MARGIN                                                                                   ratio = ......................................................... [2]
+
+                                       (ii)   Use your answer in (d)(i) to suggest and explain how the orbit of the electron is affected
+                                              by the presence of the other electron.
+
+                                              ...........................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              ..................................................................................................................................... [1]
+
+                                                                                                                                                                         [Total: 11]
+
+
+
+
+                                                              ĬÓĊ¾Ġ´íÈõÏĪÅĊÝü¶þ×
+                              © UCLES 2025                    ĬÂĆûÐĠĞĦäîòēÆěÈĄĎĂ
+                                                              ĥąĕĕµĕąõõåąÅÅµÅÕĕÕ
+                                                                                               9702/41/M/J/25                                                          [Turn over
+
+
+=== MERGED PAGE 601 ===
+       * 0000800000008 *                                      DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                               8
+    ,                                               ,
+
+3   (a) Define specific latent heat.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Explain why, for a substance, the specific latent heat of vaporisation is usually greater than
+        the specific latent heat of fusion.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+    (c) An ice cube of mass 37.0 g at temperature 0.0 °C is placed in a beaker containing water of
+        mass 208 g at temperature 26.4 °C.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         When all the ice has melted, and all the water in the beaker has reached thermal equilibrium,
+         the final temperature of all the water is 10.3 °C.
+
+         The specific heat capacity of water is 4.18 J g–1 °C–1.
+
+         The beaker has negligible specific heat capacity and is perfectly insulated from the
+         surroundings.
+
+         Determine a value, to three significant figures, for the specific latent heat of fusion of water.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                       specific latent heat of fusion = ................................................. J g–1 [4]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                                                                               [Total: 9]
+
+
+
+
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊßú¶Ā×
+© UCLES 2025                      ĬÂĆúÐĦĐģ×ôùĜĨ·ĦĔĦĂ                     9702/41/M/J/25
+                                  ĥµÅĕõĕąÕĕąõÅąµĥÕąÕ
+
+
+=== MERGED PAGE 602 ===
+                                     * 0000800000009 *                                  DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       9
+                                  ,                                          ,
+
+                              4   (a) (i)     State what is meant by the internal energy of a system.
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [2]
+
+                                       (ii)   Explain why the internal energy of an ideal gas is directly proportional to the
+                                              thermodynamic temperature of the gas.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [2]
+
+                                  (b) A sample of an ideal gas at thermodynamic temperature T has internal energy U.
+
+                                       The gas is compressed so that its temperature increases to 3T.
+                                       During this compression, work W is done on the gas.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       The gas is then cooled at constant volume so that its temperature decreases to 2T.
+
+                                       Complete Table 4.1 to show, in terms of some or all of W, T and U, the work done on the gas,
+                                       the thermal energy supplied to the gas and the increase in internal energy of the gas for each
+                                       of the two processes.
+
+                                                                                                Table 4.1
+
+                                                                                                        thermal energy                        increase in internal
+                                                              work done on gas
+                                                                                                        supplied to gas                          energy of gas
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                    compression                                    +W
+
+
+
+                                       cooling
+
+
+
+                                                                                                                                                                                     [4]
+
+                                                                                                                                                                           [Total: 8]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÓĊ¾Ġ´íÈõÏĪÅĊßü¶Ā×
+                              © UCLES 2025                    ĬÂąùØĤĔēâĆĈÍ´¿²ĔĖĂ
+                                                              ĥµµÕµõĥµąõåÅąÕąĕĕÕ
+                                                                                               9702/41/M/J/25                                                          [Turn over
+
+
+=== MERGED PAGE 603 ===
+       * 0000800000010 *                                   DFD
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                         10
+    ,               ,
+
+5   A cuboidal block floats in a liquid with its base horizontal, as shown in Fig. 5.1.
+
+                                                                                          block
+
+
+
+                    liquid surface
+
+
+
+                                                                                            h
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                       Fig. 5.1
+
+    The base of the block is at a depth h below the surface of the liquid.
+
+    The block is displaced downwards by a small distance and then released so that it oscillates.
+
+    Fig. 5.2 shows the variation with h of the acceleration a of the block.
+
+                   1.0
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+          a / m s–2
+
+                        0
+                            0                        0.4         0.8          1.2   1.6   2.0           2.4
+                                                                                                  h/m
+
+
+                  –1.0
+
+                                                                       Fig. 5.2
+
+    Fig. 5.3 shows the variation with h of the kinetic energy EK of the block.
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                    10
+
+               EK / J
+
+                        5
+
+
+
+
+                        0
+                            0                        0.4         0.8          1.2   1.6   2.0           2.4
+                                                                                                  h/m
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                       Fig. 5.3
+
+
+
+
+                                ĬÑĊ¾Ġ´íÈõÏĪÅĊÞú¸þ×
+© UCLES 2025                    ĬÂćúÕĨĘõÙûò²ČµĂìĎĂ                 9702/41/M/J/25
+                                ĥĥåÕõĕåÕµµõąąĕĥÕµÕ
+
+
+=== MERGED PAGE 604 ===
+                                     * 0000800000011 *                                     DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                            11
+                                 ,               ,
+
+                                  (a) (i)      Determine the amplitude of the oscillations.
+
+                                                                                                            amplitude = ...................................................... m [1]
+
+                                       (ii)    State what the line in Fig. 5.2 shows about the nature of the oscillations.
+
+                                               ..................................................................................................................................... [1]
+
+                                  (b) State three other quantitative conclusions that can be drawn from Fig. 5.2 and Fig. 5.3 about
+                                      the block and its oscillations. Use the space for any working.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                       1 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       2 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                       3 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+                                                                                                                                                                                       [3]
+
+                                  (c) On Fig. 5.4, sketch the variation with h of the potential energy EP of the oscillations.
+
+                                                 10
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                          EP / J
+
+                                                   5
+
+
+
+
+                                                   0
+                                                       0                             0.4         0.8             1.2            1.6               2.0               2.4
+                                                                                                                                        h/m
+
+                                                                                                         Fig. 5.4
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                                                       [3]
+
+                                                                                                                                                                             [Total: 8]
+
+
+
+
+                                                                ĬÓĊ¾Ġ´íÈõÏĪÅĊÞü¸þ×
+                              © UCLES 2025                      ĬÂĈùÍĢĜąàýÿ÷Ð½ÖìĞĂ
+                                                                ĥĥÕĕµõÅµåÅåąąõąĕåÕ
+                                                                                                       9702/41/M/J/25                                                    [Turn over
+
+
+=== MERGED PAGE 605 ===
+       * 0000800000012 *                                        DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                12
+    ,              ,
+
+6   Fig. 6.1 shows a circuit that rectifies an alternating input voltage VIN and produces an output
+    voltage VOUT across a resistor R.
+
+                                                            W                      Y
+
+
+
+                VIN                                             rectification                                                     VOUT
+                                                                                             C                        R
+                                                                   circuit
+
+
+                                                            X                      Z
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                             Fig. 6.1
+
+    The four terminals of the rectification circuit are labelled W, X, Y and Z.
+    A capacitor C is connected in parallel with resistor R.
+
+    (a) (i)      State what is meant by rectification.
+
+                  ...........................................................................................................................................
+
+                  ..................................................................................................................................... [1]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         (ii)    State the purpose of capacitor C.
+
+                  ...........................................................................................................................................
+
+                  ..................................................................................................................................... [1]
+
+    (b) Fig. 6.2 shows the variations with time t of the potential differences (p.d.s) VIN and VOUT.
+
+                                                       12
+
+                                                        8                                          VOUT
+                             p.d. / V
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                        4
+
+                                                        0
+                                                            0         10               20          30               40
+                                                       –4                                                     t / ms
+
+
+                                                       –8
+                                                                                                            VIN
+                                              –12
+
+                                                                             Fig. 6.2
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊàú¸Ā×
+© UCLES 2025                      ĬÂĈüÍĬĪĄÛăĈðîġø¼ĖĂ                       9702/41/M/J/25
+                                  ĥÕąĕõõÅĕÅĥÕąÅõåĕµÕ
+
+
+=== MERGED PAGE 606 ===
+                                     * 0000800000013 *                             DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                     13
+                                 ,             ,
+
+                                        (i)   The variation of VIN with t can be represented by
+
+                                                                                            VIN = A cos Bt
+
+                                              where A and B are constants.
+
+                                              Determine the values of A and B. Give a unit with your answer for A.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                 A = ........................................ unit ...............
+
+                                                                                                                 B = .................................................... rad s–1
+                                                                                                                                                                              [2]
+
+                                       (ii)   Determine the type of rectification produced by the circuit in Fig. 6.1.
+
+                                              ..................................................................................................................................... [1]
+
+                                      (iii)   On Fig. 6.3, draw the circuit diagram for the components inside the rectification circuit.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                               W                                                                             Y
+
+
+
+
+                                                                   X                                                                         Z
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                 Fig. 6.3
+                                                                                                                                                                                   [2]
+
+                                      (iv)    Determine a value for the time constant for the discharge of the capacitor C through the
+                                              resistor R in Fig. 6.1.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               time constant = ....................................................... s [3]
+
+
+                                                              ĬÓĊ¾Ġ´íÈõÏĪÅĊàü¸Ā×
+                              © UCLES 2025                    ĬÂćûÕĞĦôÞõù¹êęä¼ĦĂ
+                                                              ĥÕõÕµĕåõÕĕąąÅĕÅÕåÕ
+                                                                                              9702/41/M/J/25                                                         [Turn over
+
+
+=== MERGED PAGE 607 ===
+       * 0000800000014 *                                   DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          14
+    ,              ,
+
+    (c) The capacitor C has a capacitance of 570 μF.
+
+         Use your answer in (b)(iv) to determine the resistance of resistor R.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                        resistance = ...................................................... Ω [2]
+
+                                                                                                                                             [Total: 12]
+
+
+7   (a) Define magnetic flux density.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ............................................................................................................................................. [2]
+
+    (b) A particle of mass m and charge +Q moves at speed v into a region where there is a uniform
+        magnetic field, as shown in Fig. 7.1.
+
+
+                     path of
+                                                                                                                         region of
+                     particle
+                                                                                                                       magnetic field
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          particle
+                                                       Y                                                  Z
+
+
+
+
+                                                                     Fig. 7.1
+
+         The uniform magnetic field is into the page and has flux density B. The particle enters the
+         region of the field at point Y.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊßûµĂ×
+© UCLES 2025                      ĬÂĈùØĤęČÐóîĖĆÄèČĞĂ               9702/41/M/J/25
+                                  ĥõõĕõõĥÕµąąÅąÕĥĕõÕ
+
+
+=== MERGED PAGE 608 ===
+                                     * 0000800000015 *                             DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                      15
+                                 ,             ,
+
+                                        (i)   State an expression, in terms of some or all of m, Q, B and v, for the magnetic force F
+                                              that acts on the particle when it is at point Y.
+
+
+
+
+                                                                                                                   F = ......................................................... [1]
+
+                                       (ii)   On Fig. 7.1, draw an arrow at point Y to indicate the direction of the force in (b)(i).                                                [1]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                      (iii)   On Fig. 7.1, draw a line to show a possible path for the particle through the region of the
+                                              magnetic field.                                                                          [1]
+
+                                  (c) (i)     Explain how an electric field can be used with the magnetic field to ensure that the
+                                              particle in (b) now passes through point Z.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [3]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       (ii)   Derive an expression for v in terms of B and the electric field strength E.
+
+
+
+
+                                                                                                                   v = ......................................................... [2]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                                         [Total: 10]
+
+
+
+
+                                                              ĬÏĊ¾Ġ´íÈõÏĪÅĊßùµĂ×
+                              © UCLES 2025                    ĬÂćúÐĦĕüéąăÓÒ¼ôČĎĂ
+                                                              ĥõąÕµĕąµåõÕÅąµąÕĥÕ
+                                                                                               9702/41/M/J/25                                                          [Turn over
+
+
+=== MERGED PAGE 609 ===
+       * 0000800000016 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          16
+    ,              ,
+
+8   (a) State what is meant by the de Broglie wavelength.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) Calculate the de Broglie wavelength of an electron moving at a speed of 4.9 × 107 m s–1.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                       wavelength = ...................................................... m [2]
+
+    (c) State one similarity and one difference between an electron and a positron.
+
+         similarity: ...................................................................................................................................
+
+          ...................................................................................................................................................
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         difference: .................................................................................................................................
+
+          ...................................................................................................................................................
+                                                                                                                                                         [2]
+
+    (d) An electron moving at a speed of 4.9 × 107 m s–1 collides with a positron that is travelling at
+        the same speed in the opposite direction. As a result of the collision, two gamma-ray photons
+        are produced.
+
+          (i)    State the name of this type of reaction.
+
+                 ..................................................................................................................................... [1]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         (ii)    State what happens to the electron and to the positron.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊÝûµĄ×
+© UCLES 2025                      ĬÂćûÐĠħíÎċČÜôĘÒĜĦĂ               9702/41/M/J/25
+                                  ĥÅÕÕõĕąĕÅÕåÅÅµåÕõÕ
+
+
+=== MERGED PAGE 610 ===
+                                     * 0000800000017 *                             DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                      17
+                                 ,             ,
+
+                                      (iii)   Explain why two gamma-ray photons are produced, rather than just one.
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [1]
+
+                                      (iv)    Show that the kinetic energy of the electron before the collision is 1.1 × 10–15 J.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                                                     [1]
+
+                                       (v)    Use the information in (d)(iv) to determine, to three significant figures, the wavelength
+                                              associated with the gamma radiation emitted in the collision.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+                                                                                                   wavelength = ...................................................... m [3]
+
+                                                                                                                                                                         [Total: 13]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÏĊ¾Ġ´íÈõÏĪÅĊÝùµĄ×
+                              © UCLES 2025                    ĬÂĈüØĪīýëíõčèĠĆĜĖĂ
+                                                              ĥÅåĕµõĥõÕåõÅÅÕÅĕĥÕ
+                                                                                               9702/41/M/J/25                                                          [Turn over
+
+
+=== MERGED PAGE 611 ===
+       * 0000800000018 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          18
+    ,                                       ,
+
+9   (a) Define activity of a radioactive sample.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) Explain why the variation with time of the activity of a radioactive sample is exponential in
+        nature.
+
+          ...................................................................................................................................................
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+    (c) A sample contains a single radioactive isotope that decays to form a stable isotope.
+
+         The sample has an activity of 180 Bq at time t = 0.
+         At a time 8.4 minutes later, the activity is 120 Bq.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          (i)    Determine the decay constant, in min–1, of the radioactive isotope.
+
+
+
+
+                                                                 decay constant = ................................................ min–1 [2]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         (ii)    Use your answer in (c)(i) to determine the half-life, in min, of the radioactive isotope.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                             half-life = ................................................... min [1]
+
+
+
+
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊàû·Ă×
+© UCLES 2025                      ĬÂĆûÕĞğīÔĄăòĐĖ¶äĎĂ               9702/41/M/J/25
+                                  ĥĕµĕõĕåĕĥĥåąÅĕåÕÅÕ
+
+
+=== MERGED PAGE 612 ===
+                                     * 0000800000019 *                             DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                  19
+                                 ,                                      ,
+
+                                      (iii)   On Fig. 9.1, sketch the variation of the activity A of the sample with t for values of t
+                                              between t = 0 and t = 24 min.
+
+
+                                               200
+
+
+
+
+                                               150
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                        A / Bq
+
+                                               100
+
+
+
+
+                                                 50
+
+
+
+
+                                                  0
+                                                      0                        4         8              12    16             20   24
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                   t / min
+
+                                                                                               Fig. 9.1
+                                                                                                                                               [3]
+
+                                                                                                                                       [Total: 10]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                          ĬÏĊ¾Ġ´íÈõÏĪÅĊàù·Ă×
+                              © UCLES 2025                ĬÂąüÍĬģěåöî·ÌĞĢäĞĂ
+                                                          ĥĕÅÕµõÅõõĕõąÅõÅĕÕÕ
+                                                                                             9702/41/M/J/25                        [Turn over
+
+
+=== MERGED PAGE 613 ===
+       * 0000800000020 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          20
+   ,               ,
+
+10 (a) State Hubble’s law.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A star in a distant galaxy emits radiation that has a maximum intensity of emission at a
+        wavelength of 4.62 × 10–7 m.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         Observations of the galaxy made on the Earth detect the maximum intensity of emission from
+         the star at a wavelength of 4.91 × 10–7 m.
+
+          (i)    Explain why the observed wavelength and the emitted wavelength have different values.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+         (ii)    Calculate the speed of the star relative to the Earth.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                               speed = ................................................ m s–1 [2]
+
+        (iii)    The wavelength of maximum intensity of emission is used to determine a value for the
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                 surface temperature of the star.
+
+                 Explain how the temperature determined using the observed wavelength compares with
+                 the true value of temperature determined using the emitted wavelength.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊÞû·Ą×
+© UCLES 2025                      ĬÂąùÍĢđĎÒüõ°ĪÂÄ´ĖĂ               9702/41/M/J/25
+                                  ĥåĕÕõõÅÕĕµąąąõĥĕÅÕ
+
+
+=== MERGED PAGE 614 ===
+                                     * 0000800000021 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                         21
+                                 ,            ,
+
+                                  (c) A value for the Hubble constant is 2.3 × 10–18 s–1.
+
+                                       Use your answer in (b)(ii) to determine the distance of the star in (b) from the Earth.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                          distance = ...................................................... m [2]
+
+                                                                                                                                                   [Total: 10]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĊ¾Ġ´íÈõÏĪÅĊÞù·Ą×
+                              © UCLES 2025               ĬÂĆúÕĨčĞçþČù®ºĘ´ĦĂ         9702/41/M/J/25
+                                                         ĥåĥĕµĕåµąÅÕąąĕąÕÕÕ
+
+
+=== MERGED PAGE 615 ===
+       © UCLES 2025                                                                                                                                ,
+
+
+
+
+                                                                                                                                                                    * 0000800000022 *
+
+
+
+ĬÑĊ¾Ġ´íÈõÏĪÅĊßù¶Ă×
+ĬÂąúÚĞõĨßĉùĄÎÂõĜĖĂ
+ĥõÅĕµµåĕÅåõąÅĕåĕąÕ
+
+
+
+
+                                                                                                                                                                    DFD
+                                                                                                                                                   ,
+
+
+
+
+                                                                                                                                                               22
+       9702/41/M/J/25
+                                                                                                                                           BLANK PAGE
+
+
+
+
+  DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN
+
+
+=== MERGED PAGE 616 ===
+   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN
+
+
+
+
+       © UCLES 2025                                                                                                                                 ,
+
+
+
+
+                                                                                                                                                                     * 0000800000023 *
+
+
+
+ĬÓĊ¾Ġ´íÈõÏĪÅĊßû¶Ă×
+ĬÂĆùÒĬùĘÚïĈÅĊºáĜĦĂ
+ĥõµÕõÕÅõÕÕåąÅõÅÕĕÕ
+
+
+
+
+                                                                                                                                                                     DFD
+                                                                                                                                                    ,
+
+
+
+
+                                                                                                                                                                23
+       9702/41/M/J/25
+                                                                                                                                            BLANK PAGE
+
+
+=== MERGED PAGE 617 ===
+          * 0000800000024 *                                DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                            24
+     ,                 ,
+
+                                                                   BLANK PAGE
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+                                      ĬÑĊ¾Ġ´íÈõÏĪÅĊÝù¶Ą×
+© UCLES 2025                          ĬÂĆüÒĢċđÝñÿ¾ìĖăČĎĂ             9702/41/M/J/25
+                                      ĥÅĥÕµÕÅÕµõÕąąõĥÕąÕ

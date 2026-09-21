@@ -1,0 +1,1626 @@
+
+=== MERGED PAGE 714 ===
+                                                     * 0000800000001 *                DFD
+
+
+
+                                                 ,               ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬O> 4mHuOªE_z5W
+                          ¬@sV«{ht}q4LE
+                          ¥Ueu5euu EEueU
+
+
+
+
+* 6 1 7 9 2 8 7 1 5 3 *
+                                               PHYSICS                                                                                         9702/42
+                                               Paper 4 A Level Structured Questions                                              October/November 2025
+
+                                                                                                                                                2 hours
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 100.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                         This document has 24 pages. Any blank pages are indicated.
+
+
+                                               DC (CE/CT) 342398/4
+                                               © UCLES 2025                                                                                   [Turn over
+
+
+=== MERGED PAGE 715 ===
+       * 0000800000002 *                          DFD
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                                 2
+   ,              ,
+
+
+Data
+
+acceleration of free fall                                  g = 9.81 m s–2
+
+speed of light in free space                               c = 3.00 × 108 m s–1
+
+elementary charge                                          e = 1.60 × 10–19 C
+
+unified atomic mass unit                                 1 u = 1.66 × 10–27 kg
+
+rest mass of proton                                       mp = 1.67 × 10–27 kg
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+rest mass of electron                                     me = 9.11 × 10–31 kg
+
+Avogadro constant                                         NA = 6.02 × 1023 mol–1
+
+molar gas constant                                         R = 8.31 J K–1 mol–1
+
+Boltzmann constant                                         k = 1.38 × 10–23 J K–1
+
+gravitational constant                                     G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space                                 ε0 = 8.85 × 10–12 F m–1
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                         1
+                                                    (        = 8.99 × 109 m F–1)
+                                                        4rf0
+
+Planck constant                                            h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant                                  σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion                               s = ut + 12 at 2
+                                                          v 2 = u 2 + 2as
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+hydrostatic pressure                                      ∆p = ρg∆h
+
+upthrust                                                   F = ρgV
+
+                                                                  fs v
+Doppler effect for sound waves                             fo = v ! v
+                                                                      s
+
+
+electric current                                           I = Anvq
+
+resistors in series                                        R = R1 + R2 + ...
+
+
+
+
+                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                          1   1   1
+resistors in parallel                                       =   +   + ...
+                                                          R   R1 R2
+
+
+
+
+                             ĬÍĊ¾Ġ´íÈõÏĪÅĊÞü·þ×
+© UCLES 2025                 ĬÀĊô×ğĄčÏýûĎČ²õëčĂ            9702/42/O/N/25
+                             ĥąµĕµÕĥĕåµÕąÅµÅÕµÕ
+
+
+=== MERGED PAGE 716 ===
+                                     * 0000800000003 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                           32
+                                 ,             ,
+
+
+                                                                                         GM
+                              gravitational potential                                ϕ =– r
+
+                                                                                             GMm
+                              gravitational potential energy                        EP = –    r
+
+                                                                                           1 Nm
+                              pressure of an ideal gas                               p = 3          〈c2〉
+                                                                                             V
+
+                              simple harmonic motion                                 a = – ω 2x
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              velocity of particle in s.h.m.                         v = v0 cos ωt
+                                                                                     v = !ω         (x 02 - x 2)
+
+                                                                                             Q
+                              electric potential                                    V =
+                                                                                           4rf0 r
+
+                                                                                            Qq
+                              electrical potential energy                           EP =
+                                                                                           4rf0 r
+
+                                                                                    1   1   1
+                              capacitors in series                                    =   +   + ...
+                                                                                    C   C1 C2
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              capacitors in parallel                                C = C1 + C2 + ...
+
+                                                                                                    t
+                              discharge of a capacitor                               x = x 0 e - RC
+
+                                                                                           BI
+                              Hall voltage                                          VH =
+                                                                                           ntq
+
+                              alternating current/voltage                            x = x0 sin ωt
+
+                              radioactive decay                                      x = x0e–λt
+
+                                                                                           0.693
+                              decay constant                                         λ =
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                             t1
+                                                                                                2
+
+
+
+                                                                                    IR  (Z - Z 2) 2
+                              intensity reflection coefficient                         = 1
+                                                                                    I0  (Z 1 + Z 2) 2
+
+                              Stefan–Boltzmann law                                   L = 4πσr 2T 4
+
+                                                                                    ∆λ Df  v
+                              Doppler redshift                                        á   ác
+                                                                                    λ   f
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĊ¾Ġ´íÈõÏĪÅĊÞú·þ×
+                              © UCLES 2025               ĬÀĉóÏĩĀĝêûĆÛÐÊáëĝĂ
+                                                         ĥąÅÕõµąõµÅąąÅÕåĕåÕ
+                                                                                     9702/42/O/N/25                [Turn over
+
+
+=== MERGED PAGE 717 ===
+       * 0000800000004 *                          DFD
+
+
+
+
+                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                              4
+    ,           ,
+
+1   The Earth may be considered as a uniform sphere of radius 6.37 × 106 m.
+
+    Cambridge is at a point on the Earth’s surface that has a latitude of 52.2° north of the Equator, as
+    shown in Fig. 1.1.
+
+                                                           North Pole
+
+                     Earth
+                                                                                      Cambridge
+
+
+
+
+                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                                          52.2°
+                                                                                              Equator
+
+
+
+
+                                      axis
+
+                                                          South Pole
+
+
+
+
+                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                          Fig. 1.1
+
+    As the Earth spins on its axis, Cambridge moves in a circle that is parallel to the Equator but with
+    a smaller radius.
+
+    (a) (i)     Show that the radius of the circle around which Cambridge moves is 3.90 × 106 m.
+
+
+
+
+                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                                                                                                [1]
+
+         (ii)   Calculate the speed at which Cambridge moves around the circle.
+
+
+
+
+                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                                  speed = ................................................ m s–1 [3]
+
+
+
+
+                             ĬÍĊ¾Ġ´íÈõÏĪÅĊàü·Ā×
+© UCLES 2025                 ĬÀĉòÏģîĬÍõýÔîĦă»ĕĂ         9702/42/O/N/25
+                             ĥµĕÕµµąÕÕĥõąąÕąĕµÕ
+
+
+=== MERGED PAGE 718 ===
+                                     * 0000800000005 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                           5
+                                 ,            ,
+
+                                  (b) A student of mass 58.6 kg stands on horizontal ground in Cambridge.
+
+                                        (i)   Determine the magnitude of the resultant force that acts to cause the circular motion of
+                                              the student.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                    resultant force = ..................................................... N [2]
+
+                                       (ii)   On Fig. 1.2, draw an arrow to show the direction of the resultant force that acts on the
+                                              student.
+
+
+                                                                                                      student
+
+
+                                                                                               Cambridge
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                        Earth’s surface
+
+                                                                                Fig. 1.2 (not to scale)
+                                                                                                                                                             [1]
+
+                                      (iii)   On Fig. 1.3, draw labelled arrows from the student to show the directions of the forces
+                                              that act on the student to cause the resultant force in (b)(ii).
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+                                                                                Fig. 1.3 (not to scale)
+                                                                                                                                                             [2]
+
+                                                                                                                                                     [Total: 9]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĊ¾Ġ´íÈõÏĪÅĊàú·Ā×
+                              © UCLES 2025               ĬÀĊñ×ĥòĜìăôĕêĎ×»ĥĂ
+                                                         ĥµĥĕõÕĥµÅĕåąąµĥÕåÕ
+                                                                                     9702/42/O/N/25                                               [Turn over
+
+
+=== MERGED PAGE 719 ===
+       * 0000800000006 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           6
+    ,              ,
+
+2   (a) State Newton’s law of gravitation.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) One of the basic assumptions of the kinetic theory of gases is that there are no forces exerted
+        between the molecules of the gas except during collisions.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         State two other basic assumptions of the kinetic theory of gases.
+
+         1 ................................................................................................................................................
+
+          ...................................................................................................................................................
+
+         2 ................................................................................................................................................
+
+          ...................................................................................................................................................
+                                                                                                                                                         [2]
+
+    (c) Hydrogen gas consists of molecules that each have a mass of 3.34 × 10–27 kg. Hydrogen
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+        may be considered to be an ideal gas.
+
+         A spherical balloon contains 0.0160 mol of hydrogen gas at a temperature of 282 K. At this
+         temperature, the volume of gas in the balloon is 1.87 × 10– 4 m3.
+
+          (i)    Determine the pressure of the gas.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           pressure = .................................................... Pa [2]
+
+         (ii)    Estimate the average separation of the hydrogen molecules in the gas.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                          average separation = ..................................................... m [2]
+
+
+
+
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊÝú¶þ×
+© UCLES 2025                      ĬÀĉñÜğĚĒäĈāĠÊĦ¶ēĕĂ              9702/42/O/N/25
+                                  ĥĥÅĕõõĥĕąõąąÅµÅĕõÕ
+
+
+=== MERGED PAGE 720 ===
+                                     * 0000800000007 *                             DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       7
+                                 ,             ,
+
+                                  (d) (i)     Use your answer in (c)(ii) to calculate the average gravitational force between adjacent
+                                              molecules in hydrogen gas.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               average force = ..................................................... N [2]
+
+                                       (ii)   By considering the weight of a molecule, suggest with a reason whether your answer in
+                                              (d)(i) is consistent with the assumption of the kinetic theory of gases that there are no
+                                              forces exerted between molecules.
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [1]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                                         [Total: 11]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÓĊ¾Ġ´íÈõÏĪÅĊÝü¶þ×
+                              © UCLES 2025                    ĬÀĊòÔĩĖĢÕòðéĎĎĢēĥĂ
+                                                              ĥĥµÕµĕąõĕąÕąÅÕåÕĥÕ
+                                                                                              9702/42/O/N/25                                                           [Turn over
+
+
+=== MERGED PAGE 721 ===
+        * 0000800000008 *                              DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           8
+    ,                                       ,
+
+3     (a) State what is meant by two objects being in thermal equilibrium.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+      (b) Fig. 3.1 shows a type of thermometer called a constant volume gas thermometer.
+
+                                                                                                                                 vacuum
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+        fixed glass tube                                                                        scale
+                                                                                                                                              movable
+                                                                                                                                              glass tube
+
+                                                                                                                            Y
+
+                                                                                                     Δh
+gas
+                                                                          X
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                                                                             liquid
+
+
+
+
+                                                                                                                                         rubber tube
+glass bulb
+
+                                                           Fig. 3.1 (not to scale)
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          The thermometer is used to determine the thermodynamic temperature T of the gas in the
+          glass bulb.
+
+          The glass bulb is immersed in the environment for which the temperature is to be measured.
+          The height of the movable glass tube is then adjusted so that the level of the liquid on the
+          left-hand side aligns with the reference line X marked on the fixed glass tube. The reference
+          line Y is marked on the side of the movable glass tube. The level of the liquid at Y is higher
+          than at X as a result of the pressure of the gas in the glass bulb.
+
+          The difference in height Δh between the liquid levels at X and Y is then measured using the
+          scale. The thermodynamic temperature T of the gas is directly proportional to the pressure of
+          the gas. This pressure is directly proportional to Δh.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊßú¶Ā×
+© UCLES 2025                      ĬÀĊóÔģĨħâð÷â°²ÄăčĂ              9702/42/O/N/25
+                                  ĥÕĥÕõĕąÕõååąąÕąÕõÕ
+
+
+=== MERGED PAGE 722 ===
+                                     * 0000800000009 *                              DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       9
+                                 ,                                       ,
+
+                                        (i)   The value of Δh can be used to calculate the pressure of the gas. In order to do this, the
+                                              gravitational field strength is used, along with a property of the liquid.
+
+                                              State the property of the liquid that is used to calculate the pressure.
+
+                                              ..................................................................................................................................... [1]
+
+                                       (ii)   Before the measurement of Δh can be made, the glass bulb needs to reach thermal
+                                              equilibrium with the environment for which the temperature is to be measured.
+
+                                              State two disadvantages of using a constant volume gas thermometer to measure
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              temperature.
+
+                                              1 ........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              2 ........................................................................................................................................
+
+                                              ...........................................................................................................................................
+                                                                                                                                                                                     [2]
+
+                                      (iii)   Suggest one situation in which a constant volume gas thermometer would be an
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              appropriate type of thermometer to choose for measuring temperature.
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [1]
+
+                                      (iv)    Level X aligns with 2.31 cm on the scale. At 0 °C, level Y aligns with 8.69 cm.
+
+                                              At temperature θ, level Y aligns with 7.83 cm on the scale.
+
+                                              Determine a value for θ in °C.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                   θ = .................................................... °C [3]
+
+                                                                                                                                                                           [Total: 9]
+
+
+
+
+                                                               ĬÓĊ¾Ġ´íÈõÏĪÅĊßü¶Ā×
+                              © UCLES 2025                     ĬÀĉôÜĥĬė×ĊĊħĬÊĘăĝĂ
+                                                               ĥÕĕĕµõĥµĥÕõąąµĥĕĥÕ
+                                                                                               9702/42/O/N/25                                                          [Turn over
+
+
+=== MERGED PAGE 723 ===
+       * 0000800000010 *                                            DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                     10
+    ,              ,
+
+4   A cylinder contains a fixed mass of an ideal gas at pressure 2Y and volume 6X.
+
+    The gas undergoes a sequence of changes from its initial state A, through states B, C and D, then
+    finally back to its initial state A, as shown in Fig. 4.1.
+
+                                                       6Y
+
+                          pressure                                        C                                D
+
+                                                       4Y
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                       2Y                 B                                A
+
+
+
+                                                        0
+                                                            0             2X               4X            6X             8X
+                                                                                                volume
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                Fig. 4.1
+
+    Fig. 4.2 shows the variation with time of the internal energy of the gas.
+
+                                                       60XY
+
+                 internal energy
+                                                                                                              D
+                                                       40XY
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                       20XY
+                                                           A                                                                  A
+                                                                                                C
+
+                                                                                 B
+                                                                0
+                                                                                                         time
+
+                                                                                Fig. 4.2
+
+    (a) State the first law of thermodynamics.
+
+          ...................................................................................................................................................
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+
+
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊÞú¸þ×
+© UCLES 2025                      ĬÀċóÙġĠñà÷ðČÔ´è»ĥĂ                          9702/42/O/N/25
+                                  ĥąąĕõĕåÕÕĕåÅąõąÕÅÕ
+
+
+=== MERGED PAGE 724 ===
+                                     * 0000800000011 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                         11
+                                 ,            ,
+
+                                  (b) (i)     Use Fig. 4.1 and Fig. 4.2 to determine the general expression for the internal energy U of
+                                              the gas when it has pressure p and volume V.
+
+
+
+
+                                                                                                     U = ......................................................... [1]
+
+                                       (ii)   An ideal gas at thermodynamic temperature T contains N molecules.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              Use your answer in (b)(i) and the equation of state for an ideal gas to deduce an
+                                              expression for U in terms of N and T. Identify any other symbols you use.
+
+
+
+
+                                                                                                     U = ......................................................... [2]
+
+                                  (c) Determine expressions, in terms of X and Y, for the work W done on the gas during:
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                        (i)   change AB
+
+
+
+
+                                                                                                     W = ......................................................... [1]
+
+                                       (ii)   change CD.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                     W = ......................................................... [1]
+
+                                  (d) Use your answers in (c) and the first law of thermodynamics to determine an expression,
+                                      in terms of X and Y, for the net thermal energy Q supplied to the gas during one full cycle
+                                      ABCDA. Explain your reasoning.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                     Q = ......................................................... [3]
+
+                                                                                                                                                       [Total: 10]
+
+
+                                                         ĬÓĊ¾Ġ´íÈõÏĪÅĊÞü¸þ×
+                              © UCLES 2025               ĬÀČôÑħĤāÙāā½ĈÌô»ĕĂ
+                                                         ĥąõÕµõÅµÅĥõÅąĕĥĕÕÕ
+                                                                                    9702/42/O/N/25                                                    [Turn over
+
+
+=== MERGED PAGE 725 ===
+       * 0000800000012 *                             DFD
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                        12
+    ,            ,
+
+5   A steel ball on the end of a thin string oscillates with small oscillations, as shown in Fig. 5.1.
+
+
+
+
+                                                                                                          thin string
+
+
+
+
+                   equilibrium position                                                                       steel ball
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                       x
+
+
+
+                                                                       oscillations
+
+                                                         Fig. 5.1 (not to scale)
+
+    The displacement of the centre of the ball from its equilibrium position is x.
+
+    (a) Fig. 5.2 shows the variation with x of the acceleration a of the ball.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                     15
+                                                        a / cm s–2
+                                                                     10
+
+                                                                       5
+
+                                                                       0
+                                          –2          –1                   0                1                 2
+                                                                                                  x / cm
+                                                                    –5
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                  – 10
+
+                                                                  – 15
+
+                                                                   Fig. 5.2
+
+          (i)   Explain how Fig. 5.2 shows that the oscillations of the ball are simple harmonic.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                ĬÑĊ¾Ġ´íÈõÏĪÅĊàú¸Ā×
+© UCLES 2025                    ĬÀČñÑĝĒĈÞÿĊÆæĨÒëĝĂ              9702/42/O/N/25
+                                ĥµåÕõõÅĕåÅąÅÅĕÅĕÅÕ
+
+
+=== MERGED PAGE 726 ===
+                                     * 0000800000013 *                                       DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                        13
+                                 ,             ,
+
+                                       (ii)   Determine the period T of the oscillations.
+
+
+
+
+                                                                                                                    T = ...................................................... s [3]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  (b) At time t = 0, when the displacement of the ball has its maximum value, the ball is immersed
+                                      in a trough containing thick oil so that the ball is just below the surface of the oil. This results
+                                      in the subsequent motion of the ball being heavily damped.
+
+                                        (i)   State what is meant by damping.
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [2]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       (ii)   On Fig. 5.3, sketch a possible variation of the displacement x of the ball with t between
+                                              t = 0 and t = 2T.
+
+                                                                                   1.5
+
+                                                                                   1.0
+                                                         x / cm
+                                                                                   0.5
+
+                                                                                    0
+                                                                                         0                    T                                   2T
+                                                                                                                                t
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                       – 0.5
+
+                                                                       – 1.0
+
+                                                                       – 1.5
+
+                                                                                                     Fig. 5.3
+                                                                                                                                                                                     [3]
+
+                                                                                                                                                                         [Total: 10]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÓĊ¾Ġ´íÈõÏĪÅĊàü¸Ā×
+                              © UCLES 2025                    ĬÀċòÙīĎøÛù÷ăòĐĆëčĂ
+                                                              ĥµÕĕµĕåõµµÕÅÅõåÕÕÕ
+                                                                                                   9702/42/O/N/25                                                      [Turn over
+
+
+=== MERGED PAGE 727 ===
+       * 0000800000014 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          14
+    ,              ,
+
+6   (a) Define electric field at a point.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) An isolated conducting sphere in a vacuum has a capacitance of 69 pF.
+        The charge on the sphere is +83 pC.
+
+          (i)    On Fig. 6.1, draw field lines to represent the electric field outside the sphere due to the
+                 charge on the sphere.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+                                                                     Fig. 6.1
+                                                                                                                                                         [2]
+
+         (ii)    Calculate the electric potential at the surface of the sphere.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                               electric potential = ...................................................... V [2]
+
+        (iii)    Determine the radius of the sphere.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                               radius = ..................................................... m [2]
+
+
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊßûµĂ×
+© UCLES 2025                      ĬÀČôÜĥġĀéïôàÎÅĂěĕĂ              9702/42/O/N/25
+                                  ĥĕÕÕõõĥÕÕåÕąąµąĕąÕ
+
+
+=== MERGED PAGE 728 ===
+                                     * 0000800000015 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                         15
+                                 ,            ,
+
+                                      (iv)   Calculate the electric field strength E at the surface of the sphere. Give a unit with your
+                                             answer.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                     E = ...................................... unit ............ [2]
+
+                                  (c) The sphere in (b) is discharged by connecting it to earth (0 V) through a resistor of resistance
+                                      120 MΩ.
+
+                                       Calculate the time taken for the charge to fall to 26 pC.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               time = ...................................................... s [2]
+
+                                                                                                                                                       [Total: 11]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĊ¾Ġ´íÈõÏĪÅĊßùµĂ×
+                              © UCLES 2025               ĬÀċóÔģĝðÐĉýĩĊ­ÖěĥĂ
+                                                         ĥĕåĕµĕąµÅÕąąąÕĥÕĕÕ
+                                                                                    9702/42/O/N/25                                                   [Turn over
+
+
+=== MERGED PAGE 729 ===
+       * 0000800000016 *                                    DFD
+
+
+
+
+                                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                                            16
+    ,           ,
+
+7   An alternating voltage V varies with time t according to
+
+                                                                   V = 18 cos 40 πt
+
+    where V is in V and t is in s.
+
+    (a) For the alternating voltage:
+
+          (i)   show that the period is 0.050 s
+
+
+
+
+                                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                [1]
+
+         (ii)   determine the root-mean-square (r.m.s.) voltage.
+
+
+
+
+                                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                                       r.m.s. voltage = ...................................................... V [1]
+
+    (b) On Fig. 7.1, sketch the variation of V with t for values of t from t = 0 to t = 100 ms.
+
+                                          20
+
+                           V /V
+
+                                                    0
+                                                        0         25             50              75            100
+                                                                                        t / ms
+
+
+
+
+                                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                 – 20
+
+                                                                         Fig. 7.1
+                                                                                                                                                [3]
+
+    (c) The alternating voltage is rectified to produce an output voltage across a load resistor R, as
+        shown in Fig. 7.2.
+
+
+
+
+                                                            rectification                R
+                           V                                                                     output voltage
+
+
+
+
+                                                                                                                                                       DO NOT WRITE IN THIS MARGIN
+                                                               circuit
+
+
+
+
+                                                                         Fig. 7.2
+
+
+                               ĬÍĊ¾Ġ´íÈõÏĪÅĊÝûµĄ×
+© UCLES 2025                   ĬÀċòÔĩďùëćĆĢìđøċčĂ                      9702/42/O/N/25
+                               ĥåõĕõĕąĕåõõąÅÕÅÕąÕ
+
+
+=== MERGED PAGE 730 ===
+                                     * 0000800000017 *                                       DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                             17
+                                 ,               ,
+
+                                       Fig. 7.3 shows the variation with t of the power P in the load resistor.
+
+                                                                               30
+
+                                                            P /W
+
+                                                                               20
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                               10
+
+
+
+
+                                                                                     0
+                                                                                         0         25             50           75                100
+                                                                                                                                       t / ms
+
+                                                                                                          Fig. 7.3
+
+                                       State three conclusions that can be drawn from Fig. 7.3. The conclusions may be qualitative
+                                       or quantitative. Use the space for any working.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       1 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                       2 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                       3 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+                                                                                                                                                                                       [3]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                                             [Total: 8]
+
+
+
+
+                                                                ĬÏĊ¾Ġ´íÈõÏĪÅĊÝùµĄ×
+                              © UCLES 2025                      ĬÀČñÜğēĉÎñûçðĩäċĝĂ
+                                                                ĥåąÕµõĥõµąåąÅµåĕĕÕ
+                                                                                                        9702/42/O/N/25                                                   [Turn over
+
+
+=== MERGED PAGE 731 ===
+       * 0000800000018 *                                      DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           18
+    ,                                              ,
+
+8   Fig. 8.1 shows the three lowest-frequency lines in the part of the emission spectrum for hydrogen
+    that relates to electron transitions to the ground state (level n = 1).
+
+
+
+
+                                                       3.09         2.92                                   2.47
+
+                                                                Fig. 8.1 (not to scale)
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+    The numbers represent the frequencies, in 1015 Hz, associated with the spectral lines.
+
+    (a) Use the photon model of electromagnetic radiation to explain how the existence of spectral
+        lines in the emission spectrum provides evidence for discrete electron energy levels in the
+        hydrogen atom.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+    (b) The energy of the ground state (level n = 1) in a hydrogen atom is –13.6 eV.
+
+          (i)    Calculate the energy, in J, of the ground state.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                energy = ...................................................... J [1]
+
+         (ii)    Show that the energy difference between levels n = 1 and n = 2 is 10.2 eV.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                         [2]
+
+
+
+
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊàû·Ă×
+© UCLES 2025                      ĬÀĊòÙīėğåĀýÌÈēĔ³ĥĂ                 9702/42/O/N/25
+                                  ĥõĕÕõĕåĕąÅõÅÅõÅÕµÕ
+
+
+=== MERGED PAGE 732 ===
+                                     * 0000800000019 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                             19
+                                 ,                                 ,
+
+                                      (iii)   Complete Table 8.1 to show the energy differences from the ground state, and the
+                                              energies of the levels up to n = 4, in the hydrogen atom. Use the space for any working.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                         Table 8.1
+
+                                                                                    (energy difference
+                                                                   level                                 energy / eV
+                                                                                      from n = 1) / eV
+
+                                                                  n=4
+
+
+                                                                  n=3
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                  n=2                     10.2
+
+
+                                                                  n=1                       0.0            –13.6
+
+                                                                                                                                    [4]
+
+                                                                                                                            [Total: 10]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĊ¾Ġ´íÈõÏĪÅĊàù·Ă×
+                              © UCLES 2025               ĬÀĉñÑĝěďÔúôýĔīÈ³ĕĂ
+                                                         ĥõĥĕµõÅõĕµåÅÅĕåĕåÕ
+                                                                                        9702/42/O/N/25                    [Turn over
+
+
+=== MERGED PAGE 733 ===
+       * 0000800000020 *                                 DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          20
+    ,              ,
+
+9   (a) State what is meant by the mass defect of a nucleus.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) The nuclear fusion reaction for the formation of helium-4 from deuterium is represented by
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                 2    2          4
+                                                                 1H + 1H         2He.
+
+
+
+         Table 9.1 shows the masses of the nuclides involved in this reaction.
+
+                                                                    Table 9.1
+
+                                                       nuclide                        nuclide mass / u
+
+                                                         2                                 2.013 553
+                                                         1H
+
+                                                        4
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                        2He
+                                                                                           4.001 505
+
+
+         Calculate the energy released in the formation of 1.00 mol of helium-4.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                               energy = ...................................................... J [4]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÍĊ¾Ġ´íÈõÏĪÅĊÞû·Ą×
+© UCLES 2025                      ĬÀĉôÑħĩĚçøûĆ²ÇĦãĝĂ              9702/42/O/N/25
+                                  ĥÅµĕõõÅÕõĕÕÅąĕąĕµÕ
+
+
+=== MERGED PAGE 734 ===
+                                     * 0000800000021 *                               DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                        21
+                                 ,               ,
+
+                                  (c) The star Sirius has a radius of 1.19 × 109 m and loses mass due to nuclear fusion at a rate of
+                                      1.09 × 1011 kg s–1. Assume that the power of the radiation emitted by the star is equal to the
+                                      power released by this process.
+
+                                        (i)    Determine a value for the luminosity of Sirius. Give a unit with your answer.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       luminosity = ..................................... unit ............ [2]
+
+                                       (ii)    Use your answer in (c)(i) to determine the surface temperature of Sirius.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                       surface temperature = ...................................................... K [2]
+
+                                  (d) Explain how cosmologists use standard candles to estimate the distance of a galaxy from the
+                                      Earth.
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ............................................................................................................................................. [3]
+
+                                                                                                                                                                           [Total: 13]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                ĬÏĊ¾Ġ´íÈõÏĪÅĊÞù·Ą×
+                              © UCLES 2025                      ĬÀĊóÙġĥĪÒĂĆÃĦ¯²ãčĂ
+                                                                ĥÅÅÕµĕåµĥĥąÅąõĥÕåÕ
+                                                                                                9702/42/O/N/25                                                           [Turn over
+
+
+=== MERGED PAGE 735 ===
+       * 0000800000022 *                               DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          22
+   ,               ,
+
+10 (a) State what is meant by contrast in an X-ray image.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) X-rays of intensity I0 are incident normally on a structure, as shown in Fig. 10.1.
+
+
+                   material P                                              2.1 cm
+                                                                                                                     material Q
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                                    A
+
+
+
+        incident X-rays,                                                                                                         detected
+           intensity I0                                                                                                           X-rays
+                                                                                                    B
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           5.8 cm
+
+                                                                    Fig. 10.1
+
+         Material P has a linear attenuation coefficient of 0.35 cm–1.
+         The X-rays emerging from the structure in region A have an intensity of 0.053I0.
+
+          (i)    Show that the intensity of the X-rays emerging in region B is 0.13I0.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                         [1]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÑĊ¾Ġ´íÈõÏĪÅĊßù¶Ă×
+© UCLES 2025                      ĬÀĉóÖīýĤÚą÷ºĆÇÓċĝĂ              9702/42/O/N/25
+                                  ĥĕĥÕµµåĕåąåÅÅõÅĕõÕ
+
+
+=== MERGED PAGE 736 ===
+                                     * 0000800000023 *                               DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                        23
+                                 ,               ,
+
+                                       (ii)    Determine the linear attenuation coefficient μ of material Q.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                     μ = ................................................ cm–1 [3]
+
+                                      (iii)    Use the information in (b)(i) to suggest why the X-rays emerging from the structure form
+                                               an image that has poor contrast.
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ..................................................................................................................................... [1]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  (c) Explain how X-rays are used in computed tomography (CT) scanning to produce a
+                                      three-dimensional image of an internal structure.
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ............................................................................................................................................. [3]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                                             [Total: 9]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                ĬÓĊ¾Ġ´íÈõÏĪÅĊßû¶Ă×
+                              © UCLES 2025                      ĬÀĊôÎĝāĔßóĊïÒ¯ćċčĂ              9702/42/O/N/25
+                                                                ĥĕĕĕõÕÅõµõõÅÅĕåÕĥÕ
+
+
+=== MERGED PAGE 737 ===
+          * 0000800000024 *                                DFD
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                            24
+     ,                 ,
+
+                                                                   BLANK PAGE
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+                                      ĬÑĊ¾Ġ´íÈõÏĪÅĊÝù¶Ą×
+© UCLES 2025                          ĬÀĊñÎħóĕÜíāøôēåěĥĂ             9702/42/O/N/25
+                                      ĥåÅĕµÕÅÕÕÕąÅąĕąÕõÕ

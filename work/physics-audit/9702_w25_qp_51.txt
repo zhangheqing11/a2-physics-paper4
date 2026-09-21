@@ -1,0 +1,568 @@
+
+=== MERGED PAGE 762 ===
+                                                     * 0000800000001 *               DFD
+
+
+
+                                                 ,            ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬Oz> 4mHuOªE]{5W
+                          ¬ y\¦i|0?©
+                          ¥uuU¥UEE E5 U5U
+
+
+
+
+* 9 7 7 3 0 9 8 0 4 2 *
+                                               PHYSICS                                                                                         9702/51
+                                               Paper 5 Planning, Analysis and Evaluation                                        October/November 2025
+
+                                                                                                                                      1 hour 15 minutes
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 30.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                                        This document has 8 pages.
+
+
+                                               DC (SL) 359624
+                                               © UCLES 2025                                                                                   [Turn over
+
+
+=== MERGED PAGE 763 ===
+        * 0000800000002 *                        DFD
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                               2
+    ,            ,
+
+1   On a bench, a steel ball of radius r is used to compress a spring by a distance x. The ball is held at
+    rest in this position, as shown in Fig. 1.1.
+
+             compressed
+             spring                                    ball
+
+                                                                                            bench
+                                                                           P
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                         Fig. 1.1
+
+    The ball is released and rolls along the bench. At a fixed point P, the ball has speed v. The speed
+    of the ball at P is determined using one light gate connected to a timer.
+
+    Several steel balls of different radii are available.
+
+    It is suggested that v is related to r by the relationship
+
+                                                               Ykx2
+                                                        v2 =
+                                                                r nρ
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+    where k is the spring constant of the spring, ρ is the density of the steel, and Y and n are constants.
+
+    Plan a laboratory experiment to test the relationship between v and r.
+
+    Draw a diagram showing the arrangement of your equipment.
+
+    Explain how the results could be used to determine values for Y and n.
+
+    In your plan you should include:
+
+    •     the procedure to be followed
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+    •     the measurements to be taken
+
+    •     the control of variables
+
+    •     the analysis of the data
+
+    •     any safety precautions to be taken.
+
+
+
+
+                                                                                                              DO NOT WRITE IN THIS MARGIN
+                            ĬÍú¾Ġ´íÈõÏĪÅĊàù·þ×
+© UCLES 2025                ĬąēúÙĢĀöÒąöÓ÷ĨÏéġĂ         9702/51/O/N/25
+                            ĥåąĕµµåõĥąĕÅÅõĥĕĕÕ
+
+
+=== MERGED PAGE 764 ===
+                                         * 0000800000003 *                                DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                              3
+                                   ,                  ,
+
+                              Diagram
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                              ..................................................................................................................................................................
+
+                                                                     ĬÏú¾Ġ´íÈõÏĪÅĊàû·þ×
+                              © UCLES 2025                           ĬąĔùÑĨĄĆçóċĖãĐċéđĂ
+                                                                     ĥåõÕõÕÅĕõõÅÅÅĕąÕąÕ
+                                                                                                     9702/51/O/N/25                                                           [Turn over
+
+
+=== MERGED PAGE 765 ===
+           * 0000800000004 *                                DFD
+
+
+
+
+                                                                                                                                                                     DO NOT WRITE IN THIS MARGIN
+                                                                                4
+     ,                  ,
+
+
+
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                     DO NOT WRITE IN THIS MARGIN
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                     DO NOT WRITE IN THIS MARGIN
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                     DO NOT WRITE IN THIS MARGIN
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                     DO NOT WRITE IN THIS MARGIN
+..................................................................................................................................................................
+
+..................................................................................................................................................................
+
+.......................................................................................................................................................... [15]
+
+
+                                       ĬÍú¾Ġ´íÈõÏĪÅĊÞù·Ā×
+© UCLES 2025                           ĬąĔüÑĞòăÔíĄčā´é¹ĩĂ              9702/51/O/N/25
+                                       ĥĕåÕµÕÅµĕÕµÅąĕåÕĕÕ
+
+
+=== MERGED PAGE 766 ===
+                                     * 0000800000005 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                           5
+                                  ,           ,
+
+                              2   A student investigates light from different galaxies.
+
+                                  Fig. 2.1 shows the lines in the absorption spectrum from a distant galaxy.
+
+                                                                                                                      λ
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                increasing wavelength
+
+                                                                                       Fig. 2.1
+
+                                  The wavelength of one of the lines in the absorption spectrum is λ. The wavelength of this spectral
+                                  line in the laboratory is λ0.
+
+                                  The observations of the same spectral line are repeated for different galaxies.
+
+                                  The student determines the distance d of each galaxy from the Earth.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  It is suggested that λ and d are related by the equation
+
+                                                                                     λ – λ0 Hd
+                                                                                           =
+                                                                                       λ0    c
+
+                                  where c is the speed of light in free space and H is the Hubble constant.
+                                                                                                d
+                                  (a) A graph is plotted of λ on the y-axis against               on the x-axis.
+                                                                                                c
+                                       Determine expressions for the gradient and y-intercept.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN                                                                 gradient = ...............................................................
+
+                                                                                         y-intercept = ...............................................................
+                                                                                                                                                                  [1]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏú¾Ġ´íÈõÏĪÅĊÞû·Ā×
+                              © UCLES 2025               ĬąēûÙĬîóåċíÜÕÌí¹ęĂ
+                                                         ĥĕÕĕõµåÕąåĥÅąõÅĕąÕ
+                                                                                     9702/51/O/N/25                                                   [Turn over
+
+
+=== MERGED PAGE 767 ===
+       * 0000800000006 *                           DFD
+
+
+
+
+                                                                                                                                               DO NOT WRITE IN THIS MARGIN
+                                                                   6
+   ,            ,
+
+    (b) Values of d and λ are given in Table 2.1.
+
+                                                              Table 2.1
+
+                                                               d
+                           d / 1021 km                           / 1015 s                         λ / nm
+                                                               c
+
+                       0.48 ± 0.12                                                                658.4
+
+
+
+
+                                                                                                                                               DO NOT WRITE IN THIS MARGIN
+                       1.04 ± 0.12                                                                661.2
+
+
+                       1.45 ± 0.12                                                                664.2
+
+
+                       1.80 ± 0.12                                                                665.7
+
+
+                       2.85 ± 0.12                                                                672.4
+
+
+                       3.75 ± 0.12                                                                678.2
+
+
+
+
+                                                                                                                                               DO NOT WRITE IN THIS MARGIN
+         The value of c is 3.00 × 105 km s–1.
+                                                         d                                                             d
+         Calculate and record values of                    / 1015 s in Table 2.1. Include the absolute uncertainties in .
+                                                         c                                                             c
+                                                                                                                       [2]
+                                                            d                                 d
+    (c) (i)     Plot a graph of λ / nm against                / 1015 s. Include error bars for .                                        [2]
+                                                            c                                 c
+         (ii)   Draw the straight line of best fit and a worst acceptable straight line on your graph. Label
+                both lines.                                                                              [2]
+
+        (iii)   Determine the gradient of the line of best fit. Include the absolute uncertainty in your
+
+
+
+
+                                                                                                                                               DO NOT WRITE IN THIS MARGIN
+                answer.
+
+
+
+
+                                                                                                                                               DO NOT WRITE IN THIS MARGIN
+                                                                    gradient = ......................................................... [2]
+
+
+
+
+                              ĬÑú¾Ġ´íÈõÏĪÅĊßû¶þ×
+© UCLES 2025                  ĬąĔûÖĢĖùÝĀĀáµ´ĐđĩĂ             9702/51/O/N/25
+                              ĥÅõĕõĕåõÅÅÅÅÅõĥÕÕÕ
+
+
+=== MERGED PAGE 768 ===
+                                     * 0000800000007 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                          7
+                                 ,                 ,
+
+
+                                             680
+
+
+
+
+                                             678
+
+
+
+
+                                             676
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   λ / nm
+
+                                             674
+
+
+
+
+                                             672
+
+
+
+
+                                             670
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                             668
+
+
+
+
+                                             666
+
+
+
+
+                                             664
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                             662
+
+
+
+
+                                             660
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                             658
+                                                   0                   2       4          6          8   10             12        14
+                                                                                                              d
+                                                                                                                / 1015 s
+                                                                                                              c
+
+
+
+
+                                                         ĬÓú¾Ġ´íÈõÏĪÅĊßù¶þ×
+                              © UCLES 2025               ĬąēüÎĨĚĉÜúñĨġÌÌđęĂ
+                                                         ĥÅąÕµõÅĕÕµĕÅÅĕąĕÅÕ
+                                                                                    9702/51/O/N/25                           [Turn over
+
+
+=== MERGED PAGE 769 ===
+          * 0000800000008 *                               DFD
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                            8
+    ,                                          ,
+
+            (iv)     Determine the y-intercept of the line of best fit. Include the absolute uncertainty in your
+                     answer.
+
+
+
+
+                                                                         y-intercept = ......................................................... [2]
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+       (d) Using your answers to (a), (c)(iii) and (c)(iv), determine the values of λ0 and H. Include
+           appropriate units.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                      λ0 = ...............................................................
+
+                                                                                       H = ...............................................................
+                                                                                                                                                      [2]
+
+       (e) Hubble’s law suggests that the age T of the universe is related to H by
+
+                                                                                1
+                                                                        T=        .
+                                                                                H
+
+              Determine a value for T. Include the absolute uncertainty in your answer.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                       T = ....................................................... s [2]
+
+                                                                                                                                            [Total: 15]
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+                                     ĬÑú¾Ġ´íÈõÏĪÅĊÝû¶Ā×
+© UCLES 2025                         ĬąēùÎĞĬĀßøúğÃĨĪāġĂ             9702/51/O/N/25
+                                     ĥõÕÕõõÅµµĕĥÅąĕåĕÕÕ

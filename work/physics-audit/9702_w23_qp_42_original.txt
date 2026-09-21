@@ -1,0 +1,994 @@
+                          Cambridge International AS & A Level
+
+
+
+
+* 6 1 2 4 5 2 7 9 8 5 *
+                          PHYSICS                                                                                         9702/42
+                          Paper 4 A Level Structured Questions                                            October/November 2023
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (RW/JG) 313502/3
+                          © UCLES 2023                                                                                   [Turn over
+                                              2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2023                            9702/42/O/N/23
+                                          32
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3          〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω         (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                           Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                   t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                               2
+
+
+
+                                   IR  (Z - Z 2) 2
+intensity reflection coefficient      = 1
+                                   I0  (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2023                        9702/42/O/N/23                [Turn over
+                                                                           4
+
+1   (a) Define the radian.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) The minute hand of a clock revolves at constant angular speed around the face of the clock,
+        completing one revolution every hour. A small piece of modelling clay is attached to the hand
+        with its centre of gravity at a distance L from the fixed end of the hand, as shown in Fig. 1.1.
+
+                                           direction of revolution of minute hand
+
+                                                                                                               modelling clay
+                 free end
+
+
+                                                             L                                                 minute hand
+
+
+
+
+                                                                                                               fixed end
+
+                  face of clock
+
+
+
+
+                                                                     Fig. 1.1
+
+         Calculate the angular speed ω of the minute hand.
+
+
+
+
+                                                                                      ω = .............................................. rad s–1 [2]
+
+    (c) During a time interval of 1400 s, the centre of gravity of the piece of modelling clay in Fig. 1.1
+        moves through a total distance of 0.44 m.
+
+          (i)    Calculate the angle through which the minute hand moves in this time interval.
+
+
+
+
+                                                                                angle = ................................................... rad [1]
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23
+                                                                           5
+
+         (ii)    Determine distance L.
+
+
+
+
+                                                                                       L = ...................................................... m [2]
+
+        (iii)    Calculate the magnitude of the centripetal acceleration of the piece of modelling clay.
+
+
+
+
+                                                    centripetal acceleration = ................................................ m s–2 [2]
+
+    (d) Use your answer in (c)(iii) to explain why the variation with time of the magnitude of the force
+        exerted by the minute hand on the piece of modelling clay is negligible as the minute hand
+        undergoes one full revolution.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                             [Total: 10]
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23                                                           [Turn over
+                                                                         6
+
+2   (a) (i)     Define gravitational potential at a point.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   The Moon may be considered to be an isolated uniform sphere of mass 7.3 × 1022 kg
+                and radius 1.7 × 106 m.
+
+                Calculate the gravitational potential at the surface of the Moon. Give a unit with your
+                answer.
+
+
+
+
+                                                     gravitational potential = ................................. unit ................ [2]
+
+    (b) An isolated uniform spherical planet has gravitational potential φ at its surface.
+
+         A particle of mass m is projected vertically upwards from the surface. The particle is given just
+         enough kinetic energy to travel to an infinite distance away from the planet, escaping from the
+         gravitational pull of the planet, without any additional work being done on it.
+
+          (i)   Determine an expression, in terms of m and φ, for the gravitational potential energy EP of
+                the particle at the surface of the planet.
+
+
+
+                                                                                   EP = ......................................................... [1]
+
+         (ii)   Show that the speed v at which the particle is projected upwards from the surface of the
+                planet is given by
+
+                                                                  v = –2φ .
+
+
+
+
+                                                                                                                                                       [2]
+
+
+
+
+© UCLES 2023                                                    9702/42/O/N/23
+                                                                           7
+
+    (c) A particle is moving upwards at the surface of the Moon.
+
+         Use your answer in (a)(ii) and the expression in (b)(ii) to determine the minimum speed of
+         this particle that will result in it escaping from the gravitational pull of the Moon.
+
+
+
+
+                                                                               speed = ................................................ m s–1 [1]
+
+    (d) Hydrogen may be assumed to be an ideal gas.
+        The mass of a hydrogen molecule is 3.34 × 10–27 kg.
+
+         Calculate the root-mean-square (r.m.s.) speed of a hydrogen molecule in hydrogen gas that
+         is at a temperature of 400 K.
+
+
+
+
+                                                                     r.m.s. speed = ................................................ m s–1 [3]
+
+    (e) The surface of the Moon reaches temperatures of approximately 400 K when in direct sunlight.
+
+         Use your answers in (c) and (d) to suggest a reason why the Moon does not have an
+         atmosphere consisting of hydrogen.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+                                                                                                                                             [Total: 12]
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23                                                           [Turn over
+                      8
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2023    9702/42/O/N/23
+                                                                           9
+
+3   (a) State what is meant by the internal energy of a system.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Use the first law of thermodynamics to explain what happens to the internal energy:
+
+          (i)    of a spring when it is stretched at constant temperature within its elastic limit
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [3]
+
+         (ii)    of a sample of water when it evaporates from a rain puddle on a hot day.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [3]
+
+                                                                                                                                               [Total: 8]
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23                                                           [Turn over
+                                                      10
+
+4   An electron in a metal rod moves randomly about a mean position. When an alternating
+    voltage is applied to the ends of the rod, the mean position can be considered to oscillate with
+    simple harmonic motion along the axis of the rod. Fig. 4.1 shows the variation with time t of the
+    displacement x of the mean position from a fixed point on the axis of the rod.
+
+                                   8
+
+                     x / 10–15 m
+
+                                   4
+
+
+
+
+                                   0
+                                       0      0.1            0.2             0.3             0.4
+                                                                                    t / μs
+
+                                                  Fig. 4.1
+
+    (a) (i)     Determine the amplitude of the oscillations.
+
+
+
+
+                                                     amplitude = ...................................................... m [1]
+
+         (ii)   Determine the angular frequency of the oscillations.
+
+
+
+
+                                           angular frequency = .............................................. rad s–1 [1]
+
+        (iii)   Use your answers in (a)(i) and (a)(ii) to show that the maximum drift speed v0 of the
+                electron is 1.1 × 10–7 m s–1.
+
+
+
+
+                                                                                                                         [2]
+
+
+
+
+© UCLES 2023                                    9702/42/O/N/23
+                                                      11
+
+    (b) The rod has a cross-sectional area of 4.3 cm2 and contains a number density of conduction
+        electrons (charge carriers) of 8.5 × 1028 m–3.
+
+         All of the conduction electrons in the rod may be assumed to be oscillating in phase with, and
+         with the same amplitude as, the oscillation shown in Fig. 4.1.
+
+          (i)   Use the information in (a)(iii) to calculate the magnitude I0 of the maximum current in the
+                rod.
+
+
+
+
+                                                                 I0 = ....................................................... A [2]
+
+         (ii)   On Fig. 4.2, sketch the variation of the current I in the rod with time t between t = 0 and
+                t = 0.40 μs.
+
+
+
+                              I0
+
+                         I
+
+                              0
+                                   0     0.1           0.2              0.3               0.4
+                                                                                 t / μs
+
+
+                             –I0
+
+
+
+                                                  Fig. 4.2
+                                                                                                                               [2]
+
+        (iii)   Use your answers in (a)(ii) and (b)(i) to determine an expression for I in terms of t,
+                where I is in A and t is in s.
+
+
+
+
+                                                                  I = ......................................................... [2]
+
+        (iv)    Determine the root-mean-square (r.m.s.) current in the rod.
+
+
+
+
+                                                 r.m.s. current = ....................................................... A [1]
+
+                                                                                                                    [Total: 11]
+
+© UCLES 2023                                    9702/42/O/N/23                                                    [Turn over
+                                                                          12
+
+5   (a) State Coulomb’s law.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Two identical oil droplets are in a vacuum. The centres of the droplets are a distance of
+        3.8 × 10–6 m apart. The droplets have equal charge and exert an electric force on each other
+        of magnitude 6.3 × 10–17 N.
+
+         Determine the magnitude of the charge on each droplet.
+
+
+
+
+                                                                               charge = ...................................................... C [2]
+
+    (c) One of the oil droplets in (b) is now placed between two horizontal metal plates, as shown in
+        Fig. 5.1.
+
+                                                                                + 1200 V
+
+                                                                                                        oil droplet
+
+
+
+         metal plates
+
+                                                                                                                                    5.2 cm
+
+
+
+
+                                                                                0V
+
+                                                           Fig. 5.1 (not to scale)
+
+         A potential difference (p.d.) of 1200 V is applied between the plates, with the top plate at the
+         higher potential. The oil droplet is stationary and in equilibrium.
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23
+                                                                       13
+
+          (i)   State the sign of the charge on the oil droplet.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   On Fig. 5.1, draw four lines to represent the electric field between the plates.                                                     [3]
+
+        (iii)   The distance between the plates is 5.2 cm.
+
+                Determine the mass of the oil droplet.
+
+
+
+
+                                                                             mass = ..................................................... kg [3]
+
+                                                                                                                                         [Total: 11]
+
+
+
+
+© UCLES 2023                                                    9702/42/O/N/23                                                         [Turn over
+                                                     14
+
+6   A capacitor C is charged so that the potential difference (p.d.) V across its terminals is 8.0 V.
+    The capacitor is connected into the circuit of Fig. 6.1.
+
+                                                             C
+
+
+
+                                                           8.0 V
+
+                                                       R
+
+
+                                                  Fig. 6.1
+
+    The switch is initially open. The switch is closed at time t = 0.
+
+    (a) Fig. 6.2 shows the variation of V with the charge Q on the plates of capacitor C as the
+        capacitor discharges.
+
+                                     8
+
+                              V/V
+
+                                     4
+
+
+
+
+                                     0
+                                         0       200             400            600
+                                                                       Q / μC
+
+                                                  Fig. 6.2
+
+          (i)   Show that the energy stored in capacitor C at time t = 0 is 1.8 mJ.
+
+
+
+
+                                                                                                                       [2]
+
+         (ii)   Determine the capacitance of capacitor C. Give a unit with your answer.
+
+
+
+
+                                                  capacitance = ................................. unit ................ [2]
+
+
+
+© UCLES 2023                                    9702/42/O/N/23
+                                                      15
+
+    (b) Fig. 6.3 shows the variation with t of –ln    8.0V V.
+                                   2.0
+
+                       –ln   18.0V V2
+                                   1.0
+
+
+
+
+                                        0
+                                            0   2              4                 6                8
+                                                                                        t/s
+
+                                                    Fig. 6.3
+
+          (i)   Show that, when t is equal to one time constant, the value of –ln               8.0V V is equal to 1.0.
+
+
+
+
+                                                                                                                                [2]
+
+         (ii)   Determine the time constant τ of the circuit in Fig. 6.1.
+
+
+
+
+                                                                   τ = ....................................................... s [1]
+
+        (iii)   Calculate the resistance of resistor R.
+
+
+
+
+                                                     resistance = ...................................................... Ω [2]
+
+                                                                                                                       [Total: 9]
+
+
+
+
+© UCLES 2023                                    9702/42/O/N/23                                                     [Turn over
+                                                      16
+
+7   (a) A Hall probe containing a thin slice of semiconducting material is placed in a uniform magnetic
+        field of flux density B. The largest faces of the slice are perpendicular to the magnetic field, as
+        shown in Fig. 7.1.
+
+                                              5.4 A
+                  semiconducting slice
+                                                      x
+
+
+                                                                             magnetic field,
+                                                                             flux density B
+
+
+
+
+                                                                  Q
+                                              5.4 A
+
+                                   P
+
+                                                   Fig. 7.1
+
+         The thickness x of the slice is 1.8 mm. The number density of charge carriers in the
+         semiconducting material is 1.5 × 1016 m–3.
+         A constant current of 5.4 A is passed through the slice between the shaded faces.
+         The Hall voltage VH that is developed between the terminals PQ is recorded.
+
+         Fig. 7.2 shows the variation with time t of B.
+
+                                   4
+                      B / 10–6 T
+
+
+                                   2
+
+
+
+
+                                   0
+                                       0    0.02           0.04       0.06          0.08
+                                                                              t/s
+
+                                                   Fig. 7.2
+
+          (i)   Show that, when B is equal to 4.0 × 10–6 T, the magnitude of VH is 5.0 V.
+
+
+
+
+                                                                                                        [1]
+
+
+© UCLES 2023                                   9702/42/O/N/23
+                                                         17
+
+         (ii)   On Fig. 7.3, sketch the variation of VH with t between t = 0 and t = 0.080 s.
+
+                                 6
+                        VH / V
+                                 4
+
+                                 2
+
+                                 0
+                                     0       0.02          0.04      0.06          0.08
+                                                                             t/s
+                             –2
+
+                             –4
+
+                             –6
+
+                                                      Fig. 7.3
+                                                                                                         [3]
+
+    (b) The Hall probe in (a) is replaced with a small flat coil that has 3000 turns. The cross-sectional
+        area of the coil is 3.4 × 10–4 m2.
+        The plane of the coil is perpendicular to the magnetic field. The electromotive force (e.m.f.) E
+        induced between the terminals of the coil is recorded as B varies as shown in Fig. 7.2.
+
+          (i)   Show that the magnitude of E at time t = 0.010 s is 2.0 × 10–4 V.
+
+
+
+
+                                                                                                         [3]
+
+         (ii)   On Fig. 7.4, sketch the variation of E with t between t = 0 and t = 0.080 s.
+
+                                     4
+                      E / 10–4 V
+                                     2
+
+                                     0
+                                         0    0.02            0.04    0.06           0.08
+                                                                               t/s
+                                 –2
+
+                                 –4
+
+                                                      Fig. 7.4
+                                                                                                         [4]
+
+                                                                                                 [Total: 11]
+
+© UCLES 2023                                        9702/42/O/N/23                              [Turn over
+                                                                          18
+
+8   (a) State what is meant by a photon.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) When the surface of a metal plate is illuminated with electromagnetic radiation, electrons are
+        sometimes emitted from the metal.
+
+          (i)    State the name of this phenomenon.
+
+                 ..................................................................................................................................... [1]
+
+         (ii)    It is observed that this phenomenon occurs only when the frequency of the
+                 electromagnetic radiation is greater than a certain minimum value, regardless of the
+                 intensity of the radiation.
+
+                 Explain how this observation provides evidence for the existence of photons.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [3]
+
+    (c) Fig. 8.1 shows the variation of the maximum kinetic energy of the emitted electrons in (b) with
+        the frequency of the incident radiation.
+
+
+
+
+                              maximum
+                              kinetic energy
+
+
+
+
+                                                       0
+                                                           0                                           frequency
+
+                                                                     Fig. 8.1
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23
+                                                                       19
+
+         State the name of the quantity represented by:
+
+          (i)   the gradient of the line in Fig. 8.1
+
+                ..................................................................................................................................... [1]
+
+         (ii)   the y-intercept of the extrapolated line in Fig. 8.1.
+
+                ..................................................................................................................................... [1]
+
+                                                                                                                                           [Total: 8]
+
+
+
+
+© UCLES 2023                                                    9702/42/O/N/23                                                         [Turn over
+                                                                        20
+
+9   Fluorine-18 (189F) is a radioactive nuclide that is used as a tracer in positron emission tomography
+    (PET scanning). Fluorine-18 decays to a nuclide of oxygen (O) according to
+                                                      18                     Q
+                                                       9F                    PX    + R8 O.
+
+    (a) (i)     State what is meant by a tracer.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+         (ii)   State the symbol of the particle that is represented by X and the values of P, Q and R.
+
+                X: .......................................................           P: .......................................................
+
+                Q: .......................................................           R: .......................................................
+                                                                                                                                                       [2]
+
+    (b) (i)     Explain how the radioactive decay of fluorine-18 results in the emission from the body of
+                the gamma-ray photons that are detected during a PET scan.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Explain how the detection of the gamma-ray photons is used to produce an image of the
+                tissue being examined.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+    (c) The half-life of fluorine-18 is T.
+        A patient is injected with amount of substance n of fluorine-18.
+
+          (i)   Determine an expression for the initial value R0 of the rate R of production of gamma-ray
+                photons by the tracer, in terms of n, T and the Avogadro constant NA.
+
+
+
+
+                                                                                   R0 = ......................................................... [3]
+© UCLES 2023                                                    9702/42/O/N/23
+                                                      21
+
+         (ii)   On Fig. 9.1, sketch the variation with time t of R.
+
+
+                                   R0
+
+                             R
+
+
+
+
+                                     0
+                                         0                 T
+                                                                      t
+
+                                                   Fig. 9.1
+                                                                                   [2]
+
+                                                                           [Total: 12]
+
+
+
+
+© UCLES 2023                                     9702/42/O/N/23           [Turn over
+                     22
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2023    9702/42/O/N/23
+                                                                          23
+
+10 (a) State Wien’s displacement law. Identify any symbols that you use.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A cosmology student observes the electromagnetic radiation received from a star in a galaxy.
+        The student uses Wien’s law to estimate the surface temperature of the star, a standard
+        candle to estimate the distance to the galaxy, and the Stefan–Boltzmann law to estimate the
+        radius of the star.
+
+         The student observes that the radiation from the star is redshifted.
+
+          (i)     State what is meant by a standard candle.
+
+                  ..................................................................................................................................... [1]
+
+         (ii)     State the reason why the radiation from the star is redshifted.
+
+                  ..................................................................................................................................... [1]
+
+        (iii)     The true values of the quantities observed or estimated are those that are corrected to
+                  allow for redshift. However, the student does not correct for redshift.
+
+                  By placing one tick (3) in each row, complete Table 10.1 to indicate how the observations
+                  and estimates made by the student compare with the true values.
+
+                                                                   Table 10.1
+
+                                                                       student’s uncorrected value
+
+                                                     too low                          the same                           too high
+            wavelength of
+              radiation
+              surface
+         temperature of star
+
+           distance to star
+
+
+                radius of star
+
+                                                                                                                                                         [4]
+
+                                                                                                                                               [Total: 8]
+
+
+
+
+© UCLES 2023                                                      9702/42/O/N/23
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2023                                                         9702/42/O/N/23
+

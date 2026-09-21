@@ -1,0 +1,1025 @@
+
+=== MERGED PAGE 209 ===
+                          Cambridge International AS & A Level
+
+
+
+
+* 4 1 2 7 9 7 0 7 3 8 *
+                          PHYSICS                                                                                         9702/42
+                          Paper 4 A Level Structured Questions                                                     May/June 2023
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (CJ/SG) 313472/3
+                          © UCLES 2023                                                                                   [Turn over
+
+
+=== MERGED PAGE 210 ===
+                                              2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2023                            9702/42/M/J/23
+
+
+=== MERGED PAGE 211 ===
+                                          32
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3          〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω         (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                           Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                   t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                               2
+
+
+
+                                   IR  (Z - Z 2) 2
+intensity reflection coefficient      = 1
+                                   I0  (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2023                        9702/42/M/J/23                [Turn over
+
+
+=== MERGED PAGE 212 ===
+                                                                           4
+
+1   (a) State Newton’s law of gravitation.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A satellite is in a circular orbit around a planet. The radius of the orbit is R and the period of
+        the orbit is T. The planet is a uniform sphere.
+
+         Use Newton’s law of gravitation to show that R and T are related by
+
+                                                                4π2R 3 = GMT 2
+
+         where M is the mass of the planet and G is the gravitational constant.
+
+
+
+
+                                                                                                                                                         [2]
+
+    (c) The Earth may be considered to be a uniform sphere of mass 5.98 × 1024 kg and radius
+        6.37 × 106 m.
+
+         A geostationary satellite is in orbit around the Earth.
+
+         Use the expression in (b) to determine the height of the satellite above the Earth’s surface.
+
+
+
+
+                                                                               height = ..................................................... m [3]
+
+
+
+
+© UCLES 2023                                                       9702/42/M/J/23
+
+
+=== MERGED PAGE 213 ===
+                                                                         5
+
+    (d) Another satellite is in a circular orbit around the Earth with the same orbital radius and period
+        as the satellite in (c).
+
+          (i)   Calculate the angular speed of the satellite in this orbit. Give a unit with your answer.
+
+
+
+
+                                                     angular speed = .............................................. unit ................ [2]
+
+         (ii)   Despite having the same orbital period, the orbit of this satellite is not geostationary.
+
+                Suggest two ways in which the orbit of this satellite could be different from the orbit of
+                the satellite in (c).
+
+                1 ........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                2 ........................................................................................................................................
+
+                ...........................................................................................................................................
+                                                                                                                                                       [2]
+
+                                                                                                                                           [Total: 11]
+
+
+
+
+© UCLES 2023                                                     9702/42/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 214 ===
+                                                                         6
+
+2   (a) (i)     State what is meant by an ideal gas.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   State the temperature, in degrees Celsius, of absolute zero.
+
+
+
+                                                                   temperature = .................................................... °C [1]
+
+    (b) A sealed vessel contains a mass of 0.0424 kg of an ideal gas at 227 °C.
+        The pressure of the gas is 1.37 × 105 Pa and the volume of the gas is 0.640 m3.
+
+         Calculate:
+
+          (i)   the number of molecules of the gas in the vessel
+
+
+
+
+                                                     number of molecules = ......................................................... [3]
+
+         (ii)   the mass of one molecule of the gas
+
+
+
+
+                                                                              mass = .................................................... kg [1]
+
+        (iii)   the root-mean-square (r.m.s.) speed v of the molecules of the gas.
+
+
+
+
+                                                                                     v = ................................................ m s–1 [3]
+
+
+© UCLES 2023                                                     9702/42/M/J/23
+
+
+=== MERGED PAGE 215 ===
+                                                   7
+
+    (c) The gas in (b) is now cooled gradually to absolute zero.
+
+         On Fig. 2.1, sketch the variation with thermodynamic temperature T of the r.m.s. speed of the
+         molecules of the gas.
+
+
+
+                                    v
+                     r.m.s. speed
+
+
+
+
+                                    0
+                                        0                                500
+                                                                   T/K
+
+
+                                               Fig. 2.1
+                                                                                                    [2]
+
+                                                                                            [Total: 12]
+
+
+
+
+© UCLES 2023                                 9702/42/M/J/23                               [Turn over
+
+
+=== MERGED PAGE 216 ===
+                                                                           8
+
+3   (a) State the first law of thermodynamics. Identify the meaning of any symbols that you use.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) The state of an ideal gas is continuously changed according to the cycle ABCDA shown in
+        Fig. 3.1.
+
+
+                                                                 C                                 D
+                                  pressure
+
+
+
+
+                                                                 B                                 A
+
+
+                                                                                           volume
+
+                                                                     Fig. 3.1
+
+          (i)    Complete Table 3.1 for the changes A to B and B to C by placing two ticks (3) in each
+                 row.
+
+                                                                     Table 3.1
+
+                                   change in internal energy                                         work done on gas
+         change
+                           decrease            no change             increase            negative               zero             positive
+
+          A to B
+
+
+          B to C
+
+                                                                                                                                                         [4]
+
+
+
+
+© UCLES 2023                                                       9702/42/M/J/23
+
+
+=== MERGED PAGE 217 ===
+                                                                         9
+
+         (ii)   Use the first law of thermodynamics to describe and explain the energy transfers
+                associated with one complete cycle ABCDA.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2023                                                     9702/42/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 218 ===
+                                                      10
+
+4   A small steel sphere is oscillating vertically on the end of a spring, as shown in Fig. 4.1.
+
+
+
+
+                                                                     spring
+
+
+
+
+                                                                             steel sphere
+                             oscillations
+
+
+
+                                                   Fig. 4.1
+
+    The velocity v of the sphere varies with displacement x from its equilibrium position according to
+
+                                            v = ± 9.7 (11.6 - x 2)
+
+    where v is in cm s–1 and x is in cm.
+
+    (a) (i)     Calculate the frequency of the oscillations.
+
+
+
+
+                                                     frequency = .................................................... Hz [2]
+
+         (ii)   Show that the amplitude of the oscillations is 3.4 cm.
+
+
+
+
+                                                                                                                             [1]
+
+        (iii)   Calculate the maximum acceleration a0 of the sphere.
+
+
+
+
+                                                                  a0 = ................................................ m s–2 [2]
+
+
+
+
+© UCLES 2023                                     9702/42/M/J/23
+
+
+=== MERGED PAGE 219 ===
+                                                                          11
+
+    (b) On Fig. 4.2, sketch the variation with x of the acceleration a of the sphere.
+
+                                                                    2 a0
+
+                                                                   a
+
+                                                                       a0
+
+
+
+
+                                                                        0
+                                    –4                 –2                   0                2     x / cm       4
+
+
+
+                                                                    – a0
+
+
+
+
+                                                                  – 2a0
+
+
+                                                                       Fig. 4.2
+                                                                                                                                                         [3]
+
+    (c) Describe, without calculation, the interchange between the potential energy and the kinetic
+        energy of the oscillations.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                             [Total: 11]
+
+
+
+
+© UCLES 2023                                                       9702/42/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 220 ===
+                                                                        12
+
+5   Two capacitors A and B are connected into the circuit shown in Fig. 5.1.
+
+
+
+
+                                        X
+                                                                         A
+
+                                                       S
+
+                                        Y
+                                                                         B
+
+
+
+
+                                                                   Fig. 5.1
+
+    Capacitor A has capacitance C and capacitor B has capacitance 3C.
+    The electromotive force (e.m.f.) of the cell is V.
+    The two-way switch S is initially at position X, and capacitor B is initially uncharged.
+
+    (a) State, in terms of V and C, expressions for:
+
+          (i)   the initial charge QA on the plates of capacitor A
+
+
+
+
+                                                                                  QA = ......................................................... [1]
+
+         (ii)   the initial energy EA stored in capacitor A.
+
+
+
+
+                                                                                   EA = .......................................................... [1]
+
+    (b) The two-way switch S is now moved to position Y.
+
+          (i)   State and explain what happens to the charge that was initially on the plates of capacitor A.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+
+
+
+© UCLES 2023                                                     9702/42/M/J/23
+
+
+=== MERGED PAGE 221 ===
+                                                     13
+
+         (ii)   Show that the final potential difference (p.d.) VB across capacitor B is given by
+                                                          V
+                                                  VB =      .
+                                                          4
+                Explain your reasoning.
+
+
+
+
+                                                                                                                              [3]
+
+        (iii)   Determine an expression, in terms of V and C, for the decrease ΔE in the total energy
+                that is stored in the capacitors as a result of the change of the position of the switch.
+
+
+
+
+                                                                ΔE = ......................................................... [2]
+
+                                                                                                                     [Total: 9]
+
+
+
+
+© UCLES 2023                                    9702/42/M/J/23                                                    [Turn over
+
+
+=== MERGED PAGE 222 ===
+                                                                        14
+
+6   A heavy aluminium disc has a radius of 0.36 m. The disc rotates with the wheels of a vehicle and
+    forms part of an electromagnetic braking system on the vehicle.
+
+    In order to activate the braking system, a uniform magnetic field of flux density 0.17 T is switched
+    on. This magnetic field is perpendicular to the plane of rotation of the disc, as shown in Fig. 6.1.
+
+
+                                                                                     aluminium disc,
+                                                                                     radius 0.36 m
+                                          rim
+                                                                                                             rotation of disc
+
+
+
+         axle
+
+
+
+
+                                                                                                               magnetic field,
+                                                                                                               flux density 0.17 T
+
+
+
+
+                                                                   Fig. 6.1
+
+    (a) (i)     Define magnetic flux.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Calculate the magnetic flux through the disc. Give a unit with your answer.
+
+
+
+
+                                                  magnetic flux = ............................................... unit ................... [2]
+
+
+
+
+© UCLES 2023                                                     9702/42/M/J/23
+
+
+=== MERGED PAGE 223 ===
+                                                                          15
+
+    (b) The disc is rotating at a rate of 25 revolutions per second.
+
+         Calculate the magnitude of the electromotive force (e.m.f.) induced between the axle and the
+         rim of the disc.
+
+
+
+
+                                                                                e.m.f. = ...................................................... V [3]
+
+    (c) The axle and the rim are connected into an external circuit that enables the energy of the
+        rotation of the disc to be stored for future use. The direction of rotation is shown in Fig. 6.1.
+
+         Use Lenz’s law of electromagnetic induction to determine whether the current in the disc is
+         from the rim to the axle or from the axle to the rim. Explain your reasoning.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                             [Total: 10]
+
+
+
+
+© UCLES 2023                                                       9702/42/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 224 ===
+                                                                       16
+
+7   Four diodes are used in a bridge rectifier circuit to produce rectification of a sinusoidal a.c. input
+    voltage VIN.
+    Fig. 7.1 shows part of the circuit, but three of the diodes are missing.
+
+
+
+
+                                                                            VIN
+
+
+
+
+                                                                    VOUT
+
+
+
+                                                                       R
+
+                                                                   Fig. 7.1
+
+    The p.d. across the load resistor R is the output p.d. VOUT of the bridge rectifier.
+
+    (a) (i)     State the name of the type of rectification produced by a bridge rectifier.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Complete Fig. 7.1 by drawing the three missing diodes, correctly connected.                                                          [2]
+
+        (iii)   On Fig. 7.1, draw an arrow to indicate the direction of the current in resistor R.                                                   [1]
+
+    (b) VIN has amplitude V0 and period T. Fig. 7.2 shows the variation with time t of VIN.
+
+
+
+                                  V0
+                            VIN
+
+
+                                    0
+                                        0             0.5T              1.0T              1.5T           t 2.0T
+
+
+                                –V0
+
+
+
+
+                                                                   Fig. 7.2
+
+
+
+
+© UCLES 2023                                                    9702/42/M/J/23
+
+
+=== MERGED PAGE 225 ===
+                                                                        17
+
+          (i)   On Fig. 7.3, sketch the variation of VOUT with t between t = 0 and t = 2.0T.
+
+
+
+                                    V0
+                           VOUT
+
+
+                                        0
+                                            0           0.5T               1.0T              1.5T           t 2.0T
+
+
+                                   –V0
+
+
+
+
+                                                                   Fig. 7.3
+                                                                                                                                                       [3]
+
+         (ii)   The power dissipated in the resistor is P.
+
+                On Fig. 7.4, sketch the variation of P with t between t = 0 and t = 2.0T.
+
+
+
+
+                               P
+
+
+                                    0
+                                        0             0.5T              1.0T               1.5T          t 2.0T
+
+
+
+
+                                                                   Fig. 7.4
+                                                                                                                                                       [2]
+
+        (iii)   Suggest, with a reason, how the root-mean-square (r.m.s.) value of VOUT compares with
+                the r.m.s. value of VIN.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2023                                                     9702/42/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 226 ===
+                                                                          18
+
+8   Fig. 8.1 shows the lowest four energy levels of an electron in an isolated atom.
+
+                                                                                                        n=4
+                                                                                                        n=3
+
+
+
+
+                                                                                                        n=2
+
+                                    increasing
+                                    energy
+
+
+
+
+                                                                                                        n=1
+
+                                                                     Fig. 8.1
+
+    Fig. 8.2 shows the lines in the emission spectrum of the atom that correspond to the transitions of
+    the electron from n = 3 to n = 1 and from n = 4 to n = 1.
+
+
+                                                                                                             increasing frequency
+
+
+
+
+                                                                     Fig. 8.2
+
+    (a) Explain, with reference to photons, why there is a single frequency of electromagnetic
+        radiation that corresponds to each of these transitions.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) (i)      On Fig. 8.2, draw a line that corresponds to the transition of the electron from n = 2 to n = 1.
+                 Label this line A.                                                                           [2]
+
+         (ii)    On Fig. 8.2, draw a line that corresponds to the transition of the electron from n = 3 to n = 2.
+                 Label this line B.                                                                           [2]
+
+
+
+
+© UCLES 2023                                                       9702/42/M/J/23
+
+
+=== MERGED PAGE 227 ===
+                                                  19
+
+    (c) The frequency of radiation represented by line A is fA.
+        The frequency of radiation represented by line B is fB.
+        The energy of the ground state (n = 1) is E1.
+
+         Determine an expression, in terms of fA, fB, E1 and the Planck constant h, for the energy E3 of
+         the energy level n = 3.
+
+
+
+
+                                                              E3 = ......................................................... [2]
+
+                                                                                                                   [Total: 8]
+
+
+
+
+© UCLES 2023                                 9702/42/M/J/23                                                    [Turn over
+
+
+=== MERGED PAGE 228 ===
+                                                                          20
+
+9   (a) Define mass defect.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Table 9.1 shows the mass defects of three nuclei.
+
+                                                                    Table 9.1
+
+                                                   nucleus                        mass defect / u
+                                                        2                             0.002 388
+                                                        1H
+
+                                                        3
+                                                        1H
+                                                                                      0.009 105
+
+                                                       4
+                                                       2He
+                                                                                      0.030 377
+
+
+         The nuclear fusion process in a particular star is described by
+                                                         2         3            4
+                                                         1H    + 1H             2He     + X
+
+         where X is a particle that has no mass defect.
+
+          (i)    State the name of particle X.
+
+                 ..................................................................................................................................... [1]
+                                                                                                    4
+         (ii)    Show that the energy released when one nucleus of 2He is formed in this fusion reaction
+                 is 2.8 × 10–12 J.
+
+
+
+
+                                                                                                                                                         [3]
+
+
+
+
+© UCLES 2023                                                       9702/42/M/J/23
+
+
+=== MERGED PAGE 229 ===
+                                                       21
+
+    (c) The star in (b) has a radius of 2.3 × 109 m and a luminosity of 1.4 × 1028 W.
+                                                        4
+        All the energy released from the formation of 2He is radiated away from the star.
+                                                                                            4
+        All the energy that is radiated from the star has been released in the formation of 2He.
+
+         Determine:
+                            4
+          (i)   the mass of 2He produced per unit time by the fusion process
+
+
+
+
+                                           mass per unit time = ............................................... kg s–1 [3]
+
+         (ii)   the surface temperature of the star.
+
+
+
+
+                                                   temperature = ...................................................... K [2]
+
+                                                                                                                [Total: 11]
+
+
+
+
+© UCLES 2023                                    9702/42/M/J/23                                                [Turn over
+
+
+=== MERGED PAGE 230 ===
+                                                                        23
+
+10 (a) X-rays for use in medical diagnosis are produced in an X-ray tube. In the X-ray tube, charged
+       particles are accelerated towards a metal target by an applied potential difference (p.d.).
+
+          (i)   State the name of the charged particles that are accelerated by the applied p.d.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain how X-rays are produced at the metal target.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+        (iii)   Calculate the minimum wavelength of X-rays produced when the applied p.d. is 5.80 kV.
+
+
+
+
+                                                                     wavelength = ..................................................... m [3]
+
+    (b) X-rays pass through a medium that has an attenuation coefficient of 1.4 cm–1.
+
+         Calculate the percentage of the X-ray energy that is absorbed by a 2.8 cm thickness of this
+         medium.
+
+
+
+
+                                                     percentage absorbed = ..................................................... % [3]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2023                                                     9702/42/M/J/23
+
+
+=== MERGED PAGE 231 ===
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2023                                                         9702/42/M/J/23

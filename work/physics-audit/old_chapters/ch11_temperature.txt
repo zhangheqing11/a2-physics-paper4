@@ -1,0 +1,174 @@
+
+===== 9702/41_Winter_2017_Q1 | PDF 126-127 | Temperature, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH11 - TEMPERATURE
+2 - (9702/41_Winter_2017_QI) - Temperature, Thermal Properties Of Materials
+(a)
+State
+(i) what may be deduced from the difference in the temperatures of two objects,
+(1]
+(il) the basic principle by which temperature is measured.
+11]
+(b) By reference to your answer in (a)(i), explain why two thermometers may not give the same
+temperature reading for an object.
+12]
+(c) A block of aluminium of mass 670g is heated at a constant rate of 95W for 6.0 minutes.
+The specific heat capacity of aluminium is 910Jkg™ K-1.
+The initial temperature of the block is 24°C.
+Assuming that no thermal energy is lost to the surroundings, show that the final
+temperature of the block is 80°C.
+13]
+2017 - 2023
+125
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH11 - TEMPERATURE
+1 practice, there are energy losses to the surroundings
+ne actual variation with time tot the temoerature a or the block is shown in -id. 1.1
+100
+80+
+A/°C
+60+
+40+
+20•
+1
+2
+3
+4
+5
+6
+t/minutes
+Fig. 1.1
+1. Use the information in (i) to draw, on Fig. 1.1, a line to represent the temperature of
+the block, assuming no energy losses to the surroundings.
+2.
+Using Fig. 1.1, calculate the total energy loss to the surroundings during the heating
+process.
+energy loss = ...
+................ J [2]
+2017 - 2023
+126
+P4 Topical
+
+===== 9702/42_Summer_2018_Q3 | PDF 128-129 | Temperature, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH11 - TEMPERATURE
+3 - (9702/42_Summer_2018_Q3) - Temperature, Thermal Properties Of Materials
+(a) During melting, a solid becomes liquid with little or no change in volume.
+Use kinetic theory to explain why, during the melting process, thermal energy is required
+although there is no change in temperature.
+..[3]
+(b) An aluminium can of mass 160g contains a mass of 330g of warm water at a temperature of
+38°C, as illustrated in Fig. 3.1.
+ice-
+- warm water
+aluminium can
+Fig. 3.1
+A mass of 48g of ice at -18°C is taken from a freezer and put in to the water. The ice melts
+and the final temperature of the can and its contents is 23°C.
+Data for the specific heat capacity c of aluminium, ice and water are given in Fig. 3.2.
+c/Jg-1K-1
+aluminium
+ice
+water
+0.910
+2.10
+4.18
+Fig. 3.2
+2017 - 2023
+127
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+Assuming no exchange of thermal energy with the surroundings,
+(i) show that the loss in thermal energy of the can and the warm water is 2.3 × 104J,
+CH11 - TEMPERATURE
+12]
+(ii) use the information in (i) to calculate a value L for the specific latent heat of fusion of ice.
+L= ....
+2017 - 2023
+128
+P4 Topical
+
+===== 9702/41_Winter_2019_Q3 | PDF 134-136 | Temperature, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH11 - TEMPERATURE
+6 - (9702/41_Winter_2019_O3) - Temperature, Thermal Properties Of Materials
+(a)
+State what is meant by specific latent heat.
+[2]
+(b) A student determines the specific latent heat of vaporisation of a liquid using the apparatus
+illustrated in Fig. 3.1.
+liquid
+-o+
+-o-
+heater-
+- pan of balance
+Fig. 3.1
+The heater is switched on. When the liquid is boiling at a constant rate, the balance reading is
+noted at 2.0 minute intervals.
+After 10 minutes, the current in the heater is reduced and the balance readings are taken for
+a further 12 minutes.
+2017 - 2023
+133
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH11 - TEMPERATURE
+The readings of the ammeter and of the voltmeter are given in Fig. 3.2.
+from time 0 to time 10 minutes
+after time 10 minutes
+ammeter reading
+/A
+1.2
+1.0
+voltmeter reading
+/V
+230
+190
+Fig. 3.2
+The variation with time of the balance reading is shown in Fig. 3.3.
+500
+480
+balance reading/g
+460
+440
+420+
+400
+380-
+4
+8
+12
+16
+20
+time / minutes
+24
+Fig. 3.3
+2017 - 2023
+134
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH11 - TEMPERATURE
+(i) From time 0 to time 10.0 minutes, the mass of liquid evaporated is 56g.
+Use Fig. 3.3 to determine the mass of liquid evaporated from time 12.0 minutes to time
+22.0 minutes.
+mass =
+g [1]
+Explain why, although the power of the heater is changed, the rate of loss of thermal
+energy to the surroundings may be assumed to be constant.
+[1]
+(ill)
+Determine a value for the specific latent heat of vaporisation L of the liquid.
+L=
+(iv)
+Calculate the rate at which thermal energy is transferred to the surroundings.
+rate =
+.. W [2]
+2017 - 2023
+135
+P4 Topical

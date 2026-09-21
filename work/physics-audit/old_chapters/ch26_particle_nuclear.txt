@@ -1,0 +1,799 @@
+
+===== 9702/41_Summer_2017_Q12 | PDF 623-624 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+1 - (9702/41_Summer_2017_Q12) - Particle & Nuclear Physics
+One possible nuclear reaction that takes place in a nuclear reactor is given by the equation
+235U + In → 45Mo + 139La + 2'n + xle
+Data for the nuclei and particles are given in Fig. 12.1.
+nucleus or particle
+292U
+95MO
+139La
+In
+fe
+mass/u
+235.123
+94.945
+138.955
+1.00863
+5.49 x10-4
+Fig. 12.1
+(a) Determine, for this nuclear reaction, the value of x.
+X=
+...... 1]
+2017 - 2023
+622
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+Show that the energy equivalent to 1.00u is 934 MeV.
+[3]
+(i) Calculate the energy, in MeV, released in this reaction. Give your answer to three
+significant figures.
+energy = …....
+MeV (3]
+(c) Suggest the forms of energy into which the energy calculated in (b)(ii) is transformed
+• (2)
+2017 - 2023
+623
+P4 Topical
+
+===== 9702/42_Summer_2017_Q12 | PDF 625-626 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+2 - (9702/42_Summer_2017_Q12) - Particle & Nuclear Physics
+One nuclear reaction that can take place in a nuclear reactor may be represented, in part, by the
+equation
+235U + İn → 45Mo + 139La + 2n+......... + energy
+Data for a nucleus and some particles are given in Fig. 12.1.
+nucleus or particle
+139La
+in
+_je
+mass/u
+138.955
+1.00863
+1.00728
+5.49 × 10-4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+Fig. 12.1
+(a) Complete the nuclear reaction shown above.
+(b) (i) Show that the energy equivalent to 1.00 u is 934 MeV.
+11]
+[3]
+(il) Calculate the binding energy per nucleon, in MeV, of lanthanum-139 ( 39La).
+binding energy per nucleon =
+MeV [3]
+2017 - 2023
+624
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(c) State and explain whether the binding energy per nucleon of uranium-235 (235U) will be
+greater, equal to or less than your answer in (b)(ii).
+• [3]
+2017 - 2023
+625
+P4 Topical
+
+===== 9702/41_Winter_2017_Q9 | PDF 627-628 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+3 - (9702/41_Winter_2017_09) - Particle & Nuclear Physics
+(a)
+in computed tomography (CT scanning), it is necessary to take a
+images.
+Outline briefly the principles of CT scanning.
+series of many X-ray
+..... [4)
+2017 - 2023
+626
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(b) A student creates a model for CT scanning.
+A section is divided into four voxels, with pixel numbers A, B, C and D, as shown in Fig. 9.1.
+A
+B
+D
+C
+V2
+V4
+Fig. 9.1
+The section is viewed from four different directions V,, V2, V and V4, as shown in Fig. 9.1.
+The detector readings for each direction are noted and then summed. The result is shown in
+Fig. 9.2.
+47
+59
+44
+32
+Fig. 9.2
+The background count is 26.
+Determine the pixel numbers A, B, C and D as shown in Fig. 9.1.
+A
+B
+D
+[3]
+2017 - 2023
+627
+P4 Topical
+
+===== 9702/41_Winter_2017_Q12 | PDF 629-630 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+4 - (9702/41_Winter_2017_Q12) - Particle & Nuclear Physics
+(a) A radiation detector is placed close to a radioactive source. The detector does not surround
+the source.
+Radiation is emitted in all directions and, as a result, the activity of the source and the
+measured count rate are different.
+Suggest two other reasons why the activity and the measured count rate may be different.
+1.
+2.
+12]
+(b) The variation with time t of the measured count rate in (a) is shown in Fig. 12.1.
+count rate
+/ min™
+180
+160
+140
+120
+100
+80
+60
+40
+20-
+1
+2
+3
+4
+6
+7
+8
+9
+10
+11
+t/hours
+12
+13
+14
+Fig. 12.1
+(i) State the feature of Fig. 12.1 that indicates the random nature of radioactive decay.
+.. [1]
+2017 - 2023
+628
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(II)
+Use Fig. 12.1 to determine the half-life of the radioactive isotope in the source.
+half-life =
+hours [4]
+(c) The readings in (b) were obtained at room temperature.
+A second sample of this isotope is heated to a temperature of 500 °C.
+The initial count rate at time t = 0 is the same as that in (b).
+The variation with time t of the measured count rate from the heated source is determined.
+State, with a reason, the difference, if any, in
+1.
+the half-life,
+2. the measured count rate for any specific time.
+[3]
+2017 - 2023
+629
+P4 Topical
+
+===== 9702/42_Winter_2017_Q12 | PDF 631-632 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+5 - (9702/42_Winter_2017_Q12) - Particle & Nuclear Physics
+The isotope iodine-131 ('531) is radioactive with a decay constant of 8.6 × 10-2 day'.
+B particles are emitted with a maximum energy of 0.61 MeV.
+(a) State what is meant by
+radioactive,
+(Il)
+decay constant.
+... ..
+...[2]
+(b) Explain why the emitted f- particles have a range of energies.
+...(2)
+(c) A sample of blood contains 1.2x 10-°g of iodine-131.
+Determine, for this sample of blood,
+(i) the activity of the iodine-131,
+activity = ....
+Bq (3]
+2017 - 2023
+630
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(i) the time for the activity of the iodine-131 to be reduced to 1/50 of the activity calculated
+in (i).
+time=
+days (2)
+2017 - 2023
+631
+P4 Topical
+
+===== 9702/41_Summer_2018_Q13 | PDF 635-636 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+7 - (9702/41_Summer_2018_Q13) - Particle & Nuclear Physics
+(a)
+State what is meant by radioactive decay.
+The variation with time t of the number of technetium-101 nucle in a sample of radioactive
+material is shown in Fig. 13.1.
+10.0
+8.0-
+N/107
+6.0-
+4.0
+2.0-
+10
+20
+30
+t/min
+40
+Fig. 13.1
+2017 - 2023
+634
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(i) Use Fig. 13.1 to determine the activity, in Bq, of the sample of technetium-101 at time
+t= 14.0 minutes. Show your working.
+activity = . Bq[4]
+Without calculating the half-life of technetium-101, use your answer in (i) to determine
+the decay constant 2 of technetium-101.
+2= ...
+....s1 [2]
+2017 - 2023
+635
+P4 Topical
+
+===== 9702/42_Summer_2018_Q12 | PDF 633-634 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+6 - (9702/42_Summer_2018_Q12) - Particle & Nuclear Physics
+(a) State what is meant by radioactive decay.
+[2]
+(b) An unstable nuclide Phas decay constant Ap and decays to form a nuclide D.
+This nuclide D is unstable and decays with decay constant 4p to form a stable nuclide S. The
+decay chain is illustrated in Fig. 12.1.
+decay constant
+ip
+decay constant
+nuclide P
+nuclide D
+nuclide S
+Fig. 12.1
+The symbols P, D and S are not the nuclide symbols.
+Initially, a radioactive sample contains only nuclide P.
+The variation with time t of the number of nuclei of each of the three nuclides in the sample is
+shown in Fig. 12.2.
+number
+t
+Fig. 12.2
+2017 - 2023
+632
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(1) On Fig. 12.2, use the symbols P, D and S to identify the curve for each of the three
+nuclides.
+12]
+(ii) The half-life of nuclide P is 60.0 minutes
+Calculate the decay constant ip, in s', of this nuclide.
+1p = ..
+(c) In the decay chain shown in Fig. 12.1, Ap is approximately equal to 54g.
+The decay chain of a different nuclide E is illustrated in Fig. 12.3.
+decay constant
+decay constant
+nuclide E
+nuclide F
+-
+nuclide G
+Fig. 12.3
+The decay constant if of nuclide F is very much larger than the decay constant he of
+nuclide E.
+By reference to the half-life of nuclide F, explain why the number of nucle of nuclide F in the
+sample is always small.
+...[2]
+2017 - 2023
+633
+P4 Topical
+
+===== 9702/41_Winter_2018_Q12 | PDF 637-638 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+8 - (9702/41_Winter_2018_Q12) - Particle & Nuclear Physics
+(a) State what is meant by radioactive decay.
+[3]
+(b) The variation with time t of the number of undecayed nucle in a sample of a radioactive
+isotope is shown in Fig. 12.1.
+6.0
+5.0
+N/1010
+4.0
+3.0-
+2.0
+1.0
+0-
+2
+4
+6
+8
+10
+12
+14
+t/hours
+Fig. 12.1
+2017 - 2023
+636
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(1) Use the gradient of the line in Fig. 12.1 to determine the activity, in Bq, of the sample at
+time t = 4.0 hours. Show your working
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+activity =
+. Bq [3]
+(i) Use your answer in (i) to show that the decay constant 2 of the isotope is approximately
+4 × 10-5g-1.
+12]
+(c) Aust be stored stry unacis ative iy is pe has to 1.0 x activity. of 4.6 × 10° B. The sample
+The decay constant of the isotope is 5.5 x 10-7s-1. The decay products are not radioactive.
+Calculate the minimum time, in days, for which the sample must be stored.
+time =
+days [3]
+2017 - 2023
+637
+P4 Topical
+
+===== 9702/42_Winter_2018_Q12 | PDF 639-640 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+9 - (9702/42_Winter_2018_Q12) - Particle & Nuclear Physics
+(a) State what is meant by nuclear fusion and nuclear fission.
+nuclear fusion:
+nuclear fission:
+13]
+2017 - 2023
+638
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(b) A nuclear reaction which may, in the future, be used for the generation of electrical energy is
+3H+ 3H → ¿He+ x.
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(i) Name the particle x.
+.11
+(ii)
+Data for the binding energy per nucleon Eg of some nuclei are given in Fig. 12.1.
+inding energy per nucleor
+Fp/10-13
+deuterium
+tritium
+helium
+1.7813
+3H
+{He
+4.5285
+11.3290
+Fig. 12.1
+1. State the binding energy per nucleon of x.
+binding energy per nucleon =
+2. Calculate the energy change that takes place in this reaction.
+J
+energy change =
+J
+[3]
+(iii) Use your answer in (ii) part 2 to determine the energy release when 2.0g of deterium (H)
+reacts with 3.0g of tritium (jH).
+energy =
+... J [1]
+2017 - 2023
+639
+P4 Topical
+
+===== 9702/41_Summer_2019_Q12 | PDF 641-642 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+10 - (9702/41_Summer_2019_Q12) - Particle & Nuclear Physics
+A sample of a radioactive isotope contains nuclei of the isotope at time T.
+At time (T+ AT), the sample contains (N- AN) nuclei of the isotope. The time interval AT is
+Use the symbols N, AN, Tand AT to give expressions for:
+(i) the average activity of the sample during the time AT
+[1]
+(i) the probability of decay of a nucleus in the time AT
+[1]
+(iii) the decay constant 2 of the isotope.
+[1]
+(b) The isotope polonium-208 (208Po) is radioactive and decays to form lead-204 (282Pb).
+The nuclear equation for this decay is
+Data for nuclear masses are given in Fig. 12.1.
+mass/u
+{He
+202Pb
+208P
+4.002603
+203.973043
+207.981245
+Fig. 12.1
+(i) Determine, for the decay of one nucleus of polonium-208:
+1. the change, in u, of the mass
+mass change = ....
+..u [1]
+2017 - 2023
+640
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+2. the total energy, in pJ, released.
+energy=...
+The polonium-208 nucles is initially stationary. The initial kinetic energy of the
+4He nucleus (a-particle) is found to be less than the energy calculated in (i) part 2.
+Suggest two possible reasons for this difference.
+1.
+2.
+(2)
+2017 - 2023
+641
+P4 Topical
+
+===== 9702/42_Summer_2019_Q12 | PDF 643-644 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+11 - (9702/42_Summer_2019_Q12) - Particle & Nuclear Physics
+(a)
+State what is meant by the binding energy of a nucleus.
+-[2]
+(b) Some masses are shown in Fig. 12.1.
+proton (p)
+neutron (on)
+lanthanum-141 (41La) nucleus
+Fig. 12.1
+Calculate the binding energy of a nucleus of lanthanum-141.
+mass/u
+1.007
+1.009
+140.911
+binding energy =
+(c) The nuclide lanthanum-141 ('4]La) has a half-life of 3.9 hours.
+Initially, a radioactive source contains only lanthanum-141. The initial activity of the source
+is Ao.
+(i) Calculate the time for the activity of the lanthanum-141 to be reduced to 0.40Ag.
+time =
+hours [3]
+2017 - 2023
+642
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(i) Suggest why the total activity of the radioactive source measured at the time calculated
+in (i) may be greater than 0.40A..
+•[1]
+2017 - 2023
+643
+P4 Topical
+
+===== 9702/41_Winter_2019_Q12 | PDF 645-646 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+12 - (9702/41_Winter_2019_Q12) - Particle & Nuclear Physics
+One possible nuclear reaction that takes place is
+235U + in → 92Mo + '39La + 2}n + 7_%e
+Data for nuclei in this reaction are given in Fig. 12.1.
+nucleus
+95MO
+139 La
+235U
+mass/u
+total mass of separate
+nucleons/u
+94.906
+138.906
+95.765
+140.125
+235.044
+236.909
+mass defect/u
+0.859
+1.219
+1.865
+Fig. 12.1
+(a) Show that the energy equivalent to a mass of 1.00u is 934 MeV.
+binding energy
+per nucleon/MeV
+8.443
+8.189
+12]
+(b) (i) Use data from Fig. 12.1 to calculate the binding energy per nucleon of a nucleus of
+uranium-235 (35U). Complete Fig. 12.1.
+12)
+The nucleon number of an isotope of the element rutherfordium is 267.
+State whether the binding energy per nucleon of this isotope will be greater than, equal
+to or less than the binding energy per nucleon of uranium-235.
+[1]
+2017 - 2023
+644
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(c) Calculate the total energy, in MeV, released in this nuclear reaction.
+energy =
+(d) The nuclei in 1.2 x 10-7 mol of uranium-235 all undergo this reaction in a time of 25 ms.
+Calculate the average power release during the time of 25ms.
+MeV [2]
+power =
+.. W [3]
+2017 - 2023
+645
+P4 Topical
+
+===== 9702/42_Winter_2019_Q12 | PDF 647-647 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+13 - (9702/42_Winter_2019_Q12) - Particle & Nuclear Physics
+Radon-222 (Ra) is a radioactive gas that decays randomly with a decay constant of
+7.55 × 10-3 hour 1
+(a) State what is meant by:
+(i) random decay
+[1]
+(il) decay constant.
+12]
+(b) The activity of radon gas in a sample of 4.80 × 10-3m of air taken from a building is 0.600 Bq.
+There are 2.52 x 1025 air molecules in a volume of 1.00 m3 of air.
+Calculate, for 1.00m° of the air, the ratio
+number of air molecules
+number of radon atoms
+ratio = ....
+[5]
+2017 - 2023
+646
+P4 Topical
+
+===== 9702/41_Summer_2020_Q12 | PDF 648-649 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+14 - (9702/41_Summer_2020_Q12) - Particle & Nuclear Physics
+(a) The decay of a sample of a radioactive isotope is said to be random and spontaneous.
+Explain what is meant by the decay being:
+(i) random
+[1]
+(Il) spontaneous.
+11]
+(b) A radioactive isotope X has a half-life of 1.4 hours.
+Initially, a pure sample of this isotope X has an activity of 3.6 × 10° Bq.
+Determine the activity of the isotope X in the sample after a time of 2.0 hours.
+activity =
+Bq [3]
+2017 - 2023
+647
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(c) The variation with time t of the actual activity A of the sample in (b) is shown in Fig. 12.1.
+A/105 Bq
+3
+2
+O
+2
+3
+4
+5
+t/hours
+Fig. 12.1
+(i) The initial activity of isotope X in the sample is 3.6 x 105 Bq.
+Use information from (b) to sketch, on the axes of Fig. 12.1, the variation with time t of
+the activity of a pure sample of isotope X.
+Suggest an explanation for any difference between the actual activity of the sample
+shown in Fig. 12.1 and the curve you have drawn for the activity of isotope X.
+12]
+2017 - 2023
+648
+P4 Topical
+
+===== 9702/42_Summer_2020_Q12 | PDF 650-651 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+15 - (9702/42_Summer_2020_Q12) - Particle & Nuclear Physics
+(a)
+State what is meant by the mass defect of a nucleus.
+(2]
+2017 - 2023
+649
+P4 Topical
+A-Level Cambridge
+(b) Some masses are shown in Table 12.1.
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+Table 12.1
+mass/u
+proton p
+1.007 276
+neutron in
+| 1.008665
+helium-4 ({He) nucleus 4.001 506
+Show that:
+(i) the energy equivalence of 1.00 u is 934 MeV
+12]
+(ii) the binding energy per nucleon of a helium-4 nucleus is 7.09 MeV.
+12]
+(c) Isotopes of hydrogen have binding energies per nucleon of less than 3 MeV.
+Suggest why a nucleus of helium-4 does not spontaneously break down to become nuclei of
+hydrogen.
+[2]
+2017 - 2023
+650
+P4 Topical
+
+===== 9702/41_Winter_2020_Q12 | PDF 652-652 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+16 - (9702/41_Winter_2020_Q12) - Particle & Nuclear Physics
+lodine-131 ('311) is a radioactive isotope with a decay constant of 9.9 × 10 7s-1.
+(a) State what is meant by:
+(i)
+radioactive
+(ii)
+decay constant.
+[2]
+(b) Some water becomes contaminated with iodine-131.
+The activity of the iodine-131 in 1.0 kg of water is 560 Bq.
+Determine the number of iodine-131 atoms in 1.0kg of water.
+number =
+12]
+(c) Regulations require that the activity of iodine-131 in 1.0kg of water is to be less than 170Bq.
+Calculate the time, in days, for the activity of the contaminated water in (b) to be reduced to
+170 Bq.
+time =
+. days [3]
+[Total: 9]
+2017 - 2023
+651
+P4 Topical
+
+===== 9702/42_Winter_2020_Q12 | PDF 653-653 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+17 - (9702/42_Winter_2020_Q12) - Particle & Nuclear Physics
+(a) (i) Define nuclear binding energy.
+[2]
+(ii) Explain what is meant by a nuclear fission reaction.
+[2]
+(b) A student suggests that one possible nuclear reaction is
+26Fe + 3n → 29F + 3C1.
+The binding energy per nucleon of a nucleus varies with the nucleon number.
+Use this variation to explain why the reaction would not result in an overall release of energy.
+[3]
+[Total: 7]
+2017 - 2023
+652
+P4 Topical
+
+===== 9702/41_Winter_2021_Q12 | PDF 656-656 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+19 - (9702/41_Winter_2021_Q12) - Particle & Nuclear Physics
+(a)
+Define radioactive decay constant.
+[2]
+(b) A sample of radioactive iodine-131 (*51I) of mass 5.87 × 10-10kg has an activity of
+2.92 × 10° Bg.
+Determine the decay constant of iodine-131.
+decay constant =
+s-' [3]
+(c) Suggest two reasons why a detector placed near to the sample in (b) would record a count
+rate much less than 2.92 × 10° counts per second.
+1....
+2.
+[2]
+2017 - 2023
+655
+P4 Topical
+
+===== 9702/42_Winter_2021_Q12 | PDF 657-658 | Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+20 - (9702/42_Winter_2021_Q12) - Particle & Nuclear Physics
+(a) Radioactive decay is both random and spontaneous.
+State what is meant by:
+(i) random
+11]
+(Ii)
+spontaneous.
+. [1]
+(b) A sample of radioactive material contains atoms of an unstable nuclide X. The activity of the
+sample due to the atoms of X is A. The variation with time t of In A is shown in Fig. 12.1.
+36.6
+In(A/Bq)
+36.2
+35.8-
+35.4-
+35.0đ
+5
+10
+15
+20
+25
+t/min
+Fig. 12.1
+2017 - 2023
+656
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH26 - PARTICLE & NUCLEAR
+PHYSICS
+(i) Use Fig. 12.1 to determine the half-life, in minutes, of nuclide X.
+half-life =
+(ii) At time t=0, the mass of the atoms of X in the sample is 5.66 x 10-7 kg.
+Determine the nucleon number of X.
+min [3]
+nucleon number = ....
+.. 3)
+2017 - 2023
+657
+P4 Topical

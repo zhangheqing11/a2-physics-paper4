@@ -1,0 +1,82 @@
+
+===== 9702/41_Summer_2017_Q6 | PDF 377-378 | D.c. Circuits, Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH20 - D.C. CIRCUITS
+1 - (9702/41_Summer_2017_Q6) - D.c. Circuits, Electronics
+A comparator circuit is designed to switch on a mains lamp when the ambient light level reaches a
+set value.
+An incomplete diagram of the circuit is shown in Fig. 6.1.
++5 V
+D
+6V
+—ono
+-5V
+Fig. 6.1
+(a) (i)
+A relay is required as part of the output device. This is not shown in Fig. 6.1. Explain why
+a relay is required.
+(i) On Fig. 6.1, draw the symbol for a relay connected in the circuit as part of the output
+device.
+(b) Describe the function of
+(i) the variable resistor Rv,
+[1]
+(il) the diode D.
+....[1]
+2017 - 2023
+376
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH20 - D.C. CIRCUITS
+(c) State whether the lamp will switch on as the light level increases or as it decreases. Explain
+vour answer.
+[3]
+2017 - 2023
+377
+P4 Topical
+
+===== 9702/43_Summer_2021_Q8 | PDF 379-380 | Current Of Electricity, D.c. Circuits =====
+A-Level Cambridge
+PHYSICS - P4
+CH20 - D.C. CIRCUITS
+2 - (9702/43_Summer_2021_08) - Current Of Electricity, D.c. Circuits
+The variation with temperature of the resistance of a thermistor is shown in Fig. 8.1.
+4.0
+3.0+
+resistance/kg
+2.0-
+1.0-
+10
+20
+temperature/°C
+30
+Fig. 8.1
+A student includes the thermistor and an ideal operational amplifier (op-amp) in the circuit of
+Fig. 8.2.
++3.0V
+2.5 kg
+30кг ]
+*
+Fig. 8.2
+2017 - 2023
+378
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH20 - D.C. CIRCUITS
+(a) Calculate the potential V* at the non-inverting input of the op-amp.
+V* =
+(b) At 10 °C, the resistance of the thermistor is 2.5 kg.
+State and explain whether the light-emitting diode (LED) is emitting light.
+... V [2]
+(2]
+(c) Explain why the student's circuit will not indicate any change in temperature above 0°C.
+[2]
+(d) The resistor of resistance 5.0kg is changed to a resistor of resistance R so that the LED
+switches on or off at a temperature of 20°C.
+Determine R in ks.
+R= .....
+2017 - 2023
+379
+P4 Topical

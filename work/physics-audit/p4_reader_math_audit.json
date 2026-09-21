@@ -1,0 +1,2061 @@
+{
+  "conversions": [
+    {
+      "original": "ΣF=ma",
+      "latex": "\\sum F=ma"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "K=½mv²",
+      "latex": "K=\\tfrac{1}{2}mv^{2}"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "p=mv",
+      "latex": "p=mv"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "p=E/c",
+      "latex": "p=E/c"
+    },
+    {
+      "original": "W=Fs",
+      "latex": "W=Fs"
+    },
+    {
+      "original": "P=ΔE/Δt",
+      "latex": "P=\\Delta E/\\Delta t"
+    },
+    {
+      "original": "ρ=M/V",
+      "latex": "\\rho =M/V"
+    },
+    {
+      "original": "m⁻³",
+      "latex": "m^{-3}"
+    },
+    {
+      "original": "(m³)",
+      "latex": "(m^{3})"
+    },
+    {
+      "original": "F=k_s",
+      "latex": "F=k_{s}"
+    },
+    {
+      "original": "m⁻¹",
+      "latex": "m^{-1}"
+    },
+    {
+      "original": "ΔF=k_sΔx",
+      "latex": "\\Delta F=k_{s}\\Delta x"
+    },
+    {
+      "original": "I=ΔQ/Δt",
+      "latex": "I=\\Delta Q/\\Delta t"
+    },
+    {
+      "original": "I=nAqv_d",
+      "latex": "I=nAqv_{d}"
+    },
+    {
+      "original": "(m⁻³)",
+      "latex": "(m^{-3})"
+    },
+    {
+      "original": "(m²)",
+      "latex": "(m^{2})"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "cm=10⁻²",
+      "latex": "cm=10^{-2}"
+    },
+    {
+      "original": "cm²=10⁻⁴",
+      "latex": "cm^{2}=10^{-4}"
+    },
+    {
+      "original": "cm³=10⁻⁶",
+      "latex": "cm^{3}=10^{-6}"
+    },
+    {
+      "original": "μ=10⁻⁶",
+      "latex": "\\mu =10^{-6}"
+    },
+    {
+      "original": "n=10⁻⁹",
+      "latex": "n=10^{-9}"
+    },
+    {
+      "original": "p=10⁻¹²",
+      "latex": "p=10^{-12}"
+    },
+    {
+      "original": "k=ΔF/Δx",
+      "latex": "k=\\Delta F/\\Delta x"
+    },
+    {
+      "original": "ρ=M/V",
+      "latex": "\\rho =M/V"
+    },
+    {
+      "original": "I=nAqv",
+      "latex": "I=nAqv"
+    },
+    {
+      "original": "mg=0.29×9.81",
+      "latex": "mg=0.29\\times 9.81"
+    },
+    {
+      "original": "k=Δ",
+      "latex": "k=\\Delta "
+    },
+    {
+      "original": "(10.8−8.5)≈0.15",
+      "latex": "(10.8-8.5)\\approx 0.15"
+    },
+    {
+      "original": "cm⁻¹",
+      "latex": "cm^{-1}"
+    },
+    {
+      "original": "θ=s/r",
+      "latex": "\\theta =s/r"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "ω=2π/T",
+      "latex": "\\omega =2\\pi /T"
+    },
+    {
+      "original": "θ=ωt",
+      "latex": "\\theta =\\omega t"
+    },
+    {
+      "original": "f=1/T",
+      "latex": "f=1/T"
+    },
+    {
+      "original": "ω=2πf",
+      "latex": "\\omega =2\\pi f"
+    },
+    {
+      "original": "v=rω",
+      "latex": "v=r\\omega "
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "ΣF_r=ma",
+      "latex": "\\sum F_{r}=ma"
+    },
+    {
+      "original": "a=v²/r",
+      "latex": "a=v^{2}/r"
+    },
+    {
+      "original": "a=rω²",
+      "latex": "a=r\\omega ^{2}"
+    },
+    {
+      "original": "a=vω",
+      "latex": "a=v\\omega "
+    },
+    {
+      "original": "θ=s/r",
+      "latex": "\\theta =s/r"
+    },
+    {
+      "original": "s=rθ",
+      "latex": "s=r\\theta "
+    },
+    {
+      "original": "ω=2π/T",
+      "latex": "\\omega =2\\pi /T"
+    },
+    {
+      "original": "θ=ωt",
+      "latex": "\\theta =\\omega t"
+    },
+    {
+      "original": "T=2π√(r/a)",
+      "latex": "T=2\\pi \\sqrt{r/a}"
+    },
+    {
+      "original": "r=0.049",
+      "latex": "r=0.049"
+    },
+    {
+      "original": "a=5.0",
+      "latex": "a=5.0"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "a=rω²",
+      "latex": "a=r\\omega ^{2}"
+    },
+    {
+      "original": "ω=2π/T",
+      "latex": "\\omega =2\\pi /T"
+    },
+    {
+      "original": "T=2π√(0.049/5.0)=0.62",
+      "latex": "T=2\\pi \\sqrt{0.049/5.0}=0.62"
+    },
+    {
+      "original": "v=rω",
+      "latex": "v=r\\omega "
+    },
+    {
+      "original": "0.093−0.012=0.081",
+      "latex": "0.093-0.012=0.081"
+    },
+    {
+      "original": "v=rω",
+      "latex": "v=r\\omega "
+    },
+    {
+      "original": "ω=0.68/0.081=8.4",
+      "latex": "\\omega =0.68/0.081=8.4"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "a=v²/r",
+      "latex": "a=v^{2}/r"
+    },
+    {
+      "original": "a=rω²",
+      "latex": "a=r\\omega ^{2}"
+    },
+    {
+      "original": "a=vω",
+      "latex": "a=v\\omega "
+    },
+    {
+      "original": "r=0.081",
+      "latex": "r=0.081"
+    },
+    {
+      "original": "a=v²/r",
+      "latex": "a=v^{2}/r"
+    },
+    {
+      "original": "0.68²/0.081=5.7",
+      "latex": "0.68^{2}/0.081=5.7"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "v=rω",
+      "latex": "v=r\\omega "
+    },
+    {
+      "original": "a=rω²",
+      "latex": "a=r\\omega ^{2}"
+    },
+    {
+      "original": "r₁ω₁=r₂ω₂",
+      "latex": "r_{1}\\omega _{1}=r_{2}\\omega _{2}"
+    },
+    {
+      "original": "ΣF=ma",
+      "latex": "\\sum F=ma"
+    },
+    {
+      "original": "N=0",
+      "latex": "N=0"
+    },
+    {
+      "original": "a=g",
+      "latex": "a=g"
+    },
+    {
+      "original": "ω²x₀=g",
+      "latex": "\\omega ^{2}x_{0}=g"
+    },
+    {
+      "original": "x₀=9.81/39²=6.4×10⁻³",
+      "latex": "x_{0}=9.81/39^{2}=6.4\\times 10^{-3}"
+    },
+    {
+      "original": "5.5×10⁻⁷",
+      "latex": "5.5\\times 10^{-7}"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "θ=ωt",
+      "latex": "\\theta =\\omega t"
+    },
+    {
+      "original": "x=R",
+      "latex": "x=R"
+    },
+    {
+      "original": "θ=ωt",
+      "latex": "\\theta =\\omega t"
+    },
+    {
+      "original": "x=R",
+      "latex": "x=R"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "t=0",
+      "latex": "t=0"
+    },
+    {
+      "original": "abs(Qq)/d²=mv²/r",
+      "latex": "abs(Qq)/d^{2}=mv^{2}/r"
+    },
+    {
+      "original": "d=2r",
+      "latex": "d=2r"
+    },
+    {
+      "original": "d≈r",
+      "latex": "d\\approx r"
+    },
+    {
+      "original": "g=F/m",
+      "latex": "g=F/m"
+    },
+    {
+      "original": "kg⁻¹",
+      "latex": "kg^{-1}"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "F=GMm/r²",
+      "latex": "F=GMm/r^{2}"
+    },
+    {
+      "original": "kg⁻²",
+      "latex": "kg^{-2}"
+    },
+    {
+      "original": "g=GM/r²",
+      "latex": "g=GM/r^{2}"
+    },
+    {
+      "original": "φ=−GM/r",
+      "latex": "\\varphi =-GM/r"
+    },
+    {
+      "original": "kg⁻¹",
+      "latex": "kg^{-1}"
+    },
+    {
+      "original": "U=mφ=−GMm/r",
+      "latex": "U=m\\varphi =-GMm/r"
+    },
+    {
+      "original": "K_i+U_i=K_f+U_f",
+      "latex": "K_{i}+U_{i}=K_{f}+U_{f}"
+    },
+    {
+      "original": "v_escape=√(2GM/r)",
+      "latex": "v_{\\mathrm{escape}}=\\sqrt{2GM/r}"
+    },
+    {
+      "original": "v_orbit=√(GM/r)",
+      "latex": "v_{\\mathrm{orbit}}=\\sqrt{GM/r}"
+    },
+    {
+      "original": "U=mφ",
+      "latex": "U=m\\varphi "
+    },
+    {
+      "original": "F=GMm/r²",
+      "latex": "F=GMm/r^{2}"
+    },
+    {
+      "original": "g=GM/r²",
+      "latex": "g=GM/r^{2}"
+    },
+    {
+      "original": "GM₁/x²=GM₂/(d−x)²",
+      "latex": "GM_{1}/x^{2}=GM_{2}/(d-x)^{2}"
+    },
+    {
+      "original": "φ=−GM/r",
+      "latex": "\\varphi =-GM/r"
+    },
+    {
+      "original": "U=mφ",
+      "latex": "U=m\\varphi "
+    },
+    {
+      "original": "ΔE=GMm/r−½mv²",
+      "latex": "\\Delta E=GMm/r-\\tfrac{1}{2}mv^{2}"
+    },
+    {
+      "original": "M=8.8×10²⁵",
+      "latex": "M=8.8\\times 10^{25}"
+    },
+    {
+      "original": "m=1200",
+      "latex": "m=1200"
+    },
+    {
+      "original": "r=8.3×10⁷",
+      "latex": "r=8.3\\times 10^{7}"
+    },
+    {
+      "original": "v=8400",
+      "latex": "v=8400"
+    },
+    {
+      "original": "4.3×10¹⁰",
+      "latex": "4.3\\times 10^{10}"
+    },
+    {
+      "original": "GMm/r²=4π²mr/T²",
+      "latex": "GMm/r^{2}=4\\pi ^{2}mr/T^{2}"
+    },
+    {
+      "original": "r³=GMT²/(4π²)",
+      "latex": "r^{3}=GMT^{2}/(4\\pi ^{2})"
+    },
+    {
+      "original": "r=R+h",
+      "latex": "r=R+h"
+    },
+    {
+      "original": "r=8.3×10⁷",
+      "latex": "r=8.3\\times 10^{7}"
+    },
+    {
+      "original": "T/K=θ/",
+      "latex": "T/K=\\theta /"
+    },
+    {
+      "original": "c_th=Q/(mΔT)",
+      "latex": "c_{\\mathrm{th}}=Q/(m\\Delta T)"
+    },
+    {
+      "original": "kg⁻¹",
+      "latex": "kg^{-1}"
+    },
+    {
+      "original": "K⁻¹",
+      "latex": "K^{-1}"
+    },
+    {
+      "original": "C_th=mc_th",
+      "latex": "C_{\\mathrm{th}}=mc_{\\mathrm{th}}"
+    },
+    {
+      "original": "K⁻¹",
+      "latex": "K^{-1}"
+    },
+    {
+      "original": "L_h=Q/m",
+      "latex": "L_{h}=Q/m"
+    },
+    {
+      "original": "kg⁻¹",
+      "latex": "kg^{-1}"
+    },
+    {
+      "original": "Q_in=Pt",
+      "latex": "Q_{\\mathrm{in}}=Pt"
+    },
+    {
+      "original": "Q_liquid=Pt−Q_container−Q_loss",
+      "latex": "Q_{\\mathrm{liquid}}=Pt-Q_{\\mathrm{container}}-Q_{\\mathrm{loss}}"
+    },
+    {
+      "original": "T=θ+273.15",
+      "latex": "T=\\theta +273.15"
+    },
+    {
+      "original": "c=Q/(mΔT)",
+      "latex": "c=Q/(m\\Delta T)"
+    },
+    {
+      "original": "c=Q/(mΔT)",
+      "latex": "c=Q/(m\\Delta T)"
+    },
+    {
+      "original": "Q=960",
+      "latex": "Q=960"
+    },
+    {
+      "original": "m=0.016",
+      "latex": "m=0.016"
+    },
+    {
+      "original": "ΔT=416−293",
+      "latex": "\\Delta T=416-293"
+    },
+    {
+      "original": "c=490",
+      "latex": "c=490"
+    },
+    {
+      "original": "kg⁻¹",
+      "latex": "kg^{-1}"
+    },
+    {
+      "original": "K⁻¹",
+      "latex": "K^{-1}"
+    },
+    {
+      "original": "Q=mL",
+      "latex": "Q=mL"
+    },
+    {
+      "original": "L=335",
+      "latex": "L=335"
+    },
+    {
+      "original": "g⁻¹",
+      "latex": "g^{-1}"
+    },
+    {
+      "original": "Pt=810×21",
+      "latex": "Pt=810\\times 21"
+    },
+    {
+      "original": "c=Q/(mΔθ)",
+      "latex": "c=Q/(m\\Delta \\theta )"
+    },
+    {
+      "original": "42×0.84×(80−25)≈1940",
+      "latex": "42\\times 0.84\\times (80-25)\\approx 1940"
+    },
+    {
+      "original": "c≈2.3",
+      "latex": "c\\approx 2.3"
+    },
+    {
+      "original": "g⁻¹",
+      "latex": "g^{-1}"
+    },
+    {
+      "original": "K⁻¹",
+      "latex": "K^{-1}"
+    },
+    {
+      "original": "pV∝T",
+      "latex": "pV\\propto T"
+    },
+    {
+      "original": "(m³)",
+      "latex": "(m^{3})"
+    },
+    {
+      "original": "mol⁻¹",
+      "latex": "mol^{-1}"
+    },
+    {
+      "original": "K⁻¹",
+      "latex": "K^{-1}"
+    },
+    {
+      "original": "pV=nRT",
+      "latex": "pV=nRT"
+    },
+    {
+      "original": "mol⁻¹",
+      "latex": "mol^{-1}"
+    },
+    {
+      "original": "N=nN",
+      "latex": "N=nN"
+    },
+    {
+      "original": "k=R/N",
+      "latex": "k=R/N"
+    },
+    {
+      "original": "K⁻¹",
+      "latex": "K^{-1}"
+    },
+    {
+      "original": "pV=NkT",
+      "latex": "pV=NkT"
+    },
+    {
+      "original": "pV=(1/3)Nm⟨c²⟩",
+      "latex": "pV=(1/3)Nm⟨c^{2}⟩"
+    },
+    {
+      "original": "c²⟩",
+      "latex": "c^{2}⟩"
+    },
+    {
+      "original": "s⁻²",
+      "latex": "s^{-2}"
+    },
+    {
+      "original": "K⟩=(3/2)kT=(1/2)m⟨c²⟩",
+      "latex": "K⟩=(3/2)kT=(1/2)m⟨c^{2}⟩"
+    },
+    {
+      "original": "c_rms=√⟨c²⟩",
+      "latex": "c_{\\mathrm{rms}}=\\sqrt{\\langle c^{2}\\rangle}"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "pV=nRT",
+      "latex": "pV=nRT"
+    },
+    {
+      "original": "N=nN",
+      "latex": "N=nN"
+    },
+    {
+      "original": "pV=nRT",
+      "latex": "pV=nRT"
+    },
+    {
+      "original": "1.24/293=(1.24+0.520)/T",
+      "latex": "1.24/293=(1.24+0.520)/T"
+    },
+    {
+      "original": "T=416",
+      "latex": "T=416"
+    },
+    {
+      "original": "N=nN",
+      "latex": "N=nN"
+    },
+    {
+      "original": "N=M/m=nN",
+      "latex": "N=M/m=nN"
+    },
+    {
+      "original": "pV=NkT",
+      "latex": "pV=NkT"
+    },
+    {
+      "original": "T=227+273=500",
+      "latex": "T=227+273=500"
+    },
+    {
+      "original": "p=1.37×10⁵",
+      "latex": "p=1.37\\times 10^{5}"
+    },
+    {
+      "original": "V=0.640",
+      "latex": "V=0.640"
+    },
+    {
+      "original": "N=1.27×10²⁵",
+      "latex": "N=1.27\\times 10^{25}"
+    },
+    {
+      "original": "mol⁻¹",
+      "latex": "mol^{-1}"
+    },
+    {
+      "original": "½m⟨c²⟩=3kT/2",
+      "latex": "\\tfrac{1}{2}m⟨c^{2}⟩=3kT/2"
+    },
+    {
+      "original": "m=3.34×10⁻²⁷",
+      "latex": "m=3.34\\times 10^{-27}"
+    },
+    {
+      "original": "T=500",
+      "latex": "T=500"
+    },
+    {
+      "original": "(3×1.38×10⁻²³×500/m)=2490",
+      "latex": "(3\\times 1.38\\times 10^{-23}\\times 500/m)=2490"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "c²⟩",
+      "latex": "c^{2}⟩"
+    },
+    {
+      "original": "ΔU=Q+W_on",
+      "latex": "\\Delta U=Q+W_{\\mathrm{on}}"
+    },
+    {
+      "original": "ΔU=Q−W_by",
+      "latex": "\\Delta U=Q-W_{\\mathrm{by}}"
+    },
+    {
+      "original": "W_by=pΔV",
+      "latex": "W_{\\mathrm{by}}=p\\Delta V"
+    },
+    {
+      "original": "m³=J",
+      "latex": "m^{3}=J"
+    },
+    {
+      "original": "W_on=−pΔV",
+      "latex": "W_{\\mathrm{on}}=-p\\Delta V"
+    },
+    {
+      "original": "ΔV=0",
+      "latex": "\\Delta V=0"
+    },
+    {
+      "original": "Q=0",
+      "latex": "Q=0"
+    },
+    {
+      "original": "ΔU=0",
+      "latex": "\\Delta U=0"
+    },
+    {
+      "original": "U=(3/2)NkT=(3/2)pV",
+      "latex": "U=(3/2)NkT=(3/2)pV"
+    },
+    {
+      "original": "ΣΔU=0",
+      "latex": "\\sum \\Delta U=0"
+    },
+    {
+      "original": "ΔU=Q+W_on",
+      "latex": "\\Delta U=Q+W_{\\mathrm{on}}"
+    },
+    {
+      "original": "U=3NkT/2",
+      "latex": "U=3NkT/2"
+    },
+    {
+      "original": "ΔU=Q+W_on",
+      "latex": "\\Delta U=Q+W_{\\mathrm{on}}"
+    },
+    {
+      "original": "W_on=−pΔV",
+      "latex": "W_{\\mathrm{on}}=-p\\Delta V"
+    },
+    {
+      "original": "Q=0",
+      "latex": "Q=0"
+    },
+    {
+      "original": "W_on=−5000",
+      "latex": "W_{\\mathrm{on}}=-5000"
+    },
+    {
+      "original": "ΔU=Q+W_on",
+      "latex": "\\Delta U=Q+W_{\\mathrm{on}}"
+    },
+    {
+      "original": "7600=Q−5000",
+      "latex": "7600=Q-5000"
+    },
+    {
+      "original": "Q=12600",
+      "latex": "Q=12600"
+    },
+    {
+      "original": "ΣΔU=0",
+      "latex": "\\sum \\Delta U=0"
+    },
+    {
+      "original": "20XY−8XY=12XY",
+      "latex": "20XY-8XY=12XY"
+    },
+    {
+      "original": "a=−ω²x",
+      "latex": "a=-\\omega ^{2}x"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "h_eq=(h_max+h_min)/2",
+      "latex": "h_{\\mathrm{eq}}=(h_{\\mathrm{max}}+h_{\\mathrm{min}})/2"
+    },
+    {
+      "original": "x₀=(h_max−h_min)/2",
+      "latex": "x_{0}=(h_{\\mathrm{max}}-h_{\\mathrm{min}})/2"
+    },
+    {
+      "original": "ω=2π/T",
+      "latex": "\\omega =2\\pi /T"
+    },
+    {
+      "original": "x=x₀sinωt",
+      "latex": "x=x_{0}\\sin \\omega t"
+    },
+    {
+      "original": "v=ωx₀cosωt",
+      "latex": "v=\\omega x_{0}\\cos \\omega t"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "v₀=ωx₀",
+      "latex": "v_{0}=\\omega x_{0}"
+    },
+    {
+      "original": "v=±ω√(x₀²−x²)",
+      "latex": "v=\\pm \\omega \\sqrt{x_{0}^{2}-x^{2}}"
+    },
+    {
+      "original": "Δφ=2πΔt/T(rad)",
+      "latex": "\\Delta \\varphi =2\\pi \\Delta t/T(rad)"
+    },
+    {
+      "original": "E=½mω²x₀²",
+      "latex": "E=\\tfrac{1}{2}m\\omega ^{2}x_{0}^{2}"
+    },
+    {
+      "original": "K=½mω²(x₀²−x²)",
+      "latex": "K=\\tfrac{1}{2}m\\omega ^{2}(x_{0}^{2}-x^{2})"
+    },
+    {
+      "original": "U_osc=½mω²x²",
+      "latex": "U_{\\mathrm{osc}}=\\tfrac{1}{2}m\\omega ^{2}x^{2}"
+    },
+    {
+      "original": "a∝−x",
+      "latex": "a\\propto -x"
+    },
+    {
+      "original": "x=h−h_eq",
+      "latex": "x=h-h_{\\mathrm{eq}}"
+    },
+    {
+      "original": "v₀=ωx₀",
+      "latex": "v_{0}=\\omega x_{0}"
+    },
+    {
+      "original": "v₀=0.56",
+      "latex": "v_{0}=0.56"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "ω=16",
+      "latex": "\\omega =16"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "x₀=0.56/16=0.035",
+      "latex": "x_{0}=0.56/16=0.035"
+    },
+    {
+      "original": "E=½mω²x₀²",
+      "latex": "E=\\tfrac{1}{2}m\\omega ^{2}x_{0}^{2}"
+    },
+    {
+      "original": "U=½mω²x²",
+      "latex": "U=\\tfrac{1}{2}m\\omega ^{2}x^{2}"
+    },
+    {
+      "original": "K=E−U",
+      "latex": "K=E-U"
+    },
+    {
+      "original": "E=½mω²x₀²",
+      "latex": "E=\\tfrac{1}{2}m\\omega ^{2}x_{0}^{2}"
+    },
+    {
+      "original": "mm=4x₀",
+      "latex": "mm=4x_{0}"
+    },
+    {
+      "original": "x₀=3.5",
+      "latex": "x_{0}=3.5"
+    },
+    {
+      "original": "m=24",
+      "latex": "m=24"
+    },
+    {
+      "original": "E=2.2×10⁻⁴",
+      "latex": "E=2.2\\times 10^{-4}"
+    },
+    {
+      "original": "ω=39",
+      "latex": "\\omega =39"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "E=F/q",
+      "latex": "E=F/q"
+    },
+    {
+      "original": "C⁻¹",
+      "latex": "C^{-1}"
+    },
+    {
+      "original": "m⁻¹",
+      "latex": "m^{-1}"
+    },
+    {
+      "original": "F=k_e",
+      "latex": "F=k_{e}"
+    },
+    {
+      "original": "abs(Qq)/r²",
+      "latex": "abs(Qq)/r^{2}"
+    },
+    {
+      "original": "k_e=1/(4πε₀)",
+      "latex": "k_{e}=1/(4\\pi \\varepsilon _{0})"
+    },
+    {
+      "original": "m⁻¹",
+      "latex": "m^{-1}"
+    },
+    {
+      "original": "C⁻²",
+      "latex": "C^{-2}"
+    },
+    {
+      "original": "k_eQ/r²",
+      "latex": "k_{e}Q/r^{2}"
+    },
+    {
+      "original": "V=k_eQ/r",
+      "latex": "V=k_{e}Q/r"
+    },
+    {
+      "original": "C⁻¹",
+      "latex": "C^{-1}"
+    },
+    {
+      "original": "U=qV",
+      "latex": "U=qV"
+    },
+    {
+      "original": "E_x=−dV/dx",
+      "latex": "E_{x}=-dV/dx"
+    },
+    {
+      "original": "m⁻¹",
+      "latex": "m^{-1}"
+    },
+    {
+      "original": "E=abs(ΔV)/d",
+      "latex": "E=abs(\\Delta V)/d"
+    },
+    {
+      "original": "a=qE/m",
+      "latex": "a=qE/m"
+    },
+    {
+      "original": "ΔK=−qΔV",
+      "latex": "\\Delta K=-q\\Delta V"
+    },
+    {
+      "original": "U=qV",
+      "latex": "U=qV"
+    },
+    {
+      "original": "E=V/d",
+      "latex": "E=V/d"
+    },
+    {
+      "original": "mg=qE",
+      "latex": "mg=qE"
+    },
+    {
+      "original": "E=0",
+      "latex": "E=0"
+    },
+    {
+      "original": "F=qE",
+      "latex": "F=qE"
+    },
+    {
+      "original": "F=k",
+      "latex": "F=k"
+    },
+    {
+      "original": "abs(Qq)/r²",
+      "latex": "abs(Qq)/r^{2}"
+    },
+    {
+      "original": "g=GM/r²",
+      "latex": "g=GM/r^{2}"
+    },
+    {
+      "original": "E=Q/(4πε₀r²)",
+      "latex": "E=Q/(4\\pi \\varepsilon _{0}r^{2})"
+    },
+    {
+      "original": "M/Q=(g/E)/(4πGε₀)",
+      "latex": "M/Q=(g/E)/(4\\pi G\\varepsilon _{0})"
+    },
+    {
+      "original": "V=0",
+      "latex": "V=0"
+    },
+    {
+      "original": "E=0",
+      "latex": "E=0"
+    },
+    {
+      "original": "V=k",
+      "latex": "V=k"
+    },
+    {
+      "original": "E=−dV/dx",
+      "latex": "E=-dV/dx"
+    },
+    {
+      "original": "E=−dV/dx",
+      "latex": "E=-dV/dx"
+    },
+    {
+      "original": "U=qV",
+      "latex": "U=qV"
+    },
+    {
+      "original": "ΔK=−ΔU",
+      "latex": "\\Delta K=-\\Delta U"
+    },
+    {
+      "original": "E=V/d",
+      "latex": "E=V/d"
+    },
+    {
+      "original": "mg=qE",
+      "latex": "mg=qE"
+    },
+    {
+      "original": "a=qE/m",
+      "latex": "a=qE/m"
+    },
+    {
+      "original": "mg=Eq",
+      "latex": "mg=Eq"
+    },
+    {
+      "original": "m=1.6×10⁻¹⁰",
+      "latex": "m=1.6\\times 10^{-10}"
+    },
+    {
+      "original": "q=0.27×10⁻⁹",
+      "latex": "q=0.27\\times 10^{-9}"
+    },
+    {
+      "original": "E=mg/q=5.8",
+      "latex": "E=mg/q=5.8"
+    },
+    {
+      "original": "C⁻¹",
+      "latex": "C^{-1}"
+    },
+    {
+      "original": "C=Q/V",
+      "latex": "C=Q/V"
+    },
+    {
+      "original": "C_eq=ΣC_i",
+      "latex": "C_{\\mathrm{eq}}=\\sum C_{i}"
+    },
+    {
+      "original": "1/C_eq=Σ(1/C_i)",
+      "latex": "1/C_{\\mathrm{eq}}=\\sum (1/C_{i})"
+    },
+    {
+      "original": "Q=CV",
+      "latex": "Q=CV"
+    },
+    {
+      "original": "W=½QV=½CV²=Q²/(2C)",
+      "latex": "W=\\tfrac{1}{2}QV=\\tfrac{1}{2}CV^{2}=Q^{2}/(2C)"
+    },
+    {
+      "original": "τ=RC(s)",
+      "latex": "\\tau =RC(s)"
+    },
+    {
+      "original": "x=x₀exp(−t/τ)",
+      "latex": "x=x_{0}\\exp (-t/\\tau )"
+    },
+    {
+      "original": "I₀=V₀/R",
+      "latex": "I_{0}=V_{0}/R"
+    },
+    {
+      "original": "½CV²",
+      "latex": "\\tfrac{1}{2}CV^{2}"
+    },
+    {
+      "original": "Q²/2C",
+      "latex": "Q^{2}/2C"
+    },
+    {
+      "original": "C=Q/V",
+      "latex": "C=Q/V"
+    },
+    {
+      "original": "F=C",
+      "latex": "F=C"
+    },
+    {
+      "original": "V⁻¹",
+      "latex": "V^{-1}"
+    },
+    {
+      "original": "C_eq=(1/45+1/30)⁻¹=18",
+      "latex": "C_{\\mathrm{eq}}=(1/45+1/30)^{-1}=18"
+    },
+    {
+      "original": "½CV²",
+      "latex": "\\tfrac{1}{2}CV^{2}"
+    },
+    {
+      "original": "Q²/2C",
+      "latex": "Q^{2}/2C"
+    },
+    {
+      "original": "E=½CV²",
+      "latex": "E=\\tfrac{1}{2}CV^{2}"
+    },
+    {
+      "original": "½×45×10⁻⁶×(9.6²−8.0²)=6.3×10⁻⁴",
+      "latex": "\\tfrac{1}{2}\\times 45\\times 10^{-6}\\times (9.6^{2}-8.0^{2})=6.3\\times 10^{-4}"
+    },
+    {
+      "original": "V=Q/C",
+      "latex": "V=Q/C"
+    },
+    {
+      "original": "I=V/R",
+      "latex": "I=V/R"
+    },
+    {
+      "original": "I=−dQ/dt",
+      "latex": "I=-dQ/dt"
+    },
+    {
+      "original": "ln(x/x₀)=−t/(RC)",
+      "latex": "\\ln (x/x_{0})=-t/(RC)"
+    },
+    {
+      "original": "t=0.034",
+      "latex": "t=0.034"
+    },
+    {
+      "original": "5.4=6.0",
+      "latex": "5.4=6.0"
+    },
+    {
+      "original": "C=2.7×10⁻⁴",
+      "latex": "C=2.7\\times 10^{-4}"
+    },
+    {
+      "original": "τ=RC",
+      "latex": "\\tau =RC"
+    },
+    {
+      "original": "t=τ",
+      "latex": "t=\\tau "
+    },
+    {
+      "original": "τ=−Δt/ln(x₂/x₁)",
+      "latex": "\\tau =-\\Delta t/\\ln (x_{2}/x_{1})"
+    },
+    {
+      "original": "3.2=4.0",
+      "latex": "3.2=4.0"
+    },
+    {
+      "original": "τ=36",
+      "latex": "\\tau =36"
+    },
+    {
+      "original": "B=F/(IL)",
+      "latex": "B=F/(IL)"
+    },
+    {
+      "original": "F=BIL",
+      "latex": "F=BIL"
+    },
+    {
+      "original": "F=B",
+      "latex": "F=B"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "r=mv/(abs(q)B)",
+      "latex": "r=mv/(abs(q)B)"
+    },
+    {
+      "original": "T=2πm/(abs(q)B)",
+      "latex": "T=2\\pi m/(abs(q)B)"
+    },
+    {
+      "original": "v=E/B",
+      "latex": "v=E/B"
+    },
+    {
+      "original": "(m⁻³)",
+      "latex": "(m^{-3})"
+    },
+    {
+      "original": "I=nAqv_d",
+      "latex": "I=nAqv_{d}"
+    },
+    {
+      "original": "F=BILsinθ",
+      "latex": "F=BILsin\\theta "
+    },
+    {
+      "original": "F=Bqvsinθ",
+      "latex": "F=Bqvsin\\theta "
+    },
+    {
+      "original": "r=mv/qB",
+      "latex": "r=mv/qB"
+    },
+    {
+      "original": "F=BILsinθ",
+      "latex": "F=BILsin\\theta "
+    },
+    {
+      "original": "F=Bqvsinθ",
+      "latex": "F=Bqvsin\\theta "
+    },
+    {
+      "original": "F=BQv",
+      "latex": "F=BQv"
+    },
+    {
+      "original": "r=mv/qB",
+      "latex": "r=mv/qB"
+    },
+    {
+      "original": "Babs(q)v=mv²/r",
+      "latex": "Babs(q)v=mv^{2}/r"
+    },
+    {
+      "original": "T=2πm/(abs(q)B)",
+      "latex": "T=2\\pi m/(abs(q)B)"
+    },
+    {
+      "original": "v=2πr/T",
+      "latex": "v=2\\pi r/T"
+    },
+    {
+      "original": "B=2πm/(qT)",
+      "latex": "B=2\\pi m/(qT)"
+    },
+    {
+      "original": "abs(q)E=abs(q)vB",
+      "latex": "abs(q)E=abs(q)vB"
+    },
+    {
+      "original": "v=E/B",
+      "latex": "v=E/B"
+    },
+    {
+      "original": "qE=Bqv",
+      "latex": "qE=Bqv"
+    },
+    {
+      "original": "E=Bv=0.052×1.1×10⁶=5.7×10⁴",
+      "latex": "E=Bv=0.052\\times 1.1\\times 10^{6}=5.7\\times 10^{4}"
+    },
+    {
+      "original": "C⁻¹",
+      "latex": "C^{-1}"
+    },
+    {
+      "original": "qE=qvB",
+      "latex": "qE=qvB"
+    },
+    {
+      "original": "I=nAqv",
+      "latex": "I=nAqv"
+    },
+    {
+      "original": "V_H=BI/(ntq)",
+      "latex": "V_{H}=BI/(ntq)"
+    },
+    {
+      "original": "V_H=BI/(ntq)",
+      "latex": "V_{H}=BI/(ntq)"
+    },
+    {
+      "original": "B=4.0×10⁻⁶",
+      "latex": "B=4.0\\times 10^{-6}"
+    },
+    {
+      "original": "I=5.4",
+      "latex": "I=5.4"
+    },
+    {
+      "original": "n=1.5×10¹⁶",
+      "latex": "n=1.5\\times 10^{16}"
+    },
+    {
+      "original": "t=1.8×10⁻³",
+      "latex": "t=1.8\\times 10^{-3}"
+    },
+    {
+      "original": "q=1.60×10⁻¹⁹",
+      "latex": "q=1.60\\times 10^{-19}"
+    },
+    {
+      "original": "Φ=BA",
+      "latex": "\\Phi =BA"
+    },
+    {
+      "original": "(m²)",
+      "latex": "(m^{2})"
+    },
+    {
+      "original": "Φ=BA",
+      "latex": "\\Phi =BA"
+    },
+    {
+      "original": "ε=−d",
+      "latex": "\\varepsilon =-d"
+    },
+    {
+      "original": "ε=Blv",
+      "latex": "\\varepsilon =Blv"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "dA/dt=lv",
+      "latex": "dA/dt=lv"
+    },
+    {
+      "original": "Φ=BA",
+      "latex": "\\Phi =BA"
+    },
+    {
+      "original": "Φ=BA",
+      "latex": "\\Phi =BA"
+    },
+    {
+      "original": "0.080×0.71×10⁻⁴×64",
+      "latex": "0.080\\times 0.71\\times 10^{-4}\\times 64"
+    },
+    {
+      "original": "3.6×10⁻⁴",
+      "latex": "3.6\\times 10^{-4}"
+    },
+    {
+      "original": "0.046/0.60=0.077",
+      "latex": "0.046/0.60=0.077"
+    },
+    {
+      "original": "I=I₀sinωt",
+      "latex": "I=I_{0}\\sin \\omega t"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "T=2π/ω",
+      "latex": "T=2\\pi /\\omega "
+    },
+    {
+      "original": "t=0",
+      "latex": "t=0"
+    },
+    {
+      "original": "I_rms=√⟨I²⟩",
+      "latex": "I_{\\mathrm{rms}}=\\sqrt{\\langle I^{2}\\rangle}"
+    },
+    {
+      "original": "I_rms=I₀/√2",
+      "latex": "I_{\\mathrm{rms}}=I_{0}/\\sqrt{2}"
+    },
+    {
+      "original": "V_rms=V₀/√2",
+      "latex": "V_{\\mathrm{rms}}=V_{0}/\\sqrt{2}"
+    },
+    {
+      "original": "P=I²R=V²/R",
+      "latex": "P=I^{2}R=V^{2}/R"
+    },
+    {
+      "original": "P⟩=P_peak/2",
+      "latex": "P⟩=P_{p}eak/2"
+    },
+    {
+      "original": "V_rms=V₀/2",
+      "latex": "V_{\\mathrm{rms}}=V_{0}/2"
+    },
+    {
+      "original": "V=V₀sinωt",
+      "latex": "V=V_{0}\\sin \\omega t"
+    },
+    {
+      "original": "T=2π/ω",
+      "latex": "T=2\\pi /\\omega "
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "T=2π/(40π)=0.050",
+      "latex": "T=2\\pi /(40\\pi )=0.050"
+    },
+    {
+      "original": "V₀/√2",
+      "latex": "V_{0}/\\sqrt{2}"
+    },
+    {
+      "original": "P=V²/R",
+      "latex": "P=V^{2}/R"
+    },
+    {
+      "original": "(5/2)I₀²R",
+      "latex": "(5/2)I_{0}^{2}R"
+    },
+    {
+      "original": "I_rms²R",
+      "latex": "I_{\\mathrm{rms}}^{2}R"
+    },
+    {
+      "original": "I_rms=√(5/2)I₀",
+      "latex": "I_{\\mathrm{rms}}=\\sqrt{5/2}I_{0}"
+    },
+    {
+      "original": "V₀/√2",
+      "latex": "V_{0}/\\sqrt{2}"
+    },
+    {
+      "original": "hf=hc/λ",
+      "latex": "hf=hc/\\lambda "
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "eV=1.60×10⁻¹⁹",
+      "latex": "eV=1.60\\times 10^{-19}"
+    },
+    {
+      "original": "c=h/λ",
+      "latex": "c=h/\\lambda "
+    },
+    {
+      "original": "I_rad=P/A",
+      "latex": "I_{\\mathrm{rad}}=P/A"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "f₀=Φ_w/h",
+      "latex": "f_{0}=\\Phi _{w}/h"
+    },
+    {
+      "original": "λ₀=hc/Φ_w",
+      "latex": "\\lambda _{0}=hc/\\Phi _{w}"
+    },
+    {
+      "original": "hf=Φ_w+K_max",
+      "latex": "hf=\\Phi _{w}+K_{\\mathrm{max}}"
+    },
+    {
+      "original": "K_max=½m_ev_max²=eV_s",
+      "latex": "K_{\\mathrm{max}}=\\tfrac{1}{2}m_{e}v_{\\mathrm{max}}^{2}=eV_{s}"
+    },
+    {
+      "original": "λ=h/p",
+      "latex": "\\lambda =h/p"
+    },
+    {
+      "original": "hf=E_high−E_low",
+      "latex": "hf=E_{\\mathrm{high}}-E_{\\mathrm{low}}"
+    },
+    {
+      "original": "E=hf",
+      "latex": "E=hf"
+    },
+    {
+      "original": "p=E/c",
+      "latex": "p=E/c"
+    },
+    {
+      "original": "λ=h/p",
+      "latex": "\\lambda =h/p"
+    },
+    {
+      "original": "E=hf",
+      "latex": "E=hf"
+    },
+    {
+      "original": "p=E/c",
+      "latex": "p=E/c"
+    },
+    {
+      "original": "P=IA",
+      "latex": "P=IA"
+    },
+    {
+      "original": "p=E/c",
+      "latex": "p=E/c"
+    },
+    {
+      "original": "p=3.11×10⁻¹⁹/(3.00×10⁸)=1.04×10⁻²⁷",
+      "latex": "p=3.11\\times 10^{-19}/(3.00\\times 10^{8})=1.04\\times 10^{-27}"
+    },
+    {
+      "original": "hf≥Φ",
+      "latex": "hf\\ge \\Phi "
+    },
+    {
+      "original": "K_max=hf−Φ=eV_s",
+      "latex": "K_{\\mathrm{max}}=hf-\\Phi =eV_{s}"
+    },
+    {
+      "original": "2.26×1.60×10⁻¹⁹",
+      "latex": "2.26\\times 1.60\\times 10^{-19}"
+    },
+    {
+      "original": "Φ=hc/λ₀",
+      "latex": "\\Phi =hc/\\lambda _{0}"
+    },
+    {
+      "original": "λ₀=5.50×10⁻⁷",
+      "latex": "\\lambda _{0}=5.50\\times 10^{-7}"
+    },
+    {
+      "original": "λ=h/p",
+      "latex": "\\lambda =h/p"
+    },
+    {
+      "original": "qV=½mv²",
+      "latex": "qV=\\tfrac{1}{2}mv^{2}"
+    },
+    {
+      "original": "p=√(2mqV)",
+      "latex": "p=\\sqrt{2mqV}"
+    },
+    {
+      "original": "λ=h/p",
+      "latex": "\\lambda =h/p"
+    },
+    {
+      "original": "λ=h/p",
+      "latex": "\\lambda =h/p"
+    },
+    {
+      "original": "p=(4×1.66×10⁻²⁷)×6.2×10⁷≈4.1×10⁻¹⁹",
+      "latex": "p=(4\\times 1.66\\times 10^{-27})\\times 6.2\\times 10^{7}\\approx 4.1\\times 10^{-19}"
+    },
+    {
+      "original": "λ=1.6×10⁻¹⁵",
+      "latex": "\\lambda =1.6\\times 10^{-15}"
+    },
+    {
+      "original": "m_ec²",
+      "latex": "m_{e}c^{2}"
+    },
+    {
+      "original": "mc²",
+      "latex": "mc^{2}"
+    },
+    {
+      "original": "mc²+1.1×10⁻¹⁵",
+      "latex": "mc^{2}+1.1\\times 10^{-15}"
+    },
+    {
+      "original": "λ=2.39×10⁻¹²",
+      "latex": "\\lambda =2.39\\times 10^{-12}"
+    },
+    {
+      "original": "2m_ec²",
+      "latex": "2m_{e}c^{2}"
+    },
+    {
+      "original": "Δp=p",
+      "latex": "\\Delta p=p"
+    },
+    {
+      "original": "Δp=2p",
+      "latex": "\\Delta p=2p"
+    },
+    {
+      "original": "F=(E/c)/(E/P)=P/c",
+      "latex": "F=(E/c)/(E/P)=P/c"
+    },
+    {
+      "original": "E=mc²",
+      "latex": "E=mc^{2}"
+    },
+    {
+      "original": "B_E=Δmc²",
+      "latex": "B_{E}=\\Delta mc^{2}"
+    },
+    {
+      "original": "1.66×10⁻²⁷",
+      "latex": "1.66\\times 10^{-27}"
+    },
+    {
+      "original": "A=Z+N_n",
+      "latex": "A=Z+N_{n}"
+    },
+    {
+      "original": "A_act=λ_d",
+      "latex": "A_{\\mathrm{act}}=\\lambda _{d}"
+    },
+    {
+      "original": "Bq=s⁻¹",
+      "latex": "Bq=s^{-1}"
+    },
+    {
+      "original": "(s⁻¹)",
+      "latex": "(s^{-1})"
+    },
+    {
+      "original": "λ_d=ln2/t_half",
+      "latex": "\\lambda _{d}=\\ln 2/t_{\\mathrm{half}}"
+    },
+    {
+      "original": "N=N₀exp(−λ_dt)",
+      "latex": "N=N_{0}\\exp (-\\lambda _{d}t)"
+    },
+    {
+      "original": "A_act=A₀exp(−λ_dt)",
+      "latex": "A_{\\mathrm{act}}=A_{0}\\exp (-\\lambda _{d}t)"
+    },
+    {
+      "original": "m_ec²",
+      "latex": "m_{e}c^{2}"
+    },
+    {
+      "original": "2m_ec²",
+      "latex": "2m_{e}c^{2}"
+    },
+    {
+      "original": "A=λN",
+      "latex": "A=\\lambda N"
+    },
+    {
+      "original": "Δmc²",
+      "latex": "\\Delta mc^{2}"
+    },
+    {
+      "original": "Δmc²",
+      "latex": "\\Delta mc^{2}"
+    },
+    {
+      "original": "2.95×10⁻²⁷",
+      "latex": "2.95\\times 10^{-27}"
+    },
+    {
+      "original": "A=λN",
+      "latex": "A=\\lambda N"
+    },
+    {
+      "original": "λ=ln2/t_half",
+      "latex": "\\lambda =\\ln 2/t_{\\mathrm{half}}"
+    },
+    {
+      "original": "1/32=(1/2)⁵",
+      "latex": "1/32=(1/2)^{5}"
+    },
+    {
+      "original": "t_half=6.0/5=1.2",
+      "latex": "t_{\\mathrm{half}}=6.0/5=1.2"
+    },
+    {
+      "original": "A=0",
+      "latex": "A=0"
+    },
+    {
+      "original": "Z=+1",
+      "latex": "Z=+1"
+    },
+    {
+      "original": "Δmc²",
+      "latex": "\\Delta mc^{2}"
+    },
+    {
+      "original": "Δmc²",
+      "latex": "\\Delta mc^{2}"
+    },
+    {
+      "original": "5.24×10⁻¹³",
+      "latex": "5.24\\times 10^{-13}"
+    },
+    {
+      "original": "1.58×10¹¹",
+      "latex": "1.58\\times 10^{11}"
+    },
+    {
+      "original": "d=c_s",
+      "latex": "d=c_{s}"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "Z_a=ρc_s",
+      "latex": "Z_{a}=\\rho c_{s}"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "m⁻³",
+      "latex": "m^{-3}"
+    },
+    {
+      "original": "R_I=I_R/I₀=[(Z₂−Z₁)/(Z₂+Z₁)]²",
+      "latex": "R_{I}=I_{R}/I_{0}=[(Z_{2}-Z_{1})/(Z_{2}+Z_{1})]^{2}"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "I=I₀exp(−μx)",
+      "latex": "I=I_{0}\\exp (-\\mu x)"
+    },
+    {
+      "original": "cm⁻¹",
+      "latex": "cm^{-1}"
+    },
+    {
+      "original": "λ_min=hc/(eV_acc)",
+      "latex": "\\lambda _{\\mathrm{min}}=hc/(eV_{\\mathrm{acc}})"
+    },
+    {
+      "original": "eV=hc/λ_min",
+      "latex": "eV=hc/\\lambda _{\\mathrm{min}}"
+    },
+    {
+      "original": "Z=ρc",
+      "latex": "Z=\\rho c"
+    },
+    {
+      "original": "eV=hc/λ_min",
+      "latex": "eV=hc/\\lambda _{\\mathrm{min}}"
+    },
+    {
+      "original": "eV=hc/λ_min",
+      "latex": "eV=hc/\\lambda _{\\mathrm{min}}"
+    },
+    {
+      "original": "V=84×10³",
+      "latex": "V=84\\times 10^{3}"
+    },
+    {
+      "original": "λ_min=(6.63×10⁻³⁴×3.00×10⁸)/(1.60×10⁻¹⁹×84×10³)=1.5×10⁻¹¹",
+      "latex": "\\lambda _{\\mathrm{min}}=(6.63\\times 10^{-34}\\times 3.00\\times 10^{8})/(1.60\\times 10^{-19}\\times 84\\times 10^{3})=1.5\\times 10^{-11}"
+    },
+    {
+      "original": "I=I₀exp(−μx)",
+      "latex": "I=I_{0}\\exp (-\\mu x)"
+    },
+    {
+      "original": "0.13=exp(−3.0x)exp(−0.22x)",
+      "latex": "0.13=\\exp (-3.0x)\\exp (-0.22x)"
+    },
+    {
+      "original": "x=−ln0.13/3.22=0.63",
+      "latex": "x=-\\ln 0.13/3.22=0.63"
+    },
+    {
+      "original": "cm⁻¹",
+      "latex": "cm^{-1}"
+    },
+    {
+      "original": "d=ct/2",
+      "latex": "d=ct/2"
+    },
+    {
+      "original": "Z=ρc",
+      "latex": "Z=\\rho c"
+    },
+    {
+      "original": "R_I=[(Z₂−Z₁)/(Z₂+Z₁)]²",
+      "latex": "R_{I}=[(Z_{2}-Z_{1})/(Z_{2}+Z_{1})]^{2}"
+    },
+    {
+      "original": "Z=1.42×10⁶",
+      "latex": "Z=1.42\\times 10^{6}"
+    },
+    {
+      "original": "Z=11.4×10⁶",
+      "latex": "Z=11.4\\times 10^{6}"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "R_I=(11.4−1.42)²/(11.4+1.42)²=0.61",
+      "latex": "R_{I}=(11.4-1.42)^{2}/(11.4+1.42)^{2}=0.61"
+    },
+    {
+      "original": "F_rad=L_star/(4πd²)",
+      "latex": "F_{\\mathrm{rad}}=L_{\\mathrm{star}}/(4\\pi d^{2})"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "T=b",
+      "latex": "T=b"
+    },
+    {
+      "original": "L_star=4πσr_star²T⁴",
+      "latex": "L_{\\mathrm{star}}=4\\pi \\sigma r_{\\mathrm{star}}^{2}T^{4}"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "K⁻⁴",
+      "latex": "K^{-4}"
+    },
+    {
+      "original": "z=(λ_obs−λ₀)/λ₀",
+      "latex": "z=(\\lambda _{\\mathrm{obs}}-\\lambda _{0})/\\lambda _{0}"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "v≈H₀d",
+      "latex": "v\\approx H_{0}d"
+    },
+    {
+      "original": "(s⁻¹)",
+      "latex": "(s^{-1})"
+    },
+    {
+      "original": "L=4πσr²T⁴",
+      "latex": "L=4\\pi \\sigma r^{2}T^{4}"
+    },
+    {
+      "original": "v=H₀d",
+      "latex": "v=H_{0}d"
+    },
+    {
+      "original": "F=L/(4πd²)",
+      "latex": "F=L/(4\\pi d^{2})"
+    },
+    {
+      "original": "F=L/(4πd²)",
+      "latex": "F=L/(4\\pi d^{2})"
+    },
+    {
+      "original": "L=3.85×10²⁶",
+      "latex": "L=3.85\\times 10^{26}"
+    },
+    {
+      "original": "d=1.50×10¹¹",
+      "latex": "d=1.50\\times 10^{11}"
+    },
+    {
+      "original": "1.36×10³",
+      "latex": "1.36\\times 10^{3}"
+    },
+    {
+      "original": "m⁻²",
+      "latex": "m^{-2}"
+    },
+    {
+      "original": "4πd²",
+      "latex": "4\\pi d^{2}"
+    },
+    {
+      "original": "L=4πσr²T⁴",
+      "latex": "L=4\\pi \\sigma r^{2}T^{4}"
+    },
+    {
+      "original": "L=4πσr²T⁴",
+      "latex": "L=4\\pi \\sigma r^{2}T^{4}"
+    },
+    {
+      "original": "L=3.85×10²⁶",
+      "latex": "L=3.85\\times 10^{26}"
+    },
+    {
+      "original": "σ=5.67×10⁻⁸",
+      "latex": "\\sigma =5.67\\times 10^{-8}"
+    },
+    {
+      "original": "T=5780",
+      "latex": "T=5780"
+    },
+    {
+      "original": "r=6.96×10⁸",
+      "latex": "r=6.96\\times 10^{8}"
+    },
+    {
+      "original": "v/c=Δλ/λ₀",
+      "latex": "v/c=\\Delta \\lambda /\\lambda _{0}"
+    },
+    {
+      "original": "Δλ/λ₀=v/c",
+      "latex": "\\Delta \\lambda /\\lambda _{0}=v/c"
+    },
+    {
+      "original": "Δλ=(21400/300000)×656=46.8",
+      "latex": "\\Delta \\lambda =(21400/300000)\\times 656=46.8"
+    },
+    {
+      "original": "λ=656+46.8=703",
+      "latex": "\\lambda =656+46.8=703"
+    },
+    {
+      "original": "v=H₀d",
+      "latex": "v=H_{0}d"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "r≥R",
+      "latex": "r\\ge R"
+    },
+    {
+      "original": "ΣF_r=mv²/r",
+      "latex": "\\sum F_{r}=mv^{2}/r"
+    },
+    {
+      "original": "I=nAqv",
+      "latex": "I=nAqv"
+    },
+    {
+      "original": "(2mc_x)/(2L/c_x)=mc_x²/L",
+      "latex": "(2mc_{x})/(2L/c_{x})=mc_{x}^{2}/L"
+    },
+    {
+      "original": "p=Nm⟨c_x²⟩/L³",
+      "latex": "p=Nm⟨c_{x}^{2}⟩/L^{3}"
+    },
+    {
+      "original": "c_x²⟩=⟨c²⟩/3",
+      "latex": "c_{x}^{2}⟩=⟨c^{2}⟩/3"
+    },
+    {
+      "original": "L³=V",
+      "latex": "L^{3}=V"
+    },
+    {
+      "original": "pV=Nm⟨c²⟩/3",
+      "latex": "pV=Nm⟨c^{2}⟩/3"
+    },
+    {
+      "original": "s⁻¹",
+      "latex": "s^{-1}"
+    },
+    {
+      "original": "A=wt",
+      "latex": "A=wt"
+    },
+    {
+      "original": "qE=qv_dB",
+      "latex": "qE=qv_{d}B"
+    },
+    {
+      "original": "E=v_dB",
+      "latex": "E=v_{d}B"
+    },
+    {
+      "original": "V_H=Ew=v_dBw",
+      "latex": "V_{H}=Ew=v_{d}Bw"
+    },
+    {
+      "original": "I=nwtqv_d",
+      "latex": "I=nwtqv_{d}"
+    },
+    {
+      "original": "v_d=I/(nwtq)",
+      "latex": "v_{d}=I/(nwtq)"
+    },
+    {
+      "original": "V_H=BI/(ntq)",
+      "latex": "V_{H}=BI/(ntq)"
+    },
+    {
+      "original": "V₀/√2",
+      "latex": "V_{0}/\\sqrt{2}"
+    }
+  ],
+  "failures": []
+}

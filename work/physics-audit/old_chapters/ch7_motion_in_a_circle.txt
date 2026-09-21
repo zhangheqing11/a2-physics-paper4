@@ -1,0 +1,362 @@
+
+===== 9702/41_Summer_2017_Q1 | PDF 12-13 | Motion In A Circle, Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+1 - (9702/41_Summer_2017_Q1) - Motion In A Circle, Gravitational Fields
+(a) Explain how a satellite may be in a circular orbit around a planet.
+• [2]
+The Earth and the Moon may be considered to be uniform spheres that are isolated in space.
+The Earth has radius R and mean density p. The Moon, mass m, is in a circular orbit about
+the Earth with radius nR, as illustrated in Fig. 1.1.
+Earth
+-radius R
+Moon
+nR
+Fig. 1.1
+The Moon makes one complete orbit of the Earth in time T.
+Show that the mean density p of the Earth is given by the expression
+Злп-
+P= GT2•
+[4]
+2017 - 2023
+11
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+(c) The radius R of the Earth is 6.38 x 103km and the distance between the centre of the Earth
+and the centre of the Moon is 3.84 x 105 km.
+The period T of the orbit of the Moon about the Earth is 27.3 days
+Use the expression in (b) to calculate p.
+p=...
+kgm 3[3]
+2017 - 2023
+12
+P4 Topical
+
+===== 9702/42_Summer_2017_Q1 | PDF 14-15 | Motion In A Circle, Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+2 - (9702/42_Summer_2017_Q1) - Motion In A Circle, Gravitational Fields
+(a)
+Define gravitational field strength.
+• (1]
+(b) The mass of a spherical comet of radius 3.6km is approximately 1.0x1013 kg.
+(1) Assuming that the comet has constant density, calculate the gravitational field strength
+on the surface of the comet.
+field strength =
+Nkg ' [2]
+A probe having a weight of 960N on Earth lands on the comet.
+Using your answer in (i), determine the weight of the probe on the surface of the comet.
+weight =
+N [2]
+2017 - 2023
+13
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+(c) A second comet has a length of approximately 4.5km and a width of approximately 2.6 km. Its
+outline is illustrated in Fig. 1.1.
+Fig. 1.1
+Suggest one similarity and one difference between the gravitational fields at the surface of
+this comet and at the surface of the comet in (b).
+similarity:
+difference:
+12]
+2017 - 2023
+14
+P4 Topical
+
+===== 9702/42_Winter_2017_Q1 | PDF 16-17 | Motion In A Circle, Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+3 - (9702/42_Winter_2017_QI) - Motion In A Circle, Gravitational Fields
+(a) State Newton's law of gravitation.
+• [2]
+(b) The planet Jupiter and one of its moons, Io, may be considered to be uniform spheres that
+are isolated in space.
+Jupiter has radius Rand mean density p.
+Io has mass m and is in a circular orbit about Jupiter with radius nR, as illustrated in Fig. 1.1.
+Jupiter
+radius R
+density p
+- Io
+nR
+Fig. 1.1
+The time for lo to complete one orbit of Jupiter is T.
+Show that the time T is related to the mean density p of Jupiter by the expression
+pT =
+G
+where G is the gravitational constant.
+(4]
+2017 - 2023
+15
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+(c) (1) The radius R of Jupiter is 104km and the distance between the centres of Jupiter
+and lo is 4.32×10 km
+The period T of the orbit of lo is 42.5 hours.
+Calculate the mean density p of Jupiter.
+p=.
+.......kgm [3]
+(i) The Earth has a mean density of 5.5x103 kg m-3. It is said to be a planet made of rock.
+By reference to your answer in (l), comment on the possible composition of Jupiter.
+•(1]
+2017 - 2023
+16
+P4 Topical
+
+===== 9702/41_Summer_2019_Q1 | PDF 18-19 | Motion In A Circle, Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+4 - (9702/41_Summer_2019_QI) - Motion In A Circle, Gravitational Fields
+(a) Two point masses are isolated in space and are separated by a distance x.
+State an expression relating the gravitational force
+F between the two masses to the
+magnitudes M and m of the masses. State the name of any other symbol used.
+[1]
+(b) A spacecraft is to be put into a circular orbit about a spherical planet.
+The planet may be considered to be isolated in space. The mass of the planet, assumed to
+be concentrated at its centre, is 7.5 × 1023 kg. The radius of the planet is 3.4 x 10°m.
+(i) The spacecraft is to orbit the planet at a height of 2.4 x 10°m above the surface of the
+planet. At this altitude, there is no atmosphere.
+Show that the speed of the spacecraft in its orbit is 3.7 x 103ms-1.
+12]
+2017 - 2023
+17
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+(ii) One possible path of the spacecraft as it approaches the planet is shown in Fig. 1.1.
+3.64 × 108 m
+B
+5.00 × 10 m
+planet
+mass 7.5 × 1023 kg
+Fig. 1.1 (not to scale)
+The spacecraft enters the orbit at point A with speed 3.7 × 103ms-1.
+At point B, a distance of 5.00 × 107m from the centre of the planet, the spacecraft has a
+speed of 4.1 x 103m s-1
+. The mass of the spacecraft is 650 kg.
+For the spacecraft moving from point B to point A, show that the change in gravitational
+potential energy of the spacecraft is 8.3 × 10° J.
+[3]
+(c) By considering changes in gravitational potential energy and in kinetic energy of the
+spacecraft, determine whether the total energy of the spacecraft increases or decreases in
+moving from point B to point A. A numerical answer is not required.
+[2]
+2017 - 2023
+18
+P4 Topical
+
+===== 9702/41_Winter_2019_Q1 | PDF 20-20 | Gravitational Fields, Motion In A Circle =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+5 - (9702/41_Winter_2019_Q1) - Gravitational Fields, Motion In A Circle
+(a)
+State Newton's law of gravitation.
+12]
+(b) A geostationary satellite orbits the Earth. The orbit of the satellite is circular and the period of
+the orbit is 24 hours.
+(i) State two other features of this orbit.
+1.
+2.
+12]
+(ii) The radius of the orbit of the satellite is 4.23 × 104km.
+Determine a value for the mass of the Earth. Explain your working
+mass = ....
+.. kg [4]
+2017 - 2023
+19
+P4 Topical
+
+===== 9702/42_Winter_2019_Q1 | PDF 21-21 | Motion In A Circle, Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+6 - (9702/42_Winter_2019_Q1) - Motion In A Circle, Gravitational Fields
+(a)
+State Newton's law of gravitation.
+12]
+(b) The astronomer Johannes Kepler showed that the period Tof rotation of a planet about the
+Sun is related to its mean distance R from the centre of the Sun by the expression
+R3
+= k
+where kis a constant.
+Use Newton's law to show that, for planets in circular orbits about the Sun of mass M, the
+constant k is given by
+k= GM
+4т?
+where G is the gravitational constant. Explain your working.
+14]
+(c) A satellite is in a circular orbit about Mars.
+The radius of the orbit of the satellite is 4.38 × 10°m. The orbital period is 2.44 hours.
+Use the expressions in (b) to calculate a value for the mass of Mars.
+mass =
+• kg (2)
+2017 - 2023
+20
+P4 Topical
+
+===== 9702/41_Summer_2020_Q1 | PDF 22-24 | Motion In A Circle, Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+7 - (9702/41_Summer_2020_QI) - Motion In A Circle, Gravitational Fields
+(a)
+State what is meant by a gravitational force.
+[1]
+(b) A binary star system consists of two stars S, and S,, each in a circular orbit.
+The orbit of each star in the system has a period of rotation T.
+Observations of the binary star from Earth are represented in Fig. 1.1.
+7
+S,O-
+1 = 0
+SO →
+S,O.
+-OS2
+< Os,
+1=2
++= 3T
+s,0>
+Os,
+t = T
+Fig. 1.1 (not to scale)
+2017 - 2023
+21
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+Observed from Earth, the angular separation of the centres of S, and S, is 1.2 × 10-5 rad.
+The distance of the binary star system from Earth is 1.5 × 1017m.
+Show that the separation d of the centres of S, and S, is 1.8 × 1012m.
+CH7 - MOTION IN A CIRCLE
+11]
+(c) The stars S, and S, rotate with the same angular velocity w about a point P, as illustrated in
+Fig. 1.2.
+d
+S,
+Fig. 1.2 (not to scale)
+Point P is at a distance x from the centre of star S,.
+The period of rotation of the stars is 44.2 years.
+(i) Calculate the angular velocity a.
+0=
+rads- [2]
+2017 - 2023
+22
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(ii) By considering the forces acting on the two stars, show that the ratio of the masses of
+the stars is given by
+mass of S, d-x.
+mass of S
+CH7 - MOTION IN A CIRCLE
+12]
+(iii) The mass M, of star S, is given by the expression
+GM, = d (d - x) a-
+where G is the gravitational constant.
+The ratio in (ii) is found to be 1.5.
+Use data from (b) and your answer in (c)(i) to determine the mass My.
+M, =
+kg [3]
+2017 - 2023
+23
+P4 Topical
+
+===== 9702/41_Winter_2021_Q1 | PDF 25-26 | Motion In A Circle =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+8 - (9702/41_Winter_2021_Q1) - Motion In A Circle
+(a) With reference to velocity and acceleration, describe uniform circular motion.
+. [2]
+(b) Two cars are moving around a horizontal circular track. One car follows path X and the other
+follows path Y, as shown in Fig. 1.1.
+start and finish line
+track
+-path X
+318 m
+path Y
+Fig. 1.1 (not to scale)
+The radius of path X is 318m. Path Y is parallel to, and 27m outside, path X. Both cars have
+mass 790kg. The maximum lateral (sideways) friction force F that the cars can experience
+without sliding is the same for both cars.
+The maximum speed at which the car on path X can move around the track without
+sliding is 94 ms-
+Calculate F.
+F=
+N [2]
+2017 - 2023
+24
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+(ii) Both cars move around the track. Each car has the maximum speed at which it can
+move without sliding.
+Complete Table 1.1, by placing one tick in each row, to indicate how the quantities
+indicated for the car on path Y compare with the car on path X.
+Table 1.1
+Y less than X
+Y same as X
+Y greater than X
+centripetal
+acceleration
+maximum speed
+time taken for one lap
+of the track
+(3]
+2017 - 2023
+25
+P4 Topical
+
+===== 9702/42_Winter_2021_Q1 | PDF 27-28 | Motion In A Circle =====
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+9 - (9702/42_Winter_2021_Q1) - Motion In A Circle
+(a)
+State what is meant by centripetal acceleration.
+(b) An unpowered toy car moves freely along a smooth track that is initially horizontal. The track
+contains a vertical circular loop around which the car travels, as shown in Fig. 1.1.
+toy car
+mass 230 g
+62 cm
+Y
+O.
+loop
+track
+Fig. 1.1
+The mass of the car is 230g and the diameter of the loop is 62 cm. Assume that the resistive
+forces acting on the car are negligible.
+(i) State what happens to the magnitude of the centripetal acceleration of the car as it
+moves around the loop from X to Y.
+.. [1]
+Explain, if the car remains in contact with the track, why the centripetal acceleration of
+the car at point Y must be greater than 9.8 ms 2.
+(2]
+2017 - 2023
+26
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH7 - MOTION IN A CIRCLE
+(c) The initial speed at which the car in (b) moves along the track is 3.8ms-1.
+Determine whether the car is in contact with the track at pointY. Show your working.
+[3]
+(d) Suggest, with a reason but without calculation, whether your conclusion in (c) would be
+different for a car of mass 460g moving with the same initial speed
+[1]
+2017 - 2023
+27
+P4 Topical

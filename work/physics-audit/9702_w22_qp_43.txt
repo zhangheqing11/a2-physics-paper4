@@ -1,0 +1,1071 @@
+
+=== MERGED PAGE 140 ===
+                          Cambridge International AS & A Level
+
+
+
+
+* 9 7 3 6 8 0 0 3 5 2 *
+                          PHYSICS                                                                                         9702/43
+                          Paper 4 A Level Structured Questions                                            October/November 2022
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (CJ/JG) 303273/2
+                          © UCLES 2022                                                                                   [Turn over
+
+
+=== MERGED PAGE 141 ===
+                                               2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2022                             9702/43/O/N/22
+
+
+=== MERGED PAGE 142 ===
+                                            2
+                                            3
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3           〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω          (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                            Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                    t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                                2
+
+
+
+                                   IR  (Z - Z 2) 2
+intensity reflection coefficient      = 1
+                                   I0  (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2022                        9702/43/O/N/22                 [Turn over
+
+
+=== MERGED PAGE 143 ===
+                                                        4
+
+1   (a) State the equation for the gravitational force F between two point masses m1 and m2 that are
+        separated by a distance r. State the meaning of any other symbols you use.
+
+
+
+
+                                                                                                                            [2]
+
+    (b) A satellite is in a circular orbit of radius R around a planet of mass M.
+
+         Show that the period T of the orbit is given by
+
+                                                     T 2 = kR3
+
+         where k is a constant that depends on the value of M. Explain your reasoning.
+
+
+
+
+                                                                                                                            [3]
+
+    (c) A satellite is in a circular orbit around the Earth with a period of 24 hours.
+        The mass of the Earth is 6.0 × 1024 kg.
+
+          (i)   Calculate the radius of the orbit.
+
+
+
+
+                                                            radius = ..................................................... m [2]
+
+
+
+
+© UCLES 2022                                     9702/43/O/N/22
+
+
+=== MERGED PAGE 144 ===
+                                                                         5
+
+         (ii)   State the two other conditions that must be met for the orbit to be geostationary.
+
+                1 ........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                2 ........................................................................................................................................
+
+                ...........................................................................................................................................
+                                                                                                                                                       [2]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2022                                                     9702/43/O/N/22                                                          [Turn over
+
+
+=== MERGED PAGE 145 ===
+                                                                          6
+
+2   Fig. 2.1 shows a laboratory thermometer that is calibrated to measure temperature in degrees
+    Celsius.
+
+                bulb                                                                                                   glass tube
+
+
+
+
+                                            -10           0          10           20          30          40           50
+
+                mercury                                                                                                  capillary
+
+                                                                    Fig. 2.1
+
+    The thermometer makes use of the fact that the density of mercury varies with temperature.
+
+    (a) State two other physical properties of materials, apart from the density of a liquid, that can be
+        used for measuring temperature.
+
+         1 ................................................................................................................................................
+
+         2 ................................................................................................................................................
+                                                                                                                                                       [2]
+
+    (b) The thermometer is initially at 23.0 °C, as shown in Fig. 2.1. It is used to measure the
+        temperature of an insulated beaker of water that is at 37.4 °C. The bulb of the thermometer is
+        inserted into the water, and the water is stirred until the reading on the thermometer becomes
+        steady.
+
+         The mass of water in the beaker is 18.7 g.
+         The mass of mercury in the thermometer is 6.94 g.
+         The specific heat capacity of water is 4.18 J g–1 K–1.
+         The specific heat capacity of mercury is 0.140 J g–1 K–1.
+         The glass of the thermometer and the beaker containing the water can be considered to have
+         negligible heat capacity.
+
+          (i)   Calculate, to three significant figures, the final steady temperature indicated by the
+                thermometer in the water.
+
+
+
+
+                                                                    temperature = .................................................... °C [4]
+
+
+
+
+© UCLES 2022                                                     9702/43/O/N/22
+
+
+=== MERGED PAGE 146 ===
+                                                                         7
+
+         (ii)   Suggest one change that could be made to the design of the thermometer that would
+                enable it to give a more accurate measurement of temperature.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+    (c) (i)     Explain why the thermometer in Fig. 2.1 does not provide a direct measurement of
+                thermodynamic temperature.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Thermodynamic temperature T may be determined by the behaviour of a type of
+                substance for which T is proportional to the product of pressure and volume.
+
+                State the name of this type of substance.
+
+                ..................................................................................................................................... [1]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2022                                                    9702/43/O/N/22                                                           [Turn over
+
+
+=== MERGED PAGE 147 ===
+                                                                           8
+
+3   An object is suspended from a spring that is attached to a fixed point as shown in Fig. 3.1.
+
+
+
+                                                                                 fixed point
+
+
+                    spring
+
+
+                                           object                                       oscillations
+
+                                                                                                   equilibrium position
+
+
+
+
+                                                                     Fig. 3.1
+
+    The object oscillates vertically with simple harmonic motion about its equilibrium position.
+
+    (a) State the defining equation for simple harmonic motion. Identify the meaning of each of the
+        symbols used to represent physical quantities.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) The variation with displacement x from the equilibrium position of the velocity v of the object
+        is shown in Fig. 3.2.
+
+                                                                     0.2
+                                                               v / m s–1
+
+
+                                                                      0.1
+
+
+
+
+                                                                         0
+                – 0.12            – 0.08             – 0.04                  0             0.04               0.08              0.12
+                                                                                                                     x/m
+
+
+                                                                    – 0.2
+                                                                      0.1
+
+
+
+
+                                                                    – 0.2
+
+                                                                     Fig. 3.2
+
+© UCLES 2022                                                      9702/43/O/N/22
+
+
+=== MERGED PAGE 148 ===
+                                                         9
+
+         The variation with x of the potential energy EP of the oscillations of the object is shown in
+         Fig. 3.3.
+
+                                                0.050
+
+                                             EP / J
+
+                                                0.025
+
+
+
+
+                                                        0
+                – 0.12     – 0.08      – 0.04            0             0.04            0.08      x / m 0.12
+
+                                                      Fig. 3.3
+
+         Use Fig. 3.2 and Fig. 3.3 to:
+
+          (i)   determine the amplitude x0 of the oscillations
+
+
+
+                                                                  x0 = ..................................................... m [1]
+
+         (ii)   show that the angular frequency of the oscillations is 1.7 rad s–1
+
+
+
+
+                                                                                                                              [2]
+
+        (iii)   determine the mass M of the object.
+
+
+
+
+                                                                  M = .................................................... kg [2]
+
+
+
+
+© UCLES 2022                                     9702/43/O/N/22                                                   [Turn over
+
+
+=== MERGED PAGE 149 ===
+                                                                        10
+
+    (c) The oscillations of the object are now lightly damped.
+
+          (i)   State what is meant by damping.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Assume that the damping does not change the angular frequency of the oscillations.
+
+                On Fig. 3.2, sketch the variation with x of v when the amplitude of the oscillations
+                is 0.060 m.                                                                       [2]
+
+                                                                                                                                           [Total: 11]
+
+
+
+
+© UCLES 2022                                                    9702/43/O/N/22
+
+
+=== MERGED PAGE 150 ===
+                                                                          12
+
+4   (a) State what is indicated by the direction of an electric field line.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Fig. 4.1 shows a pair of parallel metal plates with a potential difference (p.d.) of 2400 V
+        between them.
+
+
+
+                                                                               + 2400 V
+
+
+
+
+         metal plates
+
+                                                                                                                                   4.6 cm
+
+
+
+
+                                                                               0V
+
+
+                                                                     Fig. 4.1
+
+         The plates are separated by a distance of 4.6 cm. The plates are in a vacuum.
+
+          (i)    On Fig. 4.1, draw five lines to represent the electric field in the region between the plates.
+                                                                                                            [3]
+
+         (ii)    Calculate the strength of the electric field between the plates.
+
+
+
+
+                                                        electric field strength = ............................................... N C–1 [2]
+
+
+
+
+© UCLES 2022                                                      9702/43/O/N/22
+
+
+=== MERGED PAGE 151 ===
+                                                                         13
+
+    (c) A moving proton enters the region between the plates from the left, as shown in Fig. 4.2.
+
+
+
+                                                                               + 2400 V
+
+                                                                                                                   region of
+                                                                                                                   electric field
+
+
+
+
+                proton
+
+
+
+
+                                                                               0V
+
+
+                                                                    Fig. 4.2
+
+          (i)   The proton is deflected by the electric field.
+
+                On Fig. 4.2, draw a line to show the path of the proton as it moves through and out of the
+                region of the electric field.                                                           [2]
+
+         (ii)   A helium nucleus ( 42He) now enters the region of the electric field along the same initial
+                path as the proton and travelling at the same initial speed.
+
+                State and explain how the final speed of the helium nucleus compares with the final
+                speed of the proton after leaving the region of the electric field.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [3]
+
+                                                                                                                                            [Total: 12]
+
+
+
+
+© UCLES 2022                                                     9702/43/O/N/22                                                           [Turn over
+
+
+=== MERGED PAGE 152 ===
+                                                       14
+
+5   A capacitor of capacitance 470 μF is connected to a battery of electromotive force (e.m.f.) 24 V in
+    the circuit of Fig. 5.1.
+
+                                        X          Y
+
+
+
+
+                                               S
+
+
+
+
+            24 V                                   470 μF                                                   V
+
+
+
+
+                                                                           P                   Q
+                                                                      5.6 kΩ                   5.6 kΩ
+
+
+
+
+                                                   Fig. 5.1
+
+    The two-way switch S is initially at position X.
+
+    P and Q are identical long straight wires, each with a resistance of 5.6 kΩ. These wires are placed
+    near to, and parallel to, each other. Wire Q is connected to a voltmeter.
+
+    At time t = 0, switch S is moved to position Y so that the capacitor discharges through wire P.
+
+    (a) (i)     Calculate the charge Q0 on the capacitor at time t = 0.
+
+
+
+
+                                                              Q0 = ..................................................... C [2]
+
+         (ii)   Calculate the current I0 in wire P at time t = 0.
+
+
+
+
+                                                                  I0 = ...................................................... A [1]
+
+
+
+
+© UCLES 2022                                     9702/43/O/N/22
+
+
+=== MERGED PAGE 153 ===
+                                                                        15
+
+        (iii)   Calculate the time constant τ of the discharge circuit.
+
+
+
+
+                                                                                     τ = ...................................................... s [2]
+
+        (iv)    On Fig. 5.2, sketch a line to show the variation with t of the current I in wire P as the
+                capacitor discharges.
+
+
+                                          I0
+
+                                      I
+
+
+
+
+                                              0
+                                                  0                                                    t
+
+
+                                                                   Fig. 5.2
+                                                                                                                                                       [2]
+
+    (b) (i)     Explain why there is an induced e.m.f. across wire Q during the discharge of the
+                capacitor.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+         (ii)   On Fig. 5.3, sketch a line to suggest the variation with t of the voltmeter reading V.
+
+
+                                          V
+
+
+
+
+                                               0
+                                                      0                                                    t
+                                                                   Fig. 5.3
+                                                                                                                                                       [1]
+
+                                                                                                                                           [Total: 11]
+
+
+© UCLES 2022                                                    9702/43/O/N/22                                                           [Turn over
+
+
+=== MERGED PAGE 154 ===
+                                                                        16
+
+6   Fig. 6.1 shows a thin slice of semiconducting material used in a Hall probe.
+
+
+                                                                                                   I
+
+                                                              Q                                             R
+
+                                                              X                                             Y
+
+
+                                     P                                         S
+
+
+                                    W                                          Z
+                                                     I
+
+
+
+                                                         Fig. 6.1 (not to scale)
+
+    Current I passes through the slice in the direction shown.
+
+    The slice is placed in a uniform magnetic field of flux density B, so that two of its faces are
+    perpendicular to the magnetic field.
+
+    A steady Hall voltage VH is developed between face PQXW and face SRYZ.
+
+    (a) (i)     Use the letters in Fig. 6.1 to identify the faces that are perpendicular to the magnetic
+                field.
+
+                ....................................................... and .......................................................                    [1]
+
+         (ii)   Explain how the steady Hall voltage VH is developed between faces PQXW and SRYZ.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+
+
+
+© UCLES 2022                                                    9702/43/O/N/22
+
+
+=== MERGED PAGE 155 ===
+                                                                        17
+
+    (b) The magnitude of VH is given by the equation
+                                                                           BI
+                                                                   VH =        .
+                                                                           ntq
+          (i)   State the meaning of the symbols n, t and q. You may refer to the letters in Fig. 6.1.
+
+                n: .......................................................................................................................................
+
+                t: ........................................................................................................................................
+
+                q: .......................................................................................................................................
+                                                                                                                                                      [3]
+
+         (ii)   Suggest, with reference to the equation, why the slice of the material used in a Hall
+                probe is thin.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2022                                                     9702/43/O/N/22                                                          [Turn over
+
+
+=== MERGED PAGE 156 ===
+                                                                        18
+
+7   (a) A sinusoidal alternating voltage has a root-mean-square (r.m.s.) potential difference (p.d.) of
+        4.2 V and a frequency of 50 kHz.
+
+          (i)   The alternating voltage is applied across a resistor of resistance 760 Ω.
+
+                By considering the peak voltage, show that the maximum power dissipated by the
+                resistor is 46 mW.
+
+
+
+
+                                                                                                                                                       [2]
+
+         (ii)   On Fig. 7.1, draw a smooth curve to show how the power P dissipated in the resistor
+                varies with time t between t = 0 and t = 40 μs. Assume that P = 0 when t = 0.
+
+                                     50
+
+                        P / mW
+
+                                     25
+
+
+
+
+                                       0
+                                           0               10                 20                30                 40
+                                                                                                        t / μs
+
+                                                                   Fig. 7.1
+                                                                                                                                                       [3]
+
+        (iii)   Use your line in (a)(ii) to explain why the mean power dissipated in the resistor is 23 mW.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+
+
+
+© UCLES 2022                                                    9702/43/O/N/22
+
+
+=== MERGED PAGE 157 ===
+                                                                        19
+
+    (b) The alternating voltage in (a) is now applied to a piezoelectric crystal in air.
+
+          (i)   Explain what happens to the air surrounding the crystal.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+         (ii)   A second piezoelectric crystal is placed in the air near to the first crystal.
+
+                Explain the effect of the surrounding air in (b)(i) on the second crystal.
+
+                ..................................................................................................................................... [1]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2022                                                    9702/43/O/N/22                                                           [Turn over
+
+
+=== MERGED PAGE 158 ===
+                                                                          20
+
+8   (a) State what is meant by the work function energy of a metal.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Ultraviolet radiation of frequency 1.36 × 1015 Hz is incident, in a vacuum, on a metal surface.
+        The power of the radiation incident on the surface is 8.36 mW. Photoelectrons are emitted
+        with a maximum kinetic energy of 3.09 × 10–19 J.
+
+          (i)    Determine the number of photons incident on the surface per unit time.
+
+
+
+
+                                                        number per unit time = ................................................... s–1 [2]
+
+         (ii)    Calculate the work function energy Φ of the metal.
+
+
+
+
+                                                                                      Φ = ...................................................... J [2]
+
+    (c) The frequency of the radiation incident on the surface in (b) is increased while the power
+        remains constant.
+
+         State and explain the effect of this change on:
+
+          (i)    the maximum kinetic energy of the photoelectrons
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+         (ii)    the rate of emission of photoelectrons.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+                                                                                                                                             [Total: 10]
+© UCLES 2022                                                      9702/43/O/N/22
+
+
+=== MERGED PAGE 159 ===
+                                                                          21
+
+9   (a) State what is meant by the luminosity of a star.
+
+          ............................................................................................................................................. [1]
+
+    (b) A star in the constellation Canis Major is a distance of 8.14 × 1016 m from the Earth and has a
+        luminosity of 9.86 × 1027 W. The surface temperature of the star is 9830 K.
+
+          (i)    Calculate the radiant flux intensity of the radiation from the star observed from the Earth.
+                 Give a unit with your answer.
+
+
+
+
+                                             radiant flux intensity = ............................................. unit ................. [2]
+
+         (ii)    Determine the radius of the star.
+
+
+
+
+                                                                               radius = ..................................................... m [2]
+
+    (c) Explain how the surface temperature of a distant star may be determined from the wavelength
+        spectrum of the light from the star.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                               [Total: 8]
+
+
+
+
+© UCLES 2022                                                      9702/43/O/N/22                                                           [Turn over
+
+
+=== MERGED PAGE 160 ===
+                                                                        22
+
+10 Carbon-15 (156C) is an isotope of carbon that undergoes radioactive decay to nitrogen-15 (157 N),
+   which is a stable isotope of nitrogen.
+
+    Radioactive decay is both a random and a spontaneous process.
+
+    (a) State what is meant by:
+
+          (i)   random
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+         (ii)   spontaneous.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+    (b) A small sample of carbon-15 decays. The mass M of carbon-15 in the sample decreases with
+        time t.
+
+         Fig. 10.1 shows the variation with t of the value of ln (M / 10–16 g).
+
+                              –4
+                                   0                 2                 4                  6                  8                10                 12
+                                                                                                                                       t/s
+
+
+                              –5
+
+          In (M / 10–16 g)
+
+
+                              –6
+
+
+
+
+                              –7
+
+
+
+
+                              –8
+
+                                                                  Fig. 10.1
+
+          (i)   State how Fig. 10.1 demonstrates that radioactive decay is random.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+         (ii)   On Fig. 10.1, draw the straight line of best fit.                                                                                      [1]
+
+
+
+
+© UCLES 2022                                                    9702/43/O/N/22
+
+
+=== MERGED PAGE 161 ===
+                                                                          23
+
+        (iii)    Show that the decay constant λ of carbon-15 is given by the magnitude of the gradient of
+                 your line in (b)(ii).
+
+
+
+
+                                                                                                                                                         [1]
+
+        (iv)     Use your line in (b)(ii) to determine λ. Give a unit with your answer.
+
+
+
+
+                                                        λ = ....................................................... unit .......................... [2]
+
+         (v)     Use your answer in (b)(iv) to calculate the half-life of carbon-15.
+
+
+
+
+                                                                             half-life = ...................................................... s [1]
+
+    (c) The equation for the decay of carbon-15 can be written as
+
+
+                                                        15C           15N     + –10β +       0ν.
+                                                         6             7                     0
+
+         State and explain how the mass of the products of the decay must compare with the mass of
+         the carbon-15 nucleus.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                             [Total: 10]
+
+
+
+
+© UCLES 2022                                                      9702/43/O/N/22
+
+
+=== MERGED PAGE 162 ===
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2022                                                         9702/43/O/N/22

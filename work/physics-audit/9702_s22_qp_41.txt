@@ -1,0 +1,1119 @@
+
+=== MERGED PAGE 1 ===
+                          Cambridge International AS & A Level
+
+
+
+
+* 0 3 3 7 8 3 1 3 3 8 *
+                          PHYSICS                                                                                         9702/41
+                          Paper 4 A Level Structured Questions                                                     May/June 2022
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (CE/SG) 304353/3
+                          © UCLES 2022                                                                                   [Turn over
+
+
+=== MERGED PAGE 2 ===
+                                               2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2022                             9702/41/M/J/22
+
+
+=== MERGED PAGE 3 ===
+                                          32
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3          〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω         (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                           Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                   t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                               2
+
+
+
+                                   IR   (Z 1 - Z 2) 2
+intensity reflection coefficient      =
+                                   I0   (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2022                        9702/41/M/J/22                [Turn over
+
+
+=== MERGED PAGE 4 ===
+                                                                         4
+
+1   (a) (i)     State Newton’s law of gravitation.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Use Newton’s law of gravitation to show that the gravitational field strength g at a
+                distance r away from a point mass M is given by
+                                                                         GM
+                                                                   g=        .
+                                                                          r2
+
+
+
+
+                                                                                                                                                       [2]
+
+    (b) The Earth has a mass of 5.98 × 1024 kg and a radius of 6.37 × 106 m.
+        The Moon has a mass of 7.35 × 1022 kg and a radius of 1.74 × 106 m.
+        The Earth and the Moon can both be considered as point masses at their centres. Their
+        centres are a distance of 3.84 × 108 m apart.
+
+          (i)   Show that the gravitational field strength at the surface of the Moon due to the mass of
+                the Moon is 1.62 N kg–1.
+
+
+
+
+                                                                                                                                                       [1]
+
+         (ii)   Explain why there is a point X on the line between the centres of the Earth and the Moon
+                where the resultant gravitational field strength due to the Earth and the Moon is zero.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+
+
+
+© UCLES 2022                                                     9702/41/M/J/22
+
+
+=== MERGED PAGE 5 ===
+                                                     5
+
+        (iii)   Calculate the distance x of point X from the centre of the Moon.
+
+
+
+
+                                                                x = ..................................................... m [3]
+
+                                                                                                                [Total: 10]
+
+
+
+
+© UCLES 2022                                   9702/41/M/J/22                                                  [Turn over
+
+
+=== MERGED PAGE 6 ===
+                                                      6
+
+2   A sphere of mass 1.6 × 10–10 kg has a charge of +0.27 nC. The sphere is in a uniform electric field
+    that acts vertically upwards, as shown in the side view in Fig. 2.1.
+
+                                           SIDE VIEW
+
+
+                                        electric field lines
+
+
+
+
+                                                                              plane in which
+                                                                              sphere moves
+                         sphere
+
+
+
+
+                                                  Fig. 2.1
+
+    The force exerted on the sphere by the electric field causes the sphere to remain at a fixed vertical
+    height in a horizontal plane.
+
+    There is a uniform magnetic field in the region of the electric field. The sphere moves at a speed of
+    0.78 m s–1 in the horizontal plane. The magnetic field causes the sphere to move in a circular path
+    of radius 3.4 m, as shown in the view from above in Fig. 2.2.
+
+                              VIEW FROM ABOVE
+
+
+
+
+                                                                     electric field lines
+                                        3.4 m                        out of the page
+
+
+
+
+                                                                    path of sphere
+
+
+
+
+                                      sphere
+
+                                                  Fig. 2.2
+
+
+
+
+© UCLES 2022                                    9702/41/M/J/22
+
+
+=== MERGED PAGE 7 ===
+                                                                         7
+
+    (a) (i)     Determine the direction of the uniform magnetic field.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain why the motion of the sphere in the horizontal plane is circular.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+    (b) Calculate the strength of the uniform electric field.
+
+
+
+
+                                                      electric field strength = ............................................... N C–1 [2]
+
+    (c) By considering the magnetic force on the sphere, show that the flux density of the uniform
+        magnetic field is 0.14 T.
+
+
+
+
+                                                                                                                                                       [3]
+
+                                                                                                                                             [Total: 8]
+
+
+
+
+© UCLES 2022                                                     9702/41/M/J/22                                                          [Turn over
+
+
+=== MERGED PAGE 8 ===
+                                                                         8
+
+3   A fixed mass of an ideal gas is initially at a temperature of 17 °C.
+    The gas has a volume of 0.24 m3 and a pressure of 1.2 × 105 Pa.
+
+    (a) (i)     State what is meant by an ideal gas.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Calculate the amount n of gas.
+
+
+
+
+                                                                                     n = .................................................. mol [2]
+
+    (b) The gas undergoes three successive changes, as shown in Fig. 3.1.
+
+                        4.0
+                                                C
+    pressure / 105 Pa
+
+                        3.0
+
+
+
+
+                        2.0
+
+
+
+
+                        1.0                     B                                                                         A
+
+
+
+
+                           0
+                           0.04              0.08               0.12               0.16              0.20               0.24              0.28
+                                                                                                                    volume / m3
+
+                                                                   Fig. 3.1
+
+         The initial state is represented by point A. The gas is cooled at constant pressure to point B
+         by the removal of 48.0 kJ of thermal energy.
+
+         The gas is then heated at constant volume to point C.
+
+         Finally, the gas expands at constant temperature back to its original pressure and volume at
+         point A. During this expansion, the gas does 31.6 kJ of work.
+
+
+© UCLES 2022                                                     9702/41/M/J/22
+
+
+=== MERGED PAGE 9 ===
+                                                    9
+
+          (i)   Show that the magnitude of the work done during the change AB is 19.2 kJ.
+
+
+
+
+                                                                                                         [2]
+
+         (ii)   Complete Table 3.1 to show the work done on the gas, the thermal energy supplied to
+                the gas and the increase in internal energy of the gas, for each of the changes AB, BC
+                and CA.
+
+                                               Table 3.1
+
+                               work done            thermal energy       increase in internal
+                change
+                               on gas / kJ        supplied to gas / kJ    energy of gas / kJ
+
+
+                 AB                                       – 48.0
+
+
+
+
+                 BC
+
+
+
+
+                 CA               – 31.6
+
+
+                                                                                                         [5]
+
+                                                                                                 [Total: 11]
+
+
+
+
+© UCLES 2022                                  9702/41/M/J/22                                    [Turn over
+
+
+=== MERGED PAGE 10 ===
+                                                            10
+
+4   A pendulum consists of a bob (small metal sphere) attached to the end of a piece of string. The
+    other end of the string is attached to a fixed point. The bob oscillates with small oscillations about
+    its equilibrium position, as shown in Fig. 4.1.
+
+
+
+
+                                                                                   string
+                       L
+
+                                   equilibrium
+                                   position                                    bob
+
+
+                                                                     x
+
+
+                                                            oscillations
+
+                                            Fig. 4.1 (not to scale)
+
+    The length L of the pendulum, measured from the fixed point to the centre of the bob, is 1.24 m.
+
+    The acceleration a of the bob varies with its displacement x from the equilibrium position as shown
+    in Fig. 4.2.
+
+                                                      0.4
+                                          a / m s–2
+
+
+                                                      0.2
+
+
+
+
+                                                       0
+               –0.06       –0.04       –0.02                0        0.02   0.04            0.06
+                                                                                   x/m
+
+                                                 –0.2
+
+
+
+
+                                                 –0.4
+
+                                                      Fig. 4.2
+
+
+
+
+© UCLES 2022                                      9702/41/M/J/22
+
+
+=== MERGED PAGE 11 ===
+                                                                          11
+
+    (a) State how Fig. 4.2 shows that the motion of the pendulum is simple harmonic.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) (i)      Use Fig. 4.2 to determine the angular frequency ω of the oscillations.
+
+
+
+
+                                                                                      ω = .............................................. rad s–1 [2]
+
+         (ii)    The angular frequency ω is related to the length L of the pendulum by
+                                                                                 k
+                                                                   ω =
+                                                                                 L
+                 where k is a constant.
+
+                 Use your answer in (b)(i) to determine k. Give a unit with your answer.
+
+
+
+
+                                                                                       k = .................................... unit .............. [2]
+
+    (c) While the pendulum is oscillating, the length of the string is increased in such a way that the
+        total energy of the oscillations remains constant.
+
+         Suggest and explain the qualitative effect of this change on the amplitude of the oscillations.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                               [Total: 8]
+
+
+
+
+© UCLES 2022                                                       9702/41/M/J/22                                                          [Turn over
+
+
+=== MERGED PAGE 12 ===
+                                                                           12
+
+5   Fig. 5.1 shows four diodes and a load resistor of resistance 1.2 kΩ, connected in a circuit that is
+    used to produce rectification of an alternating voltage.
+
+
+
+
+                                                                                                                                     P
+
+               X
+      VIN                                                                                                             1.2 kΩ                VOUT
+               Y
+
+                                                                                                                                     Q
+
+
+
+
+                                                                      Fig. 5.1
+
+    (a) (i)        State what is meant by rectification.
+
+                   ...........................................................................................................................................
+
+                   ..................................................................................................................................... [1]
+
+         (ii)      State the type of rectification produced by the circuit in Fig. 5.1.
+
+                   ..................................................................................................................................... [1]
+
+    (b) A sinusoidal alternating voltage VIN is applied across the input terminals X and Y. The variation
+        with time t of VIN is given by the equation
+
+                                                              VIN = 6.0 sin 25πt
+
+            where VIN is in volts and t is in seconds.
+
+            (i)    On Fig. 5.1, label the output terminals P and Q with the appropriate symbols to indicate
+                   the polarity of the output voltage VOUT.                                              [1]
+
+
+
+
+© UCLES 2022                                                        9702/41/M/J/22
+
+
+=== MERGED PAGE 13 ===
+                                                     13
+
+         (ii)   The magnitude of the output voltage VOUT varies with t as shown in Fig. 5.2.
+
+
+
+           VOUT / V
+
+
+
+
+                      0
+                          0
+                                                                                                        t/s
+
+                                                  Fig. 5.2
+
+                On Fig. 5.2, label both of the axes with the correct scales. Use the space below for any
+                working that you need.
+
+
+
+
+                                                                                                                             [3]
+
+    (c) The output voltage in (b) is smoothed by adding a capacitor to the circuit in Fig. 5.1.
+        The difference between the maximum and minimum values of the smoothed output voltage is
+        10% of the peak voltage.
+
+          (i)   On Fig. 5.1, draw the circuit symbol for a capacitor showing the capacitor correctly
+                connected into the circuit.                                                      [1]
+
+         (ii)   On Fig. 5.2, sketch the variation with t of the smoothed output voltage.                                     [2]
+
+        (iii)   Calculate the capacitance C of the capacitor.
+
+
+
+
+                                                                 C = ...................................................... F [3]
+
+                                                                                                                  [Total: 12]
+
+
+
+
+© UCLES 2022                                    9702/41/M/J/22                                                   [Turn over
+
+
+=== MERGED PAGE 14 ===
+                                                                          14
+
+6   (a) Define magnetic flux.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A square coil of wire of side length 12 cm consists of 8 insulated turns. The coil is stationary
+        in a uniform magnetic field. The plane of the coil is perpendicular to the magnetic field, as
+        shown in Fig. 6.1.
+
+
+
+
+                                                                                                         magnetic field lines
+                                                                                                         into the page
+               12 cm
+                                                                                                         square coil
+                                                                                                         8 turns
+
+
+
+
+                                             terminals
+
+                                                                     Fig. 6.1
+
+         The flux density B of the magnetic field varies with time t as shown in Fig. 6.2.
+
+                                     400
+
+                             B / mT
+
+                                     200
+
+
+
+
+                                         0
+                                             0               0.2                0.4               0.6                0.8
+                                                                                                           t/s
+
+                                                                     Fig. 6.2
+
+
+
+
+© UCLES 2022                                                       9702/41/M/J/22
+
+
+=== MERGED PAGE 15 ===
+                                                                          15
+
+          (i)    Determine the magnetic flux linkage inside the coil at time t = 0.60 s. Give a unit with
+                 your answer.
+
+
+
+
+                                                       magnetic flux linkage = .................................... unit .............. [3]
+
+         (ii)    State how Fig. 6.2 shows that the electromotive force (e.m.f.) E induced across the
+                 terminals between t = 0 and t = 0.60 s is constant.
+
+                 ..................................................................................................................................... [1]
+
+        (iii)    Calculate the magnitude of E.
+
+
+
+
+                                                                                      E = ...................................................... V [2]
+
+    (c) The procedure in (b) is repeated, but this time the terminals of the coil are connected together.
+
+         State and explain the effect on the coil of connecting the terminals together during the change
+         of magnetic flux density shown in Fig. 6.2.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                             [Total: 11]
+
+
+
+
+© UCLES 2022                                                       9702/41/M/J/22                                                          [Turn over
+
+
+=== MERGED PAGE 16 ===
+                                                                          16
+
+7   (a) State what is meant by a photon.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Electromagnetic radiation of a varying frequency f and constant intensity I is used to illuminate
+        a metal surface. At certain frequencies, electrons are emitted from the surface of the metal.
+        The variation with f of the maximum kinetic energy EMAX of the emitted electrons is shown in
+        Fig. 7.1.
+
+                        4.0
+
+      EMAX / 10–19 J
+
+                        3.0
+
+
+
+
+                        2.0
+
+
+
+
+                        1.0
+
+
+
+
+                           0
+                               0                2                 4                  6                 8                 10                 12
+                                                                                                                           f / 1014 Hz
+
+                                                                      Fig. 7.1
+
+          (i)    State the name of this phenomenon.
+
+                 ..................................................................................................................................... [1]
+
+
+
+
+© UCLES 2022                                                       9702/41/M/J/22
+
+
+=== MERGED PAGE 17 ===
+                                                                        17
+
+         (ii)   Describe three conclusions that can be drawn from the graph in Fig. 7.1. The conclusions
+                may be qualitative or quantitative.
+
+                1 ........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                2 ........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                3 ........................................................................................................................................
+
+                ...........................................................................................................................................
+                                                                                                                                                       [3]
+
+    (c) The experiment in (b) is repeated twice, each time making one change.
+
+         State, with a reason, how the graph obtained would compare with Fig. 7.1 when:
+
+          (i)   a different metal is used, but keeping the intensity I of the radiation the same
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   the same metal is used, but with electromagnetic radiation of intensity 2I.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2022                                                     9702/41/M/J/22                                                          [Turn over
+
+
+=== MERGED PAGE 18 ===
+                                                                        18
+
+8   (a) (i)     State what is meant by nuclear binding energy.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   On Fig. 8.1, sketch a line to show the variation with nucleon number A of the binding
+                energy per nucleon E of a nucleus.
+
+
+
+                                        E
+
+
+
+
+                                         0
+                                             0                                                  250
+                                                                                                        A
+
+                                                                   Fig. 8.1
+                                                                                                                                                       [2]
+
+    (b) In one type of nuclear process, deuterium (21H) undergoes the reaction
+
+                                                  2H    + 21H                   3He      + 10n.
+                                                  1                             2
+
+          (i)   State the name of this type of nuclear process.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain, with reference to your line in (a)(ii), why this reaction results in the release of
+                energy.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+
+
+
+© UCLES 2022                                                     9702/41/M/J/22
+
+
+=== MERGED PAGE 19 ===
+                                                  19
+
+    (c) Table 8.1 shows the masses of the particles involved in the reaction in (b).
+
+                                              Table 8.1
+
+                               particle                        mass / u
+                                 1n                           1.008 665
+                                 0
+
+                                 2H                           2.014 102
+                                 1
+
+                                3He                           3.016 029
+                                2
+
+
+         Calculate the energy released when 1.00 mol of deuterium undergoes the reaction.
+
+
+
+
+                                                       energy = ...................................................... J [5]
+
+                                                                                                              [Total: 12]
+
+
+
+
+© UCLES 2022                                 9702/41/M/J/22                                                 [Turn over
+
+
+=== MERGED PAGE 20 ===
+                                                                        20
+
+9   (a) (i)     Explain how X-rays are produced for use in medical diagnosis.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+         (ii)   State why X-ray images are taken of multiple sections of the body during computed
+                tomography (CT) scanning.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+    (b) An X-ray image is taken of the structure shown in Fig. 9.1.
+
+                                                                  2.4 cm
+
+
+                                soft tissue                                                    bone
+                                                                                         Q
+
+        incident                                                                                                             detected
+         X-rays                                                                                                               X-rays
+
+
+                                                                                         P
+
+                                                                  5.6 cm
+
+
+                                                                   Fig. 9.1
+
+         The linear attenuation coefficient of bone is 3.4 cm–1.
+         The linear attenuation coefficient of soft tissue is 0.89 cm–1.
+
+         The incident X-rays are parallel and have a uniform intensity I0 across the structure.
+
+
+
+
+© UCLES 2022                                                     9702/41/M/J/22
+
+
+=== MERGED PAGE 21 ===
+                                                                          21
+
+         Determine, in terms of I0, the intensity of the detected X-rays from:
+
+          (i)    point P
+
+
+
+
+                                                             detected intensity = ...................................................... I0 [2]
+
+         (ii)    point Q.
+
+
+
+
+                                                             detected intensity = ...................................................... I0 [2]
+
+    (c) Explain, with reference to your answers in (b), whether the X-ray image of the structure in
+        Fig. 9.1 has good contrast.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+                                                                                                                                               [Total: 9]
+
+
+
+
+© UCLES 2022                                                       9702/41/M/J/22                                                          [Turn over
+
+
+=== MERGED PAGE 22 ===
+                                                                          22
+
+10 (a) State Wien’s displacement law.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) Fig. 10.1 shows the wavelength distributions of electromagnetic radiation emitted by two stars
+        A and B.
+
+
+
+
+                           rate of
+                           emission
+                                                                        star A
+
+
+
+
+                                                                    star B
+
+
+
+
+                                          0
+                                              0               0.5               1.0             1.5         2.0
+                                                                                             wavelength / μm
+
+                                                                     Fig. 10.1
+
+         The surface temperature of star A is known to be 5800 K.
+
+          (i)    Determine the surface temperature of star B.
+
+
+
+
+                                                         surface temperature = ...................................................... K [2]
+
+
+
+
+© UCLES 2022                                                        9702/41/M/J/22
+
+
+=== MERGED PAGE 23 ===
+                                                                        23
+
+         (ii)   Star B appears less bright than star A when viewed from the Earth.
+
+                Use Fig. 10.1 to suggest, with a reason, how else the physical appearance of star B
+                compares with that of star A.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+    (c) The lines in Fig. 10.1 have been corrected for redshift.
+
+          (i)   State what is meant by redshift.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Explain how cosmologists are able to determine that light from a distant star has
+                undergone redshift.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2022                                                     9702/41/M/J/22
+
+
+=== MERGED PAGE 24 ===
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2022                                                         9702/41/M/J/22

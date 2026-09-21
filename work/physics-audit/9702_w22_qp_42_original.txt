@@ -1,0 +1,1021 @@
+                          Cambridge International AS & A Level
+
+
+
+
+* 5 2 7 1 5 5 6 3 1 0 *
+                          PHYSICS                                                                                         9702/42
+                          Paper 4 A Level Structured Questions                                            October/November 2022
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (KS/CT) 303282/3
+                          © UCLES 2022                                                                                   [Turn over
+                                              2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2022                            9702/42/O/N/22
+                                          32
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3          〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω         (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                           Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                   t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                               2
+
+
+
+                                   IR  (Z - Z 2) 2
+intensity reflection coefficient      = 1
+                                   I0  (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2022                        9702/42/O/N/22                [Turn over
+                                                                           4
+
+1   (a) Define gravitational field.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) A spherical planet can be considered as a point mass at its centre.
+
+          (i)    On Fig. 1.1, draw gravitational field lines outside the planet to represent the gravitational
+                 field due to the planet.
+
+
+
+
+                                                                       planet
+
+
+
+
+                                                                     Fig. 1.1
+                                                                                                                                                         [2]
+
+         (ii)    A satellite is in a circular orbit around the planet.
+
+                 Explain, with reference to your answer in (b)(i), why the path of the satellite is circular.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+
+
+
+© UCLES 2022                                                      9702/42/O/N/22
+                                                                         5
+
+    (c) An object rests on the surface of the Earth at the Equator.
+        The radius of the Earth is 6.4 × 106 m.
+
+          (i)   Determine the centripetal acceleration of the object.
+
+
+
+
+                                                  centripetal acceleration = ................................................ m s–2 [3]
+
+         (ii)   Describe how the two forces acting on the object give rise to this centripetal acceleration.
+                You may draw a diagram if you wish.
+
+
+
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2022                                                    9702/42/O/N/22                                                           [Turn over
+                      6
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2022    9702/42/O/N/22
+                                                                           7
+
+2   (a) Define specific heat capacity.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A fixed mass of water in a beaker is at atmospheric pressure.
+
+          (i)    The initial temperature of the water is 0 °C.
+
+                 The water is supplied with thermal energy E, so that its temperature increases to 8 °C.
+                 There is no net change in the volume of the water.
+
+                 Use the first law of thermodynamics to complete Table 2.1 for this process.
+
+                                                                    Table 2.1
+
+                                                               thermal energy                      increase in internal
+                      work done on water
+                                                              supplied to water                      energy of water
+
+                                                                         +E
+
+                                                                                                                                                         [2]
+
+         (ii)    The water is now heated so that its temperature increases by a further 8 °C to a final
+                 temperature of 16 °C. This process causes the volume of the water to increase so that
+                 work W is done.
+                 Assume that the change in internal energy is the same as in (b)(i).
+
+                 Use the first law of thermodynamics to complete Table 2.2 for this process.
+
+                                                                    Table 2.2
+
+                                                               thermal energy                      increase in internal
+                      work done on water
+                                                              supplied to water                      energy of water
+
+
+
+                                                                                                                                                         [2]
+
+    (c) Use the information in (b) to suggest, with a reason, how the average specific heat capacity
+        of water between 8 °C and 16 °C compares with its average value between 0 °C and 8 °C.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+                                                                                                                                               [Total: 7]
+
+
+
+
+© UCLES 2022                                                      9702/42/O/N/22                                                           [Turn over
+                                                                         8
+
+3   (a) The equation of state for an ideal gas can be written as
+
+                                                                 pV = NkT.
+
+         State the meaning of each of the symbols in this equation.
+
+         p: ...............................................................................................................................................
+
+         V: ..............................................................................................................................................
+
+         N: ..............................................................................................................................................
+
+         k: ...............................................................................................................................................
+
+         T: ..............................................................................................................................................
+                                                                                                                                                      [3]
+
+    (b) Use the equation in (a) to show that the average translational kinetic energy EK of a molecule
+        of an ideal gas is given by
+                                                                             3
+                                                                 EK =          kT.
+                                                                             2
+
+
+
+
+                                                                                                                                                       [2]
+
+    (c) The mass of an oxygen molecule is 5.31 × 10–26 kg. Assume that oxygen behaves as an ideal
+        gas.
+
+          (i)   Use the equation in (b) to determine the root-mean-square (r.m.s.) speed u of an oxygen
+                molecule at 23 °C.
+
+
+
+
+                                                                                     u = ................................................ m s–1 [3]
+
+
+
+
+© UCLES 2022                                                     9702/42/O/N/22
+                                                       9
+
+         (ii)   A fixed mass of oxygen gas at initial pressure P is sealed in a cylindrical container by a
+                movable piston at one end, as shown in Fig. 3.1.
+
+                                       oxygen
+
+                                                                                     piston
+
+
+                  cylinder
+
+
+
+
+                                                  Fig. 3.1
+
+                The temperature of the gas is 23 °C.
+
+                The piston is slowly moved into the cylinder so that the oxygen gas is compressed. At all
+                times, the gas and the container remain in thermal equilibrium with the surroundings.
+
+                On Fig. 3.2, sketch the variation with pressure of the r.m.s. speed of the oxygen
+                molecules as the pressure increases.
+
+
+
+
+                        r.m.s. speed
+
+                                   u
+
+
+
+
+                                    0
+                                        P                                 pressure
+
+                                                  Fig. 3.2
+                                                                                                       [2]
+
+                                                                                               [Total: 10]
+
+
+
+
+© UCLES 2022                                    9702/42/O/N/22                                [Turn over
+                                                         10
+
+4   Fig. 4.1 shows the variation with time t of the height h above the ground of an object of mass 36 kg
+    that is undergoing vertical simple harmonic motion.
+
+                                 18
+
+                        h / cm
+
+                                 10
+
+
+
+
+                                  2
+                                      0         2                4                6               8
+                                                                                         t/s
+
+                                                      Fig. 4.1
+
+    (a) For the oscillations of the object:
+
+          (i)   determine the amplitude x0, in cm
+
+
+
+                                                                     x0 = ................................................... cm [1]
+
+         (ii)   show that the angular frequency ω is 1.6 rad s–1
+
+
+
+
+                                                                                                                                 [2]
+
+        (iii)   determine the total energy E.
+
+
+
+
+                                                                     E = ...................................................... J [3]
+
+
+
+
+© UCLES 2022                                        9702/42/O/N/22
+                                                    11
+
+    (b) On Fig. 4.2, sketch the variation with h of the kinetic energy EK of the object.
+
+                               0.4
+
+                      EK / J
+
+                               0.3
+
+
+
+
+                               0.2
+
+
+
+
+                               0.1
+
+
+
+
+                                0
+                                     0     5             10        15            20
+                                                                        h / cm
+
+                                                 Fig. 4.2
+                                                                                                    [4]
+
+                                                                                            [Total: 10]
+
+
+
+
+© UCLES 2022                                   9702/42/O/N/22                              [Turn over
+                                                                          12
+
+5   (a) Define electric potential at a point.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) An isolated conducting sphere is charged. Fig. 5.1 shows the variation of the potential V due
+        to the sphere with displacement x from its centre.
+
+                                                                         0
+                 – 0.3              – 0.2             – 0.1                  0               0.1               0.2                0.3
+                                                                                                                        x/m
+
+
+                                                                  – 250
+
+                                                                 V/V
+
+                                                                  – 500
+
+
+
+
+                                                                  – 750
+
+
+
+
+                                                                – 1000
+
+                                                                     Fig. 5.1
+
+         Use Fig. 5.1 to determine:
+
+          (i)    the radius of the sphere
+
+
+
+                                                                                  radius = ..................................................... m [1]
+
+         (ii)    the charge on the sphere.
+
+
+
+
+                                                                                 charge = ..................................................... C [2]
+
+
+
+
+© UCLES 2022                                                      9702/42/O/N/22
+                                                                        13
+
+    (c) Two spheres are identical to the sphere in (b). Each sphere has the same charge as the
+        sphere in (b).
+
+         The spheres are held in a vacuum so that their centres are separated by a distance of 0.46 m.
+         Assume that the charge on each sphere is a point charge at the centre of the sphere.
+
+          (i)   Calculate the electric potential energy EP of the two spheres.
+
+
+
+
+                                                                                   EP = ...................................................... J [2]
+
+         (ii)   The two spheres are now released simultaneously so that they are free to move.
+
+                Describe and explain the subsequent motion of the spheres.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2022                                                    9702/42/O/N/22                                                           [Turn over
+                                                                          14
+
+6   A capacitor of capacitance C and a resistor of resistance R are connected as shown in Fig. 6.1.
+
+                                                                            C
+
+
+
+
+                                                                           R
+
+                                                                     Fig. 6.1
+
+    Initially, the capacitor is charged and the switch is open.
+
+    The switch is closed at time t = 0.
+
+    Fig. 6.2 and Fig. 6.3 show, respectively, the variations with t of the charge Q on the capacitor and
+    the potential difference (p.d.) V across the resistor.
+
+          1.0                                                                          10
+
+    Q / mC                                                                      V/V
+
+          0.5                                                                            5
+
+
+
+
+               0                                                                         0
+                   0              5                 10                15                     0                5                 10                15
+                                                             t/s                                                                         t/s
+
+                                   Fig. 6.2                                                                       Fig. 6.3
+
+    (a) Explain the shape of the line in Fig. 6.3 representing the variation of V with t.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+
+
+
+© UCLES 2022                                                       9702/42/O/N/22
+                                                    15
+
+    (b) Use Fig. 6.2 to show that the time constant of the circuit in Fig. 6.1 is 5.5 s.
+
+
+
+
+                                                                                                                           [3]
+
+    (c) Use Fig. 6.2, Fig. 6.3 and the information in (b) to determine:
+
+          (i)   capacitance C, in μF
+
+
+
+
+                                                                C = .................................................... μF [2]
+
+         (ii)   resistance R, in kΩ.
+
+
+
+
+                                                                R = ................................................... kΩ [2]
+
+                                                                                                                 [Total: 10]
+
+
+
+
+© UCLES 2022                                   9702/42/O/N/22                                                  [Turn over
+                                                                          16
+
+7   (a) Define magnetic flux density.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+    (b) An insulated rectangular coil of wire, consisting of 40 turns, is suspended in a cradle from a
+        newton meter, as shown in Fig. 7.1.
+
+
+
+
+                                                                                              newton meter
+
+
+
+                                                 cradle
+
+
+                                                                                                            coil
+                                                                                                            40 turns
+
+
+                               5.00 cm
+
+
+
+
+                                                                        3.00 cm
+
+
+
+                                                                     Fig. 7.1
+
+         The vertical sides of the coil have a length of 5.00 cm and the horizontal sides have a length
+         of 3.00 cm. The initial reading on the newton meter is 0.563 N.
+
+         A U-shaped magnet rests on a top-pan balance that is set to a reading of 0.00 g.
+         The lower edge of the coil is lowered into the region between the poles of the U-shaped
+         magnet, as shown in the side view in Fig. 7.2.
+
+
+
+
+© UCLES 2022                                                      9702/42/O/N/22
+                                                                        17
+
+
+
+                         newton meter
+                         initial reading 0.563 N
+
+
+
+
+                                                                              coil (viewed from the side)
+                            poles of magnet
+
+
+
+                                                                                            top-pan balance
+                                                                                            initial reading 0.00 g
+
+                                                                   Fig. 7.2
+
+         The magnetic field in the region between the poles is uniform.
+         The lower edge of the coil is entirely within the uniform magnetic field.
+
+         A current of 3.94 A is now passed through the coil. This causes the reading on the top-pan
+         balance to change to 2.16 g.
+
+          (i)   Explain why the current causes a vertical force to act on the coil.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Determine, to three significant figures, the flux density B of the uniform magnetic field.
+
+
+
+
+                                                                                    B = ...................................................... T [3]
+
+        (iii)   Determine what is now the reading on the newton meter. Explain your reasoning.
+
+
+
+
+                                                                           reading = ..................................................... N [2]
+                                                                                                                                           [Total: 10]
+© UCLES 2022                                                    9702/42/O/N/22                                                           [Turn over
+                                                                          18
+
+8   (a) State Lenz’s law of electromagnetic induction.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Two coils of insulated wire are wound on an iron bar, as shown in Fig. 8.1.
+
+                              coil 1                                              coil 2
+                                                                                                                         iron bar
+
+
+
+
+                   I1
+                                                                                     V
+
+                                                                                     V2
+
+
+                                                                     Fig. 8.1
+
+         There is a current I1 in coil 1 that varies with time t as shown in Fig. 8.2.
+
+                                     1.0
+
+                              I1 / A
+
+                                     0.5
+
+
+
+
+                                        0
+                                            0              0.02               0.04              0.06               0.08
+                                                                                                           t/s
+
+
+                                   – 0.5
+
+
+
+
+                                   – 1.0
+
+
+                                                                     Fig. 8.2
+
+
+
+
+© UCLES 2022                                                      9702/42/O/N/22
+                                                                        19
+
+          (i)   The variation with t of I1 can be represented by the equation
+
+                                                                I1 = X sin Yt
+
+                where X and Y are constants.
+
+                Use Fig. 8.2 to determine the values of X and Y. Give units with your answers.
+
+
+                                                                              X = ........................................... unit ...................
+
+                                                                              Y = ........................................... unit ...................
+                                                                                                                                                  [3]
+
+         (ii)   The current in coil 1 gives rise to a magnetic field in the iron bar.
+                Assume that the flux density of this magnetic field is proportional to I1.
+
+                An alternating electromotive force (e.m.f.) is induced across coil 2. The p.d. across coil 2
+                is measured using the voltmeter and has a root-mean-square (r.m.s.) value of 4.6 V.
+
+                On Fig. 8.3, sketch a line to show the variation with t of V2 between t = 0 and t = 0.08 s.
+
+                                    10
+
+                           V2 / V
+
+                                      5
+
+
+
+
+                                      0
+                                          0              0.02              0.04               0.06               0.08
+                                                                                                         t/s
+
+
+                                    –5
+
+
+
+
+                                 – 10
+
+                                                                   Fig. 8.3
+                                                                                                                                                       [3]
+
+        (iii)   Use the laws of electromagnetic induction to explain the shape of your line in (b)(ii).
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+                                                                                                                                           [Total: 11]
+© UCLES 2022                                                    9702/42/O/N/22                                                           [Turn over
+                                                                        20
+
+9   (a) Fig. 9.1 shows the visible part of the emission spectrum from hydrogen gas in a laboratory on
+        the Earth. The numbers indicate the wavelength, in nm, represented by each line.
+
+
+
+
+                                   411         435            488                                          658
+
+                                                                   Fig. 9.1
+
+          (i)   Explain how the emission spectrum provides evidence for the existence of discrete
+                energy levels for the electron in a hydrogen atom.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+         (ii)   Fig. 9.2 shows five of the energy levels in the hydrogen atom. The wavelengths of
+                radiation shown in Fig. 9.1 relate to transitions to the – 3.400 eV level in Fig. 9.2.
+
+                                                                                                – 0.378 eV
+                                                                                                – 0.544 eV
+
+                                                                                                – 0.850 eV
+
+                                   energy
+                                                                                                X
+
+
+
+
+                                                                                                – 3.400 eV
+
+                                                         Fig. 9.2 (not to scale)
+
+                Show that the energy level X is –1.51 eV.
+
+
+
+
+                                                                                                                                                       [3]
+
+
+
+© UCLES 2022                                                    9702/42/O/N/22
+                                                                       21
+
+    (b) The same part of the emission spectrum from hydrogen as in (a), observed in light from stars
+        in a distant galaxy, is shown in Fig. 9.3. The numbers indicate the wavelengths in nm.
+
+
+
+
+                                   429        454             509                                        686
+
+                                                                   Fig. 9.3
+
+         The spectrum shows the same pattern as Fig. 9.1 but with different wavelengths.
+
+          (i)   State the name of the phenomenon that gives rise to the change in the wavelengths.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   State what this phenomenon shows about the motion of the galaxy.
+
+                ..................................................................................................................................... [1]
+
+        (iii)   Use one of the lines in Fig. 9.1, and the corresponding line in Fig. 9.3, to determine the
+                speed of the distant galaxy relative to the observer.
+
+
+
+
+                                                                            speed = ................................................ m s–1 [3]
+
+    (c) The galaxy in (b) is known to be a distance of 5.7 × 1024 m from the Earth.
+
+         Use your answer in (b)(iii) to determine a value for the Hubble constant H0.
+
+
+
+
+                                                                                  H0 = ................................................... s–1 [2]
+
+                                                                                                                                         [Total: 13]
+
+
+
+
+© UCLES 2022                                                    9702/42/O/N/22                                                         [Turn over
+                     22
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2022    9702/42/O/N/22
+                                                                        23
+
+10 Positron emission tomography (PET scanning) involves the detection of gamma-radiation in order
+   to identify the position of origin of positrons in the body.
+
+    (a) (i)     Positrons are not naturally present in the body.
+
+                Explain how positrons come to be present in the body during PET scanning.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Explain how positrons cause the emission of gamma-radiation from the body during PET
+                scanning.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+    (b) Show that the wavelength of the gamma-radiation that is detected during PET scanning is
+        approximately 2.4 pm. Explain your reasoning.
+
+
+
+
+                                                                                                                                                       [4]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2022                                                    9702/42/O/N/22
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2022                                                         9702/42/O/N/22
+

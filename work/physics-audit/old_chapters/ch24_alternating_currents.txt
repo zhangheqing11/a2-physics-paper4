@@ -1,0 +1,268 @@
+
+===== 9702/41_Winter_2017_Q10 | PDF 540-540 | Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+1 - (9702/41_Winter_2017_Q10) - Alternating Currents
+(a)
+The mean value of an alternating current is zero.
+Explain why heating occurs when there is an alternating current in a resistor.
+12]
+(b) Transmission of electrical energy is frequently achieved using alternating high voltages.
+Suggest why
+(1) high voltages are used,
+[2]
+(ii) the voltage is alternating.
+12)
+2017 - 2023
+539
+P4 Topical
+
+===== 9702/42_Winter_2017_Q11 | PDF 541-543 | Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+2 - (9702/42_Winter_2017_Q11) - Alternating Currents
+The circuit for a full-wave rectifier using four ideal diodes is shown in Fig. 11.1.
+0 X
+input
+ru
+O Y
+R
+Fig. 11.1
+A resistor R is connected across the output AB of the rectifier.
+(a) On Fig. 11.1,
+(1) draw a circle around any diodes that conduct when the terminal X of the input is positive
+with respect to terminal Y,
+11]
+(i) label the positive (+) and the negative (-) terminals of the output AB.
+[1]
+2017 - 2023
+540
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+The variation with time t of the potential difference V across the input XY is given by the
+expression
+V = 5.6 sin 380t
+where Vis measured in volts and t is measured in seconds.
+The variation with time t of the rectified potential difference across the resistor R is shown in
+Fig. 11.2.
+rectified
+potential
+difference
+/V
+4
+2
+1,
+12
+Fig. 11.2
+Use the expression for the input potential difference V, or otherwise, to determine
+the root-mean-square (r.m.s.) potential difference Vr.m.s. of the input,
+Vr.m.s. =
+V [1]
+2017 - 2023
+541
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(II) the number of times per second that the rectified potential difference at the output
+reaches a peak value.
+CH24 - ALTERNATING CURRENTS
+number=...
+(c) A capacitor is now connected between the terminals AB of the output.
+The capacitor reduces the variation (the ripple) in the output to 1.6 V.
+• [2]
+(i)
+On Fig. 11.2, sketch the variation with time t of the smoothed output voltage for time
+1=4, to time t= 12:
+(li)
+Suggest and explain the effect, if any, on the mean power dissipation in resistor R when
+the capacitor is connected between terminals AB.
+-[2]
+2017 - 2023
+542
+P4 Topical
+
+===== 9702/42_Winter_2018_Q10 | PDF 546-547 | Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+4 - (9702/42_Winter_2018_Q10) - Alternating Currents
+(a) The root-mean-square (r.m.s.) value of the voltage of a sinusoidal alternating supply is 9.9 V.
+The frequency of the supply is 50Hz.
+Derive an expression for the variation with time t (in second) of the potential difference V
+(in volt) of the supply.
+V=..
+[2]
+(b) Explain the function of the non-uniform magnetic field superposed on the large constant
+magnetic field in diagnosis using magnetic resonance imaging (NMRI).
+...[3]
+2017 - 2023
+545
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) A parallel beam of X-rays of intensity I, is incident normally on some soft tissue and bone, as
+illustrated in Fig. 10.1.
+:0.40 cm
+CH24 - ALTERNATING CURRENTS
+incident
+intensity To
+bone
+soft tissue
+transmitted
+intensity I
+1.8 cm
+Fig. 10.1
+The bone is 0.40cm thick and the total thickness of the bone and the soft tissue is 1.8cm.
+The intensity of the transmitted beam is I.
+Data for the linear attenuation (absorption) coefficient u of bone and of soft tissue are given in
+Fig. 10.2.
+bone
+soft tissue
+2.9
+0.92
+Fig. 10.2
+Calculate, in dB, the ratio
+transmitted intensity I
+incident intensity Io
+ratio = ...
+dB (4]
+2017 - 2023
+546
+P4 Topical
+
+===== 9702/41_Summer_2019_Q10 | PDF 548-549 | Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+5 - (9702/41_Summer_2019_Q10) - Alternating Currents
+A bridge rectifier contains four diodes. The output of the rectifier is connected to a resistor R, as
+shown in Fig. 10.1.
+input N
+bridge
+rectifier
+output
+resistor R
+Fig. 10.1
+The variation with time t of the input e.m.f. E to the rectifier is given by the expression
+E = 15 cos(210t)
+where t is measured in seconds and E in volts.
+The variation with time t of the potential difference V across resistor R is shown in Fig. 10.2.
+Fig. 10.2
+Determine:
+(a) the maximum potential difference Vax across resistor R
+MAX = ..
+...V [1]
+2017 - 2023
+547
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+(b) the time interval, to two significant figures, between time t, and time t½.
+time = ...
+...s [3]
+2017 - 2023
+548
+P4 Topical
+
+===== 9702/41_Winter_2019_Q10 | PDF 550-551 | Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+6 - (9702/41_Winter_2019_Q10) - Alternating Currents
+A bridge rectifier using four ideal diodes is shown in Fig. 10.1.
+A
+R
+Fig. 10.1
+The sinusoidal alternating electromotive force (e.m.f.) applied between points A and B has a root-
+mean-square (r.m.s.) value of 7.0 V.
+(a) (i) On Fig. 10.1, circle the diodes that conduct when point B is positive with respect to
+point A.
+[1]
+(ii) Calculate the maximum potential difference mAx across resistor R.
+VMAX =
+V [1]
+2017 - 2023
+549
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+(b) A capacitor is connected into the circuit to produce smoothing of the potential difference
+across resistor R.
+The variation with time t of the potential difference V across resistor R is shown in Fig. 10.2.
+V
+T magnitude of
+r. ripple
+Fig. 10.2
+(i) On Fig. 10.1, draw the symbol for a capacitor, connected so as to produce smoothing.
+(ii) State the effect, if any, on the magnitude of the ripple on V when, separately:
+1. a capacitor of larger capacitance is used
+2. the resistor R has a smaller resistance.
+12]
+2017 - 2023
+550
+P4 Topical
+
+===== 9702/42_Summer_2021_Q10 | PDF 557-558 | Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+9 - (9702/42_Summer_2021_Q10) - Alternating Currents
+(a)
+By reference to heating effect, explain what is meant by the root-mean-square (r.m.s.) value
+of an alternating current.
+12]
+(b) The variations with time t of two currents I, and I2 are shown in Fig. 10.1 and Fig. 10.2.
+3
+L,/A
+^ ^
+U
+-1
+-2
+Fig. 10.1
+I2/A
+3
+2
+1
+-1
+- 2.
+-3
+Fig. 10.2
+2017 - 2023
+556
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH24 - ALTERNATING CURRENTS
+(i) Use Fig. 10.1 to determine the peak value and the r.m.s. value of the current I,.
+peak value =
+r.m.s. value =
+A
+...A
+11]
+(i) Use Fig. 10.2 to determine the peak value and the r.m.s. value of the current Iz:
+peak value =
+r.m.s. value =
+(c) The variation with time t of the supply voltage V to a house is given by the expression
+V = 240 sin kt
+where V is in volts, tis in seconds and kis a constant with unit rads rads-1
+(i) The frequency of the supply voltage is 50Hz.
+Determine k to two significant figures.
+A
+...A
+[1]
+k=
+(ii) The supply voltage is applied to a heater. The mean power of the heater is 3.2kW.
+Calculate the resistance of the heater.
+. rads 1
+12]
+resistance =
+8[2]
+2017 - 2023
+557
+P4 Topical

@@ -1,0 +1,402 @@
+
+===== 9702/42_Summer_2017_Q7 | PDF 343-343 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+1 - (9702/42_Summer_2017_Q7) - Capacitance
+A capacitor consists of two parallel metal plates, separated by an insulator, as shown in Fig. 7.1.
+metal
+plates
+_ insulator
+Fig. 7.1
+(a) Suggest why, when the capacitor is connected across the terminals of a battery, the capacitor
+stores energy, not charge.
+• [2]
+(b) Define the capacitance of the capacitor.
+• [2]
+The capacitor is charged so that the potential difference between its plates is Vo
+The capacitor is then connected across a resistor for a short time. It is then disconnected
+The energy stored in the capacitor is reduced to 16 of its initial value.
+Determine, in terms of Vo, the potential difference across the capacitor.
+potential difference =
+....[2]
+2017 - 2023
+342
+P4 Topical
+
+===== 9702/41_Winter_2017_Q6 | PDF 344-345 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+2 - (9702/41_Winter_2017_Q6) - Capacitance
+Two capacitors P and Q, each of capacitance C, are connected in series with a battery of e.m.f.
+9.0 V, as shown in Fig. 6.1.
+Q
+switch S
+P
+xo/
+Fig. 6.1
+A switch S is used to connect either a third capacitor T, also of capacitance C, or a resistor R, in
+parallel with capacitor P.
+(a) Switch S is in position X.
+Calculate
+(1) the combined capacitance, in terms of C, of the three capacitors,
+capacitance =..
+(ii) the potential difference across capacitor Q. Explain your working.
+12]
+potential difference = ....
+V [2]
+2017 - 2023
+343
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+(b)
+Switch S is now moved to position Y.
+State what happens to the potential difference across capacitor P and across capacitor Q.
+capacitor P:
+capacitor Q:
+[4]
+2017 - 2023
+344
+P4 Topical
+
+===== 9702/41_Summer_2018_Q7 | PDF 348-349 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+4 - (9702/41_Summer_2018_Q7) - Capacitance
+(a) Explain what is meant by the capacitance of a parallel plate capacitor.
+0[3]
+(b) A parallel plate capacitor C is connected into the circuit shown in Fig. 7.1.
+Y
+C
+Fig. 7.1
+When switch S is at position X, the battery of electromotive force 120 V and negligible internal
+resistance is connected to capacitor C.
+When switch S is at position Y, the capacitor C is discharged through the sensitive ammeter.
+The switch vibrates so that it is first in position X, then moves to position Y and then back to
+position X fifty times each second.
+The current recorded on the ammeter is 4.5uA.
+Determine
+(i) the charge, in coulomb, passing through the ammeter in 1.0s,
+charge =
+....C [1]
+2017 - 2023
+347
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+(il) the charge on one plate of the capacitor, each time that it is charged,
+charge =
+... C [1]
+(III) the capacitance of capacitor C.
+capacitance =
+... F [2]
+(0) A second capacitor having a capaciano out that of capacitor , now place in sentes
+Suggest and explain the effect on the current recorded on the ammeter.
+[2]
+2017 - 2023
+348
+P4 Topical
+
+===== 9702/42_Summer_2018_Q6 | PDF 346-347 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+3 - (9702/42_Summer_2018_Q6) - Capacitance
+(a) Explain what is meant by the capacitance of a parallel plate capacitor.
+-[3]
+(b) Three parallel plate capacitors each have a capacitance of 6.0 uF.
+Draw circuit diagrams, one in each case, to show how the capacitors may be connected
+together to give a combined capacitance of
+(1) 9.0 uF.
+(1]
+(il)
+4.0 uF.
+(1]
+(c) Two capacitors of capacitances 3.0 uF and 2.0uF are connected in series with a battery of
+electromotive force (e.m.f.) 8.0 V, as shown in Fig. 6.1.
+3.0uF
+2.0uF
+8.0 V
+Fig. 6.1
+2017 - 2023
+345
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(i) Calculate the combined capacitance of the capacitors.
+capacitance=..
+(il) Use your answer in (l) to determine, for the capacitor of capacitance 3.0 uF,
+1. the charge on one plate of the capacitor,
+charge = ...
+2. the energy stored in the capacitor.
+energy = .....
+2017 - 2023
+346
+CH18 - CAPACITANCE
+.. MF [1]
+.... uC
+... J
+14]
+P4 Topical
+
+===== 9702/41_Summer_2019_Q6 | PDF 350-351 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+5 - (9702/41_Summer_2019_Q6) - Capacitance
+(a)
+State two different functions of capacitors in electrical circuits.
+1.
+2.
+[2]
+b) Three uncharged capacitors of capacitances C,, C2 and Cz are connected in series with a
+battery of electromotive force (e.m.f.) E and a switch, as shown in Fig. 6.1.
+E
+C,
+plate P
+charge +a
+Fig. 6.1
+When the switch is closed, there is a charge + qon plate P of the capacitor of capacitance C,.
+Show that the combined capacitance C of the three capacitors is given by the expression
+[3]
+2017 - 2023
+349
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+(c)
+A student has available four capacitors, each of capacitance 20uF.
+Draw circuit diagrams, one in each case, to show how the student may connect some or all of
+the capacitors to produce a combined capacitance of:
+(i) 60 uF
+[1]
+(ii) 15uF.
+[1]
+2017 - 2023
+350
+P4 Topical
+
+===== 9702/41_Winter_2020_Q6 | PDF 352-352 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+6 - (9702/41_Winter_2020_Q6) - Capacitance
+(a) (i) Define the capacitance of a parallel plate capacitor.
+(i) State three functions of capacitors in electrical circuits.
+1.
+2.
+3.
+(b) A student has available four capacitors, each of capacitance 24 uF.
+The capacitors are connected as shown in Fig. 6.1.
+124 uF
+xo-
+24 uF
+24 uF
+|24 uF
+YO
+Fig. 6.1
+Calculate the combined capacitance between the terminals X and Y.
+capacitance =
+2017 - 2023
+351
+CH18 - CAPACITANCE
+12]
+13)
+... uF [2]
+[Total: 7]
+P4 Topical
+
+===== 9702/42_Winter_2020_Q6 | PDF 353-353 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+7- (9702/42_Winter_2020_Q6) - Capacitance
+(a)
+(i)
+Define the capacitance of a parallel plate capacitor.
+12]
+(ii) State three functions of capacitors in electrical circuits.
+1.
+2.
+3.
+(b) A student has available three capacitors, each of capacitance 12 uF.
+Draw diagrams, one in each case, to show how the student connects the capacitors to give a
+combined capacitance between the terminals of:
+(i) 18uF
+[1]
+(ii) 8uF.
+[1]
+[Total: 7]
+2017 - 2023
+352
+P4 Topical
+
+===== 9702/41_Summer_2021_Q7 | PDF 356-357 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+9 - (9702/41_Summer_2021_Q7) - Capacitance
+(a)
+State what is meant by the capacitance of a parallel plate capacitor.
+[2]
+(b) A capacitor of capacitance C is connected into the circuit shown in Fig. 7.1.
+/
+sensitive
+ammeter
+V
+C
+Fig. 7.1
+When the two-way switch is in position A, the capacitor is charged so that the potential
+difference across it is V.
+The switch moves to position B and the capacitor fully discharges through the sensitive
+ammeter.
+The switch moves repeatedly between A and B so that the capacitor charges and then
+discharges with frequency f.
+(i) Show that the average current I in the ammeter is given by the expression
+I = CV.
+[2]
+2017 - 2023
+355
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+(ii) For a potential difference V of 150V and a frequency f of 60Hz, the average current in
+the ammeter is 4.8uA
+Calculate the capacitance, in pF, of the capacitor.
+capacitance =
+... pF [2]
+(c) A second capacitor, having the same capacitance as the capacitor in (b), is connected into
+the circuit of Fig. 7.1. The two capacitors are connected in series.
+State and explain the new reading on the ammeter.
+new reading =
+MA
+.. [3]
+2017 - 2023
+356
+P4 Topical
+
+===== 9702/42_Summer_2021_Q6 | PDF 354-355 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+8 - (9702/42_Summer_2021_Q6) - Capacitance
+Two flat metal plates are held a small distance apart by means of insulating pads, as shown
+in Fig. 6.1.
+metal plate
+metal plate
+~ insulating
+pad
+Fig. 6.1
+Explain how the plates could act as a capacitor.
+12]
+(b) The arrangement in Fig. 6.1 has capacitance C
+The arrangement is connected into the circuit of Fig. 6.2.
+B
+V
+sensitive
+ammeter
+Fig. 6.2
+When the two-way switch is moved to position A, the capacitor is charged so that the potential
+difference across it is V. When the switch moves to position B, the capacitor fully discharge
+hrough the sensitive ammeter
+discharges wives engely between A and B so that the capacitor charges and then
+2017 - 2023
+353
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+(i) Show that the average current I in the ammeter is given by
+I = CVf.
+12]
+(i) For a potential difference V of 180V and a frequency f of switching of 50 Hz, the average
+current I in the ammeter is 2.5uA.
+Calculate the capacitance, in pF, of the parallel plates.
+capacitance =
+(c) A second capacitor is connected into the circuit of Fig. 6.2.
+The two capacitors are connected in parallel.
+State and explain the change, if any, in the average current in the ammeter.
+• pF [2]
+.......... [2]
+2017 - 2023
+354
+P4 Topical
+
+===== 9702/41_Winter_2021_Q6 | PDF 358-359 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+10 - (9702/41_Winter_2021_Q6) - Capacitance
+(a) A capacitor consists of two parallel metal plates, separated by air, at a variable distance x
+apart, as shown in Fig. 6.1. The capacitance C is inversely proportional to x
+metal plates
+Fig. 6.1
+The capacitor is charged by a supply so that there is a potential difference (p.d.) V between
+the plates.
+State expressions, in terms of C and V, for the charge Q on one of the plates and for the
+energy E stored in the capacitor.
+Q=
+E=...
+(b) The charged capacitor in (a) is now disconnected from the supply. The plates of the capacitor
+are initially separated by distance L. They are then moved closer together by a distance D, as
+shown in Fig. 6.2.
+new position
+-
+original position
+L
+Fig. 6.2
+State expressions, in terms of C, V, L and D, for:
+(i) the new capacitance CN
+CN = .
+.. [1]
+2017 - 2023
+357
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+(i) the new charge Qw on one of the plates
+QN =
+[1]
+(ili) the new p.d. V between the plates.
+VN =
+11]
+(c) Explain whether reducing the separation of the plates in (b) results in an increase or decrease
+in the energy stored in the capacitor.
+[1]
+2017 - 2023
+358
+P4 Topical
+
+===== 9702/42_Winter_2021_Q6 | PDF 360-360 | Capacitance =====
+A-Level Cambridge
+PHYSICS - P4
+CH18 - CAPACITANCE
+11 - (9702/42_Winter_2021_06) - Capacitance
+(a) Define electric potential.
+(2]
+(b) An isolated conducting sphere in a vacuum has radius r and is initially uncharged. It is then
+charged by friction so that it carries a final charge Q. This charge can be considered to be
+acting at the centre of the sphere.
+By considering the electric potential at its surface, show that the capacitance C of the sphere
+is given by
+С = 4лєgг
+where eg is the permittivity of free space.
+(2]
+(c) The dome of an electrostatic generator is a spherical conductor of radius 13cm. It is initially
+charged so that the electric potential at the surface is 4.5 kV.
+A smaller isolated sphere of radius 5.2 cm, initially uncharged, is brought near to the dome.
+Sparking causes a current between the two spheres until they reach the same potential.
+Assume that any charge on a sphere may be considered to act as a point charge at its centre.
+Calculate the charge that is transferred between the two spheres.
+charge =
+C [3]
+2017 - 2023
+359
+P4 Topical

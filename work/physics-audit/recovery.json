@@ -1,0 +1,123 @@
+[
+  {
+    "paper": "9702_s23_qp_41",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 22,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_s23_qp_41.pdf",
+    "sha256": "c4052fc2c7bd013d9cb82c2c87e76da5867588e35fc444a33fefceda350fc927"
+  },
+  {
+    "paper": "9702_s23_qp_42",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 23,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_s23_qp_42.pdf",
+    "sha256": "b41d6a4694e3484ca1bd8d558a879d0ad43352b86fceb564076343fcab504e7c"
+  },
+  {
+    "paper": "9702_s23_qp_43",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 22,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_s23_qp_43.pdf",
+    "sha256": "3a5e888185ccbabb6bc84e8112f888b0f57eb13755247a55b306dc6c62460785"
+  },
+  {
+    "paper": "9702_s24_qp_41",
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "paper": "9702_s24_qp_43",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 23,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2024/9702_s24_qp_43.pdf",
+    "sha256": "7f8023de33392a1d35f0426aff4b6ef3dc8d0de66fad3bb69fb26f6334bd4a19"
+  },
+  {
+    "paper": "9702_s22_qp_42",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 22,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_s22_qp_42.pdf",
+    "sha256": "600de30efd96440975e3f3e8c147b885ed8c44b9c4707baa57ddb400bd667a8b"
+  },
+  {
+    "paper": "9702_w23_qp_41",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 23,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_w23_qp_41.pdf",
+    "sha256": "8e4731774167b1b42c451806cb426b319f49c34acdd5fac8e29ac6b19e09a894"
+  },
+  {
+    "paper": "9702_w23_qp_43",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 23,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_w23_qp_43.pdf",
+    "sha256": "922027dc61e8583a798b190a6f786323cddcc265e52bcfd0086349cb273bbb3d"
+  },
+  {
+    "paper": "9702_w23_qp_42",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 22,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_w23_qp_42.pdf",
+    "sha256": "12fb4175403d74012971a7e138b7757577dba7730007c712ec8064339a622d0f"
+  },
+  {
+    "paper": "9702_m24_qp_42",
+    "declared_pages": 28,
+    "original_pages": 28,
+    "merged_pages": 26,
+    "suspected_missing": [
+      {
+        "printed_page": 21,
+        "evidence": [
+          "(iii) The isotope xenon‑142 is unstable. The isotope xenon‑132 is stable.",
+          "Suggest a reason why xenon‑142 is unstable.",
+          "(iv) Xenon‑142 decays into the isotope caesium‑142."
+        ]
+      }
+    ],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2024/9702_m24_qp_42.pdf",
+    "sha256": "0c4db751f254221422d7af8d6b1a9a2f3cf40ef0e1bc6f9095d9941c9aca313e"
+  },
+  {
+    "paper": "9702_w22_qp_41",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 23,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_w22_qp_41.pdf",
+    "sha256": "cab47df81d9443be29717c32ac1ba0f6dbb36bf80ed914fd3090bd0fd2b6d48a"
+  },
+  {
+    "paper": "9702_w22_qp_43",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 23,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_w22_qp_43.pdf",
+    "sha256": "51ab764eb6192fb564db9e1d7990bc0352158635d356b6779bfdcc43f99d2bc2"
+  },
+  {
+    "paper": "9702_w22_qp_42",
+    "declared_pages": 24,
+    "original_pages": 24,
+    "merged_pages": 22,
+    "suspected_missing": [],
+    "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_w22_qp_42.pdf",
+    "sha256": "10807f6279476338c180c859f5ae95e11fbb7fe3b5b6b4da4d6122dc98081427"
+  }
+]

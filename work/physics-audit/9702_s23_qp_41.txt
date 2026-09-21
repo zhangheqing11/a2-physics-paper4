@@ -1,0 +1,1060 @@
+
+=== MERGED PAGE 187 ===
+                          Cambridge International AS & A Level
+
+
+
+
+* 5 9 7 1 5 5 4 1 4 5 *
+                          PHYSICS                                                                                         9702/41
+                          Paper 4 A Level Structured Questions                                                     May/June 2023
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (RW/SG) 313470/3
+                          © UCLES 2023                                                                                   [Turn over
+
+
+=== MERGED PAGE 188 ===
+                                               2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2023                             9702/41/M/J/23
+
+
+=== MERGED PAGE 189 ===
+                                          32
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3          〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω         (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                           Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                   t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                               2
+
+
+
+                                   IR   (Z 1 - Z 2) 2
+intensity reflection coefficient      =
+                                   I0   (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2023                        9702/41/M/J/23                [Turn over
+
+
+=== MERGED PAGE 190 ===
+                                                                         4
+
+1   (a) (i)     Define gravitational field.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Define electric field.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+        (iii)   State one similarity and one difference between the gravitational potential due to a point
+                mass and the electric potential due to a point charge.
+
+                similarity: ...........................................................................................................................
+
+                ...........................................................................................................................................
+
+                difference: ..........................................................................................................................
+
+                ...........................................................................................................................................
+                                                                                                                                                       [2]
+
+    (b) An isolated uniform conducting sphere has mass M and charge Q.
+        The gravitational field strength at the surface of the sphere is g.
+        The electric field strength at the surface of the sphere is E.
+
+          (i)   Show that
+                                                                   M    g
+                                                                     =α
+                                                                   Q    E
+                where α is a constant.
+
+
+
+
+                                                                                                                                                       [3]
+
+         (ii)   Show that the numerical value of α is 1.35 × 1020 kg2 C–2.
+
+
+
+
+                                                                                                                                                       [1]
+
+
+
+
+© UCLES 2023                                                     9702/41/M/J/23
+
+
+=== MERGED PAGE 191 ===
+                                                                        5
+
+    (c) Assume that the Earth is a uniform conducting sphere of mass 5.98 × 1024 kg.
+        The surface of the Earth carries a charge of – 4.80 × 105 C that is evenly distributed.
+
+          (i)   Use the information in (b) to determine the electric field strength at the surface of the
+                Earth. Give a unit with your answer.
+
+
+
+
+                                                     electric field strength = .................................. unit ............... [2]
+
+         (ii)   State how the direction of the electric field at the surface of the Earth compares with the
+                direction of the gravitational field.
+
+                ..................................................................................................................................... [1]
+
+                                                                                                                                         [Total: 11]
+
+
+
+
+© UCLES 2023                                                    9702/41/M/J/23                                                         [Turn over
+
+
+=== MERGED PAGE 192 ===
+                                                                            6
+
+2   A steel sphere of mass 0.29 kg is suspended in equilibrium from a vertical spring. The centre of
+    the sphere is 8.5 cm from the top of the spring, as shown in Fig. 2.1.
+
+
+                                                                                            spring
+
+                             8.5 cm
+
+                                                                                                     steel sphere,
+                                                                                                     mass 0.29 kg
+
+
+                                                                     Fig. 2.1
+
+    The sphere is now set in motion so that it is moving in a horizontal circle at constant speed, as
+    shown in Fig. 2.2.
+
+                                                                                27°
+
+
+
+
+                                                                                                             10.8 cm
+                            path of sphere
+
+
+
+
+                                                                        r
+
+
+
+                                                                     Fig. 2.2
+
+    The distance from the centre of the sphere to the top of the spring is now 10.8 cm.
+
+    (a) Explain, with reference to the forces acting on the sphere, why the length of the spring in
+        Fig. 2.2 is greater than in Fig. 2.1.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23
+
+
+=== MERGED PAGE 193 ===
+                                                         7
+
+    (b) The angle between the linear axis of the spring and the vertical is 27°.
+
+          (i)   Show that the radius r of the circle is 4.9 cm.
+
+
+
+
+                                                                                                                              [1]
+
+         (ii)   Show that the tension in the spring is 3.2 N.
+
+
+
+
+                                                                                                                              [2]
+
+        (iii)   The spring obeys Hooke’s law.
+
+                Calculate the spring constant, in N cm–1, of the spring.
+
+
+
+
+                                                 spring constant = ............................................. N cm–1 [2]
+
+    (c) (i)     Use the information in (b) to determine the centripetal acceleration of the sphere.
+
+
+
+
+                                       centripetal acceleration = ................................................ m s–2 [2]
+
+         (ii)   Calculate the period of the circular motion of the sphere.
+
+
+
+
+                                                             period = ...................................................... s [2]
+
+                                                                                                                    [Total: 12]
+
+
+© UCLES 2023                                       9702/41/M/J/23                                                 [Turn over
+
+
+=== MERGED PAGE 194 ===
+                                                                               8
+
+3     (a) State the reason why two objects that are at the same temperature are described as being in
+          thermal equilibrium.
+
+              ...................................................................................................................................................
+
+              ............................................................................................................................................. [1]
+
+      (b) Fig. 3.1 shows the variations with temperature of the densities of mercury and of water
+          between 0 °C and 100 °C.
+
+
+
+    density                                                                      density
+                                      mercury                                                                       water
+
+
+
+
+              0                                                       100                   0                                                        100
+                                  temperature / °C                                                               temperature / °C
+
+                                                                         Fig. 3.1
+
+              Temperature may be measured using the variation with temperature of the density of a liquid.
+
+              Suggest why, for measuring temperature over this temperature range:
+
+              (i)    mercury is a suitable liquid
+
+                     ...........................................................................................................................................
+
+                     ..................................................................................................................................... [1]
+
+              (ii)   water is not a suitable liquid.
+
+                     ...........................................................................................................................................
+
+                     ...........................................................................................................................................
+
+                     ..................................................................................................................................... [2]
+
+      (c) A beaker contains a liquid of mass 120 g. The liquid is supplied with thermal energy at a rate
+          of 810 W. The beaker has a mass of 42 g and a specific heat capacity of 0.84 J g–1 K–1. The
+          beaker and the liquid are in thermal equilibrium with each other at all times and are insulated
+          from the surroundings.
+
+              Fig. 3.2 shows the variation with time t of the temperature of the liquid.
+
+
+
+
+© UCLES 2023                                                           9702/41/M/J/23
+
+
+=== MERGED PAGE 195 ===
+                                                         9
+
+                      100
+
+      temperature / °C
+
+                        75
+
+
+
+
+                        50
+
+
+
+
+                        25
+
+
+
+
+                         0
+                             0         10           20             30              40             50             60
+                                                                                          t/s
+
+                                                    Fig. 3.2
+
+          (i)   State the boiling temperature, in °C, of the liquid.
+
+                                                    temperature = .................................................... °C [1]
+
+         (ii)   Determine the specific heat capacity, in J g–1 K–1, of the liquid.
+
+
+
+
+                                         specific heat capacity = ........................................... J g–1 K–1 [4]
+
+    (d) The experiment in (c) is repeated using water instead of the liquid in (c). The mass of liquid
+        used, the power supplied, and the initial temperature are all unchanged.
+        The specific heat capacity of water is approximately twice that of the liquid in (c).
+        The boiling temperature of water is 100 °C.
+
+         On Fig. 3.2, sketch the variation with time t of the temperature of the water between t = 0 and
+         t = 60 s. Numerical calculations are not required.                                           [2]
+
+                                                                                                                [Total: 11]
+
+
+
+© UCLES 2023                                      9702/41/M/J/23                                              [Turn over
+
+
+=== MERGED PAGE 196 ===
+                                                                          10
+
+4   (a) State two of the basic assumptions of the kinetic theory of gases.
+
+         1 ................................................................................................................................................
+
+          ...................................................................................................................................................
+
+         2 ................................................................................................................................................
+
+          ...................................................................................................................................................
+                                                                                                                                                         [2]
+
+    (b) An ideal gas has amount of substance n.
+        The gas is initially in state X, with pressure 2p and volume V.
+        The gas is cooled at constant volume to state Y, with pressure p.
+        The gas is then heated at constant pressure to state Z, with volume 2V.
+        Finally, the gas returns at constant temperature to state X.
+
+          (i)    Determine an expression for the temperature T of the gas in state X, in terms of n, p
+                 and V.
+                 Identify any other symbols that you use.
+
+
+
+
+                                                                                                                                                         [2]
+
+         (ii)    On Fig. 4.1, sketch the variation with volume of pressure for the gas as the gas undergoes
+                 the three changes. The state X is labelled. Label states Y and Z.
+
+                                      2p                                        X
+
+                        pressure
+
+
+                                        p
+
+
+
+
+                                         0
+                                             0                                      V                                  2V
+                                                                                                   volume
+
+                                                                     Fig. 4.1
+                                                                                                                                                         [3]
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23
+
+
+=== MERGED PAGE 197 ===
+                                                        11
+
+        (iii)    During the change of state from Y to Z, the increase in internal energy of the gas is U.
+                 During the change of state from Z to X, the work done on the gas is W.
+
+                 Complete Table 4.1 to indicate, for each of the three changes of state, the increase in
+                 internal energy of the gas, the thermal energy transferred to the gas and the work done
+                 on the gas, in terms of p, V, U and W.
+
+                                                    Table 4.1
+
+                            increase in internal          thermal energy
+                change                                                       work done on gas
+                               energy of gas            transferred to gas
+
+
+
+                X to Y
+
+
+
+
+                Y to Z               +U
+
+
+
+
+                Z to X                                                              +W
+
+
+
+                                                                                                         [5]
+
+                                                                                                 [Total: 12]
+
+
+
+
+© UCLES 2023                                       9702/41/M/J/23                               [Turn over
+
+
+=== MERGED PAGE 198 ===
+                                                                        12
+
+5   Part of an electric circuit is shown in Fig. 5.1.
+
+                                                             missing component
+
+
+
+
+           VIN                                                           C                                   14 kΩ               VOUT
+
+
+
+
+                                                                    Fig. 5.1
+
+    The circuit is used to produce half-wave rectification of an alternating voltage of potential
+    difference (p.d.) VIN.
+
+    The output p.d. across the 14 kΩ resistor is VOUT.
+
+    (a) (i)      A component is missing from the circuit of Fig. 5.1.
+
+                 Complete the circuit diagram in Fig. 5.1 by adding the circuit symbol for the missing
+                 component, correctly connected.                                                    [1]
+
+         (ii)    A capacitor C is shown in the circuit of Fig. 5.1.
+
+                 State the effect on VOUT of including the capacitor in the circuit.
+
+                 ..................................................................................................................................... [1]
+
+    (b) Fig. 5.2 shows the variation with time t of VIN.
+
+                                      7.5
+                          VIN / V
+                                      5.0
+
+                                      2.5
+
+                                         0
+                                             0              0.02              0.04              0.06 t / s 0.08
+                                    –2.5
+
+                                    –5.0
+
+                                    –7.5
+
+                                                                    Fig. 5.2
+
+
+
+
+© UCLES 2023                                                     9702/41/M/J/23
+
+
+=== MERGED PAGE 199 ===
+                                                                          13
+
+         Fig. 5.3 shows the variation with t of VOUT.
+
+                                         7.5
+
+                          VOUT / V
+
+                                         5.0
+
+
+
+
+                                         2.5
+                                               0               0.02              0.04               0.06               0.08
+                                                                                                              t/s
+
+                                                                     Fig. 5.3
+
+          (i)    Determine the frequency of VIN.
+
+
+
+
+                                                                         frequency = .................................................... Hz [1]
+
+         (ii)    Show that the time constant τ for the discharge of the capacitor through the resistor is
+                 0.038 s.
+
+
+
+
+                                                                                                                                                         [2]
+
+        (iii)    Calculate the capacitance of C. Give a unit with your answer.
+
+
+
+
+                                                                      capacitance = .................................. unit ............... [2]
+
+    (c) The circuit of Fig. 5.1 is modified so that it produces full-wave rectification of an input voltage.
+
+         Suggest, with a reason, how VOUT now varies with time when VIN is as shown in Fig. 5.2.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                               [Total: 9]
+
+
+© UCLES 2023                                                       9702/41/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 200 ===
+                                                                          14
+
+6   (a) State what is meant by a magnetic field.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A long, straight wire P carries a current into the page, as shown in Fig. 6.1.
+
+
+                                                                                                                             wire P
+                                                                                                                             current into page
+
+
+
+
+                                                                     Fig. 6.1
+
+         On Fig. 6.1, draw four field lines to represent the magnetic field around wire P due to the
+         current in the wire.                                                                     [3]
+
+    (c) A second long, straight wire Q, carrying a current of 5.0 A out of the page, is placed parallel to
+        wire P, as shown in Fig. 6.2.
+
+                                                   wire P                              wire Q
+
+
+                                                   current                        current 5.0 A
+                                                 into page                         out of page
+
+                                                                     Fig. 6.2
+
+         The flux density of the magnetic field at wire Q due to the current in wire P is 2.6 mT.
+
+          (i)    Calculate the magnetic force per unit length exerted on wire Q by wire P.
+
+
+
+
+                                                         force per unit length = ............................................... N m–1 [2]
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23
+
+
+=== MERGED PAGE 201 ===
+                                                                       15
+
+         (ii)   State the direction of the force exerted on wire Q by wire P.
+
+                ..................................................................................................................................... [1]
+
+        (iii)   The flux density of the magnetic field at wire P due to the current in wire Q is 1.5 mT.
+
+                Determine the magnitude of the current in wire P. Explain your reasoning.
+
+
+
+
+                                                                           current = ...................................................... A [2]
+
+                                                                                                                                         [Total: 10]
+
+
+
+
+© UCLES 2023                                                    9702/41/M/J/23                                                         [Turn over
+
+
+=== MERGED PAGE 202 ===
+                                                                          16
+
+7   (a) State what is meant by the de Broglie wavelength.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) Fig. 7.1 shows a glass tube in which electrons are accelerated through a high p.d. to form a
+        beam that is incident on a thin graphite crystal.
+
+                                                                                                                     vacuum
+                                      graphite crystal
+
+           filament                                                                                                               fluorescent
+           cathode                        anode                                                                                   screen
+
+
+
+
+                                                                 electron beam
+
+
+
+
+               –                        +          collimator
+                                                                                                                              glass tube
+                     high p.d.
+
+                                                                                                                                            (not to scale)
+                                                           Fig. 7.1 (not to scale)
+
+         After passing through the graphite crystal, the electrons reach the fluorescent screen. The
+         screen glows where the electrons strike it.
+
+         Fig. 7.2 shows the fluorescent screen viewed end-on, from the right-hand side of Fig. 7.1.
+
+
+
+
+                                                                     Fig. 7.2
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23
+
+
+=== MERGED PAGE 203 ===
+                                                                        17
+
+          (i)   State the name of the phenomenon demonstrated by the pattern shown in Fig. 7.2.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain what can be concluded from the pattern in Fig. 7.2 about the nature of electrons.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+    (c) The electrons in (b) are now accelerated through a greater potential difference between the
+        cathode and the anode.
+
+          (i)   On Fig. 7.3, sketch the pattern that is now seen on the fluorescent screen in Fig. 7.1.
+
+
+
+
+                                                                   Fig. 7.3
+                                                                                                                                                       [2]
+
+         (ii)   Explain, with reference to de Broglie wavelength, the change in the pattern on the
+                fluorescent screen.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+                                                                                                                                             [Total: 9]
+
+
+
+
+© UCLES 2023                                                     9702/41/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 204 ===
+                                                          18
+
+8   (a) Table 8.1 shows some data relating to the properties of air, gel and body tissue. The data are
+        given to three significant figures.
+
+                                                      Table 8.1
+
+                                                                                          specific acoustic
+        material          density / kg m–3           speed of sound / m s–1
+                                                                                        impedance / kg m–2 s–1
+
+           air                                                   340                                 440
+
+          gel                  1200                              1400
+
+         tissue                1090                                                             1.68 × 106
+
+
+          (i)    Show that the specific acoustic impedance of gel is 1.68 × 106 kg m–2 s–1.
+
+
+
+
+                                                                                                                             [1]
+
+         (ii)    Complete Table 8.1 by calculating the missing values to three significant figures. Use the
+                 space below for any working that you need.
+
+
+
+
+                                                                                                                             [2]
+
+    (b) Use the information in (a) to calculate the intensity reflection coefficient for:
+
+          (i)    an air–tissue boundary
+
+
+
+
+                                 intensity reflection coefficient = ......................................................... [2]
+
+         (ii)    a gel–tissue boundary.
+
+
+
+
+                                 intensity reflection coefficient = ......................................................... [1]
+
+
+© UCLES 2023                                         9702/41/M/J/23
+
+
+=== MERGED PAGE 205 ===
+                                                                          19
+
+    (c) Use your answers in (b) to explain why gel is applied to the skin during ultrasound scanning.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                               [Total: 8]
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23                                                          [Turn over
+
+
+=== MERGED PAGE 206 ===
+                                                                          20
+
+9   Carbon-11 is radioactive and decays by β+ emission to form boron-11. Carbon-11 has a half-life of
+    20 minutes. Boron-11 is stable.
+
+    (a) Define half-life.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) A sample contains N0 nuclei of carbon-11 and no other nuclei at time t = 0.
+
+         On Fig. 9.1, sketch the variation with t of the number of nuclei of boron-11 in the sample.
+
+                                             1.0 N0
+
+                   number of nuclei
+
+                                             0.5 N0
+
+
+
+
+                                                    0
+                                                        0               20                 40                60                 80
+                                                                                                                    t / min
+
+                                                                     Fig. 9.1
+                                                                                                                                                         [3]
+
+    (c) (i)      Explain, with reference to the random nature of radioactive decay, why the activity of the
+                 carbon-11 sample in (b) decreases with time.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+         (ii)    State, with reasons, whether a radiation detector placed near to the sample of carbon-11
+                 indicates a measured count rate from the sample that is less than, the same as or greater
+                 than the activity of the sample.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [3]
+
+                                                                                                                                               [Total: 9]
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23
+
+
+=== MERGED PAGE 207 ===
+                                                                          21
+
+10 (a) State Hubble’s law. Identify any symbols that you use.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A star of luminosity 3.8 × 1031 W is a distance of 1.8 × 1024 m from the Earth.
+
+         Calculate the radiant flux intensity at the Earth of the radiation emitted by the star.
+
+
+
+
+                                                         radiant flux intensity = .............................................. W m–2 [2]
+
+    (c) The star in (b) is in a distant galaxy. A spectral line in the light from this galaxy is known to
+        have a wavelength of 486 nm. This spectral line in the light from the galaxy observed on the
+        Earth has a wavelength of 492 nm.
+
+          (i)    Explain why the wavelength observed on the Earth is different from the wavelength that
+                 the galaxy is known to have emitted.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+         (ii)    Determine a value for the Hubble constant H0.
+
+
+
+
+                                                                                     H0 = ................................................... s–1 [3]
+
+                                                                                                                                               [Total: 9]
+
+
+
+
+© UCLES 2023                                                       9702/41/M/J/23
+
+
+=== MERGED PAGE 208 ===
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2023                                                         9702/41/M/J/23

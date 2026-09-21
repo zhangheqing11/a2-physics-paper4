@@ -1,0 +1,1080 @@
+
+===== 9702/41_Summer_2017_Q3 | PDF 256-257 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+1 - (9702/41_Summer_2017_03) - Communication
+The digital transmission of speech may be illustrated using the block diagram of Fig. 3.1.
+serial-to-
+converter Y
+Fig. 3.1
+(a) (i) State what is meant by a digital signal.
+- [1]
+(il) State the names of the components labelled X and Y on Fig. 3.1.
+X:
+Y:
+12]
+(ili) Describe the function of the ADC.
+- 2]
+(b) The optic fibre has length 84 km and the attenuation per unit length in the fibre is 0.19 dBkm*1.
+The input power to the optic fibre is 9.7 mW. At the output from the optic fibre, the signal-to-
+noise ratio is 28dB
+Calculate
+(i) in dB, the ratio
+input power to optic fibre
+noise power at output of optic fibre'
+ratio=...
+dB [2]
+2017 - 2023
+255
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(ii)
+the noise power at the output of the optic fibre.
+noise power = .............
+.... W[3]
+2017 - 2023
+256
+P4 Topical
+
+===== 9702/42_Summer_2017_Q5 | PDF 258-258 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+2 - (9702/42_Summer_2017_Q5) - Communication
+(a) State two advantages of the transmission of data in digital form rather than in analogue form.
+1.
+2
+(2]
+(b) An analogue signal S, is converted into a digital signal D using an analogue-to-digital
+converter (ADC). After transmission of the digital signal, it is converted back to an analogue
+signal S, using a digital-to-analogue converter (DAC), as illustrated in Fig. 5.1.
+analogue signal
+ADC
+digital signal
+---3-
+D
+DAC
+analogue signal
+ST
+Fig. 5.1
+(i) Outline the process by which the ADC converts the analogue signal S, into the digital
+signal D.
+•[2]
+(il)
+The ADC and the DAC operate with the same sampling rate and the same number of
+bits in each digital number.
+State the effect on the transmitted analogue signal Sy when, for the ADC and the DAC,
+1.
+the sampling rate is increased,
+the number of bits in each digital number is increased
+[2]
+2017 - 2023
+257
+P4 Topical
+
+===== 9702/41_Winter_2017_Q4 | PDF 259-259 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+3 - (9702/41_Winter_2017_Q4) - Communication
+A coaxial cable is frequently used to connect an aerial to a television receiver. Such a cable is
+illustrated in Fig. 4.1.
+insulator.
+copper
+core
+plastic
+covering
+copper™
+braid
+Fig. 4.1
+(a) Suggest two functions of the copper braid.
+1.
+2.
+12]
+(b) Suggest two reasons why a wire pair is not usually used to connect the aerial to the receiver.
+1.
+2.
+12)
+(c) The coaxial cable connecting an aerial to a receiver has length 14m.
+The cable has an attenuation per unit length of 190 dB km-1
+Calculate the fractional loss in signal power during transmission of the signal along the cable.
+fractional loss =
+.. [4]
+2017 - 2023
+258
+P4 Topical
+
+===== 9702/42_Winter_2017_Q5 | PDF 260-261 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+4 - (9702/42_Winter_2017_05) - Communication
+The analogue signal from a microphone is to be transmitted in digital form.
+The variation with time t of part of the signal from the microphone is shown in Fig. 5.1.
+16
+14
+microphone
+output/mV
+12
+10
+8
+6
+4
+2
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+t/ms
+Fig. 5.1
+The microphone output is sampled at a frequency of 5.0kHz by an analogue-to-digital converter
+(ADC).
+The output from the ADC is a series of 4-bit numbers. The smallest bit represents 1.0mV.
+The first sample is taken at time t=0.
+(a) Use Fig. 5.1 to complete Fig. 5.2.
+time t/ms
+microphone output/mV
+ADC output
+0.2
+0.8
+Fig. 5.2
+12]
+2017 - 2023
+259
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(b) After transmission of the digital signal, it is converted back to an analogue signal using a
+digital-to-analogue converter (DAC).
+Using data from Fig. 5.1, draw, on the axes of Fig. 5.3, the output level from the DAC for the
+transmitted signal from time t = 0 to time t = 1.2ms.
+16•
+14+
+output
+level
+12-
+10
+8
+2
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+t/ms
+Fig. 5.3
+14]
+(c) It is usual in modern telecommunication systems for the ADC and the DAC to have more than
+four bits in each sample.
+State and explain the effect on the transmitted analogue signal of such an increase.
+...12]
+2017 - 2023
+260
+P4 Topical
+
+===== 9702/41_Summer_2018_Q5 | PDF 262-262 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+5 - (9702/41_Summer_2018_Q5) - Communication
+A geostationary satellite orbits the Earth with a period of 24 hours.
+(a) State
+(i) the direction of the orbit about the Earth,
+..111
+(iI) the position of the satellite relative to the Earth's surface,
+...[1]
+(IlI)
+a typical frequency for communication between the satellite and Earth.
+frequency =
+(b) A signal transmitted from Earth to a satellite has an initial power of 3.0kW.
+The signal power received by the satellite is attenuated by 195dB.
+(1)
+Calculate the signal power received by the satellite.
+Hz [1]
+power =
+W[3]
+(ii) By reference to your answer in (i), explain why different frequencies are used for the
+up-link and the down-link in communication with the satellite.
+...[2]
+2017 - 2023
+261
+P4 Topical
+
+===== 9702/42_Summer_2018_Q5 | PDF 263-264 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+6 - (9702/42_Summer_2018_Q5) - Communication
+(a) In radio communication, the bandwidth of an FM transmission is greater than the bandwidth
+of an AM transmission.
+State
+(i) what is meant by bandwidth,
+...[1]
+(il) one advantage and one disadvantage of a greater bandwidth.
+advantage:
+disadvantage:
+(2]
+(b) A carrier wave has a frequency of 650 kHz and is measured to have an amplitude of 5.0 V.
+The carrier wave is frequency modulated by a signal of frequency 10z and amplitude 3.0 V.
+The frequency deviation of the carrier wave is 8.0kHz V1
+Determine, for the frequency modulated carrier wave,
+(i) the measured amplitude,
+amplitude =
+V [1]
+(ii) the maximum and the minimum frequencies,
+maximum frequency =
+minimum frequency =
+... KHZ
+KHZ
+12]
+2017 - 2023
+262
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(iii) the minimum time between a maximum and a minimum transmitted frequency.
+time = ..
+..S [1]
+2017 - 2023
+263
+P4 Topical
+
+===== 9702/41_Winter_2018_Q5 | PDF 265-266 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+7- (9702/41_Winter_2018_O5) - Communication
+State two advantages
+of the transmission of data in digital form, compared with the
+transmission in analogue form.
+1..
+2.
+12)
+(b) The digital numbers shown in Fig. 5.1 are transmitted at a sampling rate of 500Hz.
+0111
+1011
+1001
+0100
+1110
+0101
+0010
+end of
+transmission
+start of
+transmission
+signal
+level
+Fig. 5.1
+The digital numbers are received, after transmission, by a digital-to-analogue converter
+(DAC).
+On Fig. 5.2, complete the graph to show the variation with time t of the signal level from the
+DAC.
+16-
+14-
+12-
+10
+8
+6-
+4
+2.
+t/ms
+Fig. 5.2
+(4]
+2017 - 2023
+264
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(c) State the effect on the transmitted analogue signal when
+(i) the sampling rate of the analogue-to-digital converter (ADC) and of the DAC is increased,
+• [1]
+(il) the number of bits in each sample is increased
+-[1]
+2017 - 2023
+265
+P4 Topical
+
+===== 9702/42_Winter_2018_Q5 | PDF 267-268 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+8 - (9702/42_Winter_2018_O5) - Communication
+(a) In radio communication, the radio wave is usually modulated.
+State what is meant by amplitude modulation (AM).
+• [2]
+(b) A sinusoidal radio carrier wave has a frequency of 900kHz and an unmodulated amplitude
+measured to be 4.0 V.
+The carrier wave is amplitude modulated by a signal of frequency 5.0KHZ.
+For the amplitude modulated wave,
+(1) determine the wavelength,
+wavelength =
+m [1]
+(ii) describe the amplitude variation,
+•(2]
+(IlI)
+state the bandwidth.
+bandwidth =
+Hz [1]
+(c) Communication is sometimes made using satellites in geostationary orbits that have a period
+of rotation about the Earth of 24 hours.
+(i) State two other features, apart from the period, of a geostationary orbit.
+1.
+2.
+[2]
+2017 - 2023
+266
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(ii) Suggest why
+1. frequencies of the order of gigahertz are used for satellite communication,
+-[1]
+2. the uplink frequency to the satellite is different from the downlink frequency.
+•[2]
+2017 - 2023
+267
+P4 Topical
+
+===== 9702/41_Summer_2019_Q4 | PDF 269-270 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+9 - (9702/41_Summer_2019_Q4) - Communication
+(a) During the transmission of a signal, attenuation occurs and noise is picked up.
+State what is meant by:
+(i) attenuation
+[1]
+(il) noise.
+12]
+By reference to (a)(ii), explain the advantage of the transmission of the signal in digital form
+rather than in analogue form.
+[1]
+(c) Part of an analogue signal is shown in Fig. 4.1.
+10
+signal
+voltage
+/mV
+8
+6
+2
+4
+5
+6
+time t/ ms
+7
+Fig. 4.1
+2017 - 2023
+268
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+The signal is to be transmitted in digital form.
+The analogue signal is sampled at a frequency of 1.0 × 10'Hz using an analogue-to-digital
+converter (ADC). The ADC produces 4-bit numbers.
+The times t at which the analogue signal is sampled are shown in Fig. 4.2.
+time
+t/ms
+digital
+number
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+0010
+0110
+0100
+0101
+Fig. 4.2
+CH16 - COMMUNICATION
+On Fig. 4.2:
+(i) for the digital number at time t = 3.0ms, underline the least significant bit (LSB)
+[1]
+(ii) state the digital numbers corresponding to the sampling times between time t = 4.0 ms
+and time t= 6.0ms.
+(d) The transmitted digital signal is converted back to an analogue signal using a digital-to-
+analogue converter (DAC).
+On Fig. 4.3, show the variation with time t of the output levels of the DAC for time t = 0 to
+time t = 4.0ms. Assume that there is negligible time delay in the transmission line.
+8
+output
+level
+6
+4
+2
+0
+2
+3
+time t/ms
+4
+Fig. 4.3
+13]
+2017 - 2023
+269
+P4 Topical
+
+===== 9702/42_Summer_2019_Q4 | PDF 271-271 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+10 - (9702/42_Summer_2019_Q4) - Communication
+(a) State what is meant by the specific acoustic impedance of a medium.
+• [2]
+(b) A parallel beam of ultrasound of intensity I, is incident on the boundary between two media
+A and B, as illustrated in Fig. 4.1.
+medium A
+specific acoustic impedance ZA
+medium B
+specific acoustic impedance ZB
+incident
+intensity Lo
+transmitted
+intensity I,
+Fig. 4.1
+The two media A and B have specific acoustic impedances Za and Zg respectively.
+The intensity of the beam transmitted through the boundary is IT.
+State how the ratio
+intensity I, of transmitted beam
+intensity I, of incident beam
+depends on the relative magnitudes of Za and Zs-
+•[2]
+(c) The linear absorption (attenuation) coefficient u of medium B is 23m-1
+Calculate the thickness of medium B required to reduce the intensity of the ultrasound beam
+to 34% of its initial intensity in medium B
+thickness =
+m [3]
+2017 - 2023
+270
+P4 Topical
+
+===== 9702/42_Summer_2019_Q5 | PDF 272-273 | Communication, Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+11 - (9702/42_Summer_2019_Q5) - Communication, Electronics
+(a) For a signal transmitted along an optic fibre, state what is meant by:
+(i)
+attenuation
+•[1]
+(ii)
+noise.
+•[2]
+(b) The initial section of the transmission line for a signal from a telephone exchange is illustrated
+in Fig. 5.1.
+52 km
+exchange
+amplifier
+gain 115 dB
+Fig. 5.1
+At the exchange, the input signal to the transmission line has a power of 2.5 × 10-3W.
+After the signal has travelled a distance of 52km along the transmission line, the power of the
+signal is 7.8 × 10-16 W. The signal is then amplified
+(i) Calculate the attenuation per unit length, in dBkm-, in the transmission line.
+attenuation per unit length = …
+dB km-' [3]
+2017 - 2023
+271
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(ii) The gain of the amplifier is 115 dB.
+Calculate the power of the signal at the output of the amplifier.
+power = ...
+W [2]
+2017 - 2023
+272
+P4 Topical
+
+===== 9702/41_Winter_2019_Q5 | PDF 274-275 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+12 - (9702/41_Winter_2019_Q5) - Communication
+(a) A section of a coaxial cable is shown in Fig. 5.1.
+copper braid
+insulation
+copper-
+wire
+plastic covering
+Fig. 5.1
+(i) Suggest two functions of the copper braid.
+1.
+2.
+[2]
+(ii) Suggest one application of a coaxial cable for the transmission of electrical signals.
+11]
+(b) (i)
+The constant noise power in a transmission cable is 7.6 uW. The minimum acceptable
+signal-to-noise ratio is 32 dB.
+Calculate the minimum acceptable signal power Pin in the cable.
+PMIN =
+...W [2]
+2017 - 2023
+273
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(il) The input power of the signal to the transmission cable is 2.6 W. The attenuation per unit
+length of the cable is 6.3 dBkm-!
+Use your answer in (i) to determine the maximum uninterrupted length L of cable along
+which the signal may be transmitted
+L= ...
+. km [2]
+2017 - 2023
+274
+P4 Topical
+
+===== 9702/42_Winter_2019_Q5 | PDF 276-278 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+13 - (9702/42_Winter_2019_Q5) - Communication
+(a) (i)
+State what is meant by the specific acoustic impedance of a medium.
+[2]
+(ii) The density of a sample of bone is 1.8gcm-3 and the speed of ultrasound in the bone is
+4.1 × 103ms-1
+Calculate the specific acoustic impedance Z of the sample of bone.
+ZB=
+kgm 2g-' [1]
+2017 - 2023
+275
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(b) A parallel beam of ultrasound passes normally through a layer of fat and of muscle, as
+illustrated in Fig. 5.1.
+fat
+muscle
+CH16 - COMMUNICATION
+beam
+of ultrasound
+transmitted beam
+of ultrasound
+-
+2.1 cm
+Fig. 5.1 (not to scale)
+The fat has thickness 0.45 cm and the muscle has thickness 2.1 cm.
+Data for fat and for muscle are given in Fig. 5.2.
+specific acoustic impedance
+Z/10° kgm 2s-1
+linear attenuation (absorption)
+coefficient u/ cm-1
+fat
+muscle
+1.3
+1.7
+0.24
+0.23
+Fig. 5.2
+The intensity reflection coefficient a at a boundary between two media of specific acoustic
+impedances Z, and Z, is given by the expression
+"= 122-2,2
+Calculate the fraction of the intensity of the ultrasound that is transmitted through the
+boundary between the fat and the muscle.
+fraction transmitted =
+[1]
+2017 - 2023
+276
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(c)
+State what is meant by attenuation of an ultrasound wave.
+[2]
+(ii) Data for linear attenuation coefficients are given in Fig. 5.2.
+Determine the ratio
+intensity of ultrasound transmitted through the medium
+intensity of ultrasound entering the medium
+for:
+1. the layer of fat of thickness 0.45 cm
+ratio=
+2. the layer of muscle of thickness 2.1 cm.
+ratio=
+[3]
+(d) Use your answers in (b) and (c)(ii) to determine the fraction of the intensity entering the layer
+of fat that is transmitted through the layer of muscle.
+fraction transmitted =
+11]
+2017 - 2023
+277
+P4 Topical
+
+===== 9702/42_Winter_2019_Q6 | PDF 279-279 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+14 - (9702/42_Winter_2019_Q6) - Communication
+The variation with time of the displacement of an amplitude-modulated (AM) wave is shown in
+Fig. 6.1
+signal
+displacement
+0
+10
+30
+40
+100
+time/ us
+Fig. 6.1
+The sinusoidal information signal has frequency 10 kHz.
+(a) Determine the frequency of the carrier wave.
+frequency = ….
+(b) On the axes of Fig. 6.2, sketch the frequency spectrum of the modulated wave.
+. Hz [1]
+signal
+intensity
+frequency /kHz
+Fig. 6.2
+13]
+2017 - 2023
+278
+P4 Topical
+
+===== 9702/41_Summer_2020_Q4 | PDF 280-280 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+15 - (9702/41_Summer_2020_Q4) - Communication
+(a) (i) By reference to an ultrasound wave, explain what is meant by specific acoustic impedance.
+12]
+(ii) An ultrasound wave is incident normally on the boundary between two media. The media
+have specific acoustic impedances Z, and Zz
+State how the ratio
+intensity of ultrasound reflected from boundary
+intensity of ultrasound incident on boundary
+depends on the relative magnitudes of Z, and Z2:
+(2)
+(b) (i) State what is meant by the attenuation of an ultrasound wave.
+[1]
+(II)
+A parallel beam of ultrasound is passing through a medium.
+The incident intensity I, is reduced to 0.351, on passing through a thickness of 0.046 m
+of the medium.
+Calculate the linear attenuation coefficient u of the ultrasound beam in the medium.
+и =
+m-' 12]
+2017 - 2023
+279
+P4 Topical
+
+===== 9702/41_Summer_2020_Q6 | PDF 282-282 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+17 - (9702/41_Summer_2020_Q6) - Communication
+The transmission of signals using optic fibres has, to a great extent, replaced the use of
+coaxial cables.
+Advantages of optic fibres include greater bandwidth and very little crosslinking.
+(i) Suggest an advantage of greater bandwidth.
+[1]
+(ii) State what is meant by crosslinking.
+[2]
+(b) Signal poes relative ta sis a pree erade resed neare said to be measure d
+Show that a signal power of 13 dBm is equivalent to 20 mW.
+12]
+(c) A signal of input power 20 mW is transmitted along an optic fibre for an uninterrupted distance
+of 45 km.
+The optic fibre has an attenuation per unit length of 0.18 dB km-1.
+Calculate the output power P from the optic fibre.
+P=....
+... mW (2]
+2017 - 2023
+281
+P4 Topical
+
+===== 9702/42_Summer_2020_Q5 | PDF 281-281 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+16 - (9702/42_Summer_2020_Q5) - Communication
+(a) Explain the principles of the detection of ultrasound waves for medical diagnosis.
+[4]
+(b) By reference to specific acoustic impedance, explain why there is very little transmission of
+ultrasound waves from air into skin.
+(3]
+2017 - 2023
+280
+P4 Topical
+
+===== 9702/42_Summer_2020_Q6 | PDF 283-283 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+18 - (9702/42_Summer_2020_Q6) - Communication
+Telephone signals may be transmitted either by means of an optic fibre or by means of a wire
+pair.
+State three advantages of the use of an optic fibre rather than a wire pair.
+1.
+2...
+3.
+(b) It is proposed to transmit a signal over a distance of 4.5 × 103km by means of an optic fibre.
+The input signal has a power of 9.8 mW.
+The minimum signal that can be detected at the output has a power of 6.3 × 10-17 W. For this
+signal power, the signal-to-noise ratio is 21 dB
+Calculate:
+(i) the power of the background noise
+power =
+.. W [2]
+(ii) the maximum attenuation per unit length of the optic fibre that allows for uninterrupted
+transmission of the signal.
+attenuation per unit length =
+dB km-" [2]
+2017 - 2023
+282
+P4 Topical
+
+===== 9702/41_Winter_2020_Q4 | PDF 284-284 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+19 - (9702/41_Winter_2020_Q4) - Communication
+(a) Explain the principles of the generation of ultrasound waves for use in medical diagnosis.
+[4]
+The linear attenuation (absorption) coefficient for a parallel beam of ultrasound waves in air is
+1.2 cm-1
+The parallel beam passes through a layer of air of thickness 3.5 cm.
+Calculate the ratio, in dB,
+intensity of beam after passing through the layer of air
+intensity of beam entering the layer of air
+ratio =
+... dB [4]
+[Total: 8]
+2017 - 2023
+283
+P4 Topical
+
+===== 9702/42_Winter_2020_Q4 | PDF 285-286 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+20 - (9702/42_Winter_2020_Q4) - Communication
+(a) State two advantages of the transmission of data in digital, rather than analogue, form.
+1.
+2.
+12]
+(b) An analogue signal is to be transmitted in digital form.
+The transmission system may be represented in block form as in Fig. 4.1.
+analogue
+signal
+analogue-to-
+digital converter
+ADC
+digital-to-
+analogue
+converter
+DAC
+› analogue
+Signal
+Fig. 4.1
+The variation with time t of part of the input analogue signal is shown in Fig. 4.2.
+input
+analogue
+signal
+/mV
+7
+6•
+5-
+4°
+3
+2°
+0.1
+0.2
+0.3
+0.4
+t/ms
+0.5
+Fig. 4.2
+The analogue signal is sampled at time intervals of 0.10 ms. The first sample is taken at time
+Some values of the sampled analogue signal and the corresponding digital signals are shown
+in Table 4.1.
+Each digitised number contains four bits.
+2017 - 2023
+284
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+Table 4.1
+time t/ms
+0.10
+0.20
+0.30
+0.40
+0.50
+analogue signal
+/mv
+5.7
+6.2
+digital signal
+0000
+0101
+0110
+(i) In Table 4.1, underline the least significant bit (LSB) in the digital signal for the time of
+0.20 ms.
+(i) Complete Table 4.1.
+[3]
+) A single bit from the output of the digital-to-analogue converter corresponds to an outp
+alogue sona 0a0m
+Assume that the conversion and transmission do not introduce a time delay.
+On the axes of Fig. 4.3, show the variation with time t of the output from the digital-to-analogue
+converter.
+7
+output
+analogue
+signal
+/mV
+5-
+4-
+3
+2
+1
+0.4
+0.5
+t/ms
+Fig. 4.3
+13]
+[Total: 9]
+2017 - 2023
+285
+P4 Topical
+
+===== 9702/42_Winter_2020_Q7 | PDF 287-287 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+21 - (9702/42_Winter_2020_Q7) - Communication
+Electrons in a beam are travelling at high speed in a vacuum. The electrons are incident on a
+metal target, causing X-ray radiation to be emitted
+The variation with wavelength 2 of the intensity I of the emitted X-ray radiation is shown in Fig. 7.1.
+2.
+Fig. 7.1
+Explain why:
+(a) there is a continuous distribution of wavelengths
+• [3]
+(b) at certain wavelengths, there are narrow peaks of increased intensity.
+.... [3]
+[Total: 6]
+2017 - 2023
+286
+P4 Topical
+
+===== 9702/41_Summer_2021_Q5 | PDF 290-291 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+23 - (9702/41_Summer_2021_Q5) - Communication
+(a)
+State what is meant by the amplitude modulation (AM) of a radio wave.
+12]
+(b) A radio wave is modulated by an audio signal.
+The variation with frequency f of the amplitude of the modulated wave is shown in Fig. 5.1.
+amplitude
+292
+300
+308
+f/kHz
+Fig. 5.1
+Determine:
+(i) the wavelength of the carrier wave
+wavelength =
+(ii) the bandwidth of the modulated wave
+bandwidth =
+(iii) the maximum frequency of the audio signal.
+maximum frequency =
+.. m [1]
+KHz [1]
+kHZ [1]
+2017 - 2023
+289
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(c) The power of a radio signal at a transmitter is PT
+At a receiver, the received power P. is given by the expression
+0.082PT
+PR =
+where x is the distance, in metres, between the transmitter and the receiver.
+For the transmission of this signal, the attenuation is 73 dB.
+Determine the distance x.
+x=
+m (3]
+2017 - 2023
+290
+P4 Topical
+
+===== 9702/42_Summer_2021_Q4 | PDF 288-289 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+22 - (9702/42_Summer_2021_Q4) - Communication
+(a)
+A sinusoidal carrier wave has a constant amplitude and a frequency of 1.2MHz. The carrier
+wave is modulated by a signal wave such that a 1.0 V displacement of the signal wave causes
+a change in frequency of 25 kHz.
+The signal wave has frequency 8.0kHz and amplitude 2.0V.
+(i) State the name of this type of modulation of the carrier wave.
+11]
+(ii) For this modulated carrier wave, determine the variation, if any, in:
+1. its amplitude
+2. its frequency.
+[3]
+2017 - 2023
+287
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(b) An audio signal is transmitted by means of a modulated radio wave.
+The variation with frequency of the amplitude of the radio wave is shown in Fig. 4.1.
+CH16 - COMMUNICATION
+amplitude
+0
+225
+240
+255
+frequency/kHz
+Fig. 4.1
+For this transmission, determine:
+(i) the wavelength, in km, of the carrier wave
+wavelength =
+km [2]
+(i) the bandwidth
+bandwidth =
+kHz [1]
+(ili) the frequency of the audio signal.
+frequency =
+kHz [1]
+2017 - 2023
+288
+P4 Topical
+
+===== 9702/41_Winter_2021_Q5 | PDF 292-294 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+24 - (9702/41_Winter_2021_Q5) - Communication
+An analogue signal is to be transmitted to a receiver. Before transmission, the signal passes
+through an analogue-to-digital converter (ADC). After transmission it
+ligital-to-analogue converter (DAC) before finally reaching the receiver, as shawn in Fight.ugh a
+transmission line
+input
+Signal
+ADC
+DAC
+receiver
+Fig. 5.1
+(a) State two advantages of converting the signal into digital form for transmission.
+1...
+2.
+(2]
+(b) The variation with time of the potential difference (p.d.) of the input signal is shown in Fig. 5.2.
+p.d./mV
+4
+2
+8
+10
+time/ms
+12
+Fig. 5.2
+The ADC has a sampling frequency of 250Hz and uses 4-bit sampling, with the least
+significant bit corresponding to 1 mV. The signal is first sampled at time 0, when the sampled
+bits are 0001.
+(i) State the sampled bits at time 4 ms and time 8 ms.
+4 ms:
+8 ms: ....
+11]
+2017 - 2023
+291
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+Part of the signal received by the receiver, after the sampled signal has passed through
+the DAC, is shown in Fig. 5.3.
+p.d./mV
+61
+4
+2-
+6
+8
+10
+12
+time/ms
+Fig. 5.3
+On Fig. 5.3, complete the line to show the received signal for time 0 to time 12 ms.
+12]
+2017 - 2023
+292
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+(c) The ADC in (b) is replaced with one that has a sampling frequency of 500 Hz and uses 3-bit
+sampling, with the least significant bit corresponding to 2 mV.
+On Fig. 5.4, sketch the signal that is now received, after passing through the DAC, from
+time 0 to time 12 ms.
+8
+p.d. /mV
+6•
+4
+2
+8
+10
+12
+time / ms
+Fig. 5.4
+2017 - 2023
+293
+P4 Topical
+
+===== 9702/42_Winter_2021_Q5 | PDF 295-295 | Communication =====
+A-Level Cambridge
+PHYSICS - P4
+CH16 - COMMUNICATION
+25 - (9702/42_Winter_2021_Q5) - Communication
+(a) (i) When audio signals are transmitted over long distances, modulation of radio waves is
+used.
+Suggest a reason why modulation is used.
+(ii)
+State a technical advantage and a technical disadvantage of using frequency modulation
+rather than amplitude modulation.
+advantage:
+disadvantage: ..
+12]
+(b) An audio signal of amplitude 2.0 uV and frequency 4.2 kHz is to be transmitted using a carrier
+wave of amplitude 10.0mV and frequency 100kHz.
+Either amplitude modulation or frequency modulation may be used.
+The amplitude modulation is at a rate of 1 mVuV-1
+The frequency modulation is at a rate of 5kHzuV-i
+Complete Table 5.1 to show the maximum and minimum values of the amplitude and of the
+frequency of the modulated wave for each type of modulation.
+Table 5.1
+amplitude/mV
+frequency/kHZ
+minimum
+maximum
+minimum
+maximum
+amplitude modulation
+frequency modulation
+14]
+(c) For the amplitude modulated wave in (b), determine the bandwidth.
+bandwidth =
+.. kHz [1]
+2017 - 2023
+294
+P4 Topical

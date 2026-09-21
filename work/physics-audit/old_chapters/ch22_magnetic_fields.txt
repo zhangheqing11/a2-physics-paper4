@@ -1,0 +1,1097 @@
+
+===== 9702/41_Summer_2017_Q7 | PDF 422-423 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+1 - (9702/41_Summer_2017_Q7) - Magnetic Fields
+An electron having charge -q and mass m is accelerated from rest in a vacuum through a potential
+difference V.
+The electron then enters a region of uniform magnetic field of magnetic flux density B, as shown
+in Fig. 7.1.
+- uniform magnetic
+field into plane
+of paper
+path of
+electron
+→
+Fig. 7.1
+The direction of the uniform magnetic field is into the plane of the paper.
+The velocity of the electron as it enters the magnetic field is normal to the magnetic field
+The radius of the circular path of the electron in the magnetic field is r.
+(a) Explain why the path of the electron in the magnetic field is the arc of a circle
+(b) Show that the magnitude p of the momentum of the electron as it enters the magnetic field is
+given by
+P = V(2mqV).
+12]
+2017 - 2023
+421
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(c) The potential difference Vis 120V. The radius r of the circular arc is 7.4 cm.
+Determine the magnitude B of the magnetic flux density.
+B=....
+.... T (3]
+(d) The potential difference Vin (c) is increased. The magnetic flux density B remains unchanged.
+By reference to the momentum of the electron, explain the effect of this increase on the
+radius rot the path of the electron in the magnetic field.
+• (2)
+2017 - 2023
+422
+P4 Topical
+
+===== 9702/41_Summer_2017_Q8 | PDF 424-424 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+2 - (9702/41_Summer_2017_08) - Magnetic Fields
+Explain the main principles behind the use of nuclear magnetic resonance imaging (MRI) to
+obtain information about internal body structures.
+2017 - 2023
+423
+P4 Topical
+
+===== 9702/42_Summer_2017_Q9 | PDF 425-426 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+3 - (9702/42_Summer_2017_Q9) - Magnetic Fields
+A Hall probe is placed near to one end of a current-carrying solenoid, as shown in Fig. 9.1.
+XI
+solenoid.
+Hall probe
+Y!
+Fig. 9.1
+The probe is rotated about the axis XY and is then held in a position so that the Hall voltage is
+maximum.
+(a) Explain why
+(i) a Hall probe is made from a thin slice of material,
+in order for consistent measurements of magnetic flux density to be made, the current in
+the probe must be constant.
+.....[1]
+2017 - 2023
+424
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(b) The probe is now rotated through an angle of 360° about the axis XY.
+At angle 8 = 0, the Hall voltage V has maximum value MAX•
+On Fig. 9.2, sketch the variation with angle f of the Hall voltage Vy for one complete revolution
+of the probe about axis XY.
+VH
+V MAX -
+•00
+:90
+180
+270
+3601
+t 0/°-
+Fig. 9.2
+[3]
+2017 - 2023
+425
+P4 Topical
+
+===== 9702/41_Winter_2017_Q8 | PDF 427-428 | Magnetic Fields, Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+4 - (9702/41_Winter_2017_Q8) - Magnetic Fields, Electromagnetic Induction
+A thin slice of conducting material is placed normal to a uniform magnetic field of flux density B, as
+shown in Fig. 8.1.
+magnetic field
+flux density B
+.S.
+E
+R
+current I
+Fig. 8.1
+The magnetic field is normal to face CDEF and to face PQRS.
+A current I passes through the slice and is normal to the faces CDQP and FERS.
+A potential difference, the Hall voltage Vy, is developed across the slice.
+(a) State the faces between which the Hall voltage V is developed.
+and....
+.. [1]
+(b) The current I is produced by charge carriers, each of charge +q moving at speed v in the
+direction of the current. The number density of the charge carriers is n.
+(1) Derive an expression relating the Hall voltage Vy to v, Band d, where d is one of the
+dimensions of the slice.
+[3]
+2017 - 2023
+426
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(i) Use your answer in (b)(i) and an expression for the current I in the slice to derive the
+expression
+Vu = nta
+Explain your working.
+12]
+(c) Suggest why the Hall voltage is difficult to detect in a thin slice of copper.
+.... [2]
+2017 - 2023
+427
+P4 Topical
+
+===== 9702/42_Winter_2017_Q9 | PDF 429-430 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+5 - (9702/42_Winter_2017_Q9) - Magnetic Fields
+(a)
+State what is meant by a field of force.
+[2]
+(b) Explain the use of a uniform magnetic field and a uniform electric field for the selection of the
+velocity of charged particles. You may draw a diagram if you wish.
+....[4]
+2017 - 2023
+428
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(c) A beam of charged particles enters a region of uniform magnetic and electric fields, as
+illustrated in Fig. 9.1.
+region of uniform
+magnetic and
+electric fields
+path of particle
+mass m
+charge +9
+velocity v
+magnetic field
+into plane of
+paper
+Fig. 9.1
+The direction of the magnetic field is into the plane of the paper. The velocity of the charged
+particles is normal to the magnetic field as the particles enter the field.
+A particle in the beam has mass m, charge +q and velocity v. The particle passes undeviated
+through the region of the two fields.
+On Fig. 9.1, sketch the path of a particle that has
+(1)
+mass m, charge +2q and velocity v (label this path Q),
+(ii)
+mass m, charge +q and velocity slightly larger than v (label this path V).
+11]
+12]
+2017 - 2023
+429
+P4 Topical
+
+===== 9702/41_Summer_2018_Q9 | PDF 433-434 | Magnetic Fields, Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+7 - (9702/41_Summer_2018_Q9) - Magnetic Fields, Alternating Currents
+A rigid copper wire is held horizontally between the pole pieces of two magnets, as shown in
+Fig. 9.1.
+8.5 cm
+copper
+wire
+- 85cm al
+S
+direction
+of current -
+S
+N
+1
+side view
+top view
+Fig. 9.1
+The width of each pole piece is 8.5 cm.
+The uniform magnetic flux density B in the region between the poles of the magnets is 3.7 mT and
+is zero outside this region.
+The angle between the wire and the direction of the magnetic field is e.
+The current in the wire is in the direction shown on Fig. 9.1.
+(a) By reference to the side view of Fig. 9.1, state and explain the direction of the force on the
+magnets.
+[2)
+(b) The constant current in the wire is 5.1 A.
+(i) For angle 0 equal to 90°, calculate the force on the wire.
+force =
+..N [2]
+2017 - 2023
+432
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(ii) The angle f is changed to 60°.
+The length of wire in the magnetic field is (sing=) cm.
+Calculate the force on the wire.
+force =
+...N [1]
+(c) The constant current in the wire is now changed to an alternating current of frequency 20Hz
+and root-mean-square (r.m.s.) value 5.1 A.
+The angle between the wire and the direction of the magnetic field is 90°.
+On Fig. 9.2, sketch a graph to show the variation with time t of the force Fon the wire for two
+cycles of the alternating current.
+F/N
+t/s
+Fig. 9.2
+13]
+2017 - 2023
+433
+P4 Topical
+
+===== 9702/42_Summer_2018_Q8 | PDF 431-432 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+6 - (9702/42_Summer_2018_Q8) - Magnetic Fields
+(a)
+Explain how a uniform magnetic field and a uniform electric field may be used as a velocity
+selector for charged particles.
+...(3]
+2017 - 2023
+430
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(b) Particles having mass m and charge +1.6 x 10-19C pass through a velocity selector.
+They then enter a region of uniform magnetic field of magnetic flux density 94 mT with speec
+3.4 × 104ms-', as shown in Fig. 8.1
+path of charged particle
+velocity
+selector
+--
+15.0 cm
+~ uniform
+magnetic field
+into page
+Fig. 8.1
+The direction of the uniform magnetic field is into the page and normal to the direction in
+which the particles are moving
+The particles are moving in a vacuum in a circular arc of diameter 15.0cm.
+Show that the mass of one of the particles is 20u.
+[4]
+(c) On Fig. 8.1, sketch the path in the uniform magnetic field of a particle of mass 22u having the
+same charge and speed as the particle in (b).
+2017 - 2023
+431
+P4 Topical
+
+===== 9702/42_Summer_2018_Q11 | PDF 435-435 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+8 - (9702/42_Summer_2018_Q11) - Magnetic Fields
+(a) Describe the basic principles of CT scanning (computed tomography).
+(b) By reference to your answer in (a), suggest why
+(i) CT scanning was not possible before fast computers with large memories were available,
+• [1]
+(ii) the radiation dose for a CT scan is much larger than for an X-ray image of a leg bone.
+.......[1]
+2017 - 2023
+434
+P4 Topical
+
+===== 9702/41_Winter_2018_Q8 | PDF 436-437 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+9 - (9702/41_Winter_2018_O8) - Magnetic Fields
+(a) Explain what is meant by a magnetic field.
+. [2)
+(b) A particle has mass m, charge +q and speed v.
+The particle enters a uniform magnetic field of flux density B such that, on entry, it is moving
+normal to the magnetic field, as shown in Fig. 8.1.
+path of particle
+mass m
+charge +q
+speed v
+region of -
+magnetic field
+ig. 8.1
+The direction of the magnetic field is perpendicular to, and into, the plane of the paper.
+(i) On Fig. 8.1, draw the path of the particle through, and beyond, the region of the magnetic
+(ii) There is a force acting on the particle, causing it to accelerate.
+Explain why the speed of the particle on leaving the magnetic field is v.
+2017 - 2023
+435
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) The particle in (b) loses an electron so that its charge becomes +2q. Its change in mass is
+negligible.
+Determine, in terms of v, the initial speed of the particle such that its path through the magnetic
+field is unchanged. Explain your working.
+CH22 - MAGNETIC FIELDS
+speed =..
+...• [3]
+2017 - 2023
+436
+P4 Topical
+
+===== 9702/42_Winter_2018_Q8 | PDF 438-439 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+10 - (9702/42_Winter_2018_Q8) - Magnetic Fields
+(a) Define magnetic flux density.
+...[3]
+(b) A stiff copper wire is balanced horizontally on a pivot, as shown in Fig. 8.1.
+7.5cm
+pivot
+› stiff wire
+S
+R
+Fig. 8.1
+Sections PQ, QR and RS of the wire are situated in a uniform magnetic field of flux density B
+produced between the poles of a permanent magnet.
+The perpendicular distance of PQRS from the pivot is 7.5 cm.
+When a current of 2.7 A is passed through the wire, a small mass of 45 mg is placed a distance
+8.8 cm from the pivot in order to restore the balance of the wire, as shown in Fig. 8.2.
+small mass
+7.5cm
+8.8cm
+27A
+27A5
+pivot
+•stiff wire
+• pole pieces
+of magnet
+Fig. 8.2
+2017 - 2023
+437
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(1) Explain why, when the current is switched on, the current in the sections PO and RS of
+the wire does not affect the balance of the wire.
+..(2)
+(ii)
+The length of section QR of the wire is 1.2 cm.
+Calculate the magnetic flux density B
+B=.......
+....... T [3]
+2017 - 2023
+438
+P4 Topical
+
+===== 9702/41_Summer_2019_Q8 | PDF 440-441 | Magnetic Fields, Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+11 - (9702/41_Summer_2019_Q8) - Magnetic Fields, Electromagnetic Induction
+A solenoid is connected in series with a battery and a switch, as illustrated in Fig. 8.1.
+small coil
+solenoid
+axis of
+solenoid
+Fig. 8.1
+A small coil, connected to a sensitive ammeter, is situated near one end of the solenoid.
+As the current in the solenoid is switched on, there is a changing magnetic field inside the solenoid.
+(a) (i)
+State what is meant by a magnetic field.
+[1]
+[1]
+(b) As the current in the solenoid is switched on, there is a current induced in the small coil. This
+induced current gives rise to a magnetic field in the small coil.
+(i) State Lenz's law.
+[2]
+2017 - 2023
+439
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(ii) Use Lenz's law to state and explain the direction of the magnetic field due to the induced
+current in the small coil. On Fig. 8.1, mark this direction with an arrow inside the small
+[3]
+(c) The small coil has an area of cross-section 7.0 x 10-4m2 and contains 75 turns of wire.
+A constant current in the solenoid produces a uniform magnetic flux of flux density 1.4 mT
+throughout the small coil.
+The direction of the current in the solenoid is reversed in a time of 0.12s.
+Calculate the average e.m.f. induced in the small coil.
+e.m.f. = .
+. V [3]
+2017 - 2023
+440
+P4 Topical
+
+===== 9702/41_Summer_2019_Q9 | PDF 444-444 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+13 - (9702/41_Summer_2019_Q9) - Magnetic Fields
+Nuclear magnetic resonance imaging (MRI) is used to obtain diagnostic information about
+internal body structures.
+State, during the use of NMRI, the function of:
+(a) the large constant magnetic field
+[3]
+(b) the non-uniform magnetic field.
+[2]
+2017 - 2023
+443
+P4 Topical
+
+===== 9702/42_Summer_2019_Q8 | PDF 442-443 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+12 - (9702/42_Summer_2019_Q8) - Magnetic Fields
+An electron is travelling in a vacuum at a speed of 3.4 x 10°ms-1. The electron enters a region of
+uniform magnetic field of flux density 3.2mT, as illustrated in Fig. 8.1.
+30°
+→
+→
+→
+region of uniform
+magnetic flux
+density 3.2mT
+electron
+speed 3.4 x 10' ms-1
+Fig. 8.1
+The initial direction of the electron is at an angle of 30° to the direction of the magnetic field.
+(a) When the electron enters the magnetic field, the component of its velocity V normal to the
+direction of the magnetic field causes the electron to begin to follow a circular path.
+Calculate:
+(1) VN
+VN =
+ms' [1]
+(ii) the radius of this circular path.
+radius =
+m [3]
+(b) State the magnitude of the force, if any, on the electron in the magnetic field due to the
+component of its velocity along the direction of the field.
+-[1]
+2017 - 2023
+441
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(c) Use information from (a) and (b) to describe the resultant path of the electron in the magnetic
+•[1]
+2017 - 2023
+442
+P4 Topical
+
+===== 9702/41_Winter_2019_Q8 | PDF 446-447 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+15 - (9702/41_Winter_2019_Q8) - Magnetic Fields@
+(a) A long straight vertical wire carries a current I. The wire passes through a horizontal card
+EFGH, as shown in Fig. 8.1 and Fig. 8.2.
+H
+current out of
+plane of paper
+G
+I
+wire
+H
+G
+E
+F
+E
+F
+Fig. 8.1
+Fig. 8.2 (view from above)
+On Fig. 8.2, draw the pattern of the magnetic field produced by the current-carrying wire on
+the plane EFGH.
+[3]
+(b) Two long straight parallel wires P and Q are situated a distance 3.1 cm apart, as illustrated in
+Fig. 8.3.
+6.2A1
+18.5A
+wire P
+wire Q
+: 3.1 cm
+Fig. 8.3
+The current in wire P is 6.2 A. The current in wire Q is 8.5 A.
+The magnetic flux density B at a distance x from a long straight wire carrying current I is
+given by the expression
+B=
+2лx
+where up is the permeability of free space.
+2017 - 2023
+445
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+Calculate:
+(i) the magnetic flux density at wire Q due to the current in wire P
+flux density =
+(i) the force per unit length, in Nm-, acting on wire Q due to the current in wire P.
+.. T (2)
+force per unit length = ..
+(c) The currents in wires P and Q are different in magnitude.
+State and explain whether the forces per unit length on the two wires will be different.
+Nm-' [2]
+12]
+2017 - 2023
+446
+P4 Topical
+
+===== 9702/41_Winter_2019_Q9 | PDF 450-450 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+17 - (9702/41_Winter_2019_Q9) - Magnetic Fields
+Diagnosis using nuclear magnetic resonance imaging (NMRI) requires the use of a non-uniform
+magnetic field superimposed on a constant magnetic field of large magnitude.
+Explain the purpose of:
+(a) the large constant magnetic field
+12]
+(b) the non-uniform magnetic field.
+(2]
+2017 - 2023
+449
+P4 Topical
+
+===== 9702/42_Winter_2019_Q7 | PDF 445-445 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+14 - (9702/42_Winter_2019_Q7) - Magnetic Fields
+Describe the principles of computed tomography (CT) scanning
+.. [5]
+2017 - 2023
+444
+P4 Topical
+
+===== 9702/42_Winter_2019_Q8 | PDF 448-449 | Magnetic Fields, Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+16 - (9702/42_Winter_2019_Q8) - Magnetic Fields, Electromagnetic Induction
+Electrons enter a rectangular slice PQRSEGH of a semiconductor material at right-angles to
+face PQFE, as shown in Fig. 8.1.
+magnetic field
+flux density B
+S
+R
+P
+G
+Q
+F
+direction of
+incident electrons
+Fig. 8.1
+A uniform magnetic field of flux density B is directed into the slice, at right-angles to face PQRS.
+(a) The electrons each have charge -q and drift speed vin the slice.
+State the magnitude and the direction of the force due to the magnetic field on each electron
+as it enters the slice.
+[2]
+(b) The force on the electrons causes a voltage V, to be established across the semiconductor
+slice given by the expression
+VH =
+BI
+ntg
+where I is the current in the slice.
+(i) State the two faces between which the voltage V, is established.
+face
+.... and face
+(ii) Use letters from Fig. 8.1 to identify the distance t.
+11]
+[1]
+2017 - 2023
+447
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) Aluminium (fAI) has a density of 2.7 gcm-3. Assume that there is one free electron available
+to carry charge per atom of aluminium.
+(i) Show that the number of charge carriers per unit volume in aluminium is 6.0 x 1028m 3.
+CH22 - MAGNETIC FIELDS
+12)
+(ii) A sample of aluminium foil has a thickness of 0.090mm. The current in the foil is 4.6A.
+A uniform magnetic field of flux density 0.15T acts at right-angles to the foil.
+Use the value in (i) to calculate the voltage that is generated.
+VH =
+V [2]
+2017 - 2023
+448
+P4 Topical
+
+===== 9702/41_Summer_2020_Q8 | PDF 451-453 | Magnetic Fields, Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+18 - (9702/41_Summer_2020_Q8) - Magnetic Fields, Electromagnetic Induction
+(a) Define the tesla.
+[3]
+(b) A magnet produces a uniform magnetic field of flux density B in the space between its poles.
+A rigid copper wire carrying a current is balanced on a pivot. Part PQLM of the wire is between
+the poles of the magnet, as illustrated in Fig. 8.1.
+5.6 cm
+M
+weight W
+N
+S
+rigid copper
+wire
+pivot
+magnet
+Fig. 8.1 (not to scale)
+The wire is balanced horizontally by means of a small weight W.
+2017 - 2023
+450
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+The section of the wire between the poles of the magnet is shown in Fig. 8.2.
+rigid copper wire
+M
+P
+J
+N
+S
+pole of magnet
+pole of magnet
+Fig. 8.2 (not to scale)
+Explain why:
+(i) section QL of the wire gives rise to a moment about the pivot
+13]
+(ii) sections PQ and LM of the wire do not affect the equilibrium of the wire.
+12]
+2017 - 2023
+451
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(c)
+Section QL of the wire has length 0.85 cm.
+The perpendicular distance of QL from the pivot is 5.6 cm.
+When the current in the wire is changed by 1.2 A, W is moved a distance of 2.6 cm along the
+wire in order to restore equilibrium. The mass of W is 1.3 × 104 kg.
+(i) Show that the change in moment of W about the pivot is 3.3 × 10-5N m.
+12]
+(ii) Use the information in (i) to determine the magnetic flux density B between the poles of
+the magnet.
+B=
+... T [3]
+2017 - 2023
+452
+P4 Topical
+
+===== 9702/42_Summer_2020_Q9 | PDF 454-455 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+19 - (9702/42_Summer_2020_Q9) - Magnetic Fields
+An electron is travelling at speed v in a straight line in a vacuum. It enters a uniform magnetic
+field of flux density 8.0 × 104T. Initially, the electron is travelling at right angles to the magnetic
+field, as illustrated in Fig. 9.1.
+region of uniform
+magnetic field
+path of
+electron
+→
+Fig. 9.1
+The path of the electron in the magnetic field is an arc of a circle of radius 6.4 cm.
+(i) State and explain the direction of the magnetic field.
+[2]
+(ii) Show that the speed v of the electron is 9.0 x 10 ms-1.
+[3]
+2017 - 2023
+453
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(b) A uniform electric field is now applied in the same region as the magnetic field.
+The electron passes undeviated through the region of the two fields, as illustrated in Fig. 9.2.
+region of
+uniform electric
+and magnetic fields
+path of
+electron
+→
+→
+Fig. 9.2
+(i) On Fig. 9.2, mark with an arrow the direction of the uniform electric field.
+(ii) Use data from (a) to calculate the magnitude of the electric field strength.
+11]
+field strength =
+NC-' 12]
+(c) The electron in (b) is now replaced by an a-particle travelling at the same speed v along the
+same initial path as the electron.
+Describe and explain the shape of the path in the region of the magnetic and electric fields.
+12)
+2017 - 2023
+454
+P4 Topical
+
+===== 9702/41_Winter_2020_Q8 | PDF 456-457 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+20 - (9702/41_Winter_2020_Q8) - Magnetic Fields
+A slice of a conducting material has its face QRLK normal to a uniform magnetic field of flux
+density B, as illustrated in Fig. 8.1.
+S
+R
+M
+P
+magnetic flux
+density B
+direction of
+movement of
+electrons
+Fig. 8.1
+Electrons enter the slice travelling perpendicular to face PQKJ.
+(a) For the free electrons moving in the slice:
+(i) state the direction of the force on an electron due to movement of the electron in the
+magnetic field
+11]
+identify the faces, using the letters on Fig. 8.1, between which a potential difference is
+developed.
+face
+..... and face
+[1]
+(b) Explain why the potential difference in (a)(i) reaches a maximum value.
+12]
+2017 - 2023
+455
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(c) The number of free electrons per unit volume in the slice of material is 1.3 × 1029m-3.
+The thickness PQ of the slice is 0.10mm.
+The magnetic flux density B is 4.6 × 10-3.
+Calculate the potential difference across the slice for a current of 6.3 × 104A.
+potential difference =
+... V [2]
+(d) The slice in (c) is a metal.
+By reference to your answer in (c), suggest why Hall probes are usually made using
+semiconductors rather than metals.
+.. (2]
+[Total: 8]
+2017 - 2023
+456
+P4 Topical
+
+===== 9702/42_Winter_2020_Q10 | PDF 458-459 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+21 - (9702/42_Winter_2020_Q10) - Magnetic Fields
+(a) A long straight vertical wire A carries a current in an upward direction.
+The wire passes through the centre of a horizontal card, as illustrated in Fig. 10.1.
+card
+current-carrying
+wire A
+Fig. 10.1
+The card is viewed from above. The card is shown from above in Fig. 10.2.
+card -
+wire A carrying
+- current out
+of plane of paper
+Fig. 10.2
+On Fig. 10.2, draw four lines to represent the magnetic field produced by the current-carrying
+wire.
+[3]
+2017 - 2023
+457
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(b) Two wires A and B are now placed through a card. The two wires are parallel and carrying
+currents in the same direction, as illustrated in Fig. 10.3.
+wire B
+wire A
+card
+Fig. 10.3
+(1) Explain why a magnetic force is exerted on each wire.
+.... 2]
+(ii) State the directions of the forces.
+... [1]
+(c) The currents in the two wires are not equal.
+Explain whether the magnetic forces on the two wires are equal in magnitude.
+... 11]
+[Total: 7]
+2017 - 2023
+458
+P4 Topical
+
+===== 9702/41_Summer_2021_Q9 | PDF 462-463 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+23 - (9702/41_Summer_2021_Q9) - Magnetic Fields
+(a) State what is meant by a magnetic field.
+... [2]
+(b) A rectangular piece of aluminium foil is situated in a uniform magnetic field of flux density B,
+as shown in Fig. 9.1.
+magnetic field,
+flux density B
+, aluminium
+foil
+movement
+of electrons
+P
+S
+Fig. 9.1
+The magnetic field is normal to the face PQRS of the foil.
+Electrons, each of charge -q, enter the foil at right angles to the face PQTV.
+(i) On Fig. 9.1, shade the face of the foil on which electrons initially accumulate.
+(ii) Explain why electrons do not continuously accumulate on the face you have shaded.
+[1]
+... [3]
+2017 - 2023
+461
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(c) The Hall voltage developed across the foil in (b) is given by the expression
+BI
+VH=
+nta
+where I is the current in the foil.
+(i) State the meaning of the quantity n.
+[1]
+i sin the letters on Fi.., dentify the dance t.
+11]
+(d) Suggest why, in practice, Hall probes are usually made using a semiconductor material rather
+than a metal.
+[1]
+2017 - 2023
+462
+P4 Topical
+
+===== 9702/42_Summer_2021_Q8 | PDF 460-461 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+22 - (9702/42_Summer_2021_08) - Magnetic Fields
+(a) Define magnetic flux density.
+12]
+(b) Electrons, each of mass m and charge q, are accelerated from rest in a vacuum through a
+potential difference V.
+Derive an expression, in terms of m, q and V, for the final speed v of the electrons. Explain
+your working.
+12]
+(c) The accelerated electrons in (b) are injected at point S into a region of uniform magnetic field
+of flux density B, as illustrated in Fig. 8.1.
+region of uniform
+magnetic field
+flux density B
+path of electrons,
+radius r
+Fig. 8.1
+The electrons move at right angles to the direction of the magnetic field. The path of the
+electrons is a circle of radius r.
+2017 - 2023
+459
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(i) Show that the specific charge m of the electrons is given by the expression
+m = B2p2.
+Explain your working.
+12]
+(ii)
+Electrons are accelerated through a potential difference V of 230V. The electrons are
+injected normally into the magnetic field of flux density 0.38 mT.
+The radius r of the circular orbit of the electrons is 14cm.
+Use this information to calculate a value for the specific charge of an electron.
+specific charge =
+Ckg-' [2]
+(iii) Suggest why the arrangement outlined in (ii), using the same values of B and V, is not
+practical for the determination of the specific charge of a-particles.
+[2]
+2017 - 2023
+460
+P4 Topical
+
+===== 9702/42_Summer_2021_Q9 | PDF 464-465 | Magnetic Fields, Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+24 - (9702/42_Summer_2021_Q9) - Magnetic Fields, Electromagnetic Induction
+State two situations in which a charged particle in a magnetic field does not experience a
+force.
+1....
+2.
+12]
+(b) A loosely coiled metal spring is suspended from a fixed point, as shown in Fig. 9.1.
+LL
+fixed
+point
+spring
+small
+mass
+flexible
+lead
+Fig. 9.1
+Electrical connections are made to the ends of the spring by means of a flexible lead.
+The length of the spring is measured before the switch is closed and then again after the
+switch is closed.
+2017 - 2023
+463
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+When the switch is closed, a magnetic field is set up around each coil of the spring.
+By reference to these magnetic fields, explain why there is a change in length of the spring.
+State whether the spring extends or contracts.
+[4]
+(c) With the switch in (b) closed, the small mass on the free end of the spring is now made to
+oscillate vertically.
+Use the principles of electromagnetic induction to explain why small fluctuations in the current
+in the spring are found to occur.
+.... [3]
+2017 - 2023
+464
+P4 Topical
+
+===== 9702/41_Winter_2021_Q8 | PDF 466-467 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+25 - (9702/41_Winter_2021_Q8) - Magnetic Fields
+(a) Define the tesla.
+12]
+(b) A stiff metal wire is used to form a rectangular frame measuring 8.0 cm × 6.0 cm. The frame is
+open at the top, and is suspended from a sensitive newton meter, as shown in Fig. 8.1.
+- newton meter
+insulating thread
+5.0A Y
+8.0 cm
+-frame
+P.
+- Q
+6.0cm
+Fig. 8.1
+The open ends of the frame are connected to a power supply so that there is a current of
+5.0A in the frame in the direction indicated in Fig. 8.1.
+The frame is slowly lowered into a uniform magnetic field of flux density B so that all of side
+PQ is in the field. The magnetic field lines are horizontal and at an angle of 50° to PQ, as
+shown in Fig. 8.2.
+P
+view from above
+Fig. 8.2
+When side PQ of the frame first enters the magnetic field, the reading on the newton meter
+changes by 1.0mN.
+2017 - 2023
+465
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+(i) Determine the magnetic flux density B, in mT.
+(ii)
+B=
+mT [2]
+State, with a reason, whether the change in the reading on the newton meter is an
+increase or a decrease.
+11]
+(ill) The frame is lowered further so that the vertical sides start to enter the magnetic field.
+Suggest what effect this will have on the frame.
+2017 - 2023
+466
+P4 Topical
+
+===== 9702/42_Winter_2021_Q8 | PDF 468-468 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+26 - (9702/42_Winter_2021_Q8) - Magnetic Fields
+Two long straight parallel wires P and Q carry currents into the plane of the paper, as shown in
+Fig. 8.1.
+P
+current I
+Q
+current 2I
+Fig. 8.1
+The current in P is I and the current in Q is 21.
+(a) (i)
+On Fig. 8.1, draw an arrow to show the direction of the magnetic field at wire Q due to
+the current in wire P. Label this arrow B.
+On Fig. 8.1, draw another arrow to show the direction of the force acting on wire Q due to
+the current in wire P. Label this arrow F.
+(b) (i)
+State, with a reason, how the magnitude of the force acting on wire P compares with the
+magnitude of the force acting on wire Q.
+[2]
+(ii) State how the direction of the force on wire P compares with the direction of the force on
+wire Q.
+.... (1]
+2017 - 2023
+467
+P4 Topical
+
+===== 9702/42_Winter_2021_Q9 | PDF 469-469 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+27 - (9702/42_Winter_2021_Q9) - Magnetic Fields
+(a) State what is meant by:
+(i) the photoelectric effect
+12)
+(ii) work function energy.
+[1]
+(b) A polished calcium plate in a vacuum is investigated by illuminating the surface with light.
+It is found that no photoelectric current is produced when the frequency of the light is less
+than 6.93 x 1014Hz.
+(i) State the name of the frequency below which no photoelectric current is produced.
+[1]
+(ii) Explain how the photon model of electromagnetic radiation accounts for this phenomenon.
+[3]
+(iii) Calculate the work function energy, in eV, of calcium.
+work function energy =
+...
+... eV [2]
+2017 - 2023
+468
+P4 Topical
+
+===== 9702/43_Winter_2021_Q9 | PDF 470-471 | Magnetic Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+28 - (9702/43_Winter_2021_Q9) - Magnetic Fields
+(a)
+State, by reference to the power dissipated in a resistor, what is meant by the
+root-mean-square (r.m.s.) value of an alternating voltage.
+12)
+(b) A coil is rotating freely, on frictionless bearings, at constant speed in a uniform magnetic
+field. This rotation causes an induced alternating electromotive force (e.m.f.) across the open
+terminals of the coil. The induced e.m.f. has r.m.s. value 12V and frequency 50Hz.
+The speed of rotation of the coil is now doubled.
+(i) State and explain, with reference to the principles of electromagnetic induction, the effect
+of the increased speed of rotation on the r.m.s. value of the induced e.m.f.
+.. [2]
+(ii) On Fig. 9.1, sketch the variation with time f of the induced e.m.f. E across the terminals
+of the coil at the increased speed of rotation. Your line should extend from time t = 0 to
+time t = 20ms. Assume that E = 0 when t = 0.
+40
+E/V
+20-
+5
+10
+15
+20
+t/ms -
+-20-
+-40
+Fig. 9.1
+[3]
+2017 - 2023
+469
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH22 - MAGNETIC FIELDS
+State and explain the effect on the motion of the coil in (b) of connecting a load resistor
+across its terminals.
+[2]
+2017 - 2023
+470
+P4 Topical

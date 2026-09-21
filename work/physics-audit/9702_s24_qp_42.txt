@@ -1,0 +1,1583 @@
+
+=== MERGED PAGE 427 ===
+                                                     * 0019655342201 *
+
+
+
+                                  ,                     ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬O> 3mEwiq5¢L¡FW
+                          ¬jH¥@i\mhL9T
+                          ¥U5u5euU 5 ¥U
+
+
+
+
+* 7 2 3 5 6 4 3 7 8 5 *
+                                               PHYSICS                                                                                         9702/42
+                                               Paper 4 A Level Structured Questions                                                     May/June 2024
+
+                                                                                                                                                2 hours
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 100.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                         This document has 24 pages. Any blank pages are indicated.
+
+
+                                               DC (SL/SW) 329808/2
+                                               © UCLES 2024                                                                                   [Turn over
+
+
+=== MERGED PAGE 428 ===
+       * 0019655342202 *
+
+
+
+
+                                                                                      DO NOT WRITE IN THIS MARGIN
+                                                               2
+,           ,
+
+
+Data
+
+acceleration of free fall                                g = 9.81 m s–2
+
+speed of light in free space                             c = 3.00 × 108 m s–1
+
+elementary charge                                        e = 1.60 × 10–19 C
+
+unified atomic mass unit                               1 u = 1.66 × 10–27 kg
+
+                                                        mp = 1.67 × 10–27 kg
+
+
+
+
+                                                                                      DO NOT WRITE IN THIS MARGIN
+rest mass of proton
+
+rest mass of electron                                   me = 9.11 × 10–31 kg
+
+Avogadro constant                                       NA = 6.02 × 1023 mol–1
+
+molar gas constant                                       R = 8.31 J K–1 mol–1
+
+Boltzmann constant                                       k = 1.38 × 10–23 J K–1
+
+gravitational constant                                   G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space                               ε0 = 8.85 × 10–12 F m–1
+
+
+
+
+                                                                                      DO NOT WRITE IN THIS MARGIN
+                                                       1
+                                                  (        = 8.99 × 109 m F–1)
+                                                      4rf0
+
+Planck constant                                          h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant                                σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion                             s = ut + 12 at 2
+                                                        v 2 = u 2 + 2as
+
+
+
+
+                                                                                      DO NOT WRITE IN THIS MARGIN
+hydrostatic pressure                                    ∆p = ρg∆h
+
+upthrust                                                 F = ρgV
+
+                                                                fs v
+Doppler effect for sound waves                           fo = v ! v
+                                                                    s
+
+
+electric current                                         I = Anvq
+
+resistors in series                                      R = R1 + R2 + ...
+
+
+
+
+                                                                                      DO NOT WRITE IN THIS MARGIN
+                                                        1   1   1
+resistors in parallel                                     =   +   + ...
+                                                        R   R1 R2
+
+
+
+
+                             ĬÍĊ¾Ġ³íÅ÷éñµĢÉģÈþ×
+© UCLES 2024                 ĬĕĕéÅġÌ¿ãĄöËã²±āÜĂ          9702/42/M/J/24
+                             ĥąåĕµÕĥĕåĕÕÕĕõĥÕÅÕ
+
+
+=== MERGED PAGE 429 ===
+                                      * 0019655342203 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                      32
+                              ,           ,
+
+
+                                                                                    GM
+                               gravitational potential                          ϕ =– r
+
+                                                                                        GMm
+                               gravitational potential energy                  EP = –    r
+
+                                                                                      1 Nm
+                               pressure of an ideal gas                         p = 3          〈c2〉
+                                                                                        V
+
+                               simple harmonic motion                           a = – ω 2x
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                               velocity of particle in s.h.m.                   v = v0 cos ωt
+                                                                                v = !ω         (x 02 - x 2)
+
+                                                                                        Q
+                               electric potential                              V =
+                                                                                      4rf0 r
+
+                                                                                       Qq
+                               electrical potential energy                     EP =
+                                                                                      4rf0 r
+
+                                                                               1   1   1
+                               capacitors in series                              =   +   + ...
+                                                                               C   C1 C2
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                               capacitors in parallel                          C = C1 + C2 + ...
+
+                                                                                               t
+                               discharge of a capacitor                         x = x 0 e - RC
+
+                                                                                      BI
+                               Hall voltage                                    VH =
+                                                                                      ntq
+
+                               alternating current/voltage                      x = x0 sin ωt
+
+                               radioactive decay                                x = x0e–λt
+
+                                                                                      0.693
+                               decay constant                                   λ =
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                        t1
+                                                                                           2
+
+
+
+                                                                               IR   (Z 1 - Z 2) 2
+                               intensity reflection coefficient                   =
+                                                                               I0   (Z 1 + Z 2) 2
+
+                               Stefan–Boltzmann law                             L = 4πσr 2T 4
+
+                                                                               ∆λ Df  v
+                               Doppler redshift                                  á   ác
+                                                                               λ   f
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                          ĬÏĊ¾Ġ³íÅ÷éñµĢÉġÈþ×
+                              © UCLES 2024                ĬĕĖê½ħÈ¯Ööċþ÷ÊĥāìĂ
+                                                          ĥąÕÕõµąõµĥąÕĕĕąĕÕÕ
+                                                                                9702/42/M/J/24                [Turn over
+
+
+=== MERGED PAGE 430 ===
+       * 0019655342204 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           4
+,            ,
+
+1   (a) Define the radian.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) A circular metal disc spins horizontally about a vertical axis, as shown in Fig. 1.1.
+
+                                                                 rotation
+                                                                                                                metal disc
+                 axis
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                       9.3 cm                                                   modelling clay
+
+
+                                                                            1.2 cm
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                           Fig. 1.1 (not to scale)
+
+         A piece of modelling clay is attached to the disc.
+
+         For the instant when the piece of modelling clay is in the position shown, draw on Fig. 1.1:
+
+          (i)    an arrow, labelled V, showing the direction of the velocity of the modelling clay                                                       [1]
+
+         (ii)    an arrow, labelled A, showing the direction of the acceleration of the modelling clay.                                                  [1]
+
+    (c) The metal disc in Fig. 1.1 has a radius of 9.3 cm.
+        The centre of gravity of the modelling clay is 1.2 cm from the rim of the disc and moves with a
+        speed of 0.68 m s–1.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          (i)    Calculate the angular speed ω of the disc.
+
+
+
+
+                                                                                      ω = .............................................. rad s–1 [2]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÍĊ¾Ġ³íÅ÷éñµĢËģÈĀ×
+© UCLES 2024                      ĬĕĖë½ĝ¶ºáüĄąÕĦÇđÔĂ               9702/42/M/J/24
+                                  ĥµąÕµµąÕÕÅõÕÕĕåĕÅÕ
+
+
+=== MERGED PAGE 431 ===
+                                     * 0019655342205 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                       5
+                              ,            ,
+
+                                       (ii)   Calculate the acceleration a of the centre of gravity of the modelling clay.
+
+
+
+
+                                                                                                  a = ................................................ m s–2 [2]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  (d) A second piece of modelling clay is attached to the disc in the position shown in Fig. 1.2.
+
+
+
+
+                                         second piece of
+                                         modelling clay
+
+
+
+
+                                                                                                                            first piece of
+                                                                                                                            modelling clay
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                   Fig. 1.2
+
+                                       The second piece of modelling clay has a larger mass than the first piece.
+
+                                       By placing one tick (3) in each row, complete Table 1.1 to show how the quantities indicated
+                                       compare for the two pieces of modelling clay.
+
+                                                                                  Table 1.1
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         less for second piece                                             greater for second piece
+                                   quantity                                           same for both pieces
+                                                            than first piece                                                    than first piece
+
+                                angular speed
+
+
+                                 linear speed
+
+
+                                 acceleration
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                                                                            [3]
+
+                                                                                                                                                  [Total: 10]
+
+
+
+
+                                                            ĬÏĊ¾Ġ³íÅ÷éñµĢËġÈĀ×
+                              © UCLES 2024                  ĬĕĕìÅīºÊØþíÄāĎēđäĂ
+                                                            ĥµõĕõÕĥµÅµåÕÕõÅÕÕÕ
+                                                                                 9702/42/M/J/24                                                 [Turn over
+
+
+=== MERGED PAGE 432 ===
+       * 0019655342206 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                           6
+,            ,
+
+2   (a) With reference to thermal energy, state what is meant by two objects being in thermal
+        equilibrium.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) Two cylinders X and Y each contain a sample of an ideal gas. The samples are in thermal
+        equilibrium with each other.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         X has a volume of 0.0260 m3 and contains 0.740 mol of gas at a pressure of 1.20 × 105 Pa. Y
+         has a volume of 0.0430 m3 and contains gas at a pressure of 2.90 × 105 Pa. Data for the two
+         cylinders are shown in Fig. 2.1.
+
+                                                       X                                                   Y
+
+                                0.740 mol
+                                1.20 × 105 Pa                                                     2.90 × 105 Pa
+                                0.0260 m3                                                         0.0430 m3
+
+
+                                                                     Fig. 2.1
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          (i)    Show that the temperature of the gas in X is 234 °C.
+
+
+
+
+                                                                                                                                                         [3]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         (ii)    Determine the number N of molecules of the gas in Y. Explain your reasoning.
+
+
+
+
+                                                                                      N = ......................................................... [3]
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÑĊ¾Ġ³íÅ÷éñµĢÊġÅþ×
+© UCLES 2024                      ĬĕĖìÊġÒÄÐĉĀ¹ġĦò¹ÔĂ               9702/42/M/J/24
+                                  ĥĥÕĕõõĥĕąÕąÕĕõĥĕąÕ
+
+
+=== MERGED PAGE 433 ===
+                                     * 0019655342207 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                       7
+                              ,            ,
+
+                                      (iii)   The gas in X consists of molecules that each have a mass that is four times the mass of
+                                              a molecule of the gas in Y.
+
+                                              Explain how the root-mean-square (r.m.s.) speed of the molecules in X compares with
+                                              the r.m.s. speed of the molecules in Y.
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [3]
+
+                                                                                                                                                                         [Total: 10]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÓĊ¾Ġ³íÅ÷éñµĢÊģÅþ×
+                              © UCLES 2024                    ĬĕĕëÂħÎ´éïñðµĎæ¹äĂ
+                                                              ĥĥåÕµĕąõĕåÕÕĕĕąÕĕÕ
+                                                                                               9702/42/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 434 ===
+                                                                                                                                                    ,
+
+
+
+
+       © UCLES 2024
+
+
+
+
+                                                                                                                                                                   * 0019655342208 *
+
+
+
+ĬÑĊ¾Ġ³íÅ÷éñµĢÌġÅĀ×
+ĬĕĕêÂĝàµÎñú÷ė²ĈéÜĂ
+ĥÕõÕõĕąÕõąåÕÕĕåÕąÕ
+                                                                                                                                                    
+
+
+
+
+                                                                                                                                                    ,
+
+
+
+
+                                                                                                                                                               8
+       9702/42/M/J/24
+                                                                                                                                            BLANK PAGE
+
+
+
+
+   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN
+
+
+=== MERGED PAGE 435 ===
+                                     * 0019655342209 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                         9
+                              ,                                           ,
+
+                              3   (a) State what is meant by the internal energy of a system.
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ............................................................................................................................................. [2]
+
+                                  (b) With reference to molecular kinetic and potential energies, describe and explain how the
+                                      internal energy of the system changes when:
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                        (i)    a gas is heated at constant volume so that its temperature increases
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ..................................................................................................................................... [3]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       (ii)    a wire is stretched within its elastic limit at constant temperature.
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ...........................................................................................................................................
+
+                                               ..................................................................................................................................... [3]
+
+                                                                                                                                                                             [Total: 8]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                ĬÓĊ¾Ġ³íÅ÷éñµĢÌģÅĀ×
+                              © UCLES 2024                      ĬĕĖéÊīäÅëćć²ÃÊÔéìĂ
+                                                                ĥÕąĕµõĥµĥõõÕÕõÅĕĕÕ
+                                                                                                 9702/42/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 436 ===
+       * 0019655342210 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          10
+,           ,
+
+4   A block of mass m oscillates vertically on a spring, as shown in Fig. 4.1.
+
+
+                                                                                        spring
+
+
+
+
+                                                                                        block
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                        oscillations
+                                                                                                  equilibrium position
+
+                                                                       Fig. 4.1
+
+    The acceleration a of the block varies with displacement x from its equilibrium position, as shown
+    in Fig. 4.2.
+
+                                                                       2A
+
+                                                                   a
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                        A
+
+
+
+
+                                                                        0
+                 –3Y                    –2Y            –Y                   0                 Y                2Y         x       3Y
+
+
+
+                                                                       –A
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                    –2A
+
+                                                                       Fig. 4.2
+
+    The amplitude of the oscillations is 3Y and the maximum acceleration is 2A.
+
+    (a) Explain how Fig. 4.2 shows that the oscillations of the block are simple harmonic.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+          ............................................................................................................................................. [2]
+
+
+
+
+                                  ĬÑĊ¾Ġ³íÅ÷éñµĢÉġÇþ×
+© UCLES 2024                      ĬĕĘêËğèãÔúñÍû´ĤđäĂ               9702/42/M/J/24
+                                  ĥąĕĕõĕåÕÕµåĕÕµåÕµÕ
+
+
+=== MERGED PAGE 437 ===
+                                     * 0019655342211 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                   11
+                              ,            ,
+
+                                  (b) Deduce expressions, in terms of some or all of m, A and Y, for:
+
+                                        (i)   the angular frequency ω of the oscillations
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               ω = ......................................................... [1]
+
+                                       (ii)   the maximum speed v0 of the oscillations
+
+
+
+
+                                                                                               v0 = ......................................................... [2]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                      (iii)   the energy E of the oscillations.
+
+
+
+
+                                                                                               E = ......................................................... [2]
+
+                                  (c) The period of the oscillations is 0.75 s and the value of 3Y is 1.8 cm.
+
+                                       Determine an expression for x in terms of time t, where x is in cm and t is in seconds.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+                                                                                                x = ......................................................... [2]
+
+                                                                                                                                                    [Total: 9]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÓĊ¾Ġ³íÅ÷éñµĢÉģÇþ×
+                              © UCLES 2024               ĬĕėéÃĩìÓåĀĀĜßÌ¸đÔĂ
+                                                         ĥąĥÕµõÅµÅÅõĕÕÕÅĕåÕ
+                                                                              9702/42/M/J/24                                                    [Turn over
+
+
+=== MERGED PAGE 438 ===
+       * 0019655342212 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                          12
+,           ,
+
+5   (a) Define electric potential at a point.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Two isolated charged metal spheres X and Y are near to each other in a vacuum. The centres
+        of the spheres are 1.2 m apart, as shown in Fig. 5.1.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                            X                                                                                              Y
+
+                                                           P
+                                                       x
+
+
+                                                                          1.2 m
+
+                                                            Fig. 5.1 (not to scale)
+
+         Point P is on the line joining the centres of spheres X and Y and is at a variable distance x
+         from the centre of X.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         Fig. 5.2 shows the variation with x of the total electric potential V due to the two spheres.
+
+
+
+
+               V
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                   0
+                       0                       0.2         0.4             0.6                0.8               1.0                1.2
+                                                                                                                        x/m
+
+
+
+
+                                                                     Fig. 5.2
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                  ĬÑĊ¾Ġ³íÅ÷éñµĢËġÇĀ×
+© UCLES 2024                      ĬĕėìÃģÚÖÒĂćēýĨĖāìĂ               9702/42/M/J/24
+                                  ĥµµÕõõÅĕåĥąĕĕÕĥĕµÕ
+
+
+=== MERGED PAGE 439 ===
+                                     * 0019655342313 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                        13
+                              ,           ,
+
+                                       State three conclusions that may be drawn about the spheres from Fig. 5.2. The conclusions
+                                       may be qualitative or quantitative.
+
+                                       1 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                       2 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                       3 ................................................................................................................................................
+
+                                        ...................................................................................................................................................
+                                                                                                                                                                                       [3]
+
+                                  (c) A proton is held at rest on the line joining the centres of the spheres in (b) at the position
+                                      where x = 0.60 m.
+
+                                       The proton is released.
+
+                                       Describe and explain, without calculation, the subsequent motion of the proton.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ............................................................................................................................................. [2]
+
+                                                                                                                                                                             [Total: 7]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                ĬÓĉ¿Ġ³íÅ÷éñµĢÌġÇĀ×
+                              © UCLES 2024                      ĬĕėêÀĠé´áăûè¶èĖ±ÔĂ
+                                                                ĥąĕĕõÕĥõÅĥåĕÕĕĥÕąÕ
+                                                                                                 9702/42/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 440 ===
+       * 0019655342314 *
+
+
+
+
+                                                                                                      DO NOT WRITE IN THIS MARGIN
+                                                         14
+,            ,
+
+6   (a) Two capacitors X and Y are connected in series to a power supply of voltage V, as shown in
+        Fig. 6.1.
+
+                                                          V
+
+
+
+
+                                                X                    Y
+
+
+
+
+                                                                                                      DO NOT WRITE IN THIS MARGIN
+                                                      Fig. 6.1
+
+         The capacitance of X is CX and the capacitance of Y is CY.
+
+         Derive an expression, in terms of CX and CY, for the combined capacitance CT of the
+         capacitors in this circuit.
+         Explain your reasoning.
+
+
+
+
+                                                                                                      DO NOT WRITE IN THIS MARGIN
+
+
+
+                                                                                                [3]
+
+    (b) Two capacitors P and Q are connected in parallel to a power supply of voltage V.
+        The capacitance of P is 200 μF. The capacitance CQ of Q can be varied between 0 and 400 μF.
+
+
+
+
+                                                                                                      DO NOT WRITE IN THIS MARGIN
+        When CQ = 0, the total energy stored in the capacitors is 2.5 mJ.
+
+          (i)   Show that the supply voltage V is 5.0 V.
+
+
+
+
+                                                                                                [2]
+
+
+
+
+                                                                                                      DO NOT WRITE IN THIS MARGIN
+                           ĬÍĉ¿Ġ³íÅ÷éñµĢËĢÆĂ×
+© UCLES 2024               ĬĕĘì½ĢÖÌÓąðċĚíĒāÜĂ       9702/42/M/J/24
+                           ĥåĕÕµµåÕåõåÕĕÕÅĕÕÕ
+
+
+=== MERGED PAGE 441 ===
+                                     * 0019655342315 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                  15
+                              ,            ,
+
+                                       (ii)   Calculate the total energy, in mJ, stored in the capacitors when CQ has its maximum
+                                              value.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               total energy = ................................................... mJ [3]
+
+                                      (iii)   On Fig. 6.2, sketch the variation of the total energy E stored in the capacitors with CQ, as
+                                              CQ varies from 0 to 400 μF.
+
+                                                                     10.0
+
+                                                         E / mJ
+
+                                                                            7.5
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                            5.0
+
+
+
+
+                                                                            2.5
+
+
+
+
+                                                                                 0
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                     0   100           200            300             400
+                                                                                                                    CQ / μF
+
+
+                                                                                               Fig. 6.2
+                                                                                                                                                                    [2]
+
+                                                                                                                                                          [Total: 10]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                            ĬÏĉ¿Ġ³íÅ÷éñµĢËĤÆĂ×
+                              © UCLES 2024                  ĬĕėëÅĨÚ¼æóā¾¾ąÆāìĂ
+                                                            ĥåĥĕõÕÅµµąõÕĕµåÕÅÕ
+                                                                                           9702/42/M/J/24                                                [Turn over
+
+
+=== MERGED PAGE 442 ===
+       * 0019655342316 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                              16
+,            ,
+
+7   (a) State Faraday’s law of electromagnetic induction.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Fig. 7.1 shows a coil at rest in a uniform magnetic field that is parallel to the axis of the coil.
+
+                                                                                                                       coil
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                            magnetic field
+
+
+
+
+                                                                                      V
+
+                                                                           Fig. 7.1
+
+         The coil is connected to a centre-zero voltmeter.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         The flux density B of the uniform magnetic field varies with time t as shown in Fig. 7.2.
+
+                        8
+
+           B / mT
+
+                        4
+
+
+
+
+                        0
+                            0                          1             2                3              4                   5                6
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                                                     t / ms
+
+                                                                           Fig. 7.2
+
+         The coil consists of 340 turns, each of cross-sectional area 3.2 × 10–4 m2.
+
+          (i)    Calculate the maximum magnetic flux through one turn of the coil.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                           maximum magnetic flux = ................................................... Wb [2]
+
+
+                                  ĬÍĉ¿Ġ³íÅ÷éñµĢÉĢÆĄ×
+© UCLES 2024                      ĬĕėêÅĞì­ÑíĊÅĠéĨđÔĂ                     9702/42/M/J/24
+                                  ĥĕµĕµÕÅĕÕåąÕÕµąÕÕÕ
+
+
+=== MERGED PAGE 443 ===
+                                     * 0019655342317 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                  17
+                              ,            ,
+
+                                       (ii)   Determine the maximum rate of change of magnetic flux linkage in the coil.
+
+
+
+
+                                                           maximum rate of change of flux linkage = ............................................. Wb s–1 [3]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                      (iii)   State the maximum electromotive force (e.m.f.) V0 induced across the coil.
+
+
+                                                                                                              V0 = ...................................................... V [1]
+
+                                      (iv)    On Fig. 7.3, sketch the variation of the e.m.f. V induced across the coil with t from t = 0 to
+                                              t = 6.0 ms.
+
+                                                  V0
+
+                                              V
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                  0
+                                                       0                             1   2             3                 4                5                6
+                                                                                                                                                 t / ms
+
+
+                                              –V0
+
+
+                                                                                               Fig. 7.3
+                                                                                                                                                                            [3]
+
+                                       (v)    The variation of V with t can be described by
+
+                                                                                             V = A sin Bt
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              where A and B are constants.
+
+                                              Determine the values of A and B. Give units with your answers.
+
+
+
+
+                                                                                                               A = ....................................... unit ................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                               B = ....................................... unit ................
+                                                                                                                                                                            [3]
+
+                                                                                                                                                                 [Total: 14]
+
+
+
+
+                                                                ĬÏĉ¿Ġ³íÅ÷éñµĢÉĤÆĄ×
+                              © UCLES 2024                      ĬĕĘé½Ĭè½èċ÷Ą¼Ñ´đäĂ
+                                                                ĥĕÅÕõµåõÅÕÕÕÕÕĥĕÅÕ
+                                                                                             9702/42/M/J/24                                                     [Turn over
+
+
+=== MERGED PAGE 444 ===
+       * 0019655342318 *
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                        18
+,                                         ,
+
+8   Fig. 8.1 shows part of the emission spectrum of visible radiation emitted by hydrogen gas in a star
+    in a distant galaxy.
+
+                                                                                                 increasing frequency
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                   Fig. 8.1
+
+    The galaxy is moving away from the Earth at a speed of 6.2 × 106 m s–1.
+
+    (a) (i)     Explain how the positions of the lines in the emission spectrum seen by an observer on
+                the Earth differ from the positions shown in Fig. 8.1.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+         (ii)   On Fig. 8.1, draw the three lines in possible positions in the spectrum seen by the
+                observer.                                                                        [2]
+
+    (b) The lines in Fig. 8.1 correspond to electron transitions down to the energy level –3.40 eV.
+        One of the lines represents emitted radiation of wavelength 488 nm.
+
+          (i)   Calculate the energy of a photon of this radiation.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                photon energy = ...................................................... J [2]
+
+         (ii)   Determine the energy, in eV, of the energy level from which the electron transition
+                originates to cause the emission of this radiation.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                   energy level = .................................................... eV [2]
+
+
+
+
+                                ĬÍĉ¿Ġ³íÅ÷éñµĢÌĢÈĂ×
+© UCLES 2024                    ĬĕĖêÀĠäëÏöāğĄëĄéìĂ               9702/42/M/J/24
+                                ĥÅÕÕµÕĥĕõĕąĕÕĕąÕĥÕ
+
+
+=== MERGED PAGE 445 ===
+                                     * 0019655342319 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                       19
+                              ,                                    ,
+
+                                      (iii)   Determine the wavelength, in nm, of this radiation as detected by the observer on the
+                                              Earth.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                     wavelength = ................................................... nm [2]
+
+                                  (c) A value for the Hubble constant is 2.3 × 10–18 s–1.
+
+                                       Determine the distance of the galaxy from the Earth.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                        distance = ..................................................... m [2]
+
+                                                                                                                                                [Total: 12]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏĉ¿Ġ³íÅ÷éñµĢÌĤÈĂ×
+                              © UCLES 2024               ĬĕĕéÈĪàÛêĄðêØÓØéÜĂ
+                                                         ĥÅåĕõµąõĥĥÕĕÕõĥĕõÕ
+                                                                                  9702/42/M/J/24                                              [Turn over
+
+
+=== MERGED PAGE 446 ===
+       * 0019655342320 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                             20
+,            ,
+
+9   (a) State what is meant by the binding energy of a nucleus.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Table 9.1 shows the masses of two sub-atomic particles and a polonium-212 ( 212
+                                                                                     84Po) nucleus.
+
+                                                                         Table 9.1
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                                             mass / u
+                                                           proton                           1.007 276
+
+                                                           neutron                          1.008 665
+
+                                                   polonium-212 nucleus                 211.942 749
+
+         For the polonium-212 nucleus, determine:
+
+          (i)    the mass defect Δm, in kg
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+                                                                                     Δm = .................................................... kg [3]
+
+         (ii)    the binding energy
+
+
+
+
+                                                                      binding energy = ...................................................... J [2]             DO NOT WRITE IN THIS MARGIN
+
+
+        (iii)    the binding energy per nucleon.
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                       binding energy per nucleon = ...................................................... J [1]
+
+
+                                  ĬÍĉ¿Ġ³íÅ÷éñµĢÊĢÈĄ×
+© UCLES 2024                      ĬĕĕìÈĤÎÎÍþ÷áöïö¹äĂ                   9702/42/M/J/24
+                                  ĥõõĕµµąÕąÅåĕĕõÅĕĥÕ
+
+
+=== MERGED PAGE 447 ===
+                                     * 0019655342321 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                      21
+                              ,            ,
+
+                                  (c) (i)     On Fig. 9.1, sketch the variation with nucleon number A of binding energy per nucleon
+                                              for values of A from 1 to 250.
+
+
+
+                                                          binding energy
+                                                          per nucleon
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                   0
+                                                                                       1                                                   250
+                                                                                                                                A
+
+                                                                                                 Fig. 9.1
+                                                                                                                                                                                     [2]
+
+                                       (ii)   On your line in Fig. 9.1, draw an X to show the approximate position of polonium-212.
+                                                                                                                                                                                     [1]
+
+                                      (iii)   Polonium-212 is radioactive and undergoes alpha-decay.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                              Suggest and explain, with reference to Fig. 9.1, why the alpha-decay of polonium-212
+                                              results in a release of energy.
+
+                                              ...........................................................................................................................................
+
+                                              ...........................................................................................................................................
+
+                                              ..................................................................................................................................... [2]
+
+                                                                                                                                                                         [Total: 13]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                              ĬÏĉ¿Ġ³íÅ÷éñµĢÊĤÈĄ×
+                              © UCLES 2024                    ĬĕĖëÀĦÒÞìüĊĨâćâ¹ÔĂ
+                                                              ĥõąÕõÕĥµĕµõĕĕĕåÕõÕ
+                                                                                               9702/42/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 448 ===
+                                                                                                                                                    ,
+
+
+
+
+       © UCLES 2024
+
+
+
+
+                                                                                                                                                                      * 0019655342322 *
+
+
+
+ĬÑĉ¿Ġ³íÅ÷éñµĢËĤÅĂ×
+ĬĕĕëÃĠºèäïûčÂïÃđäĂ
+ĥååÕõõĥĕÕÕÕĕÕĕąĕåÕ
+                                                                                                                                                    ,
+
+
+
+
+                                                                                                                                                                 22
+       9702/42/M/J/24
+                                                                                                                                            BLANK PAGE
+
+
+
+
+   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN   DO NOT WRITE IN THIS MARGIN
+
+
+=== MERGED PAGE 449 ===
+                                     * 0019655342323 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                              23
+                              ,            ,
+
+                              10 (a) Describe how reflected ultrasound pulses may be used to obtain diagnostic information about
+                                     internal structures.
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ...................................................................................................................................................
+
+                                        ............................................................................................................................................. [2]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  (b) (i)      Define specific acoustic impedance of a medium.
+
+                                                ...........................................................................................................................................
+
+                                                ...........................................................................................................................................
+
+                                                ..................................................................................................................................... [2]
+
+                                       (ii)    Table 10.1 shows some data for water and for glass.
+
+                                                                                                         Table 10.1
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               density / kg m–3                  speed of sound / m s–1
+
+                                                       water                                         1000                                    1420
+
+                                                       glass                                         2500                                    4560
+
+
+                                               Determine the intensity reflection coefficient for ultrasound that is incident on a
+                                               water–glass boundary.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                     intensity reflection coefficient = ......................................................... [3]
+
+                                                                                                                                                                             [Total: 7]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                ĬÓĉ¿Ġ³íÅ÷éñµĢËĢÅĂ×
+                              © UCLES 2024                      ĬĕĖìËĪ¶ØÕĉĆÜĖćėđÔĂ                       9702/42/M/J/24
+                                                                ĥåÕĕµĕąõÅåąĕÕõĥÕµÕ
+
+
+=== MERGED PAGE 450 ===
+          * 0019655342324 *
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                            24
+,              ,
+
+                                                                   BLANK PAGE
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+                                      ĬÑĉ¿Ġ³íÅ÷éñµĢÉĤÅĄ×
+© UCLES 2024                          ĬĕĖéËĤÈÑâćýÓ¸ëµāìĂ             9702/42/M/J/24
+                                      ĥĕąĕõĕąÕåąõĕĕõÅÕåÕ

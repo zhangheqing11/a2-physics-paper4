@@ -1,0 +1,855 @@
+
+===== 9702/41_Summer_2017_Q5 | PDF 569-569 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+1 - (9702/41_Summer_2017_Q5) - Quantum Physics
+An a-particle is travelling in a vacuum towards the centre of a gold nucleus, as illustrated in
+Fig. 5.1.
+gold nucleus
+a-particle
+charge 79e
+energy 7.7 × 10-13J
+Fig. 5.1
+The gold nucleus has charge 79e.
+The gold nucleus and the a-particle may be assumed to behave as point charges.
+At a large distance from the gold nucleus, the a-particle has energy 7.7 × 10-13 J.
+(a) The a-particle does not collide with the gold nucleus. Show that the radius of the gold nucleus
+must be less than 4.7 × 10-14 m.
+13]
+(b) Determine the acceleration of the x-particle for a separation of 4.7x10-14m between the
+centres of the gold nucleus and of the a-particle.
+acceleration =
+ms2[3]
+(c) In an a-particle scattering experiment, the beam of a-particles is incident on a very thin gold
+Suggest why the gold foil must be very thin.
+.. (1]
+2017 - 2023
+568
+P4 Topical
+
+===== 9702/41_Summer_2017_Q10 | PDF 570-570 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+2 - (9702/41_Summer_2017_Q10) - Quantum Physics
+(a)
+State
+i) what is meant by the hardness of an X-ray beam,
+• [2]
+(ii) how the hardness of an X-ray beam from an X-ray tube is increased
+-[1]
+(b) The same parallel beam of X-ray radiation is incident, separately, on samples of bone and of
+muscle.
+Data for the thickness x of the samples of bone and of muscle, together with the linear
+attenuation (absorption) coefficients u of the radiation in bone and in muscle, are given in Fig.
+10.1.
+bone
+muscle
+x/cm
+1.5
+4.0
+u/cm-1
+2.9
+0.95
+Fig. 10.1
+Determine the ratio
+intensity transmitted through bone
+intensity transmitted through muscle
+ratio =
+..... 12]
+2017 - 2023
+569
+P4 Topical
+
+===== 9702/41_Summer_2017_Q11 | PDF 573-574 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+4 - (9702/41_Summer_2017_Q11) - Quantum Physics
+A beam of light consists of a continuous range of wavelengths from 420nm to 740nm.
+The light passes through a cloud of cool gas, as shown in Fig. 11.1.
+incident light
+wavelengths 420 nm - 740 nm
+emergent light
+cool gas
+Fig. 11.1
+(a) The spectrum of the light emerging from the cloud of cool gas is viewed using a diffraction
+grating.
+Explain why this spectrum contains a number of dark lines.
+... 4]
+(b) Some of the electron energy levels of the atoms in the cloud of gas
+are represented in
+Fig. 11.2.
+- 0.38 eV
+- 0.54 eV
+- 0.85eV
+• - 1.5eV
+energy
+- 3.4 eV
+- 13.6eV
+Fig. 11.2 (not to scale)
+2017 - 2023
+572
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(1) Light of wavelength 420 nm has a photon energy of 2.96eV.
+Calculate the photon energy, in eV, of light of wavelength 740nm.
+CH25 - QUANTUM PHYSICS
+photon energy =
+... eV [2]
+(il) Use data from (i) and your answer in (i) to show, on Fig. 11.2, the changes in energy
+levels giving rise to the dark lines in (a).
+2017 - 2023
+573
+P4 Topical
+
+===== 9702/42_Summer_2017_Q10 | PDF 571-572 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+3 - (9702/42_Summer_2017_Q10) - Quantum Physics
+(a) Briefly describe two phenomena associated with the photoelectric effect that cannot be
+explained using a wave theory of light.
+1..
+2.
+[2]
+(b) The maximum energy Emax of electrons emitted from a metal surface when illuminated by
+light of wavelength 2 is given by the expression
+where his the Planck constant and c is the speed of light.
+(i) Identify the symbol 2g.
+. . .
+2017 - 2023
+570
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(1) The variation with - of Emax for the metal surface is shown in Fig. 10.1.
+4
+EMAx/10-19 J
+3
+2
+1
+0+
+1.5
+25
+3.0
+$1105m-1
+3.5
+4.0
+Fig. 10.1
+1. Use Fig. 10.1 to determine the magnitude of 1o.
+10=
+... m [1]
+2.
+Use the gradient of Fig. 10.1 to determine a value for the Planck constant h.
+h=.......
+... Js [3]
+(c) The metal surface in (b) becomes oxidised.
+Photoelectric emission is still observed but the work function energy is increased.
+On Fig. 10.1, draw a line to show the variation with of Emax for the oxidised surface.
+12]
+2017 - 2023
+571
+P4 Topical
+
+===== 9702/42_Summer_2017_Q11 | PDF 575-575 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+5 - (9702/42_Summer_2017_Q11) - Quantum Physics
+An electron has charge -q and mass m. It is accelerated from rest in a vacuum through a potential
+difference V.
+(a)
+Show that the momentum p of the accelerated electron is given by
+p = V(2mqV).
+12]
+(b) The potential difference V through which the electron is accelerated is 120 V.
+(i) State what is meant by the de Broglie wavelength.
+.....[2]
+(ii) Calculate the de Broglie wavelength of the electron.
+wavelength =
+m [3]
+(c) The separation of copper atoms in a copper crystal is approximately 2x10-10m.
+By reference to your answer in (b)(ii), suggest whether electron diffraction could be observed
+using a beam of electrons that have been accelerated through a potential difference of 120 V
+and are then incident on a thin copper crystal.
+• [2]
+2017 - 2023
+574
+P4 Topical
+
+===== 9702/41_Winter_2017_Q11 | PDF 577-577 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+7 - (9702/41_Winter_2017_Q11) - Quantum Physics
+(a) State what is meant by a photon.
+........ [1]
+(b) Indium-123 ( 29In) is radioactive.
+A nucleus of indium-123 emits a y-ray photon of energy 1.1 MeV.
+Determine, for this y-radiation,
+(i) the frequency,
+frequency =
+Hz [2]
+(II) the momentum of a photon.
+momentum =
+Ns [2]
+(c) The indium-123 nucleus is stationary before emission of they-ray photon.
+Use your answer in (b)) to estimate the recoil speed of the nucleus after emission of the
+speed =.....
+.....ms-1 [2]
+2017 - 2023
+576
+P4 Topical
+
+===== 9702/42_Winter_2017_Q10 | PDF 576-576 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+6 - (9702/42_Winter_2017_Q10) - Quantum Physics
+(a) A metal surface is illuminated with light of a single wavelength i
+On Fig. 10.1, sketch the variation with à of the maximum kinetic energy Emax of the electrons
+emitted from the surface.
+On your graph mark, with the symbol 4p, the threshold wavelength.
+EMAX
+Fig. 10.1
+(b) A neutron is moving in a straight line with momentum p.
+The de Broglie wavelength associated with this neutron is 1.
+On Fig. 10.2, sketch the variation with momentump of the de Broglie wavelength 1.
+[3]
+Fig. 10.2
+[2]
+2017 - 2023
+575
+P4 Topical
+
+===== 9702/41_Summer_2018_Q11 | PDF 579-579 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+9 - (9702/41_Summer_2018_Q11) - Quantum Physics
+(a)
+(i) Explain what is meant by a photon.
+- 2]
+(il) By reference to intensity of light, state one piece of evidence provided by the photoelectric
+effect for a particulate nature of light.
+• [1]
+(b) Some electron energy levels in a solid are illustrated in Fig. 11.1.
+› conduction band
+• forbidden band
+› valence band
+Fig. 11.1
+A semiconductor material has a very high resistance in darkness.
+Light incident on the semiconductor material causes its resistance to decrease.
+Explain the resistance of the semiconductor material in different light conditions.
+2017 - 2023
+578
+P4 Topical
+
+===== 9702/42_Summer_2018_Q10 | PDF 578-578 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+8 - (9702/42_Summer_2018_Q10) - Quantum Physics
+(a) Describe the photoelectric effect.
+(b) Data for the work function energy of two metals are shown in Fig. 10.1.
+sodium
+zinc
+Ф/J
+3.8 × 10-19
+5.8 × 10-19
+Fig. 10.1
+Light of wavelength 420m is incident on the surface of each of the metals.
+(1)
+State what is meant by a photon.
+(il) Calculate the energy of a photon of the incident light.
+energy = ...
+(ill) State whether photoelectric emission will occur from each of the metals.
+sodium:
+zinc:
+2017 - 2023
+577
+CH25 - QUANTUM PHYSICS
+....[2]
+[2]
+.. J [2]
+[1]
+P4 Topical
+
+===== 9702/41_Winter_2018_Q10 | PDF 580-580 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+10 - (9702/41_Winter_2018_Q10) - Quantum Physics
+Some of the electron energy bands in a semiconductor material at the absolute zero of temperature
+are shown in Fig. 10.1.
+conduction band (empty)
+• forbidden band
+valence band (filled)
+Fig. 10.1
+Use band theory to explain why, as the temperature of the semiconductor material rises, the
+electrical resistance of the sample of material decreases.
+... 5]
+2017 - 2023
+579
+P4 Topical
+
+===== 9702/41_Winter_2018_Q11 | PDF 581-582 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+11 - (9702/41_Winter_2018_Q11) - Quantum Physics
+A stationary isolated nucleus emits a y-ray photon of energy 0.51 MeV.
+(a) State what is meant by a photon.
+•[2]
+(b) For the y-ray photon, calculate
+(i) its wavelength,
+wavelength =
+... m [2]
+(.)
+its momentum.
+momentum =
+Ns [2]
+2017 - 2023
+580
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) (I) For this nucleus, determine the change in mass Am during the decay that gives rise to
+the energy of they-ray photon.
+CH25 - QUANTUM PHYSICS
+Am =
+(i) Explain why, after the decay, the nucleus is no longer stationary.
+kg [2)
+...[1]
+2017 - 2023
+581
+P4 Topical
+
+===== 9702/42_Winter_2018_Q11 | PDF 583-584 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+12 - (9702/42_Winter_2018_Q11) - Quantum Physics
+(a) State what is meant by a photon.
+...[2]
+b) Describe the appearance of a visible line emission spectrum, as seen using a diffraction
+grating.
+(c) The lowest electron energy levels in an isolated hydrogen atom are shown in Fig. 11.1.
+-0.54.
+-1.50
+• -0.38
+1-0.85
+- -3.40
+energy /eV
+-13.6 -
+Fig. 11.1 (not to scale)
+(1) An electron is initially at the energy level -0.85eV. State the total number of different
+wavelengths that may be emitted as the electron de-excites (loses energy).
+number =
+...
+..... [1]
+2017 - 2023
+582
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(Il) Photons resulting from electron de-excitation from the -0.85eV energy level are incident
+on the surface of a sample of platinum.
+Platinum has a work function energy of 5.6 eV.
+Determine
+1. the maximum kinetic energy, in eV, of a photoelectron emitted from the surface of
+the platinum,
+maximum energy =
+2. the wavelength of the photon producing the photoelectron in (i) part 1.
+eV [2]
+wavelength =
+• m (3)
+2017 - 2023
+583
+P4 Topical
+
+===== 9702/41_Summer_2019_Q11 | PDF 587-588 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+14 - (9702/41_Summer_2019_Q11) - Quantum Physics
+(a)
+State three pieces of evidence provided by the photoelectric effect for a particulate nature of
+electromagnetic radiation.
+1.
+2
+3
+[3]
+(b) The work function energies of some metals are shown in Fig. 11.1.
+sodium
+calcium
+zinc
+silver
+work function
+energy /eV
+2.4
+2.9
+3.6
+4.3
+Fig. 11.1
+Each metal is irradiated with electromagnetic radiation of wavelength 380nm.
+(i) Calculate the energy, in eV, of a photon of electromagnetic radiation of wavelength 380m.
+energy =...
+eV [3]
+(ii) Determine which metals will give rise to the emission of photoelectrons. Explain your
+answer.
+[2]
+2017 - 2023
+586
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(c) Photons of wavelength 380nm are incident normally on a metal surface at a rate of
+7.6 × 1014g-1
+All the photons are absorbed in the surface and no photoelectrons are emitted
+Calculate the force exerted on the metal surface by the incident photons.
+force = ..
+1[3]
+2017 - 2023
+587
+P4 Topical
+
+===== 9702/42_Summer_2019_Q7 | PDF 585-586 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+13 - (9702/42_Summer_2019_Q7) - Quantum Physics
+(a) Use band theory to explain why the resistance of an intrinsic semiconductor decreases as its
+temperature rises.
+• [5]
+(b) The variation with temperature t of the resistance R of a thermistor is shown in Fig. 7.1.
+3.5
+3.0
+R/k2
+2.5-
+2.0
+1.5
+1.0+
+0
+5
+10
+15
+20
+25
+30
+t/°C
+Fig. 7.1
+2017 - 2023
+584
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+The thermistor is connected into the circuit shown in Fig. 7.2.
+12.0k2
+9.00 v T
+→ A
+R
+Fig. 7.2
+The battery has electromotive force (e.m.f.) 9.00 V and negligible internal resistance.
+When the temperature of the thermistor is 25°C, the potential difference between the
+terminals A and B is 1.00 V.
+The temperature of the thermistor changes from 25°C to 10°C.
+Determine, to two significant figures, the change in potential difference between A and B
+change = ...
+V [3]
+(c) The temperature of the thermistor in (b) changes from 25°C to 10°C at a constant rate.
+State two reasons why the potential difference between A and B does not change at a
+constant rate.
+1.
+2..
+12]
+2017 - 2023
+585
+P4 Topical
+
+===== 9702/42_Summer_2019_Q11 | PDF 589-589 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+15 - (9702/42_Summer_2019_Q11) - Quantum Physics
+(a)
+State what is meant by a photon.
+[2]
+(b) A stationary cobalt-60 (29Co) nucleus emits a y-ray photon of energy 1.18 MeV.
+(i) Calculate the wavelength of the photon.
+wavelength = .....
+(il)
+Show that the momentum of the photon is 6.3 × 10-22Ns.
+.... m [2]
+[2]
+(c) Use information in (b)(ii) to determine the recoil speed of the cobalt-60 nucleus when the
+y-ray photon is emitted.
+speed = ....
+ms " [2]
+2017 - 2023
+588
+P4 Topical
+
+===== 9702/41_Winter_2019_Q11 | PDF 593-594 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+17 - (9702/41_Winter_2019_Q11) - Quantum Physics
+(a) With reference to the photoelectric effect, state what is meant by work function energy.
+(2]
+(b) The work function energy of a clean metal surface is 5.5 × 10-19 J.
+Electromagnetic radiation of wavelength 280 nm is incident on the metal surface. The metal is
+in a vacuum.
+(i) Calculate:
+1. the photon energy
+photon energy =
+2. the maximum speed Ax of the electrons emitted from the surface.
+J [2]
+YMAX =
+(ii) Explain why most of the emitted electrons will have a speed lower than VMAX•
+ms- [3]
+[1]
+2017 - 2023
+592
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(c) The electromagnetic radiation incident on the metal surface may change in intensity or in
+frequency.
+Complete Fig. 11.1 by inserting either 'increases' or 'decreases' or 'no change to describe
+the effects of the changes shown on the maximum speed and on the rate of emission of
+electrons.
+change
+reduced intensity at constant
+frequency
+increased frequency at constant
+intensity
+maximum speed of
+electrons
+rate of emission
+of electrons
+Fig. 11.1
+[4]
+2017 - 2023
+593
+P4 Topical
+
+===== 9702/41_Summer_2020_Q10 | PDF 595-596 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+18 - (9702/41_Summer_2020_Q10) - Quantum Physics
+(a) White light passes through a cloud of cool low-pressure gas, as illustrated in Fig. 10.1.
+cool gas
+/
+white
+light
+emergent
+light
+Fig. 10.1
+For light that has passed through the gas, its continuous spectrum is seen to contain a
+number of darker lines.
+Use the concept of discrete electron energy levels to explain the existence of these darker
+[4]
+2017 - 2023
+594
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(b) The uppermost electron energy bands in a solid are illustrated in Fig. 10.2.
+conduction band (CB)
+forbidden band (FB)
+valence band (VB)
+Fig. 10.2
+Use band theory to explain the dependence on light intensity of the resistance of a
+light-dependent resistor (LDR).
+[5]
+2017 - 2023
+595
+P4 Topical
+
+===== 9702/41_Summer_2020_Q11 | PDF 597-597 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+19 - (9702/41_Summer_2020_Q11) - Quantum Physics
+An electron, at rest, has mass me and charge -q.
+A positron is a particle that, at rest, has mass me and charge +q.
+A positron interacts with an electron. The electron and the positron may be considered to be at
+The outcome of this interaction is that the electron and the positron become two gamma-ray (y-ray)
+photons, each having the same energy.
+(a) Calculate, for one of they-ray photons:
+(i) the photon energy, in J
+energy =
+J 12]
+(il) its momentum.
+momentum =
+Ns (2)
+(b) State and explain the direction, relative to each other, in which they-ray photons are emitted.
+[2]
+2017 - 2023
+596
+P4 Topical
+
+===== 9702/42_Summer_2020_Q11 | PDF 598-598 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+20 - (9702/42_Summer_2020_Q11) - Quantum Physics
+The uppermost energy bands in a solid are known as the valence band (VB), the forbidden
+band (FB) and the conduction band (CB).
+A copper wire is at room temperature.
+Use band theory to explain why the resistance of the copper wire increases as its temperature
+[4]
+(b) The structure of a copper crystal is to be examined using electron diffraction.
+Electrons, having been accelerated from rest through a potential difference V, are incident on
+the crystal.
+The de Broglie wavelength 2 of the electrons is 2.6 x 10-11 m.
+Calculate the accelerating potential difference V.
+V =
+... V [4]
+2017 - 2023
+597
+P4 Topical
+
+===== 9702/41_Winter_2020_Q11 | PDF 599-600 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+21 - (9702/41_Winter_2020_Q11) - Quantum Physics
+A photon of wavelength 540nm collides with an isolated stationary electron, as illustrated in
+Fig. 11.1.
+electron
+incident photon
+->--...
+wavelength 540 nm
+deflected photon
+wavelength 544 nm
+Fig. 11.1
+The photon is deflected elastically by the electron.
+The wavelength of the deflected photon is 544 nm.
+(a)
+(i) State what is meant by a photon.
+12]
+(ii) On Fig. 11.1, draw an arrow to indicate the approximate direction of motion of the
+deflected electron.
+11]
+2017 - 2023
+598
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(b) Calculate:
+(i) the momentum of the deflected photon
+momentum =
+(ii)
+the energy transferred to the deflected electron
+Ns [2]
+energy =
+J [2]
+(c) Another photon of wavelength 540nm collides with an isolated stationary electron.
+Explain why it is not possible for the deflected photon to have a wavelength less than 540m.
+[2]
+[Total: 9]
+2017 - 2023
+599
+P4 Topical
+
+===== 9702/42_Winter_2020_Q11 | PDF 601-602 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+22 - (9702/42_Winter_2020_Q11) - Quantum Physics
+(a) Electromagnetic radiation is incident on a metal surface.
+It is observed that there is a minimum frequency of electromagnetic radiation below which
+emission of electrons does not occur.
+This observation provides evidence for a particulate nature of electromagnetic radiation.
+State two other observations associated with photoelectric emission that provide evidence
+for a particulate nature of electromagnetic radiation.
+1...
+2.
+[2]
+(b) The maximum kinetic energy Emax of electrons emitted from a metal surface is determined
+for different wavelengths i of the electromagnetic radiation incident on the surface.
+The variation with of Emax is shown in Fig. 11.1.
+0.6
+EMAx/eV
+0.4-
+0.2-
+19
+2.0
+2.1
+2.2
+2.3
+1/105m-1
+2.4
+Fig. 11.1
+2017 - 2023
+600
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+(i) Use Fig. 11.1 to determine the threshold frequency fo-
+fo=
+.. Hz [2]
+(ii) Use the gradient of the line on Fig. 11.1 to determine a value for the Planck constant h.
+Explain your working.
+h=
+-Js [4]
+(c) The electromagnetic radiation is now incident on a metal with a larger work function energy
+than the metal in (b).
+On Fig. 11.1, sketch the variation with of EmAx-
+12]
+[Total: 10]
+2017 - 2023
+601
+P4 Topical
+
+===== 9702/41_Summer_2021_Q11 | PDF 605-606 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+24 - (9702/41_Summer_2021_Q11) - Quantum Physics
+(a)
+State how, in a modern X-ray tube, the intensity of the X-ray beam and its hardness are
+controlled.
+intensity:
+hardness:
+12]
+(b) A model of a limb consists of soft tissue and bone, as illustrated in Fig. 11.1.
+3.0 cm
+--
+incident
+intensity
+transmitted
+intensity
+'s >
+bone
+• soft
+tissue
+9.0 cm
+Fig. 11.1
+The soft tissue has a thickness of 9.0 cm. The bone within the soft tissue has a thickness of
+3.0 cm.
+Data for the linear attenuation (absorption) coefficient u of X-rays in soft tissue and in bone
+are shown in Table 11.1.
+Table 11.1
+soft tissue
+bone
+м/ст -1
+0.92
+2.9
+2017 - 2023
+604
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+A parallel beam of X-rays of intensity I, is incident normally on the model.
+Calculate, in terms of lo:
+(i) the transmitted intensity Is through soft tissue alone
+Is =
+(ii) the transmitted intensity Ic through soft tissue and bone.
+- 1, 12)
+(c) By reference to your answers in (b), suggest, with a reason, whether good contrast on an
+X-ray image would be obtained.
+11]
+2017 - 2023
+605
+P4 Topical
+
+===== 9702/41_Summer_2021_Q12 | PDF 607-607 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+25 - (9702/41_Summer_2021_Q12) - Quantum Physics
+Electromagnetic radiation of a single constant frequency is incident on a metal surface. This
+causes an electron to be emitted.
+Explain why the maximum kinetic energy of the electron is independent of the intensity of the
+incident radiation.
+Thanket radiation or energy orth fit is incons is the surface of a sheet of zine.
+Determine, in eV:
+(i) the energy of a photon of the ultraviolet radiation
+energy = .....
+(ii) the work function energy of the surface of the zinc.
+.. eV [3]
+energy =
+eV [2]
+2017 - 2023
+606
+P4 Topical
+
+===== 9702/42_Summer_2021_Q12 | PDF 608-609 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+26 - (9702/42_Summer_2021_Q12) - Quantum Physics
+(a)
+State what is meant by a photon.
+[2]
+(b) A stationary nucleus of samarium-157 (162 Sm) emits a gamma-ray (v-ray) photon of energy
+0.57 MeV.
+Determine, for one y-ray photon:
+(i) its wavelength
+wavelength =
+... m [2]
+(Il)
+its momentum.
+momentum =
+Ns [2]
+2017 - 2023
+607
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) (i) Using your answer to (b)(ii, determine the speed of the samarium-157 nucleus after
+emission of the photon.
+CH25 - QUANTUM PHYSICS
+speed =
+…ms ' 12]
+(i) By reference to your answer in (c)i, explain quantitatively why the speed of the
+Santanium-157 nucleus may be assumed to be negligible compared with the speed of the
+... [1]
+2017 - 2023
+608
+P4 Topical
+
+===== 9702/41_Winter_2021_Q10 | PDF 610-610 | Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH25 - QUANTUM PHYSICS
+27 - (9702/41_Winter_2021_Q10) - Quantum Physics
+State an experimental phenomenon that provides evidence for:
+(i) the particulate nature of electromagnetic radiation
+[1]
+(ii)
+the wave nature of matter.
+[1]
+(b) A particle of matter moves with momentum p.
+(i) State the equation that gives the effective wavelength 2 of the particle. State the name of
+any other symbols used.
+121
+(ii)
+State the name given to the wavelength of the moving particle.
+11]
+(c)
+Electrons are accelerated from rest through a potential difference (p.d.) of 4.8kV.
+(i)
+Show that the final speed of the electrons is 4.1 x 10 ms-1.
+12)
+(ii) Calculate the effective wavelength of a beam of electrons moving at the speed in (c)(i).
+wavelength =
+.. m [2]
+2017 - 2023
+609
+P4 Topical

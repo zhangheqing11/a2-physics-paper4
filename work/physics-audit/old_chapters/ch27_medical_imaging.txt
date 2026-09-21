@@ -1,0 +1,111 @@
+
+===== 9702/41_Winter_2020_Q10 | PDF 672-673 | Medical Imaging =====
+A-Level Cambridge
+PHYSICS - P4
+CH27 - MEDICAL IMAGING
+1 - (9702/41_Winter_2020_Q10) - Medical Imaging
+(a) Outline briefly the principles of computed tomography (CT scanning).
+[5]
+2017 - 2023
+671
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH27 - MEDICAL IMAGING
+(b) One section of a model designed to illustrate CT scanning is divided into four voxels.
+The pixel numbers K, L, M and N of the voxels are shown in Fig. 10.1.
+D3
+po.
+D,
+K
+N
+L
+M
+Fig. 10.1
+The section is viewed, in turn, from four different directions D,, Dz, Dz and D4, as shown in
+Fig. 10.1.
+The detector readings for each direction are noted and these are summed to give the value
+shown in Fig. 10.2
+42
+51
+45
+30
+Fig. 10.2
+The background reading is 24.
+Determine the pixel numbers K, L, M and N shown in Fig. 10.1.
+K= ..
+L=
+M =
+N=
+[3]
+[Total: 8]
+2017 - 2023
+672
+P4 Topical
+
+===== 9702/41_Summer_2021_Q4 | PDF 674-674 | Medical Imaging =====
+A-Level Cambridge
+PHYSICS - P4
+CH27 - MEDICAL IMAGING
+2 - (9702/41_Summer_2021_Q4) - Medical Imaging
+Outline the use of ultrasound to obtain diagnostic information about internal body structures.
+2017 - 2023
+673
+P4 Topical
+
+===== 9702/42_Summer_2021_Q11 | PDF 675-675 | Medical Imaging =====
+A-Level Cambridge
+PHYSICS - P4
+CH27 - MEDICAL IMAGING
+3 - (9702/42_Summer_2021_Q11) - Medical Imaging
+(a)
+State the purpose of computed tomography (CT scanning).
+(b) Outline the principles of CT scanning.
+15]
+2017 - 2023
+674
+P4 Topical
+
+===== 9702/41_Winter_2021_Q11 | PDF 676-676 | Medical Imaging =====
+A-Level Cambridge
+PHYSICS - P4
+CH27 - MEDICAL IMAGING
+4 - (9702/41_Winter_2021_Q11) - Medical Imaging
+(a) State, for an X-ray image, what is meant by:
+(i) sharpness
+11]
+(ii) contrast.
+(b) A parallel X-ray beam passes through a thickness of 2.3 cm of soft body tissue. The intensity
+of the emerging beam is 12% of the intensity of the incident beam.
+Calculate the linear attenuation (absorption) coefficient u of the soft body tissue. Give a unit
+with your answer.
+u=
+[3]
+(c) In medical diagnosis, X-rays may be used to produce a single X-ray image or may be used in
+computed tomography (CT scanning).
+Suggest an advantage and a disadvantage of CT scanning compared with single X-ray
+imaging for diagnosis.
+advantage:
+disadvantage: ....
+12]
+2017 - 2023
+675
+P4 Topical
+
+===== 9702/42_Winter_2021_Q11 | PDF 677-677 | Medical Imaging =====
+A-Level Cambridge
+PHYSICS - P4
+CH27 - MEDICAL IMAGING
+5 - (9702/42_Winter_2021_Q11) - Medical Imaging
+(a)
+A piezoelectric transducer containing a quartz crystal is used to obtain diagnostic information
+about internal structures.
+Describe the function of the quartz crystal.
+(b) (i) Define specific acoustic impedance.
+[2]
+Describe, qualitatively, how the specific acoustic impedances of two materials affect the
+intensity reflection coefficient at a boundary between the materials.
+(2)
+2017 - 2023
+676
+P4 Topical

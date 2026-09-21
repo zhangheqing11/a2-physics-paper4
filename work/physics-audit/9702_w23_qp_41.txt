@@ -1,0 +1,1060 @@
+
+=== MERGED PAGE 278 ===
+                          Cambridge International AS & A Level
+
+
+
+
+* 7 0 8 9 3 8 0 9 9 8 *
+                          PHYSICS                                                                                         9702/41
+                          Paper 4 A Level Structured Questions                                            October/November 2023
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●  The total mark for this paper is 100.
+                          ●  The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (SL) 333982
+                          © UCLES 2023                                                                                   [Turn over
+
+
+=== MERGED PAGE 279 ===
+                                               2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2023                             9702/41/O/N/23
+
+
+=== MERGED PAGE 280 ===
+                                            2
+                                            3
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3           〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω          (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                            Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                    t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                                2
+
+
+
+                                   IR  (Z - Z 2) 2
+intensity reflection coefficient      = 1
+                                   I0  (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2023                        9702/41/O/N/23                 [Turn over
+
+
+=== MERGED PAGE 281 ===
+                                                                         4
+
+1   (a) (i)     State what is indicated by the direction of the gravitational field line at a point in a
+                gravitational field.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain, with reference to gravitational field lines, why the gravitational field near the
+                surface of the Earth is approximately constant for small changes in height.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+    (b) A large isolated uniform sphere has mass M and radius R.
+
+         Point P lies on a straight line passing through the centre of the sphere, at a variable
+         displacement x from the centre, as shown in Fig. 1.1.
+
+
+
+
+                                                                                                 x
+
+
+                                                                                                                           P
+                                                                             R
+                                                                                                       uniform sphere,
+                                                                                                       mass M
+
+
+                                                                   Fig. 1.1
+
+
+
+
+© UCLES 2023                                                    9702/41/O/N/23
+
+
+=== MERGED PAGE 282 ===
+                                                                         5
+
+         Fig. 1.2 shows the variation with x of the gravitational field g at point P due to the sphere for
+         the values of x for which P is inside the sphere.
+
+                                                                  1.0Y
+
+                                                                    g
+
+                                                                  0.5Y
+
+
+
+
+                                                                        0
+                – 3R               – 2R               –R                    0               R             x 2R                  3R
+
+
+
+                                                                – 0.5Y
+
+
+
+
+                                                                – 1.0Y
+
+
+                                                                   Fig. 1.2
+
+         The magnitude of the gravitational field at the surface of the sphere is Y.
+
+          (i)   Determine an expression for Y in terms of M and R. Identify any other symbols that you
+                use.
+
+
+
+
+                                                                                                                                                       [2]
+
+         (ii)   Explain why, at the surface of the sphere, g always has the opposite sign to x.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+        (iii)   Complete Fig. 1.2 to show the variation of g with x for values of x, up to ±3R, for which
+                point P is outside the sphere.                                                         [3]
+
+                                                                                                                                           [Total: 10]
+
+
+
+
+© UCLES 2023                                                    9702/41/O/N/23                                                           [Turn over
+
+
+=== MERGED PAGE 283 ===
+                                                                           6
+
+2   (a) Define specific heat capacity.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) An ideal gas of mass 0.35 kg is heated at a constant pressure of 2.0 × 105 Pa so that its
+        internal energy increases by 7600 J. During this process, the volume of the gas increases
+        from 0.038 m3 to 0.063 m3 and the temperature increases by 56 °C.
+
+          (i)    Show that the magnitude of the work done on the gas is 5000 J.
+
+
+
+
+                                                                                                                                                         [1]
+
+         (ii)    Explain whether the work done on the gas is positive or negative.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+        (iii)    Determine the magnitude of the thermal energy q transferred to the gas.
+
+
+
+
+                                                                                       q = ...................................................... J [2]
+
+        (iv)     Calculate the specific heat capacity of the gas for this process. Give a unit with your
+                 answer.
+
+
+
+
+                                               specific heat capacity = ............................................ unit .............. [2]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23
+
+
+=== MERGED PAGE 284 ===
+                                                                           7
+
+    (c) The gas in (b) is now heated at constant volume rather than at constant pressure.
+        The increase in internal energy of the gas is the same as in (b).
+
+         Use the first law of thermodynamics to explain whether the specific heat capacity of the gas
+         for this process is less than, the same as, or greater than the answer in (b)(iv).
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                             [Total: 12]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23                                                           [Turn over
+
+
+=== MERGED PAGE 285 ===
+                                                                         8
+
+3   (a) The product pV for an ideal gas is given by
+                                                                       1
+                                                              pV =       Nm〈c2〉
+                                                                       3
+         where p is the pressure of the gas and V is the volume of the gas.
+
+          (i)   State the meaning of the symbols N, m and 〈c2〉 in this equation.
+
+                N: .......................................................................................................................................
+
+                m: ......................................................................................................................................
+
+                〈c2〉: ....................................................................................................................................
+                                                                                                                                                      [3]
+
+         (ii)   Use the equation of state for an ideal gas to show that the average translational kinetic
+                energy EK of a molecule of the gas at thermodynamic temperature T is given by
+                                                                          3
+                                                                  EK =      kT.
+                                                                          2
+
+
+
+
+                                                                                                                                                      [2]
+
+    (b) The surface of a star consists mainly of a gas that may be assumed to be ideal. The molecules
+        of the gas have a root-mean-square (r.m.s.) speed of 9300 m s–1.
+
+         The mass of a molecule of the gas is 3.34 × 10–27 kg.
+
+         Determine, to three significant figures, the temperature of the surface of the star.
+
+
+
+
+                                                                   temperature = ...................................................... K [2]
+
+
+
+
+© UCLES 2023                                                     9702/41/O/N/23
+
+
+=== MERGED PAGE 286 ===
+                                                                           9
+
+    (c) The radiant flux intensity of the radiation from the star in (b) is 2.52 × 10–8 W m–2 when
+        observed at a distance of 4.16 × 1016 m from the star.
+
+          (i)    Calculate the luminosity of the star. Give a unit with your answer.
+
+
+
+
+                                                                 luminosity = ............................................ unit .............. [2]
+
+         (ii)    Determine the radius of the star.
+
+
+
+
+                                                                               radius = ..................................................... m [2]
+
+    (d) The gas at the surface of a star has a very high pressure.
+
+         Use the basic assumptions of the kinetic theory to suggest why, in practice, a gas at the
+         surface of a star is unlikely to behave as an ideal gas.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                             [Total: 13]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23                                                           [Turn over
+
+
+=== MERGED PAGE 287 ===
+                                                                          10
+
+4   A heavy metal sphere of mass 0.81 kg is suspended from a string. The sphere is undergoing small
+    oscillations from side to side, as shown in Fig. 4.1.
+
+
+
+
+                                                           string
+
+
+
+
+                                         heavy sphere,
+                                         mass 0.81 kg
+
+
+
+
+                                                                                     oscillations
+
+
+
+                                                                     Fig. 4.1
+
+    The oscillations of the sphere may be considered to be simple harmonic with amplitude 0.036 m
+    and period 3.0 s.
+
+    (a) State what is meant by simple harmonic motion.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Calculate:
+
+          (i)    the angular frequency of the oscillations
+
+
+
+
+                                                            angular frequency = .............................................. rad s–1 [2]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23
+
+
+=== MERGED PAGE 288 ===
+                                                        11
+
+         (ii)   the total energy of the oscillations.
+
+
+
+
+                                                    total energy = ...................................................... J [2]
+
+    (c) The suspended sphere is now lowered into water. The sphere is given a sideways
+        displacement of +0.036 m from its equilibrium position and is then released at time t = 0.
+        The water causes the motion of the sphere to be critically damped.
+
+         On Fig. 4.2, sketch the variation of the displacement x of the sphere from its equilibrium
+         position with t from t = 0 to t = 6.0 s.
+
+
+                 0.04
+
+          x/m
+
+                 0.02
+
+
+
+
+                    0
+                         0        1           2              3               4               5               6
+                                                                                    t/s
+
+
+                – 0.02
+
+
+
+
+                – 0.04
+
+
+                                                    Fig. 4.2
+                                                                                                                           [3]
+
+                                                                                                                   [Total: 9]
+
+
+
+
+© UCLES 2023                                      9702/41/O/N/23                                                 [Turn over
+
+
+=== MERGED PAGE 289 ===
+                                                                          12
+
+5   (a) Define electric potential at a point.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Two isolated charged metal spheres X and Y are situated near to each other in a vacuum with
+        their centres a distance of 24 m apart. Point P is at a variable distance x from the centre of
+        sphere X on the line joining the centres of the spheres.
+
+         Fig. 5.1 shows the variation with x of the electric potential V due to the spheres at point P.
+
+
+
+
+                   V
+
+
+
+
+                       0
+                           0                4                 8                 12                16                 20                24
+                                                                                                                             x/m
+
+
+
+
+                                                                     Fig. 5.1
+
+         State three conclusions that can be drawn about the spheres from Fig. 5.1. The conclusions
+         may be qualitative or quantitative.
+
+         1 ................................................................................................................................................
+
+          ...................................................................................................................................................
+
+         2 ................................................................................................................................................
+
+          ...................................................................................................................................................
+
+         3 ................................................................................................................................................
+
+          ...................................................................................................................................................
+                                                                                                                                                         [3]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23
+
+
+=== MERGED PAGE 290 ===
+                                                                          13
+
+    (c) A positively charged particle is placed at point P in (b), such that x = 12 m.
+        The particle is released.
+
+         Describe and explain the subsequent motion of the particle.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                               [Total: 8]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23                                                           [Turn over
+
+
+=== MERGED PAGE 291 ===
+                                                                          14
+
+6   (a) Define magnetic flux density.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Electrons are moving in a vacuum with speed 1.7 × 107 m s–1. The electrons enter a uniform
+        magnetic field of flux density 4.8 mT. Fig. 6.1 shows the path of the electrons.
+
+
+
+
+                                                                                                                        magnetic field,
+                                                                                                                        flux density 4.8 mT
+
+
+
+
+       electrons,
+       speed 1.7 × 107 m s–1                               X
+
+
+                                                  d
+
+
+
+
+                                                                     Fig. 6.1
+
+         The path of the electrons remains in the plane of the page.
+
+          (i)    State the direction of the magnetic field.
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [1]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23
+
+
+=== MERGED PAGE 292 ===
+                                                     15
+
+         (ii)   Show that the magnitude of the force exerted on each electron by the magnetic field is
+                1.3 × 10–14 N.
+
+
+
+
+                                                                                                                            [2]
+
+        (iii)   On Fig. 6.1, draw an arrow to indicate the direction of the centripetal acceleration of the
+                electron where it enters the magnetic field at point X.                                  [1]
+
+        (iv)    Use the information in (b)(ii) to calculate the distance d between the path of the electrons
+                entering the magnetic field and the path of the electrons leaving it.
+
+
+
+
+                                                                 d = ..................................................... m [3]
+
+    (c) The electrons in (b) are replaced with positrons that are moving with speed 3.4 × 107 m s–1
+        along the same initial path as the electrons.
+        The positrons enter the magnetic field at point X on Fig. 6.1.
+
+         On Fig. 6.1, draw a line to show the path of the positrons through the magnetic field.                             [3]
+
+                                                                                                                 [Total: 12]
+
+
+
+
+© UCLES 2023                                    9702/41/O/N/23                                                  [Turn over
+
+
+=== MERGED PAGE 293 ===
+                                                        16
+
+7   A varying current I passes through a resistor of resistance R in the circuit shown in Fig. 7.1.
+
+
+
+
+                      I
+
+                                                         R
+
+
+
+                                                     Fig. 7.1
+
+    Fig. 7.2 shows the variation with time t of I.
+
+                               3I0
+                          I
+                               2I0
+
+                                I0
+
+                                0
+                                     0     0.5 T         1.0 T            1.5 T        t    2.0 T
+                               –I0
+
+                              –2I0
+
+                              –3I0
+
+                                                     Fig. 7.2
+
+    The current has magnitude 2I0 when it is in the positive direction and I0 when it is in the negative
+    direction. The period of the variation of the current is T.
+
+    (a) Determine expressions, in terms of I0 and R, for the power P dissipated in the resistor for the
+        times when:
+
+          (i)   the current is in the negative direction
+
+
+
+
+                                                                    P = ......................................................... [1]
+
+         (ii)   the current is in the positive direction.
+
+
+
+
+                                                                    P = ......................................................... [1]
+
+
+
+
+© UCLES 2023                                       9702/41/O/N/23
+
+
+=== MERGED PAGE 294 ===
+                                                       17
+
+    (b) On Fig. 7.3, sketch the variation of P with t between t = 0 and t = 2.0T. Label the power axis
+        with an appropriate scale.
+
+
+
+
+                          P
+
+
+
+
+                              0
+                                  0       0.5 T        1.0 T           1.5 T      t     2.0 T
+
+
+                                                    Fig. 7.3
+                                                                                                                               [3]
+
+    (c) Use your answer in (b) to determine an expression, in terms of I0 and R, for:
+
+          (i)   the mean power 〈P 〉 in the resistor
+
+
+
+
+                                                               〈P 〉 = ......................................................... [1]
+
+         (ii)   the root-mean-square (r.m.s.) current Ir.m.s. in the resistor.
+
+
+
+
+                                                            Ir.m.s. = ......................................................... [2]
+
+                                                                                                                      [Total: 8]
+
+
+
+
+© UCLES 2023                                      9702/41/O/N/23                                                  [Turn over
+
+
+=== MERGED PAGE 295 ===
+                                                     18
+
+8   (a) (i)     Show that the momentum p of a photon of electromagnetic radiation with wavelength λ is
+                given by
+                                                          h
+                                                    p=
+                                                          λ
+                where h is the Planck constant.
+
+
+
+
+                                                                                                       [2]
+
+         (ii)   Use the expression in (a)(i) to show that a photon in free space that has a momentum of
+                9.5 × 10–28 N s is a photon of red light.
+
+
+
+
+                                                                                                       [1]
+
+    (b) A beam of red light of intensity 160 W m–2 is incident normally on a plane mirror, as shown in
+        Fig. 8.1. The momentum of each photon in the beam is 9.5 × 10–28 N s.
+
+
+
+                                                                              plane mirror
+
+
+
+
+                      beam of red light,
+                      intensity 160 W m–2
+
+
+
+
+                                                  Fig. 8.1
+
+         All of the light is reflected by the mirror in the opposite direction to its original path.
+         The cross-sectional area of the beam is 2.5 × 10–6 m2.
+
+
+
+
+© UCLES 2023                                    9702/41/O/N/23
+
+
+=== MERGED PAGE 296 ===
+                                                                          19
+
+          (i)    Show that the number of photons incident on the mirror per unit time is 1.4 × 1015 s–1.
+
+
+
+
+                                                                                                                                                         [2]
+
+         (ii)    Use the information in (b)(i) to determine the pressure exerted by the light beam on the
+                 mirror.
+
+
+
+
+                                                                           pressure = .................................................... Pa [3]
+
+    (c) The beam of red light in (b) is now replaced with a beam of blue light of the same intensity.
+
+         Suggest and explain whether the pressure exerted on the mirror by the beam of blue light is
+         less than, the same as, or greater than the pressure exerted by the beam of red light.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                             [Total: 10]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23                                                           [Turn over
+
+
+=== MERGED PAGE 297 ===
+                                                                          20
+
+9   (a) State what is meant by nuclear fusion.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) On Fig. 9.1, sketch the variation of binding energy per nucleon with nucleon number A for
+        values of A between 1 and 250.
+
+
+
+
+                            binding energy
+                            per nucleon
+
+
+
+
+                                                     0
+                                                         1                                                  250
+                                                                                    A
+
+                                                                     Fig. 9.1
+                                                                                                                                                         [2]
+
+    (c) On your line in Fig. 9.1, label:
+
+          (i)    a point X that could represent a nucleus that undergoes alpha-decay                                                                     [1]
+
+         (ii)    a point Y that could represent a nucleus that undergoes nuclear fusion.                                                                 [1]
+
+
+
+
+© UCLES 2023                                                      9702/41/O/N/23
+
+
+=== MERGED PAGE 298 ===
+                                                     21
+
+    (d) A nucleus Z undergoes nuclear fission to form strontium-93 ( 93                   139
+                                                                     38Sr) and xenon-139 ( 54Xe)
+        according to
+
+                                  1n   + Z        93Sr   + 139      1
+                                  0               38        54Xe + 20n.
+
+         Table 9.1 shows the binding energies of the strontium-93 and xenon-139 nuclei.
+
+                                                 Table 9.1
+
+                                nucleus                          binding energy / J
+                                  93Sr                             1.25 × 10–10
+                                  38
+                                 139Xe
+                                  54                               1.81 × 10–10
+
+
+
+         The fission of 1.00 mol of Z releases 1.77 × 1013 J of energy.
+
+         Determine the binding energy per nucleon, in MeV, of Z.
+
+
+
+
+                                binding energy per nucleon = ................................................. MeV [4]
+
+                                                                                                         [Total: 10]
+
+
+
+
+© UCLES 2023                                    9702/41/O/N/23                                          [Turn over
+
+
+=== MERGED PAGE 299 ===
+                                                              23
+
+10 Ultrasound and X-rays are both types of wave that are used in medical diagnosis to form images
+   of internal body structures.
+
+    (a) Complete Table 10.1 to state, for each type of wave:
+
+         ●      the method of production of the wave
+         ●      whether the wave that is detected and used to form the image is the wave that has been
+                absorbed, reflected or transmitted by the internal body structure.
+
+                                                       Table 10.1
+
+
+                                                 ultrasound                                          X-rays
+
+
+                method of           ............................................     ............................................
+                production
+                                    ............................................     ............................................
+
+            detected wave
+         (absorbed, reflected       ............................................     ............................................
+            or transmitted)
+
+                                                                                                                                           [4]
+
+    (b) (i)     For one type of wave passing through tissue, the wave has 72% of its initial intensity
+                after it has passed through 6.2 cm of the tissue.
+
+                Calculate the linear attenuation coefficient μ of the tissue for this wave.
+
+
+
+
+                                                                           μ = ................................................ cm–1 [2]
+
+         (ii)   Another wave of the same type as in (b)(i) passes through 9.3 cm of the same tissue.
+
+                Calculate the percentage of the initial intensity of the wave that is attenuated by the
+                tissue.
+
+
+
+
+                                         percentage attenuated = ..................................................... % [2]
+
+                                                                                                                                    [Total: 8]
+© UCLES 2023                                          9702/41/O/N/23
+
+
+=== MERGED PAGE 300 ===
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2023                                                         9702/41/O/N/23

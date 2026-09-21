@@ -1,0 +1,733 @@
+
+===== 9702/41_Summer_2017_Q4 | PDF 82-82 | Ideal Gases =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+2 - (9702/41_Summer_2017_Q4) - Ideal Gases
+(a) Describe the motion of molecules in a gas, according to the kinetic theory of gases.
+• 2)
+(b)
+Describe what is observed when viewing Brownian motion that provides evidence for your
+answer in (a).
+At a pressure of 1.05x105Pa and a temperature of 27°C, 1.00 mol of helium gas has a
+volume of 0.0240m?.
+The mass of 1.00 mol of helium gas, assumed to be an ideal gas, is 4.00 g.
+(1) Calculate the root-mean-square (r.m.s.) speed of an atom of helium gas for a temperature
+of 27°C.
+r.m.s. speed =
+(ii) Using your answer in (i), calculate the r.m.s. speed of the atoms at 177°C.
+ms* [3]
+r.m.s. speed =
+... ms- [3]
+2017 - 2023
+81
+P4 Topical
+
+===== 9702/42_Summer_2017_Q2 | PDF 80-81 | Ideal Gases, Temperature, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+1 - (9702/42_Summer_2017_Q2) - Ideal Gases, Temperature, Thermal Properties Of Materials
+(a) The pressure pand volume V of an ideal gas are related to the density p of the gas by the
+expression
+p = 3p(c3).
+(i) State what is meant by the symbol (c-).
+..............[1]
+(ii) Use the expression to show that the mean kinetic energy Ek of a gas molecule is given
+Ex = 3 kT
+where kis the Boltzmann constant and T is the thermodynamic temperature.
+13]
+(b) (i) An ideal gas containing 1.0mol of molecules is heated at constant volume.
+Use the expression in (a)(il) to show that the thermal energy required to raise the
+temperature of the gas by 1.0K has a value of R, where Ris the molar gas constant.
+[3]
+2017 - 2023
+79
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(ii) Nitrogen may be assumed to be an ideal gas. The molar mass of nitrogen gas is 28g mor
+Use the answer in (b)(i) to calculate a value for the specific heat capacity, in Jkg'K, at
+constant volume for nitrogen.
+specific heat capacity =
+2017 - 2023
+80
+P4 Topical
+
+===== 9702/41_Summer_2018_Q3 | PDF 85-85 | Ideal Gases =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+4 - (9702/41_Summer_2018_03) - Ideal Gases
+(a) (i)
+State what is meant by the internal energy of a system.
+• 2]
+(ii) Explain why, for an ideal gas, the change in internal energy is directly proportional to the
+change in thermodynamic temperature of the gas.
+(b) A cylinder of volume 1.8 x 104cm3 contains helium gas at pressure 6.4 x 10°Pa and
+temperature 25 °C.
+Helium gas may be considered to be an ideal gas consisting of single atoms.
+Calculate the number of helium atoms in the cylinder.
+number =
+...[3)
+2017 - 2023
+84
+P4 Topical
+
+===== 9702/42_Summer_2018_Q2 | PDF 83-84 | Ideal Gases, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+3 - (9702/42_Summer_2018_Q2) - Ideal Gases, Thermal Properties Of Materials
+(a) Use one of the assumptions of the kinetic theory of gases to explain why the potential energy
+of the molecules of an ideal gas is zero.
+The average translational kinetic energy Ek of a molecule of an ideal gas is given by the
+expression
+Ex = 2m(03)=
+3 кт
+where mis the mass of a molecule and kis the Boltzmann constant.
+State the meaning of the symbol
+(1) (c2)
+-[1]
+(ii) T.
+..[1]
+(c) A cylinder of constant volume 4.7 × 104cm contains an ideal gas at pressure 2.6 × 10°Pa
+and temperature 173°C.
+The gas is heated. The thermal energy transferred to the gas is 2900J. The final temperature
+and pressure of the gas are Tand p, as illustrated in Fig. 2.1.
+4.7 × 104cm3
+2.6 × 10° Pa
+173°C
+2900J
+4.7 × 104cm3
+Fig. 2.1
+(1) Calculate
+the number of molecules in the cylinder,
+N= .....
+...... 3]
+2017 - 2023
+82
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+2. the increase in average kinetic energy of a molecule during the heating process.
+increase=.
+..... J [1]
+(I) Use your answer in (l) part 2 to determine the final temperature T, in kelvin, of the gas in
+the cylinder.
+T=.....
+.. K [3]
+2017 - 2023
+83
+P4 Topical
+
+===== 9702/41_Winter_2018_Q2 | PDF 86-87 | Ideal Gases, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+5 - (9702/41_Winter_2018_Q2) - Ideal Gases, Thermal Properties Of Materials
+(a) State what is meant by the internal energy of a system.
+•[2]
+(b) An ideal gas undergoes a cycle of changes as shown in Fig. 2.1.
+3.00
+2.80
+QF 372 K
+pressure
+/105Pa
+2.60
+2.40-
+2.20
+280K
+P
+2.00+
+900
+950
+1000
+1050
+332K
+1100
+volume/cm?
+1150
+Fig. 2.1
+At point P, the gas has volume 950cm, pressure 2.10 × 105 Pa and temperature 280K.
+The gas is heated at constant volume and 97.0J of thermal energy is transferred to the gas.
+Its pressure and temperature change so that the gas is at point Q on Fig. 2.1.
+The gas then undergoes the change from point Q to point R and then from point R back to
+point P, as shown on Fig. 2.1.
+2017 - 2023
+85
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+Some energy changes that take place during the cycle PQRP are shown in Fig. 2.2.
+change P→ Q
+change Q→R
+change R→P
+thermal energy transferred to gas /J
++97.0
+0
+work done on gas/J
+-42.5
++37.0
+increase in internal energy of gas/J
+(i)
+Fig. 2.2
+State the total change in internal energy of the gas during the complete cycle PORP.
+Explain your answer.
+.......[2]
+(ii) On Fig. 2.2, complete the energy changes for the gas during
+1. the change P→ Q,
+2. the change Q → R,
+3. the change R → P.
+[5]
+2017 - 2023
+86
+P4 Topical
+
+===== 9702/42_Winter_2018_Q2 | PDF 88-89 | Ideal Gases, Temperature, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+6 - (9702/42_Winter_2018_Q2) - Ideal Gases, Temperature, Thermal Properties Of Materials
+(a) State what is meant by an ideal gas.
+..[2]
+(b) An ideal gas comprised of single atoms is contained in a cylinder and has a volume of
+1.84 × 10-2m at a pressure of 2.12 × 10/Pa.
+The mass of gas in the cylinder is 3.20 kg
+(i) Determine, to three significant figures, the root-mean-square (r.m.s.) speed of the atoms
+of the gas.
+r.m.s. speed =
+....ms-1 [3)
+2017 - 2023
+87
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(Il)
+The temperature of the gas in the cylinder is 22°C.
+Determine, to three significant figures,
+1. the amount, in mol, of the gas,
+amount =
+mol (2)
+2. the mass of one atom of the gas.
+mass =
+• kg [2]
+(c) Use your answer in (b)(il) part 2 to determine the nucleon number A of an atom of the gas.
+A =
+... [1]
+2017 - 2023
+88
+P4 Topical
+
+===== 9702/41_Summer_2019_Q2 | PDF 90-91 | Ideal Gases, Temperature, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+7 - (9702/41_Summer_2019_Q2) - Ideal Gases, Temperature, Thermal Properties Of Materials
+A fixed mass of an ideal gas has volume 210cm at pressure 3.0 × 105Pa and temperature 270K.
+The volume of the gas is reduced at constant pressure to 140cm, as shown in Fig. 2.1.
+210 cm
+3.0 × 105 Pa
+270K
+140 cmg
+3.0 x 105Pa
+Fig. 2.1
+The final temperature of the gas is T.
+(a) Determine:
+(i)
+the amount of gas
+amount = .
+mol [3]
+(ii) the final temperature Tof the gas
+T=
+.K [2]
+(iii) the external work done on the gas.
+work done =
+...J [2)
+2017 - 2023
+89
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(b) For this change in volume and temperature of the gas, the thermal energy transferred is 53J.
+Determine AU, the change in internal energy of the gas.
+AU=...
+..J [3]
+2017 - 2023
+90
+P4 Topical
+
+===== 9702/42_Summer_2019_Q2 | PDF 92-94 | Ideal Gases, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+8 - (9702/42_Summer_2019_Q2) - Ideal Gases, Thermal Properties Of Materials
+(a) The first law of thermodynamics may be expressed in the form
+AU = q + w.
+(i) State, for a system, what is meant by:
+1. +q
+2.
++W.
+12]
+(ii) State what is represented by a negative value of AU.
+-[1]
+2017 - 2023
+91
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(b) An ideal gas, sealed in a container, undergoes the cycle of changes shown in Fig. 2.1.
+7.0
+8.7 x 10-4m3
+6.6 × 10º Pa
+450K
+6.0
+pressure
+/105 Pa
+5.0
+4.0-
+3.0
+2.4 × 10-3 m3
+1.6 × 105 Pa
+300 K
+8.7 × 104m3
+1.6 × 10°Pa
+110K
+2.0
+1.0+
+0.75
+1.00
+1.25
+1.50
+1.75
+2.00
+2.25
+volume /10-3m3
+2.50
+Fig. 2.1
+At point A, the gas has volume 2.4 x 10-3m3, pressure 1.6 x 105 Pa and temperature 300K.
+The gas is compressed suddenly so that no thermal energy enters or leaves the gas during
+the compression. The amount of work done is 480J so that, at point B, the gas has volume
+8.7 × 10-4m
+, pressure 6.6 × 10° Pa and temperature 450K.
+The gas is now cooled at constant volume so that, between points B and C, 1100J of thermal
+energy is transferred. At point C, the gas has pressure 1.6 × 10°Pa and temperature 110K.
+Finally, the gas is returned to point A
+2017 - 2023
+92
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(i) State and explain the total change in internal energy of the gas for one complete
+cycle ABCA.
+•(2)
+(ii) Calculate the external work done on the gas during the expansion from point C to
+point A.
+work done = ..
+.. J [2]
+(ili) Complete Fig. 2.2 for the changes from:
+1. point A to point B
+2. point B to point C
+3. point C to point A.
+change
++q/J
+A →B
+B→c
+C →A
++w/J
+AU/J
+Fig. 2.2
+14]
+2017 - 2023
+93
+P4 Topical
+
+===== 9702/41_Winter_2019_Q2 | PDF 95-95 | Ideal Gases =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+9 - (9702/41_Winter_2019_Q2) - Ideal Gases
+(a) The kinetic theory of gases is based on a number of assumptions about the molecules of a
+State the assumption that is related to the volume of the molecules of the gas.
+[2]
+An ideal gas occupies a volume of 2.40 x 10-2m at a pressure of 4.60 × 105 Pa and a
+temperature of 23°C.
+(i) Calculate the number of molecules in the gas.
+number=..
+(ii) Each molecule has a diameter of approximately 3 × 10-10m.
+Estimate the total volume of the gas molecules.
+.. (3]
+volume =
+(c) By reference to your answer in (b)(i), suggest why the assumption in (a) is justified
+ma [3]
+11]
+2017 - 2023
+94
+P4 Topical
+
+===== 9702/42_Winter_2019_Q2 | PDF 96-97 | Ideal Gases, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+10 - (9702/42_Winter_2019_Q2) - Ideal Gases, Thermal Properties Of Materials
+(a)
+Smoke particles are suspended in still air. Brownian motion of the smoke particles is seen
+through a microscope.
+Describe:
+(i) what is seen through the microscope
+how Brownian motion provides evidence for the nature of the movement of gas
+molecules.
+12]
+(b) A fixed mass of an ideal gas has volume 2.40 x 10cm at pressure 3.51 x 10° Pa and
+temperature 290K. The gas is heated at constant volume until the temperature is 310K at
+pressure 3.75 × 10° Pa, as illustrated in Fig. 2.1.
+2.40 × 103 cm₴
+3.51 × 105 Pa
+290 K
+2.40 × 103 cm3
+3.75 × 10° Pa
+310K
+Fig. 2.1
+The quantity of thermal energy required to raise the temperature of 1.00 mol of the gas by
+1.00K at constant volume is 12.5J.
+Calculate, to three significant figures:
+(i) the amount, in mol, of the gas
+amount = ...
+mol [3]
+2017 - 2023
+95
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(ii) the thermal energy transfer during the change.
+energy transfer =
+(c) For the change in the gas in (b), state:
+(i) the quantity of external work done on the gas
+work done =
+(ii)
+the change in internal energy, with the direction of this change.
+change =
+direction
+2017 - 2023
+96
+CH10 - IDEAL GASES
+... J [2]
+.. J [1]
+J
+[2)]
+P4 Topical
+
+===== 9702/41_Summer_2020_Q2 | PDF 98-98 | Ideal Gases, Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+11 - (9702/41_Summer_2020_Q2) - Ideal Gases, Thermal Properties Of Materials
+(a)
+State what is meant by the internal energy of a system.
+.. [2]
+(b) By reference to intermolecular forces, explain why the change in internal energy of an ideal
+gas is equal to the change in total kinetic energy of its molecules.
+[2]
+State and explain the change, if any, in the internal energy of a solid metal ball as it falls
+under gravity in a vacuum.
+2017 - 2023
+97
+P4 Topical
+
+===== 9702/42_Summer_2020_Q2 | PDF 99-99 | Ideal Gases =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+12 - (9702/42_Summer_2020_Q2) - Ideal Gases
+A square box of volume V contains molecules of an ideal gas. Each molecule has mass m.
+Using the kinetic theory of ideal gases, it can be shown that, if all the molecules are moving
+with speed v at right angles to one face of the box, the pressure p exerted on the face of the
+box is given by the expression
+pV = Nmv2.
+(equation 1)
+This expression leads to the formula
+P= 3P(C-)
+(equation 2)
+for the pressure p of an ideal gas, where pis the density of the gas and (c2) is the mean-square
+speed of the molecules.
+Explain how each of the following terms in equation 2 is derived from equation 1:
+p:
+1
+3
+(c2):.
+[4]
+(b) An ideal gas has volume, pressure and temperature as shown in Fig. 2.1.
+volume 6.0 x 10-3m3
+pressure 3.0 × 105 Pa
+temperature 17°C
+Fig. 2.1
+The mass of the gas is 20.7 g.
+Calculate the mass of one molecule of the gas.
+mass =
+... g [4]
+2017 - 2023
+98
+P4 Topical
+
+===== 9702/41_Winter_2020_Q2 | PDF 100-101 | Ideal Gases, Temperature =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+13 - (9702/41_Winter_2020_Q2) - Ideal Gases, Temperature
+(a) The first law of thermodynamics may be expressed as
+AU = (+q) + (+w)
+where AU is the increase in internal energy of the system.
+State the meaning of:
++W.
+(2)
+(b) The variation with pressure p of the volume V of a fixed mass of an ideal gas is shown in
+Fig. 2.1.
+4.0
+V/10-3m3
+3.6
+3.2
+2.8
+2.4
+2.0 +
+2.2
+2.6
+3.0
+3.4
+3.8
+4.2
+4.6
+5.0
+p/105Pa
+5.4
+Fig. 2.1
+The gas undergoes a cycle of changes A to B to C to A.
+During the change A to B, the volume of the gas increases from 2.3 × 10 3m° to 3.8 × 103m.
+2017 - 2023
+99
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(i) Show that the magnitude of the work done during the change A to B is 390 J.
+11]
+(ii) State and explain the total change, if any, in the internal energy of the gas during one
+complete cycle.
+[2]
+(c) During the change A to B, 1370J of thermal energy is transferred to the gas.
+During the change B to C, no thermal energy enters or leaves the gas. The work done on the
+gas during this change is 550J.
+Use these data and the information in (b) to complete Table 2.1.
+Table 2.1
+change
+q/J
+w/J
+AU/J
+A to B
+B to C
+....******•
+C to A
+14]
+[Total: 9]
+2017 - 2023
+100
+P4 Topical
+
+===== 9702/42_Winter_2020_Q2 | PDF 102-103 | Ideal Gases, Temperature =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+14 - (9702/42_Winter_2020_Q2) - Ideal Gases, Temperature
+(a) State what is meant by the internal energy of a system.
+.. [2]
+(b) The atoms of an ideal gas occupy a container of volume 2.30 x 10-3m at pressure
+2.60 × 10° Pa and temperature 180K, as illustrated in Fig. 2.1.
+2.30 × 10-3m3
+2.60 × 105 Pa
+180 K
+3.80 × 10-3 m3
+2.60 × 105 Pa
+T
+980J
+Fig. 2.1
+The gas is heated at constant pressure so that its volume becomes 3.80 x 10-3m at a
+temperature T.
+For the fixed mass of gas, calculate:
+(i) the amount of substance, in mol
+amount =
+.... mol [2]
+(ii) the temperature T, in K.
+T=....
+....K [2]
+2017 - 2023
+101
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(c) During the change in (b), the thermal energy supplied to the gas is 980J.
+(i) Determine the work done on the gas during this change. Explain your working.
+work done = ...
+(ii) Determine the change AU in internal energy of the gas.
+...J [3]
+AU = ....
+......J [1]
+[Total: 10]
+2017 - 2023
+102
+P4 Topical
+
+===== 9702/41_Summer_2021_Q2 | PDF 104-105 | Ideal Gases =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+15 - (9702/41_Summer_2021_Q2) - Ideal Gases
+An ideal gas is contained in a cylinder by means of a movable frictionless piston, as illustrated in
+Fig. 2.1.
+cylinder
+movement
+of piston
+piston
+gas
+molecule
+Fig. 2.1
+Initially, the gas has a volume of 1.8 x 10-3m° at a pressure of 3.3 x 105 Pa and a temperature of
+310K.
+(a) Show that the number of gas molecules in the cylinder is 1.4 × 1023.
+121
+(b) Use kinetic theory to explain why, when the piston is moved so that the gas expands, this
+causes a decrease in the temperature of the gas.
+.. [3]
+2017 - 2023
+103
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) The gas expands so that its volume increases to 2.4 × 10-3m3 at a pressure of 2.3 × 105 Pa
+and a temperature of 288K, as shown in Fig. 2.2.
+1.8 x 10-3m3
+3.3 × 10°Pa
+310K
+→
+2.4 × 10-3m3
+2.3 × 10°Pa
+288K
+CH10 - IDEAL GASES
+Fig. 2.2
+(i) The average translational kinetic energy Ek of a molecule of an ideal gas is given by
+Ex = 3 kT
+where k is the Boltzmann constant and Tis the thermodynamic temperature.
+Calculate the increase in internal energy AU of the gas during the expansion.
+AU =
+.. J [3]
+(ii) The work done by the gas during the expansion is 76J.
+Use your answer in (i) to explain whether thermal energy is transferred to or from the gas
+during the expansion.
+[2]
+2017 - 2023
+104
+P4 Topical
+
+===== 9702/42_Summer_2021_Q2 | PDF 106-107 | Ideal Gases, Temperature =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+16 - (9702/42_Summer_2021_Q2) - Ideal Gases, Temperature
+An ideal gas has a volume of 3.1 x 10-3m? at a pressure of 8.5 x 105 Pa and a temperature of
+290K, as shown in Fig. 2.1.
+volume 3.1 x 10-3 m3
+pressure 8.5 × 10°Pa
+→
+temperature 290K
+volume 6.3 x 10-3m3
+pressure 2.7 × 10° Pa
+temperature T
+Fig. 2.1
+The gas suddenly expands to a volume of 6.3 × 10-3m3. During the expansion, no thermal energy
+is transferred. The final pressure of the gas is 2.7 × 105 Pa at temperature To, as shown in Fig. 2.1.
+Show that the number of gas molecules is 6.6 × 1023.
+(3]
+(b) (i)
+Show that the final temperature T of the gas is 190K.
+11]
+2017 - 2023
+105
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+The average translational kinetic energy Ek of a molecule of an ideal gas is given by
+Ex = 3 kT
+where T is the thermodynamic temperature and k is the Boltzmann constant.
+Calculate the increase in internal energy AU of the gas.
+CH10 - IDEAL GASES
+AU =
+... J [3]
+(c) Use the first law of thermodynamics to explain why the external work w done on the gas
+during the expansion is equal to the increase in internal energy in (b)(ii).
+12]
+2017 - 2023
+106
+P4 Topical
+
+===== 9702/42_Winter_2021_Q3 | PDF 108-109 | Ideal Gases =====
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+17 - (9702/42_Winter_2021_03) - Ideal Gases
+(a) One of the assumptions of the kinetic theory of gases is that all collisions involving molecules
+of the gas are elastic.
+(i) State what is meant by an elastic collision.
+11]
+(ii)
+State two other assumptions of the kinetic theory of gases.
+1.
+2.
+12]
+(b) A molecule of an ideal gas has mass m and is contained in a cubic box of side length L. The
+molecule is moving with velocity u towards the face of the box that is shaded in Fig. 3.1.
+L
+molecule
+Fig. 3.1
+The molecule collides elastically with the shaded face and the face opposite to it alternately.
+Deduce expressions, in terms of m, u and L, for:
+(i) the magnitude of the change in momentum of the molecule on colliding with a face
+change in momentum =
+(ii) the time between consecutive collisions of the molecule with the shaded face
+11]
+time =
+• [1]
+2017 - 2023
+107
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH10 - IDEAL GASES
+(iii) the average force exerted by the molecule on the shaded face
+force =
+- [1]
+(iv) the pressure on the shaded face if the force in (ill) is exerted over the whole area of the
+face.
+pressure =
+(c) When the model described in (b) is extended to three dimensions, and to a gas containing N
+molecules, each of mass m, travelling with mean-square speed (c), it can be shown that
+pV = }Nm(c2)
+where p is the pressure exerted by the gas and V is the volume of the gas.
+Use this expression, together with the equation of state of an ideal gas, to show that the
+average translational kinetic energy Ek of a molecule of an ideal gas is given by
+EK = 2KT
+where T is the thermodynamic temperature of the gas and kis the Boltzmann constant.
+12)
+(d) The mass of a hydrogen molecule is 3.34 x 10-27 kg.
+Use the expression for Ek in (c) to determine the root-mean-square (r.m.s.) speed of a
+molecule of hydrogen gas at 25°C.
+r.m.s. speed =
+ms- [2]
+2017 - 2023
+108
+P4 Topical

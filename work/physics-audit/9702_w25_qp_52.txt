@@ -1,0 +1,582 @@
+
+=== MERGED PAGE 770 ===
+                                                     * 0000800000001 *               DFD
+
+
+
+                                                 ,             ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬Oz> 4mHuOªE`{5W
+                          ¬CzR¦t|jy{622J[¦
+                          ¥uuue55E euuU
+
+
+
+
+* 8 7 5 5 3 9 5 3 0 5 *
+                                               PHYSICS                                                                                         9702/52
+                                               Paper 5 Planning, Analysis and Evaluation                                        October/November 2025
+
+                                                                                                                                      1 hour 15 minutes
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 30.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                                        This document has 8 pages.
+
+
+                                               DC (PB (GB)) 342409/3
+                                               © UCLES 2025                                                                                   [Turn over
+
+
+=== MERGED PAGE 771 ===
+        * 0000800000002 *                        DFD
+
+
+
+
+                                                                                                           DO NOT WRITE IN THIS MARGIN
+                                                                2
+    ,            ,
+
+1   Fig. 1.1 shows a model wind turbine with blades, each of length L, placed in moving air.
+
+                                                                         L
+
+                        moving air
+
+
+                                                                                 blade
+
+
+
+
+                                                                                                           DO NOT WRITE IN THIS MARGIN
+                                                                             terminals
+                                                   turbine
+                                                                                         bench
+
+
+
+
+                                                             Fig. 1.1
+
+    The area of the circle swept by the blades of the turbine is A.
+
+    The output of the turbine has two terminals. The turbine is connected to a resistor of resistance R.
+    At a speed v of the moving air, the current in the resistor is I.
+
+
+
+
+                                                                                                           DO NOT WRITE IN THIS MARGIN
+    The atmospheric pressure is P and the thermodynamic temperature of the air is T.
+
+    It is suggested that I is related to v by the relationship
+                                                        I 2R APv 3
+                                                            =
+                                                         Q    2T
+    where Q is a constant.
+
+    Plan a laboratory experiment to test the relationship between I and v.
+
+    Draw a diagram showing the arrangement of your equipment.
+
+
+
+
+                                                                                                           DO NOT WRITE IN THIS MARGIN
+    Explain how the results could be used to determine a value for Q.
+
+    In your plan you should include:
+
+    •     the procedure to be followed
+
+    •     the measurements to be taken
+
+    •     the control of variables
+
+    •     the analysis of the data
+
+    •     any safety precautions to be taken.
+
+
+
+
+                                                                                                           DO NOT WRITE IN THIS MARGIN
+                            ĬÍú¾Ġ´íÈõÏĪÅĊÝù·þ×
+© UCLES 2025                ĬÃąùÓĢøĎÑĈýÙĊÌúģĞĂ          9702/52/O/N/25
+                            ĥåąĕµĕĥÕąÕÅąąÕÅµÕÕ
+
+
+=== MERGED PAGE 772 ===
+                                      * 0000800000003 *                                DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                           3
+                                 ,                 ,
+
+                                  Diagram
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+                                                                  ĬÏú¾Ġ´íÈõÏĪÅĊÝû·þ×
+                              © UCLES 2025                        ĬÃĆúÛĨüĞèòôĐÎ´ÞģĎĂ
+                                                                  ĥåõÕõõąµĕåĕąąµåõÅÕ
+                                                                                                  9702/52/O/N/25                                                           [Turn over
+
+
+=== MERGED PAGE 773 ===
+        * 0000800000004 *                                DFD
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+                                                                             4
+   ,                 ,
+
+
+
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     .................................................................................................................................................. [15]
+                                    ĬÍú¾Ġ´íÈõÏĪÅĊßù·Ā×
+© UCLES 2025                        ĬÃĆûÛĞĊīÓðûėðĐĀóĦĂ              9702/52/O/N/25
+                                    ĥĕåÕµõąĕõąĥąÅµąõÕÕ
+
+
+=== MERGED PAGE 774 ===
+                                     * 0000800000005 *                                DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                      5
+                                  ,           ,
+
+                              2   A student observes the orbits of some of the moons around the planet Saturn, as shown in Fig. 2.1.
+
+
+
+
+                                                                                                     Tethys
+                                                                                                                                     Rhea
+
+
+
+                                                                              Mimas
+                                                                                                    Saturn
+                                                                                  Pandora
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                Enceladus
+                                                                                            Dione
+
+
+
+
+                                                                                        Fig. 2.1 (not to scale)
+
+                                  For the moon Pandora, the period of the orbit and the mean distance from the centre of Saturn are
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  determined.
+
+                                  The measurements of period T and mean distance r are repeated for other moons.
+
+                                  It is suggested that T and r are related by the equation
+                                                                                                      2πr n
+                                                                                               T=
+                                                                                                       k
+                                  where n and k are constants.
+
+                                  (a) A graph is plotted of lg T on the y‑axis against lg r on the x‑axis.
+
+                                       Determine expressions for the gradient and y‑intercept.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                                                       gradient = ...............................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                    y‑intercept = ...............................................................
+                                                                                                                                                                             [1]
+
+
+
+
+                                                         ĬÏú¾Ġ´íÈõÏĪÅĊßû·Ā×
+                              © UCLES 2025               ĬÃąüÓĬĆěæĊĆÒìĨÜóĖĂ
+                                                         ĥĕÕĕõĕĥõĥõµąÅÕĥµÅÕ
+                                                                                              9702/52/O/N/25                                                     [Turn over
+
+
+=== MERGED PAGE 775 ===
+       * 0000800000006 *                              DFD
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                    6
+   ,            ,
+
+    (b) Values of r and T are given for different moons in Table 2.1.
+
+                                                               Table 2.1
+
+
+          moon          r / 108 m                 T / 103 s       lg (r / 108 m)                       lg (T / 103 s)
+
+
+        Pandora            1.42                    52 ± 5
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         Mimas             1.86                    81 ± 5
+
+
+       Enceladus           2.38                   120 ± 10
+
+
+         Tethys            2.95                   170 ± 10
+
+
+          Dione            3.77                   240 ± 20
+
+
+          Rhea             5.28                   390 ± 30
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+         Calculate and record values of lg (r / 108 m) and lg (T / 103 s) in Table 2.1. Include the absolute
+         uncertainties in lg (T / 103 s).                                                                 [2]
+
+    (c) (i)     Plot a graph of lg (T / 103 s) against lg (r / 108 m). Include error bars for lg (T / 103 s).                            [2]
+
+         (ii)   Draw the straight line of best fit and a worst acceptable straight line on your graph. Label
+                both lines.                                                                              [2]
+
+        (iii)   Determine the gradient of the line of best fit. Include the absolute uncertainty in your
+                answer.
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                                     gradient = ......................................................... [2]
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                             ĬÑú¾Ġ´íÈõÏĪÅĊÞû¶þ×
+© UCLES 2025                 ĬÃĆüÐĢĞđÞý÷ëÌĐ¹ÛĦĂ               9702/52/O/N/25
+                             ĥÅõĕõµĥÕåĕĕąąÕÅõĕÕ
+
+
+=== MERGED PAGE 776 ===
+                                      * 0000800000007 *                        DFD
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                            7
+                                  ,              ,
+
+
+                                               2.7
+
+
+
+
+                                               2.6
+
+
+
+
+                                               2.5
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                              lg (T / 103 s)
+
+                                               2.4
+
+
+
+
+                                               2.3
+
+
+
+
+                                               2.2
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                               2.1
+
+
+
+
+                                               2.0
+
+
+
+
+                                               1.9
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                               1.8
+
+
+
+
+                                               1.7
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                               1.6
+                                                  0.1                  0.2      0.3         0.4        0.5   0.6          0.7        0.8
+
+                                                                                                              lg (r / 108 m)
+
+
+
+
+                                                          ĬÓú¾Ġ´íÈõÏĪÅĊÞù¶þ×
+                              © UCLES 2025                ĬÃąûØĨĢġÛûĊĞĐĨĝÛĖĂ
+                                                          ĥÅąÕµÕąµµĥÅąąµåµąÕ
+                                                                                      9702/52/O/N/25                            [Turn over
+
+
+=== MERGED PAGE 777 ===
+          * 0000800000008 *                               DFD
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                            8
+    ,                                          ,
+
+            (iv)     Determine the y‑intercept of the line of best fit. Include the absolute uncertainty in your
+                     answer.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                         y‑intercept = ......................................................... [2]
+
+       (d) Using your answers to (a), (c)(iii) and (c)(iv), determine the values of n and k.
+           Include the absolute uncertainties in n and k. You need not be concerned with units.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+
+
+                                                                                        n = ...............................................................
+
+                                                                                        k = ...............................................................
+                                                                                                                                                       [3]
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+       (e) Titan is another moon of Saturn. The orbit of Titan has a period of 1.38 × 106 s.
+
+              Determine the value of r for Titan.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                        r = ...................................................... m [1]
+
+                                                                                                                                            [Total: 15]
+To avoid the issue of disclosure of answer‑related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+                                     ĬÑú¾Ġ´íÈõÏĪÅĊàû¶Ā×
+© UCLES 2025                         ĬÃąúØĞĔĨàõāĥ®Ì¿ËĞĂ             9702/52/O/N/25
+                                     ĥõÕÕõÕąĕÕÅµąÅµąµĕÕ

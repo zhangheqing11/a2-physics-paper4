@@ -1,0 +1,468 @@
+
+===== 9702/41_Winter_2017_Q3 | PDF 39-39 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+4 - (9702/41_Winter_2017_03) - Gravitational Fields
+(a) Define gravitational field strength.
+[1]
+(b) Explain why, for changes in vertical position of a point mass near the Earth's surface, the
+gravitational field strength may be considered to be constant.
+.. [2]
+(c) The orbit of the Earth about the Sun is approximately circular with a radius of 1.5× 108km.
+The time period of the orbit is 365 days.
+Determine a value for the mass Mof the Sun. Explain your working.
+M=..
+.. kg [5]
+2017 - 2023
+38
+P4 Topical
+
+===== 9702/41_Summer_2018_Q1 | PDF 40-41 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+5 - (9702/41_Summer_2018_Q1) - Gravitational Fields
+(a) State Newton's law of gravitation.
+..[2]
+(b) A distant star is orbited by several planets. Each planet has a circular orbit with a different
+radius.
+(1)
+Each planet orbits at constant speed.
+Explain whether the planets are in equilibrium.
+•[1]
+(il) The radius of the orbit of a planet is R and the orbital period is T.
+Data for some of the planets are given in Fig. 1.1.
+planet
+e
+g
+R/m
+9.6 × 1010
+4.0 × 1011
+2.1 × 1012
+T2/s2
+2.5 × 1011
+1.8 × 1013
+2.6 x 1015
+Fig. 1.1
+The relationship between Rand Tis given by the expression
+R° = KT2.
+2017 - 2023
+39
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+1.
+Show that the constant k is given by the expression
+K= GM
+4r?
+where G is the gravitational constant and Mis the mass of the star.
+[3]
+2. Use data from Fig. 1.1 for the three planets and the expression for kto calculate the
+mass M of the star.
+M= .....
+... kg [3]
+2017 - 2023
+40
+P4 Topical
+
+===== 9702/42_Summer_2018_Q1 | PDF 42-42 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+6 - (9702/42_Summer_2018_Q1) - Gravitational Fields
+(a)
+A gravitational field may be represented by lines of gravitational force.
+State what is meant by a line of gravitational force.
+By reference to lines of gravitational force near to the surface of the Earth, explain why
+the gravitational field strength g close to the Earth's surface is approximately constant.
+... 3]
+(b) The Moon may be considered to be a uniform sphere of diameter 3.4 × 103km and mass
+7.4 x 1022 kg. The Moon has no atmosphere.
+During a collision of the Moon with a meteorite, a rock is thrown vertically up from the surface
+of the Moon with a speed of 2.8 km s
+Assuming that the Moon is isolated in space, determine whether the rock will travel out into
+distant space or return to the Moon's surface
+(4]
+2017 - 2023
+41
+P4 Topical
+
+===== 9702/41_Winter_2018_Q1 | PDF 43-43 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+7 - (9702/41_Winter_2018_Q1) - Gravitational Fields
+(a) (i) State what is meant by gravitational potential at a point.
+• [2]
+Suggest why, for small changes in height near the Earth's surface, gravitational potential
+is approximately constant.
+...[2]
+(b) The Moon may be considered to be a uniform sphere with a diameter of 3.5 × 103km and a
+mass of 7.4 x 1022 kg.
+A meteor strikes the Moon and, during the collision, a rock is sent off from the surface of the
+Moon with an initial speed v.
+Assuming that the Moon is isolated in space, determine the minimum speed of the rock such
+that it does not return to the Moon's surface. Explain your working.
+minimum speed = ........
+ms[3]
+2017 - 2023
+42
+P4 Topical
+
+===== 9702/42_Winter_2018_Q1 | PDF 44-45 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+8 - (9702/42_Winter_2018_Q1) - Gravitational Fields
+(a) (i) State what is meant by gravitational field strength.
+•[1]
+(ii) Explain why, at the surface of a planet, gravitational field strength is numerically equal to
+the acceleration of free fall.
+.... 1]
+(b) An isolated uniform spherical planet has radius R.
+The acceleration of free fall at the surface of the planet is g.
+On Fig. 1.1, sketch a graph to show the variation of the acceleration of free fall with distance
+x from the centre of the planet for values of x in the range x= Rto x= 4R
+1.00 g
+acceleration
+of free fall
+0.75 g-
+0.50 g
+0.25 g
+R
+2R
+3R
+4R
+Fig. 1.1
+[3]
+2017 - 2023
+43
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+(c) The planet in (b) has radius Requal to 3.4x103km and mean density 4.0×103 kg m~3.
+Calculate the acceleration of free fall at a height R above its surface.
+acceleration of free fall =…..
+2017 - 2023
+44
+P4 Topical
+
+===== 9702/42_Summer_2019_Q1 | PDF 48-50 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+10 - (9702/42_Summer_2019_Q1) - Gravitational Fields
+(a)
+Two point masses are separated by a distance x in a vacuum.
+State an expression for the force F between the two masses M and m.
+State the name of any other symbol used.
+•[1]
+(b) A small sphere S is attached to one end of a rod, as shown in Fig. 1.1.
+thread
+rod
+small sphere S
+8.0 cm
+view from side
+Fig. 1.1 (not to scale)
+The rod hangs from a vertical thread and is horizontal.
+The distance from the centre of sphere S to the thread is 8.0 cm.
+A large sphere L is placed near to sphere S, as shown in Fig. 1.2.
+large sphere L
+initial position
+of rod
+6.0cm
+final position
+of rod
+/1.2mm
+small sphere S
+8.0 cm
+thread
+view from above
+Fig. 1.2 (not to scale)
+2017 - 2023
+47
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+There is a force of attraction between spheres S and L, causing sphere S to move through a
+distance of 1.2mm.
+The line joining the centres of S and L is normal to the rod.
+(i) Show that the angle through which the rod rotates is 1.5 × 10-2 rad.
+CH8 - GRAVITATIONAL FIELDS
+[1]
+The rotation of the rod causes the thread to twist.
+The torque T (in Nm) required to twist the thread through an angle B (in rad) is given by
+T = 9.3 × 10-10 x B.
+Calculate the torque in the thread when sphere L is positioned as shown in Fig. 1.2.
+torque =
+(c) The distance between the centres of spheres S and L is 6.0 cm.
+The mass of sphere S is 7.5g and the mass of sphere L is 1.3 kg.
+Nm [1]
+(i) By equating the torque in (b)(ii) to the moment about the thread produced by gravitational
+attraction between the spheres, calculate a value for the gravitational constant.
+gravitational constant = ...
+Nm2kg 2 [3]
+2017 - 2023
+48
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+(ii) Suggest why the total force between the spheres may not be equal to the force calculated
+using Newton's law of gravitation.
+•[1]
+2017 - 2023
+49
+P4 Topical
+
+===== 9702/42_Summer_2020_Q1 | PDF 56-57 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+14 - (9702/42_Summer_2020_Q1) - Gravitational Fields
+(a) Define gravitational potential at a point.
+12]
+(b) An isolated solid sphere of radius r may be assumed to have its mass M concentrated at its
+centre. The magnitude of the gravitational potential at the surface of the sphere is .
+On Fig. 1.1, show the variation of the gravitational potential with distance d from the centre of
+the sphere for values of d from d = r to d = 4r.
++1.0 ф
+gravitational
+potential
++0.5 ф-
+0
+0
+F2r-
+3г
+4r
+d
+-0.5 ф-
+- 1.0 ф
+Fig. 1.1
+[3]
+2017 - 2023
+55
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+The sphere in (b) is a planet with radius r of 6.4 x 10°m and mass M of 6.0 x 1024 kg. The
+planet has no atmosphere.
+A rock of mass 3.4 x 103kg moves directly towards the planet. Its distance from the centre of
+the planet changes from 4r to 3r.
+(i) Calculate the change in gravitational potential energy of the rock.
+change =
+(ii) Explain whether the rock's speed increases, decreases or stays the same.
+•J (3]
+(2)
+2017 - 2023
+56
+P4 Topical
+
+===== 9702/41_Winter_2020_Q1 | PDF 58-58 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+15 - (9702/41_Winter_2020_Q1) - Gravitational Fields
+(a) (i) State what is meant by a field of force.
+(2)
+(ii) Define gravitational field strength.
+.. [1]
+(b) An isolated planet may be assumed to be a uniform sphere of radius 3.39 × 106m with its
+mass of 6.42 × 1023 kg concentrated at its centre.
+Calculate the gravitational field strength at the surface of the planet.
+field strength =
+.... Nkg ' [3]
+(c) Calculate the height above the surface of the planet in (b) at which the gravitational field
+strength is 1.0% less than its value at the surface of the planet.
+height =
+... m [3]
+[Total: 9]
+2017 - 2023
+57
+P4 Topical
+
+===== 9702/42_Winter_2020_Q1 | PDF 59-60 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+16 - (9702/42_Winter_2020_Q1) - Gravitational Fields
+(a) Define gravitational potential at a point.
+(2]
+The Earth may be considered to be a uniform sphere of radius 6.4 × 10°m with its mass of
+6.0 x 1024 kg concentrated at its centre.
+A satellite of mass 2.4 × 103kg is launched from the Equator. It is placed in an equatorial orbit
+at a height of 5.6 × 10°m above the Earth's surface.
+Calculate the change AE, in gravitational potential energy of the satellite for its movement
+from the surface of the Earth to its position in the equatorial orbit.
+..J (3]
+(ii) Determine the speed of the satellite when in orbit.
+speed =
+.. ms-' [3]
+2017 - 2023
+58
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+Before the satellite in (b) is launched, its speed at the Equator due to the Earth's rotation is
+470ms-1
+Suggest why the energy required to launch the satellite depends on whether the satellite, in
+its orbit, is travelling from west to east or from east to west.
+[Total: 9]
+2017 - 2023
+59
+P4 Topical
+
+===== 9702/41_Summer_2021_Q1 | PDF 61-62 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+17 - (9702/41_Summer_2021_Q1) - Gravitational Fields
+The Earth
+may be assumed to be an isolated uniform sphere with its mass of 6.0 x 1024 kg
+concentrated at its centre.
+A satellite of mass 1200kg is in a circular orbit about the Earth in the Earth's gravitational field.
+The period of the orbit is 94 minutes.
+(a) Define gravitational field strength.
+11]
+(b) Calculate the radius of the orbit of the satellite.
+radius =
+... m [3]
+(c) Rockets on the satellite are fired so that the satellite enters a different circular orbit that has
+a period of 150 minutes. The change in the mass of the satellite may be assumed to be
+negligible.
+(i) Show that the radius of the new orbit is 9.4 x 10m.
+12]
+State, with a reason, whether the gravitational potential energy of the satellite increases
+or decreases.
+11]
+2017 - 2023
+60
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+(iii) Determine the magnitude of the change in the gravitational potential energy of the
+satellite.
+change in potential energy =
+J [3]
+2017 - 2023
+61
+P4 Topical
+
+===== 9702/42_Summer_2021_Q1 | PDF 63-63 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+18 - (9702/42_Summer_2021_Q1) - Gravitational Fields
+(a) Define gravitational field strength.
+[1]
+(b) An isolated planet is a uniform sphere of radius 3.39 × 10°m. Its mass of 6.42 × 10kg may
+be considered to be a point mass concentrated at its centre. The planet rotates about its axis
+with a period of 24.6 hours.
+For an object resting on the surface of the planet at the equator, calculate, to three significant
+figures:
+(i) the gravitational field strength
+field strength =
+Nkg-' [2]
+(ii) the centripetal acceleration
+acceleration =
+(iii) the force per unit mass exerted on the object by the surface of the planet.
+ms-2 [2]
+force per unit mass =
+Nkg " [1]
+2017 - 2023
+62
+P4 Topical
+
+===== 9702/41_Winter_2021_Q2 | PDF 64-65 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+19 - (9702/41_Winter_2021_Q2) - Gravitational Fields
+(a) Define gravitational potential.
+[2]
+(b) The Earth E and the Moon M can both be considered as isolated point masses at their
+centres. The mass of the Earth is 5.98 x 1024 kg and the mass of the Moon is 7.35 x 1022 kg.
+The Earth and the Moon are separated by a distance of 3.84 × 10°m, as shown in Fig. 2.1.
+3.84 × 108 m
+X
+Earth E
+mass 5.98 × 1024 kg
+Moon M
+mass 7.35 × 102 kg
+Fig. 2.1 (not to scale)
+P is a point, on the line joining the centres of E and M, where the resultant gravitational field
+strength is zero. Point P is at a distance x from the centre of the Earth.
+Explain how it is possible for the gravitational field strength to be zero despite the
+presence of two large masses nearby.
+(2]
+(ii) Show that x is approximately 3.5 × 108m.
+12]
+2017 - 2023
+63
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+(Ill)
+Calculate the gravitational potential at point P.
+Jkg- [3]
+2017 - 2023
+64
+P4 Topical
+
+===== 9702/42_Winter_2021_Q2 | PDF 66-67 | Gravitational Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+20 - (9702/42_Winter_2021_Q2) - Gravitational Fields
+(a) State the relationship between gravitational potential and gravitational field strength.
+[2]
+(b) A moon of mass M and radius R orbits a planet of mass 3M and radius 2R. At a particular
+time, the distance between their centres is D, as shown in Fig. 2.1.
+D
+P
+planet
+mass 3M
+radius 2R
+moon
+mass M
+radius R
+Fig. 2.1
+Point P is a point along the line between the centres of the planet and the moon, at a variable
+distance x from the centre of the planet.
+The variation with x of the gravitational potential at point P, for points between the planet
+and the moon, is shown in Fig. 2.2.
+O
+2R
+D-R
+Fig. 2.2
+2017 - 2023
+65
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH8 - GRAVITATIONAL FIELDS
+(i) Explain why is negative throughout the entire range x = 2R to x = D - R.
+[3]
+(ii) One of the features of Fig. 2.2 is that is negative throughout.
+Describe two other features of Fig. 2.2.
+1.
+2.
+[2]
+(iii) On Fig. 2.3, sketch the variation with x of the gravitational field strength g at point P
+between x = 2R and x = D - R
+g
+2R
+D
+-R
+Fig. 2.3
+[3]
+2017 - 2023
+66
+P4 Topical

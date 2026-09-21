@@ -1,0 +1,728 @@
+
+===== 9702/41_Summer_2017_Q9 | PDF 487-487 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+2 - (9702/41_Summer_2017_Q9) - Electromagnetic Induction
+A simple transformer is illustrated in Fig. 9.1.
+laminated
+iron core
+input
+~
+output
+Fig. 9.1
+(a) (i) State why the transformer has an iron core, rather than having no core.
+..[1]
+(ii) Explain why the core is laminated.
+• [2]
+(b) By reference to the action of a transformer, explain why the input to the transformer is an
+alternating voltage, rather than a constant voltage.
+...[3]
+2017 - 2023
+486
+P4 Topical
+
+===== 9702/42_Winter_2017_Q8 | PDF 492-493 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+5 - (9702/42_Winter_2017_Q8) - Electromagnetic Induction
+A thin slice of conducting material is placed normal to a uniform magnetic field, as shown in
+Fig. 8.1.
+magnetic
+field
+E
+Is !
+current l
+Fig. 8.1
+The magnetic field is normal to face CDEF and to face PORS.
+The current I in the slice is normal to the faces CDQP and FERS.
+A potential difference, the Hall voltage V, is developed across the slice.
+(a) (i) State the faces between which the Hall voltage V, is developed
+.. and .
+... [1]
+Explain why a constant voltage Vy is developed between the faces you have named
+in (i).
+...[4]
+2017 - 2023
+491
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(b) Two slices have similar dimensions. One slice is made of a metal and the other slice is made
+of a semiconductor material.
+For the same values of magnetic flux density and current, state which slice, if either, will give
+rise to the larger Hall voltage. Explain your reasoning.
+...[2]
+2017 - 2023
+492
+P4 Topical
+
+===== 9702/41_Summer_2018_Q10 | PDF 496-496 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+7 - (9702/41_Summer_2018_Q10) - Electromagnetic Induction
+(a) State Faraday's law of electromagnetic induction.
+• [2]
+(b) A coil of insulated wire is wound on to one end of a ferrous core and connected to a battery,
+as shown in Fig. 10.1.
+ferrous core
+aluminium
+ring
+coil of
+insulated
+wire
+Fig. 10.1
+An aluminium ring is placed on the core. The ring can move freely along the length of the
+The switch is initially open.
+Use Faraday's law and Lenz's law to explain why the aluminium ring jumps upwards when
+the switch is closed
+...[4]
+2017 - 2023
+495
+P4 Topical
+
+===== 9702/42_Summer_2018_Q9 | PDF 494-495 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+6 - (9702/42_Summer_2018_Q9) - Electromagnetic Induction
+(a)
+State what is meant by the magnetic flux linkage of a coil.
+..[3]
+(b) A coil of wire has 160 turns and diameter 2.4 cm. The coil is situated in a uniform magnetic
+field of flux density 7.5 mT, as shown in Fig. 9.1.
+magnetic field
+flux density
+7.5mT
+24cm?
+coil
+160 turns
+Fig. 9.1
+The direction of the magnetic field is along the axis of the coil.
+The magnetic flux density is reduced to zero in a time of 0.15s.
+Show that the average e.m.f. induced in the coil is 3.6 mV.
+12]
+2017 - 2023
+493
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(c) The magnetic flux density B in the coil in (b) is now varied with time t as shown in Fig. 9.2.
+10
+B/mT
+5
+0•
+-5•
+-0.1
+0.2
+0.3
+0.41
++0.5
+-0.6
+t/s
+-10
+Fig. 9.2
+Use data in (b) to show, on Fig. 9.3, the variation with time t of the e.m.f. E induced in the coil.
+E/mV
+8
+6
+4
+2
+0
+0-
+-2-
+-4-
+-6-
+-8
+0.1-
+0.2
+0.3
+0.4
+0.5
+0.6
+t/s
+Fig. 9.3
+[4]
+2017 - 2023
+494
+P4 Topical
+
+===== 9702/41_Winter_2018_Q9 | PDF 497-498 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+8 - (9702/41_Winter_2018_Q9) - Electromagnetic Induction
+(a) State Faraday's law of electromagnetic induction.
+•[2]
+(b) A solenoid S is wound on a soft-iron core, as shown in Fig. 9.1.
+coil C
+solenoid S.
+-
+-soft-iron core
+Hall probe
+Fig. 9.1
+A coil C having 120 turns of wire is wound on to one end of the core. The area of cross-
+section of coil C is 1.5cm?.
+A Hall probe is close to the other end of the core.
+When there is a constant current in solenoid S, the flux density in the core is 0.19T. The
+reading on the voltmeter connected to the Hall probe is 0.20 V.
+The current in solenoid S is now reversed in a time of 0.13s at a constant rate.
+(i) Calculate the reading on the voltmeter connected to coil C during the time that the current
+is changing.
+reading =
+.... V [2]
+2017 - 2023
+496
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(i) Complete Fig. 9.2 for the voltmeter readings for the times before, during and after the
+direction of the current is reversed.
+before current
+changes
+during current
+change when
+current is zero
+after current
+changes
+CH23 - ELECTROMAGNETIC
+INDUCTION
+reading on voltmeter
+connected to coil C/V
+reading on voltmeter
+connected to Hall probe /V
+0.20
+Fig. 9.2
+14]
+2017 - 2023
+497
+P4 Topical
+
+===== 9702/42_Winter_2018_Q9 | PDF 499-500 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+9 - (9702/42_Winter_2018_Q9) - Electromagnetic Induction
+(a) A Hall probe is placed near one end of a solenoid that has been wound on a soft-iron core, as
+shown in Fig. 9.1.
+sott-iron
+core
+solenoid
+- Hall probe
+Fig. 9.1
+The current in the solenoid is switched on.
+The Hall probe is rotated until the reading Vy on the voltmeter is maximum.
+The current in the solenoid is then varied, causing the magnetic flux density to change.
+The variation with time t of the magnetic flux density B at the Hall probe is shown in Fig. 9.2.
+B/mT
+-1-
+-2
+Fig. 9.2
+At time t=0, the Hall voltage is Vo.
+On Fig. 9.3, draw a line to show the variation with time tof the Hall voltage Vy for time t = 0 to
+time t= 44
+VoT
+t,
+- 12
+Fig. 9.3
+12]
+2017 - 2023
+498
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(b) The Hall probe in (a) is now replaced by a small coil of wire connected to a sensitive voltmeter,
+as shown in Fig. 9.4.
+CH23 - ELECTROMAGNETIC
+INDUCTION
+soft-iron
+core
+solenoid
+-small coil
+of wire
+Fig. 9.4
+The magnetic flux density, normal to the plane of the small coil, is again varied as shown in
+Fig. 9.2.
+On Fig. 9.5, draw a line to show the variation with time t of the e.m.f. E induced in the small
+coil for time t = 0 to time t = t4-
+E
+4,
+14
+Fig. 9.5
+[3]
+2017 - 2023
+499
+P4 Topical
+
+===== 9702/42_Summer_2019_Q10 | PDF 503-504 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+11 - (9702/42_Summer_2019_Q10) - Electromagnetic Induction
+(a) State Faraday's law of electromagnetic induction.
+• [2]
+(b) An ideal transformer is illustrated in Fig. 10.1.
+soft-iron
+core
+load
+resistor
+primary coil
+2700 turns
+secondary coil
+450 turns
+Fig. 10.1
+Explain why, when there is an alternating current in the primary coil, there is a current in the
+load resistor.
+-[3]
+2017 - 2023
+502
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(c) The primary coil in (b) has 2700 turns. The secondary coil has 450 turns.
+The e.m.f. E applied across the primary coil is given by the expression
+E = 220 sin(100лt)
+where E is measured in volts and t is the time in seconds.
+Calculate the root-mean-square (r.m.s.) e.m.f. induced in the secondary coil.
+r.m.s. e.m.f. =
+. V [3]
+2017 - 2023
+503
+P4 Topical
+
+===== 9702/42_Winter_2019_Q11 | PDF 507-508 | Electromagnetic Induction, Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+13 - (9702/42_Winter_2019_Q11) - Electromagnetic Induction, Alternating Currents
+(a) State Faraday's law of electromagnetic induction.
+[2]
+(b) A solenoidS has a small coil C placed near to one of its ends, as shown in Fig. 11.1.
+solenoid S
+_ 1 130x102m
+coil C
+63 turns
+Fig. 11.1
+2017 - 2023
+506
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+The coil C has a circular cross-section of diameter 3.6 x 10-2m and contains 63 turns of wire.
+The solenoidS produces a uniform magnetic field of flux density B, in tesla, in the region of
+coil C given by the expression
+B = 9.4 × 1041
+where I is the current, in ampere, in the solenoid S.
+The variation with time t of the current I in solenoid S is shown in Fig. 11.2.
+current 1
+ti
+15
+time
+Fig. 11.2
+State two times at which:
+(i) there is no electromotive force (e.m.f.) induced in coil C
+time ..
+..... and time.
+(ii) the induced e.m.f. in coil C is a maximum but with opposite polarities.
+time
+... and time
+... [1]
+• [1]
+(c) The alternating current in the solenoidS in (b) is replaced by a constant current of 5.0A.
+Calculate the average e.m.f. induced in coil C when the current in solenoid S is reversed in a
+time of 6.0 ms.
+e.m.f. induced =
+... V [3]
+2017 - 2023
+507
+P4 Topical
+
+===== 9702/41_Summer_2020_Q9 | PDF 512-514 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+15 - (9702/41_Summer_2020_09) - Electromagnetic Induction
+(a) A coil of wire is situated in a uniform magnetic field of flux density B.
+The coil has diameter 3.6 cm and consists of 350 turns of wire, as illustrated in Fig. 9.1.
+uniform
+magnetic field
+flux density B
+3.6 cm
+coil, 350 turns
+Fig. 9.1
+2017 - 2023
+511
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+The variation with time t of B is shown in Fig. 9.2.
+50
+40
+B/mT
+30-
+20
+10-
+0.2
+0.4
+0.6
+0.8
+t/s
+Fig. 9.2
+(i) Show that, for the time t = 0 to time t = 0.20s, the electromotive force (e.m.f.) induced in
+the coil is 0.080 V.
+12]
+(ii)
+On the axes of Fig. 9.3, show the variation with time t of the induced e.m.f. E for time
+t = 0 to time t = 0.80s.
+0.2
+E/V
+0.1-
+0-
+0.2
+0.4
+0.6
+0.8
+-0.1+
+-0.2-
+Fig. 9.3
+[4]
+2017 - 2023
+512
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(b) A bar magnet is held a small distance above the surface of an aluminium disc by means of a
+rod, as illustrated in Fig. 9.4.
+rotating
+magnet
+fixed
+aluminium
+disc
+Fig. 9.4
+The aluminium disc is supported horizontally and held stationary.
+The magnet is rotated about a vertical axis at constant speed.
+Use laws of electromagnetic induction to explain why there is a torque acting on the aluminium
+14]
+2017 - 2023
+513
+P4 Topical
+
+===== 9702/42_Summer_2020_Q10 | PDF 515-515 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+16 - (9702/42_Summer_2020_Q10) - Electromagnetic Induction
+(a)
+State Faraday's law of electromagnetic induction.
+12]
+(b) A simple iron-cored transformer is illustrated in Fig. 10.1.
+laminated
+soft-iron core
+input
+output
+primary coil
+secondary coil
+Fig. 10.1
+(i) State one function of a transformer.
+11]
+(ii)
+A sinusoidal alternating current in the primary coil gives rise to a varying magnetic flux
+linking the secondary coil.
+Use Faraday's law to explain why the output from the transformer is an electromotive
+force (e.m.f.) that is alternating.
+[3]
+(iii) State why the soft-iron core of the transformer is laminated
+[1]
+2017 - 2023
+514
+P4 Topical
+
+===== 9702/41_Winter_2020_Q9 | PDF 516-517 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+17 - (9702/41_Winter_2020_Q9) - Electromagnetic Induction
+(a) Define magnetic flux.
+.. [2]
+(b) A simple transformer consists of two coils of wire wound on a soft-iron core, as illustrated in
+Fig. 9.1.
+soft-iron core
+primary coil
+secondary coil
+Fig. 9.1
+There is a sinusoidal current in the primary coil.
+Explain:
+(i) how this current gives rise to an induced electromotive force (e.m.f.) in the secondary
+[3]
+(ii) why the e.m.f. induced in the secondary coil is not constant.
+... [2]
+2017 - 2023
+515
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(c) Explain why the soft-iron core in (b) is laminated.
+... [2]
+[Total: 9]
+2017 - 2023
+516
+P4 Topical
+
+===== 9702/42_Winter_2020_Q9 | PDF 518-520 | Electromagnetic Induction, Alternating Currents =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+18 - (9702/42_Winter_2020_Q9) - Electromagnetic Induction, Alternating Currents
+(a) A small coil is placed close to one end of a solenoid connected to a power supply. The plane
+of the small coil is normal to the axis of the solenoid, as illustrated in Fig. 9.1.
+solenoid
+small coil
+power supply
+Fig. 9.1
+2017 - 2023
+517
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+The power supply causes the current I in the solenoid to vary with time t as shown in Fig. 9.2.
+current I
+time t
+Fig. 9.2
+State Faraday's law of electromagnetic induction.
+.. [2]
+(ii) On the axes of Fig. 9.3, sketch a graph to show the variation with time t of the
+electromotive force (e.m.f.) induced in the small coil.
+e.m.f.
+t,
+time t
+Fig. 9.3
+14]
+2017 - 2023
+518
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(b) The small coil in (a) is now replaced by a Hall probe.
+The Hall probe is positioned so that the reading for the probe is a maximum.
+The current I in the solenoid varies again as shown in Fig. 9.2.
+On the axes of Fig. 9.4, sketch a graph to show the variation with time t of the reading V, of
+the probe.
+VH
+0-
+t,
+time t-
+Fig. 9.4
+(2]
+[Total: 8]
+2017 - 2023
+519
+P4 Topical
+
+===== 9702/41_Summer_2021_Q10 | PDF 523-524 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+20 - (9702/41_Summer_2021_Q10) - Electromagnetic Induction
+) (a)
+State Lenz's law.
+... [2]
+(b) A metal ring is suspended from a fixed point P by means of a thread, as shown in Fig. 10.1.
+LLL
+metal
+ring
+magnet
+/ pole piece
+metal
+ring
+N
+S
+Fig. 10.1
+Fig. 10.2
+The ring is displaced a distance d and then released. The ring completes many oscillations
+before coming to rest.
+The poles of a magnet are now placed near to the ring so that the ring hangs midway between
+the poles of the magnet, as shown in Fig. 10.2.
+The ring is again displaced a distance d and then released.
+Explain why the ring completes fewer oscillations before coming to rest.
+... 4]
+2017 - 2023
+522
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(c) The ring in (b) is now cut so that it has the shape shown in Fig. 10.3.
+Fig. 10.3
+Explain why, when the procedure in (b) is repeated, the cut ring completes more oscillations
+than the complete ring when oscillating between the poles of the magnet.
+2017 - 2023
+523
+P4 Topical
+
+===== 9702/41_Winter_2021_Q9 | PDF 525-526 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+21 - (9702/41_Winter_2021_09) - Electromagnetic Induction
+(a)
+State, by reference to the power dissipated in a resistor, what is meant by the
+root-mean-square (r.m.s.) value of an alternating voltage.
+(2)
+(b) A coil is rotating freely, on frictionless bearings, at constant speed in a uniform magnetic
+field. This rotation causes an induced alternating electromotive force (e.m.f.) across the open
+terminals of the coil. The induced e.m.f. has r.m.s. value 12V and frequency 50Hz.
+The speed of rotation of the coil is now doubled.
+(i)
+State and explain, with reference to the principles of electromagnetic induction, the effect
+of the increased speed of rotation on the r.m.s. value of the induced e.m.f.
+... 2]
+(ii) On Fig. 9.1, sketch the variation with time t of the induced e.m.f. E across the terminals
+of the coil at the increased speed of rotation. Your line should extend from time t = 0 to
+time t = 20ms. Assume that E = 0 when t = 0.
+40
+E/V
+20-
+5
+10
+15
+20
+t/ms
+-20+
+-40-
+Fig. 9.1
+[3]
+2017 - 2023
+524
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+State and explain the effect on the motion of the coil in (b) of connecting a load resistor
+across its terminals.
+12]
+2017 - 2023
+525
+P4 Topical
+
+===== 9702/42_Winter_2021_Q10 | PDF 527-528 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+22 - (9702/42_Winter_2021_Q10) - Electromagnetic Induction
+Fig. 10.1 shows a simple laminated iron-cored transformer consisting of a primary coil of 25000
+turns and a secondary coil of 625 turns.
+laminated iron core
+VIN~
+- 25000
+turns
+625
+turns
+Fig. 10.1
+The output potential difference (p.d.) Vour is applied to a load resistor of resistance 640g.
+(a) (i) State the function of the iron core.
+(ii) Explain why the iron core is laminated.
+12]
+(b) The input p.d. Vin is a sinusoidal alternating voltage of peak value 12kV and period 40 ms.
+(1)
+Calculate the maximum value of Vour
+maximum VouT =
+.... V [1]
+2017 - 2023
+526
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+(ii) Calculate the root-mean-square (r.m.s.) current in the load resistor.
+r.m.s. current =
+.....A [1]
+(iii) On Fig. 10.2, sketch the variation with time t of the power P dissipated in the load resistor
+for time t = 0 to t = 40 ms. Assume that P = 0 when t = 0.
+200
+P/W
+100-
+0-
+0
+10
+20
+30
+t/ms
+40
+- 100-
+-200
+Fig. 10.2
+(c) Explain, with reference to Fig. 10.2, why the mean power in the load resistor is 70W.
+[2]
+2017 - 2023
+527
+P4 Topical
+
+===== 9702/43_Winter_2021_Q10 | PDF 529-529 | Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH23 - ELECTROMAGNETIC
+INDUCTION
+23 - (9702/43_Winter_2021_Q10) - Electromagnetic Induction
+State an experimental phenomenon that provides evidence for:
+(i) the particulate nature of electromagnetic radiation
+[1]
+(ii)
+the wave nature of matter.
+11]
+(b) A particle of matter moves with momentum p.
+(i)
+State the equation that gives the effective wavelength 2 of the particle. State the name of
+any other symbols used.
+12]
+(ii)
+State the name given to the wavelength of the moving particle.
+[1]
+(c)
+Electrons are accelerated from rest through a potential difference (p.d.) of 4.8kV.
+(i)
+Show that the final speed of the electrons is 4.1 x 10' ms.
+12]
+(ii) Calculate the effective wavelength of a beam of electrons moving at the speed in (c)(i).
+wavelength =
+... m [2]
+2017 - 2023
+528
+P4 Topical

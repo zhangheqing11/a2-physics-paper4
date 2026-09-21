@@ -1,0 +1,126 @@
+
+===== 9702/42_Summer_2017_Q4 | PDF 247-248 | Waves =====
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+1 - (9702/42_Summer_2017_Q4) - Waves
+(a)
+Explain the main principles behind the use of ultrasound to obtain diagnostic information
+about internal body structures.
+...[6]
+2017 - 2023
+246
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+(b) A parallel beam of ultrasound has intensity I, as it enters a muscle of thickness 4.6 cm, as
+illustrated in Fig. 4.1.
+4.6 cm
+muscle
+beam of
+ultrasound
+I0.
+Fig. 4.1
+The intensity of the beam just before it leaves the muscle is I.
+The ratio I,/I- is found to be 2.9.
+Calculate the linear attenuation (absorption) coefficient u of the ultrasound in the layer of
+muscle.
+U=..
+........... ст-1[3]
+2017 - 2023
+247
+P4 Topical
+
+===== 9702/42_Winter_2017_Q4 | PDF 249-249 | Waves =====
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+2 - (9702/42_Winter_2017_Q4) - Waves
+(a) Explain the principles behind the generation of ultrasound waves for diagnosis in medicine.
+[5]
+(b) Ultrasound frequencies as high as 10 MHz are used in medical diagnosis
+Suggest one advantage of the use of high-frequency ultrasound rather than lower-frequency
+ultrasound.
+.. 1
+2017 - 2023
+248
+P4 Topical
+
+===== 9702/41_Summer_2018_Q4 | PDF 250-250 | Waves =====
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+3 - (9702/41_Summer_2018_Q4) - Waves
+Piezo-electric transducers are used for the generation of ultrasonic waves.
+(a) State one other use, apart from in ultrasound, of piezo-electric transducers.
+•[1]
+(b) Explain the main principles behind the use of ultrasound to obtain diagnostic information
+about internal body structures.
+....[6]
+2017 - 2023
+249
+P4 Topical
+
+===== 9702/41_Summer_2018_Q12 | PDF 251-252 | Waves =====
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+4 - (9702/41_Summer_2018_Q12) - Waves
+An X-ray beam is used to produce an image of a model of a thumb
+A parallel beam of X-ray radiation of intensity I, is incident on the model, as illustrated in Fig. 12.1.
+soft tissue
+bone
+incident beam
+intensity o
+-
+1.3 cm
+emergent beam
+2.8 cm
+Fig. 12.1
+Data for the attenuation (absorption) coefficient in bone and in soft tissue are shown in Fig. 12.2.
+u/cm-1
+bone
+soft tissue
+3.0
+0.90
+Fig. 12.2
+(a) Calpas in thrus of the incident mensily 7 of the ray beam, the intensily of the beam
+(i) a thickness of 2.8 cm of soft tissue,
+intensity =
+2017 - 2023
+250
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+(ii) the bone and soft tissue, as shown in Fig. 12.1.
+intensity =
+(b) (i)
+State what is meant by the contrast of an X-ray image.
+1, 12)
+(il) By reference to your answers in (a), suggest whether the X-ray image of the model has
+good contrast.
+• [1]
+2017 - 2023
+251
+P4 Topical
+
+===== 9702/41_Winter_2018_Q4 | PDF 253-253 | Waves =====
+A-Level Cambridge
+PHYSICS - P4
+CH14 - WAVES
+5 - (9702/41_Winter_2018_Q4) - Waves
+(a) Explain the main principles behind the use of ultrasound to obtain diagnostic information
+about internal body structures.
+...[6)
+(b) (i) Define specific acoustic impedance.
+•(2]
+(ii)
+The fraction of the incident intensity of an ultrasound beam that is reflected at a boundary
+between two media depends on the specific acoustic impedances Z, and Zz of the
+Discuss qualitatively how the relative magnitudes of the two specific acoustic impedances
+affect the reflected intensity.
+2017 - 2023
+252
+P4 Topical

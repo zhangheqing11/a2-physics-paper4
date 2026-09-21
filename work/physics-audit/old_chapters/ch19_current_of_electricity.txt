@@ -1,0 +1,44 @@
+
+===== 9702/41_Summer_2021_Q8 | PDF 373-374 | Current Of Electricity =====
+A-Level Cambridge
+PHYSICS - P4
+CH19 - CURRENT OF ELECTRICITY
+2 - (9702/41_Summer_2021_08) - Current Of Electricity
+The variation with temperature of the resistance of a thermistor is shown in Fig. 8.1.
+4.0
+3.0+
+resistance /kg
+2.0
+1.0-
+20
+temperature/°C
+30
+Fig. 8.1
+A student includes the thermistor and an ideal operational amplifier (op-amp) in the circuit of
+Fig. 8.2
++3.0V-
+2.5 kg
++
+Fig. 8.2
+2017 - 2023
+372
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH19 - CURRENT OF ELECTRICITY
+(a) Calculate the potential V* at the non-inverting input of the op-amp.
+V+ =
+(b) At 10 °C, the resistance of the thermistor is 2.5kg.
+State and explain whether the light-emitting diode (LED) is emitting light.
+...... V [2]
+12]
+(c) Explain why the student's circuit will not indicate any change in temperature above 0°C.
+... 2]
+(d) The resistor of resistance 5.0kg is changed to a resistor of resistance R so that the LED
+switches on or off at a temperature of 20°C.
+Determine R in ks.
+R=
+kQ [3]
+2017 - 2023
+373
+P4 Topical

@@ -1,0 +1,760 @@
+
+===== 9702/42_Summer_2017_Q8 | PDF 383-384 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+2 - (9702/42_Summer_2017_Q8) - Electronics
+A student designs a circuit incorporating an operational amplifier (op-amp) as shown in Fig. 8.1.
++6 Vo
+component C
++5V
+-5V
+Ry
+B
+0VO-
+Fig. 8.1
+(a) (i) On Fig. 8.1, draw a circle around the output device.
+(il) State the purpose of this circuit.
+[1]
+.(2]
+(b) The resistors X and Y each have resistance R.
+When conducting, the LED labelled B emits blue light and the LED labelled G emits green
+(i) State whether blue light or green light is emitted when the resistance of component C is
+greater than the resistance Ry of the variable resistor. Explain your answer.
+...[3]
+2017 - 2023
+382
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(ii) State and explain what is observed as the resistance of component C is reduced
+1[3]
+(c) Suggest the function of the variable resistor.
+-[1]
+2017 - 2023
+383
+P4 Topical
+
+===== 9702/41_Winter_2017_Q7 | PDF 385-386 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+3 - (9702/41_Winter_2017_Q7) - Electronics
+The circuit of an amplifier incorporating an ideal operational amplifier (op-amp) is shown in Fig. 7.1.
+VIN
++9.0 V
+-9.0V
+>
+VOUT
+Fig. 7.1
+(a) By reference to the properties of an ideal op-amp,
+(i) explain why point P is referred to as a virtual earth,
+14]
+(ii) derive an expression, in terms of the resistances R, and R, for the gain of the amplifier
+circuit.
+(4]
+2017 - 2023
+384
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(b) In the circuit of Fig. 7.1, the ratio
+R2 is 4.5.
+R,
+The variation with time t of the input potential Vin is shown in Fig. 7.2.
+14T
+12
+10-
+potential/V
+6
+4
+2
+VIN
+-2
+-6
+-8
+-10
+-12
+-14
+Fig. 7.2
+On Fig. 7.2, show the variation with time t of the output potential VouT-
+[3]
+2017 - 2023
+385
+P4 Topical
+
+===== 9702/42_Winter_2017_Q7 | PDF 387-388 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+4 - (9702/42_Winter_2017_Q7) - Electronics
+(a)
+Feedback is used frequently in amplifier circuits.
+State
+(i) what is meant by feedback,
+..[2]
+(ii)
+two benefits of negative feedback in an amplifier circuit.
+1.
+2. .....
+[2]
+(b) An amplifier circuit incorporating an ideal operational amplifier (op-amp) is used to amplify the
+output of a microphone. The circuit is shown in Fig. 7.1.
++5.0V
+92.5kg
+-5.0 V
+VOuT
+R
+Fig. 7.1
+2017 - 2023
+386
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+When the potential at point P is 48mV, the output potential difference Vour is 3.6 V.
+(i) Determine
+1. the gain of the amplifier circuit,
+gain =
+2. the resistance of resistor R.
+resistance =
+.. 2[2]
+(ii) State and explain the effect on the amplifier output when the potential at P exceeds
+68 mV.
+[2]
+2017 - 2023
+387
+P4 Topical
+
+===== 9702/41_Summer_2018_Q8 | PDF 391-392 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+6 - (9702/41_Summer_2018_Q8) - Electronics
+(a) Negative feedback is often used in amplifiers incorporating an operational amplifier (op-amp).
+State
+(i) what is meant by negative feedback,
+-[2]
+(ii)
+two effects of negative feedback on the gain of an amplifier.
+1.
+2.
+12]
+(b) An ideal op-amp is incorporated into the amplifier circuit shown in Fig. 8.1.
+96005.
++6 V
+8009
+VIN
+-6 V
+VOUT
+Fig. 8.1
+(i) Calculate the gain G of the amplifier circuit.
+G=.....
+......[2]
+2017 - 2023
+390
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+Determine the output potential difference Vour for input potential differences ViN of
+1.
+-0.10 V,
+VOUT = ......
+... V
+2.
++1.3V.
+VouT = .....
+.. V
+(2]
+(ill)
+The gain of the amplifier shown in Fig. 8.1 is constant.
+State one change that can be made to the circuit of Fig. 8.1 so that the amplifier circuit
+monitors light intensity levels, with the magnitude of the gain decreasing as light intensity
+increases.
+......[1]
+2017 - 2023
+391
+P4 Topical
+
+===== 9702/42_Summer_2018_Q7 | PDF 389-390 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+5 - (9702/42_Summer_2018_Q7) - Electronics
+(a) Negative feedback is often used in amplifiers.
+State
+(1) what is meant by negative feedback,
+[2]
+(il) two effects of negative feedback on the gain of an amplifier.
+1.
+2...
+12]
+(b) An ideal operational amplifier (op-amp) is incorporated into the circuit shown in Fig. 7.1.
+64009
++9.0 V
+VIN
+-9.0V
+8002
+VOUT
+Fig. 7.1
+(1) Calculate the gain G of the amplifier circuit.
+G = ...
+...[1]
+2017 - 2023
+388
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+Determine the output potential difference Vour for an input potential difference ViN of
+1.
++0.60 V,
+VouT=....
+....... V
+2. -2.1 V.
+VouT = ...
+.. V
+12]
+(III) The gain of the amplifier shown in Fig. 7.1 is constant.
+State one change that may be made to the circuit of Fig. 7.1 so that the amplifier circuit
+monitors temperature with the gain decreasing as the temperature rises.
+-[1]
+2017 - 2023
+389
+P4 Topical
+
+===== 9702/41_Winter_2018_Q7 | PDF 393-394 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+7 - (9702/41_Winter_2018_Q7) - Electronics
+(a) An ideal operational amplifier (op-amp) has infinite bandwidth and infinite slew rate.
+State what is meant by
+(i) infinite bandwidth,
+• 2]
+(Il)
+infinite slew rate.
+(b) An incomplete circuit for a non-inverting amplifier incorporating an ideal operational amplifier
+is shown in Fig. 7.1.
++5.0 V
+-5.0V
+VIN
+VOUT
+R2
+Fig. 7.1
+On Fig. 7.1, draw lines to show the connections between the components to complete the
+circuit.
+2017 - 2023
+392
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(c) The completed amplifier of Fig. 7.1 has a voltage gain of 10.
+State the output voltage Vour for an input voltage ViN of
+(1) - 0.36 V,
+CH21 - ELECTRONICS
+VOUT =
+.. V[1)
+(II) 0.56 V.
+VoUT =
+... V [1]
+2017 - 2023
+393
+P4 Topical
+
+===== 9702/42_Winter_2018_Q7 | PDF 395-396 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+8 - (9702/42_Winter_2018_Q7) - Electronics
+A circuit incorporating an ideal operational amplifier (op-amp) is shown in Fig. 7.1.
++5.0 V
++5.0 V
+1.8k2
+-O
+-5.0 V
+R
+2.4 kg
+VOUT
+=
+Fig. 7.1
+The variation with temperature f of the resistance P, of the thermistor is shown in Fig. 7.2.
+3.4
+3.3-
+3.2-
+3.1-
+3,05
+4
+5
+6
+7
+0/°C
+Fig. 7.2
+2017 - 2023
+394
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(a) The output potential Vour of the op-amp circuit changes sign when the temperature of the
+thermistor is 4.0°C.
+Calculate the resistance R.
+CH21 - ELECTRONICS
+R=.......
+..... kQ [2)
+(b) State and explain whether the output potential VouT is +5.0V or -5.0V for a thermistor
+temperature of 2.5°C.
+(c) The output of the op-amp is to be displayed using two light-emitting diodes (LEDs) labelled G
+and B
+When the temperature of the thermistor is below 4.0°(
+The LED labelled B emits light only when the temperature of the thermistor is above 4.0°C
+On Fig. 7.1, draw and label the symbols for the two LEDs.
+[3]
+2017 - 2023
+395
+P4 Topical
+
+===== 9702/41_Summer_2019_Q7 | PDF 399-400 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+10 - (9702/41_Summer_2019_Q7) - Electronics
+The circuit for an inverting amplifier incorporating an ideal operational amplifier (op-amp) is shown
+in Fig. 7.1.
+5.2 kg
+0.80 kg.
++5 V
+P
+-5V
+R
+VIN
+VOUT
+D
+Fig. 7.1
+(a) For the circuit of Fig. 7.1:
+(i) explain why point P is known as a virtual earth
+[3]
+(ii) calculate the gain of the amplifier.
+gain = ..
+[2]
+2017 - 2023
+398
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(b) When the op-amp is saturated, the potential difference across the LED is 2.3 V.
+Calculate the minimum resistance of resistor R so that the current in the LED is limited to
+30mA.
+resistance = …
+2 [3]
+2017 - 2023
+399
+P4 Topical
+
+===== 9702/42_Summer_2019_Q9 | PDF 401-401 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+11 - (9702/42_Summer_2019_Q9) - Electronics
+Part of a circuit incorporating an operational amplifier (op-amp) is shown in Fig. 9.1.
+device
++5 V
+4.V
+K
++
+-5V
+Fig. 9.1
+(a) A relay is connected to the output of the op-amp circuit so that a lamp may be switched on
+or off.
+(i) Complete Fig. 9.1 to show the relay connected into the circuit.
+[2]
+(ii) State and explain whether the output of the op-amp is positive or negative for the lamp to
+be switched on.
+(b) State the device in Fig. 9.1 that could be used so that the circuit indicates a change in:
+(i) the bending of a rod
+-[1]
+(ii) the level of daylight to switch on a street light.
+- [1]
+2017 - 2023
+400
+P4 Topical
+
+===== 9702/41_Winter_2019_Q7 | PDF 402-403 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+12 - (9702/41_Winter_2019_Q7) - Electronics
+(a)
+An ideal operational amplifier (op-amp) has infinite bandwidth and zero output impedance.
+State what is meant by:
+(i) infinite bandwidth
+[1]
+(i)
+zero output impedance.
+(b) The circuit for a non-inverting amplifier incorporating an ideal op-amp is shown in Fig. 7.1.
+4.0 kg
++5.0 V
+VOUT
+VIN
+8009
+Fig. 7.1
+Teast hemiting diode (LED) emits light when the potential difference across it is at
+The current in the LED must not be greater than 20 mA.
+(i) Calculate the gain of the amplifier circuit.
+gain =
+12]
+2017 - 2023
+401
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(ii) Determine the value of Vin for which the value of Vour is +2.0V.
+VIN =
+.. V [1]
+(iii) State the maximum value of the output potential VouT
+maximum potential =
+- V [1]
+(iv) When the op-amp is saturated, the potential difference across the LED is 2.2 V.
+Calculate the minimum resistance of resistor R so that the current in the LED is limited to
+20 mA.
+resistance =…...
+....22
+2017 - 2023
+402
+P4 Topical
+
+===== 9702/42_Winter_2019_Q10 | PDF 404-406 | Electronics, Quantum Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+13 - (9702/42_Winter_2019_Q10) - Electronics, Quantum Physics
+The upper electron energy bands in an intrinsic semiconductor material are illustrated in
+Fig. 10.1.
+conductio
+(ban
+Fig. 10.1
+Use band theory to explain why the resistance of an intrinsic semiconductor material
+decreases as its temperature increases.
+[4]
+2017 - 2023
+403
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(b) A comparator circuit incorporating an ideal operational amplifier (op-amp) is shown in
+Fig. 10.2.
++3.0 V o-
++5 V
+1.50 kg
+-5V
+VOUT
+1.20 kg
+1 1.7662
+T
+Fig. 10.2
+The variation with temperature f of the resistance R, of the thermistor is shown in Fig. 10.3.
+3.5
+3.0-
+2.5-
+2.0+
+1.5-
+1.0-
+5
+10
+15
+20
+0/°C
+25
+Fig. 10.3
+2017 - 2023
+404
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(1) Determine the temperature at which the light-emitting diode (LED) in Fig. 10.2 switches
+on or off.
+temperature =
+.. °C [4]
+(ii) State and explain whether the thermistor is above or below the temperature calculated
+in (i) for the LED to emit light.
+...... [3]
+2017 - 2023
+405
+P4 Topical
+
+===== 9702/41_Summer_2020_Q7 | PDF 407-408 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+14 - (9702/41_Summer_2020_Q7) - Electronics
+The output of a microphone is processed using a non-inverting amplifier. The amplifier incorporates
+an operational amplifier (op-amp).
+(a) State, by reference to the input and output signals, the function of a non-inverting amplifier.
+(2]
+(b) The circuit for the microphone and amplifier is shown in Fig. 7.1.
+15k2
++5 V
+-5V
+VOUT
+2.0 kg
+-
+Fig. 7.1
+The output potential difference Vour is 2.6 V when the potential at point P is 84 mv.
+Determine:
+(i) the gain of the amplifier circuit
+gain =
+... [1]
+2017 - 2023
+406
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(ii) the resistance of resistor R
+resistance =
+.. 22 2]
+(c) For the circuit of Fig. 7.1:
+) Suge a surable device to mire to the a but such that the shape of the waveform
+[1]
+state and explain the effect on the output potential difference Vour of increasing the
+resistance of resistor R
+(2]
+2017 - 2023
+407
+P4 Topical
+
+===== 9702/42_Summer_2020_Q8 | PDF 409-410 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+15 - (9702/42_Summer_2020_Q8) - Electronics
+An ideal operational amplifier (op-amp) is connected to a load resistor.
+The op-amp is assumed to have infinite bandwidth and zero output resistance.
+State:
+(i) what is meant by infinite bandwidth
+(ii) the effect, if any, on the output voltage of increasing the load resistance.
+[1]
+(b) A student designs the circuit shown in Fig. 8.1 in order to indicate changes in temperature of
+the thermistor T.
+100 kg
+_ 11002
+150 kg
+1.5V
+L102
+Fig. 8.1
+(i) Explain why point P is known as a virtual earth.
+[3]
+2017 - 2023
+408
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(ii) Calculate the potential at point Q.
+potential =
+(iii) At a temperature of 13°C, the resistance of the thermistor T is 230k2.
+Show that the potential difference measured with the voltmeter is 0.88 V.
+.. V (2]
+12]
+(c) The resistance of the thermistor T in (b) decreases as its temperature rises.
+Explain the effect of this change in temperature on the potential difference measured with the
+[2]
+2017 - 2023
+409
+P4 Topical
+
+===== 9702/41_Winter_2020_Q7 | PDF 411-411 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+16 - (9702/41_Winter_2020_Q7) - Electronics
+An ideal operational amplifier (op-amp) is to be used in a comparator circuit.
+Part of the comparator circuit is shown in Fig. 7.1.
++5.0V
+-5.0V
+VOUT
+Fig. 7.1
+Three resistors, each of resistance 1000, and a negative temperature coefficient thermistor are
+available to complete the circuit.
+The circuit is to be designed so that, at low temperatures, the output Vour is -5.0V and at higher
+temperatures, the output Vour is to be +5.0 V.
+(a) On Fig. 7.1, draw the input circuit to the inverting and non-inverting inputs of the op-amp. [4]
+(b) State a suitable value for the thermistor resistance when the thermistor is at:
+(1) low temperature where Vour is -5.0 V
+[1]
+(ii) a higher temperature where Vour is +5.0V.
+[1]
+[Total: 6]
+2017 - 2023
+410
+P4 Topical
+
+===== 9702/42_Winter_2020_Q8 | PDF 412-413 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+17 - (9702/42_Winter_2020_Q8) - Electronics
+(a) An ideal operational amplifier (op-amp) is said to have infinite bandwidth and infinite slew
+rate.
+State what is meant by:
+(i) infinite bandwidth
+[1]
+(i) infinite slew rate.
+[1]
+(b) An amplifier circuit incorporating an op-amp is shown in Fig. 8.1.
+5.0V
+-50V
+VIN
+800 2
+VOUT
+Fig. 8.1
+The resistance of resistor R is to be fixed so that, for an input potential difference VIN of
+0.40 V, the amplifier is on the point of saturation.
+Determine:
+(i) the gain of the amplifier circuit
+gain =
+12]
+2017 - 2023
+411
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(ii) the resistance of resistor R
+resistance = .
+...2 [2]
+[Total: 6]
+2017 - 2023
+412
+P4 Topical
+
+===== 9702/42_Summer_2021_Q7 | PDF 414-415 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+18 - (9702/42_Summer_2021_Q7) - Electronics
+Two properties
+of an ideal operational amplifier (op-amp) are infinite input impedance and
+infinite bandwidth.
+State what is meant by:
+(i)
+infinite input impedance
+[1]
+(ii)
+infinite bandwidth.
+(b) A student uses a negative temperature coefficient thermistor in the circuit of Fig. 7.1 to
+indicate changes in temperature.
+100 kg
+1100Q
+1.5V T
+96 kg
++5.0V
+4002
+-5.0V
+Fig. 7.1
+(i) Show that the potential at point X is 0.40 V.
+11]
+2017 - 2023
+413
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+The thermistor has a resistance of 360 kg at a particular temperature.
+For this temperature of the thermistor, calculate the magnitude of the reading on the
+voltmeter reading = ….......
+V [3]
+(ili) The temperature of the thermistor increases.
+State and explain the effect of this change on the magnitude of the reading on the
+voltmeter.
+12]
+Explain why the amplifier circuit will no longer indicate temperature changes when the
+magnitude of the gain of the circuit is greater than 12.5.
+[1]
+2017 - 2023
+414
+P4 Topical
+
+===== 9702/41_Winter_2021_Q7 | PDF 416-417 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+19 - (9702/41_Winter_2021_Q7) - Electronics
+(a)
+State two properties of an ideal operational amplifier (op-amp).
+1.
+2
+12)
+(b) Fig. 7.1 shows a circuit that includes an ideal op-amp and two identical resistors R
+o +5 V
+-0-5 V
+State the names of components X and Y.
+X:
+Fig. 7.1
+Y:
+[1]
+(c) (i) Explain why the op-amp in Fig. 7.1 has only two possible output states.
+[2]
+(ii) State the name of the type of op-amp circuit in which the op-amp behaves as in (c)(i).
+[1]
+2017 - 2023
+415
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(iii) Describe the environmental condition under which the lamp L in Fig. 7.1 will light.
+[2]
+(iv) Suggest the purpose of the variable resistor V in the circuit.
+2017 - 2023
+416
+P4 Topical
+
+===== 9702/42_Winter_2021_Q7 | PDF 418-419 | Electronics =====
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+20 - (9702/42_Winter_2021_Q7) - Electronics
+(a) An operational amplifier (op-amp) has two input terminals and one output terminal.
+State what is meant by the gain of an op-amp.
+12]
+(b) State two effects of negative feedback on the gain of an amplifier circuit that uses an op-amp.
+1.
+2. ...
+(c) Fig. 7.1 shows an op-amp circuit that uses negative feedback.
+1.2 kg
++8.0V
+480Q
+VINO
+-o VOUT
+-8.0V
+ovo
+Fig. 7.1
+(i) State the name of the type of circuit shown in Fig. 7.1.
+11]
+(ii) On Fig. 7.1, label with the letter X a point in the circuit that is considered to be a virtual
+earth.
+2017 - 2023
+417
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH21 - ELECTRONICS
+(iii) Calculate the gain of the circuit in Fig. 7.1.
+gain =
+(iv) Determine the value of ViN when Vour is +6.5V.
+(2]
+VIN =
+(v) Determine the value of VouT when VIN is -5.4 V.
+.V [1]
+VouT =
+.V [1]
+2017 - 2023
+418
+P4 Topical

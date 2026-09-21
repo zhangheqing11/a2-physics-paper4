@@ -1,0 +1,1223 @@
+{
+  "scope": "2022-2025现有50份QP与50份MS；非网站全版本完整性声明",
+  "inventory": [
+    {
+      "id": "9702_s22_qp_41",
+      "kind": "qp",
+      "year": "2022",
+      "season": "s",
+      "component": "41",
+      "start": 1,
+      "end": 24,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s22_qp_42",
+      "kind": "qp",
+      "year": "2022",
+      "season": "s",
+      "component": "42",
+      "start": 25,
+      "end": 46,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s22_qp_43",
+      "kind": "qp",
+      "year": "2022",
+      "season": "s",
+      "component": "43",
+      "start": 47,
+      "end": 70,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s22_qp_51",
+      "kind": "qp",
+      "year": "2022",
+      "season": "s",
+      "component": "51",
+      "start": 71,
+      "end": 78,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s22_qp_52",
+      "kind": "qp",
+      "year": "2022",
+      "season": "s",
+      "component": "52",
+      "start": 79,
+      "end": 86,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s22_qp_53",
+      "kind": "qp",
+      "year": "2022",
+      "season": "s",
+      "component": "53",
+      "start": 87,
+      "end": 94,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w22_qp_41",
+      "kind": "qp",
+      "year": "2022",
+      "season": "w",
+      "component": "41",
+      "start": 95,
+      "end": 117,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w22_qp_42",
+      "kind": "qp",
+      "year": "2022",
+      "season": "w",
+      "component": "42",
+      "start": 118,
+      "end": 139,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w22_qp_43",
+      "kind": "qp",
+      "year": "2022",
+      "season": "w",
+      "component": "43",
+      "start": 140,
+      "end": 162,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w22_qp_51",
+      "kind": "qp",
+      "year": "2022",
+      "season": "w",
+      "component": "51",
+      "start": 163,
+      "end": 170,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w22_qp_52",
+      "kind": "qp",
+      "year": "2022",
+      "season": "w",
+      "component": "52",
+      "start": 171,
+      "end": 178,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w22_qp_53",
+      "kind": "qp",
+      "year": "2022",
+      "season": "w",
+      "component": "53",
+      "start": 179,
+      "end": 186,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s23_qp_41",
+      "kind": "qp",
+      "year": "2023",
+      "season": "s",
+      "component": "41",
+      "start": 187,
+      "end": 208,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s23_qp_42",
+      "kind": "qp",
+      "year": "2023",
+      "season": "s",
+      "component": "42",
+      "start": 209,
+      "end": 231,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s23_qp_43",
+      "kind": "qp",
+      "year": "2023",
+      "season": "s",
+      "component": "43",
+      "start": 232,
+      "end": 253,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s23_qp_51",
+      "kind": "qp",
+      "year": "2023",
+      "season": "s",
+      "component": "51",
+      "start": 254,
+      "end": 261,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s23_qp_52",
+      "kind": "qp",
+      "year": "2023",
+      "season": "s",
+      "component": "52",
+      "start": 262,
+      "end": 269,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s23_qp_53",
+      "kind": "qp",
+      "year": "2023",
+      "season": "s",
+      "component": "53",
+      "start": 270,
+      "end": 277,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w23_qp_41",
+      "kind": "qp",
+      "year": "2023",
+      "season": "w",
+      "component": "41",
+      "start": 278,
+      "end": 300,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w23_qp_42",
+      "kind": "qp",
+      "year": "2023",
+      "season": "w",
+      "component": "42",
+      "start": 301,
+      "end": 322,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w23_qp_43",
+      "kind": "qp",
+      "year": "2023",
+      "season": "w",
+      "component": "43",
+      "start": 323,
+      "end": 345,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w23_qp_51",
+      "kind": "qp",
+      "year": "2023",
+      "season": "w",
+      "component": "51",
+      "start": 346,
+      "end": 353,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w23_qp_52",
+      "kind": "qp",
+      "year": "2023",
+      "season": "w",
+      "component": "52",
+      "start": 354,
+      "end": 361,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w23_qp_53",
+      "kind": "qp",
+      "year": "2023",
+      "season": "w",
+      "component": "53",
+      "start": 362,
+      "end": 369,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_m24_qp_42",
+      "kind": "qp",
+      "year": "2024",
+      "season": "m",
+      "component": "42",
+      "start": 370,
+      "end": 395,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_m24_qp_52",
+      "kind": "qp",
+      "year": "2024",
+      "season": "m",
+      "component": "52",
+      "start": 396,
+      "end": 403,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s24_qp_41",
+      "kind": "qp",
+      "year": "2024",
+      "season": "s",
+      "component": "41",
+      "start": 404,
+      "end": 426,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s24_qp_42",
+      "kind": "qp",
+      "year": "2024",
+      "season": "s",
+      "component": "42",
+      "start": 427,
+      "end": 450,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s24_qp_43",
+      "kind": "qp",
+      "year": "2024",
+      "season": "s",
+      "component": "43",
+      "start": 451,
+      "end": 473,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s24_qp_51",
+      "kind": "qp",
+      "year": "2024",
+      "season": "s",
+      "component": "51",
+      "start": 474,
+      "end": 481,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s24_qp_52",
+      "kind": "qp",
+      "year": "2024",
+      "season": "s",
+      "component": "52",
+      "start": 482,
+      "end": 489,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s24_qp_53",
+      "kind": "qp",
+      "year": "2024",
+      "season": "s",
+      "component": "53",
+      "start": 490,
+      "end": 497,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w24_qp_41",
+      "kind": "qp",
+      "year": "2024",
+      "season": "w",
+      "component": "41",
+      "start": 498,
+      "end": 521,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w24_qp_42",
+      "kind": "qp",
+      "year": "2024",
+      "season": "w",
+      "component": "42",
+      "start": 522,
+      "end": 545,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w24_qp_43",
+      "kind": "qp",
+      "year": "2024",
+      "season": "w",
+      "component": "43",
+      "start": 546,
+      "end": 569,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w24_qp_51",
+      "kind": "qp",
+      "year": "2024",
+      "season": "w",
+      "component": "51",
+      "start": 570,
+      "end": 577,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w24_qp_52",
+      "kind": "qp",
+      "year": "2024",
+      "season": "w",
+      "component": "52",
+      "start": 578,
+      "end": 585,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w24_qp_53",
+      "kind": "qp",
+      "year": "2024",
+      "season": "w",
+      "component": "53",
+      "start": 586,
+      "end": 593,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s25_qp_41",
+      "kind": "qp",
+      "year": "2025",
+      "season": "s",
+      "component": "41",
+      "start": 594,
+      "end": 617,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s25_qp_42",
+      "kind": "qp",
+      "year": "2025",
+      "season": "s",
+      "component": "42",
+      "start": 618,
+      "end": 641,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s25_qp_43",
+      "kind": "qp",
+      "year": "2025",
+      "season": "s",
+      "component": "43",
+      "start": 642,
+      "end": 665,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s25_qp_51",
+      "kind": "qp",
+      "year": "2025",
+      "season": "s",
+      "component": "51",
+      "start": 666,
+      "end": 673,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s25_qp_52",
+      "kind": "qp",
+      "year": "2025",
+      "season": "s",
+      "component": "52",
+      "start": 674,
+      "end": 681,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_s25_qp_53",
+      "kind": "qp",
+      "year": "2025",
+      "season": "s",
+      "component": "53",
+      "start": 682,
+      "end": 689,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w25_qp_41",
+      "kind": "qp",
+      "year": "2025",
+      "season": "w",
+      "component": "41",
+      "start": 690,
+      "end": 713,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w25_qp_42",
+      "kind": "qp",
+      "year": "2025",
+      "season": "w",
+      "component": "42",
+      "start": 714,
+      "end": 737,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w25_qp_43",
+      "kind": "qp",
+      "year": "2025",
+      "season": "w",
+      "component": "43",
+      "start": 738,
+      "end": 761,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w25_qp_51",
+      "kind": "qp",
+      "year": "2025",
+      "season": "w",
+      "component": "51",
+      "start": 762,
+      "end": 769,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w25_qp_52",
+      "kind": "qp",
+      "year": "2025",
+      "season": "w",
+      "component": "52",
+      "start": 770,
+      "end": 777,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_w25_qp_53",
+      "kind": "qp",
+      "year": "2025",
+      "season": "w",
+      "component": "53",
+      "start": 778,
+      "end": 785,
+      "file": "（已压缩）9702_ALL_QuestionPapers_merged.pdf"
+    },
+    {
+      "id": "9702_m24_ms_42",
+      "kind": "ms",
+      "year": "2024",
+      "season": "m",
+      "component": "42",
+      "start": 1,
+      "end": 14,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_m24_ms_52",
+      "kind": "ms",
+      "year": "2024",
+      "season": "m",
+      "component": "52",
+      "start": 15,
+      "end": 23,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s22_ms_41",
+      "kind": "ms",
+      "year": "2022",
+      "season": "s",
+      "component": "41",
+      "start": 24,
+      "end": 39,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s22_ms_42",
+      "kind": "ms",
+      "year": "2022",
+      "season": "s",
+      "component": "42",
+      "start": 40,
+      "end": 55,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s22_ms_43",
+      "kind": "ms",
+      "year": "2022",
+      "season": "s",
+      "component": "43",
+      "start": 56,
+      "end": 71,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s22_ms_51",
+      "kind": "ms",
+      "year": "2022",
+      "season": "s",
+      "component": "51",
+      "start": 72,
+      "end": 81,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s22_ms_52",
+      "kind": "ms",
+      "year": "2022",
+      "season": "s",
+      "component": "52",
+      "start": 82,
+      "end": 92,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s22_ms_53",
+      "kind": "ms",
+      "year": "2022",
+      "season": "s",
+      "component": "53",
+      "start": 93,
+      "end": 102,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s23_ms_41",
+      "kind": "ms",
+      "year": "2023",
+      "season": "s",
+      "component": "41",
+      "start": 103,
+      "end": 118,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s23_ms_42",
+      "kind": "ms",
+      "year": "2023",
+      "season": "s",
+      "component": "42",
+      "start": 119,
+      "end": 133,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s23_ms_43",
+      "kind": "ms",
+      "year": "2023",
+      "season": "s",
+      "component": "43",
+      "start": 134,
+      "end": 149,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s23_ms_51",
+      "kind": "ms",
+      "year": "2023",
+      "season": "s",
+      "component": "51",
+      "start": 150,
+      "end": 161,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s23_ms_52",
+      "kind": "ms",
+      "year": "2023",
+      "season": "s",
+      "component": "52",
+      "start": 162,
+      "end": 173,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s23_ms_53",
+      "kind": "ms",
+      "year": "2023",
+      "season": "s",
+      "component": "53",
+      "start": 174,
+      "end": 185,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s24_ms_41",
+      "kind": "ms",
+      "year": "2024",
+      "season": "s",
+      "component": "41",
+      "start": 186,
+      "end": 200,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s24_ms_42",
+      "kind": "ms",
+      "year": "2024",
+      "season": "s",
+      "component": "42",
+      "start": 201,
+      "end": 216,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s24_ms_43",
+      "kind": "ms",
+      "year": "2024",
+      "season": "s",
+      "component": "43",
+      "start": 217,
+      "end": 231,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s24_ms_51",
+      "kind": "ms",
+      "year": "2024",
+      "season": "s",
+      "component": "51",
+      "start": 232,
+      "end": 240,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s24_ms_52",
+      "kind": "ms",
+      "year": "2024",
+      "season": "s",
+      "component": "52",
+      "start": 241,
+      "end": 250,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s24_ms_53",
+      "kind": "ms",
+      "year": "2024",
+      "season": "s",
+      "component": "53",
+      "start": 251,
+      "end": 259,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s25_ms_41",
+      "kind": "ms",
+      "year": "2025",
+      "season": "s",
+      "component": "41",
+      "start": 260,
+      "end": 278,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s25_ms_42",
+      "kind": "ms",
+      "year": "2025",
+      "season": "s",
+      "component": "42",
+      "start": 279,
+      "end": 296,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s25_ms_43",
+      "kind": "ms",
+      "year": "2025",
+      "season": "s",
+      "component": "43",
+      "start": 297,
+      "end": 315,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s25_ms_51",
+      "kind": "ms",
+      "year": "2025",
+      "season": "s",
+      "component": "51",
+      "start": 316,
+      "end": 327,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s25_ms_52",
+      "kind": "ms",
+      "year": "2025",
+      "season": "s",
+      "component": "52",
+      "start": 328,
+      "end": 339,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_s25_ms_53",
+      "kind": "ms",
+      "year": "2025",
+      "season": "s",
+      "component": "53",
+      "start": 340,
+      "end": 351,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w22_ms_41",
+      "kind": "ms",
+      "year": "2022",
+      "season": "w",
+      "component": "41",
+      "start": 352,
+      "end": 366,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w22_ms_42",
+      "kind": "ms",
+      "year": "2022",
+      "season": "w",
+      "component": "42",
+      "start": 367,
+      "end": 382,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w22_ms_43",
+      "kind": "ms",
+      "year": "2022",
+      "season": "w",
+      "component": "43",
+      "start": 383,
+      "end": 397,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w22_ms_51",
+      "kind": "ms",
+      "year": "2022",
+      "season": "w",
+      "component": "51",
+      "start": 398,
+      "end": 406,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w22_ms_52",
+      "kind": "ms",
+      "year": "2022",
+      "season": "w",
+      "component": "52",
+      "start": 407,
+      "end": 415,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w22_ms_53",
+      "kind": "ms",
+      "year": "2022",
+      "season": "w",
+      "component": "53",
+      "start": 416,
+      "end": 424,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w23_ms_41",
+      "kind": "ms",
+      "year": "2023",
+      "season": "w",
+      "component": "41",
+      "start": 425,
+      "end": 440,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w23_ms_42",
+      "kind": "ms",
+      "year": "2023",
+      "season": "w",
+      "component": "42",
+      "start": 441,
+      "end": 455,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w23_ms_43",
+      "kind": "ms",
+      "year": "2023",
+      "season": "w",
+      "component": "43",
+      "start": 456,
+      "end": 471,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w23_ms_51",
+      "kind": "ms",
+      "year": "2023",
+      "season": "w",
+      "component": "51",
+      "start": 472,
+      "end": 481,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w23_ms_52",
+      "kind": "ms",
+      "year": "2023",
+      "season": "w",
+      "component": "52",
+      "start": 482,
+      "end": 492,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w23_ms_53",
+      "kind": "ms",
+      "year": "2023",
+      "season": "w",
+      "component": "53",
+      "start": 493,
+      "end": 502,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w24_ms_41",
+      "kind": "ms",
+      "year": "2024",
+      "season": "w",
+      "component": "41",
+      "start": 503,
+      "end": 517,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w24_ms_42",
+      "kind": "ms",
+      "year": "2024",
+      "season": "w",
+      "component": "42",
+      "start": 518,
+      "end": 531,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w24_ms_43",
+      "kind": "ms",
+      "year": "2024",
+      "season": "w",
+      "component": "43",
+      "start": 532,
+      "end": 546,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w24_ms_51",
+      "kind": "ms",
+      "year": "2024",
+      "season": "w",
+      "component": "51",
+      "start": 547,
+      "end": 557,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w24_ms_52",
+      "kind": "ms",
+      "year": "2024",
+      "season": "w",
+      "component": "52",
+      "start": 558,
+      "end": 567,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w24_ms_53",
+      "kind": "ms",
+      "year": "2024",
+      "season": "w",
+      "component": "53",
+      "start": 568,
+      "end": 578,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w25_ms_41",
+      "kind": "ms",
+      "year": "2025",
+      "season": "w",
+      "component": "41",
+      "start": 579,
+      "end": 595,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w25_ms_42",
+      "kind": "ms",
+      "year": "2025",
+      "season": "w",
+      "component": "42",
+      "start": 596,
+      "end": 612,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w25_ms_43",
+      "kind": "ms",
+      "year": "2025",
+      "season": "w",
+      "component": "43",
+      "start": 613,
+      "end": 629,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w25_ms_51",
+      "kind": "ms",
+      "year": "2025",
+      "season": "w",
+      "component": "51",
+      "start": 630,
+      "end": 640,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w25_ms_52",
+      "kind": "ms",
+      "year": "2025",
+      "season": "w",
+      "component": "52",
+      "start": 641,
+      "end": 651,
+      "file": "9702_all_ms_merged.pdf"
+    },
+    {
+      "id": "9702_w25_ms_53",
+      "kind": "ms",
+      "year": "2025",
+      "season": "w",
+      "component": "53",
+      "start": 652,
+      "end": 662,
+      "file": "9702_all_ms_merged.pdf"
+    }
+  ],
+  "recovered": [
+    {
+      "paper": "9702_s23_qp_41",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 22,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_s23_qp_41.pdf",
+      "sha256": "c4052fc2c7bd013d9cb82c2c87e76da5867588e35fc444a33fefceda350fc927",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_s23_qp_42",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_s23_qp_42.pdf",
+      "sha256": "b41d6a4694e3484ca1bd8d558a879d0ad43352b86fceb564076343fcab504e7c",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_s23_qp_43",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 22,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_s23_qp_43.pdf",
+      "sha256": "3a5e888185ccbabb6bc84e8112f888b0f57eb13755247a55b306dc6c62460785",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_s24_qp_41",
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2024/9702_s24_qp_41.pdf",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "sha256": "75b24a18266c202aa92244d93ac859c27576ad5542ac7ae2a6ea97e7e0c12b4d",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_s24_qp_43",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2024/9702_s24_qp_43.pdf",
+      "sha256": "7f8023de33392a1d35f0426aff4b6ef3dc8d0de66fad3bb69fb26f6334bd4a19",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_s22_qp_42",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 22,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_s22_qp_42.pdf",
+      "sha256": "600de30efd96440975e3f3e8c147b885ed8c44b9c4707baa57ddb400bd667a8b",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_w23_qp_41",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_w23_qp_41.pdf",
+      "sha256": "8e4731774167b1b42c451806cb426b319f49c34acdd5fac8e29ac6b19e09a894",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_w23_qp_43",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_w23_qp_43.pdf",
+      "sha256": "922027dc61e8583a798b190a6f786323cddcc265e52bcfd0086349cb273bbb3d",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_w23_qp_42",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 22,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2023/9702_w23_qp_42.pdf",
+      "sha256": "12fb4175403d74012971a7e138b7757577dba7730007c712ec8064339a622d0f",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_m24_qp_42",
+      "declared_pages": 28,
+      "original_pages": 28,
+      "merged_pages": 26,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2024/9702_m24_qp_42.pdf",
+      "sha256": "0c4db751f254221422d7af8d6b1a9a2f3cf40ef0e1bc6f9095d9941c9aca313e",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_w22_qp_41",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_w22_qp_41.pdf",
+      "sha256": "cab47df81d9443be29717c32ac1ba0f6dbb36bf80ed914fd3090bd0fd2b6d48a",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_w22_qp_43",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 23,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_w22_qp_43.pdf",
+      "sha256": "51ab764eb6192fb564db9e1d7990bc0352158635d356b6779bfdcc43f99d2bc2",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    },
+    {
+      "paper": "9702_w22_qp_42",
+      "declared_pages": 24,
+      "original_pages": 24,
+      "merged_pages": 22,
+      "source": "https://bestexamhelp.com/exam/cambridge-international-a-level/physics-9702/2022/9702_w22_qp_42.pdf",
+      "sha256": "10807f6279476338c180c859f5ae95e11fbb7fe3b5b6b4da4d6122dc98081427",
+      "review": "页数差异与删空白页相符；已完成文本对照，非全页图形质量审核"
+    }
+  ],
+  "page_text_review": [
+    {
+      "paper": "9702_m24_qp_42",
+      "page_review": [
+        "17:blank",
+        "27:blank",
+        "28:blank"
+      ]
+    },
+    {
+      "paper": "9702_s22_qp_42",
+      "page_review": [
+        "22:blank",
+        "23:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_s23_qp_41",
+      "page_review": [
+        "22:blank",
+        "23:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_s23_qp_42",
+      "page_review": [
+        "22:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_s23_qp_43",
+      "page_review": [
+        "22:blank",
+        "23:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_s24_qp_41",
+      "page_review": [
+        "23:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_s24_qp_43",
+      "page_review": [
+        "23:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_w22_qp_41",
+      "page_review": [
+        "11:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_w22_qp_42",
+      "page_review": [
+        "6:blank",
+        "22:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_w22_qp_43",
+      "page_review": [
+        "11:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_w23_qp_41",
+      "page_review": [
+        "22:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_w23_qp_42",
+      "page_review": [
+        "8:blank",
+        "22:blank",
+        "24:blank"
+      ]
+    },
+    {
+      "paper": "9702_w23_qp_43",
+      "page_review": [
+        "22:blank",
+        "24:blank"
+      ]
+    }
+  ]
+}

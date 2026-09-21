@@ -1,0 +1,573 @@
+
+=== MERGED PAGE 482 ===
+                                                     * 0019655344301 *
+
+
+
+                                  ,                     ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬Oz> 3mIqYyekfpW
+                          ¬dE¬-UTqxjOwcA\
+                          ¥¥¥55eueU¥eE U5U
+
+
+
+
+* 5 4 1 3 5 1 2 0 8 4 *
+                                               PHYSICS                                                                                         9702/52
+                                               Paper 5 Planning, Analysis and Evaluation                                                May/June 2024
+
+                                                                                                                                      1 hour 15 minutes
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 30.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                                        This document has 8 pages.
+
+
+                                               DC (SL/CB) 329812/1
+                                               © UCLES 2024                                                                                   [Turn over
+
+
+=== MERGED PAGE 483 ===
+        * 0019655344302 *
+
+
+
+
+                                                                                                        DO NOT WRITE IN THIS MARGIN
+                                                          2
+,           ,
+
+1   A spring is attached to a strong cylindrical magnet of length L and cross-sectional area A. The
+    magnet is placed on thin card on top of a magnetic sheet on the bench, as shown in Fig. 1.1.
+
+
+
+
+                                                                    spring
+
+
+
+                                                                      cylindrical magnet
+
+
+
+
+                                                                                                        DO NOT WRITE IN THIS MARGIN
+                            magnetic sheet
+                                                                             card
+                      bench
+                                                                                      t
+
+
+                                                     Fig. 1.1
+
+    The thickness of the card is t. The magnetic flux density at one of the poles of the magnet is B.
+
+    A force is applied upwards to the spring. The extension of the spring when the magnet just leaves
+    the card is s.
+
+
+
+
+                                                                                                        DO NOT WRITE IN THIS MARGIN
+    It is suggested that s is related to t by the relationship
+
+                                                          ALBZ
+                                                   ks =
+                                                            t
+    where k is the spring constant of the spring and Z is a constant.
+
+    Plan a laboratory experiment to test the relationship between s and t.
+
+    Draw a diagram showing the arrangement of your equipment.
+
+    Explain how the results could be used to determine a value for Z.
+
+
+
+
+                                                                                                        DO NOT WRITE IN THIS MARGIN
+    In your plan you should include:
+
+    ●     the procedure to be followed
+
+    ●     the measurements to be taken
+
+    ●     the control of variables
+
+    ●     the analysis of the data
+
+    ●     any safety precautions to be taken.
+
+
+
+
+                                                                                                        DO NOT WRITE IN THIS MARGIN
+                              ĬÍú¾Ġ³íÉñÙùåĂêþèî×
+© UCLES 2024                  ĬĖěãÈĠ¹³ëĀĂÅħýēùÔĂ   9702/52/M/J/24
+                              ĥµõĕõÕĥĕĕĕµĥÅÕĥĕĕÕ
+
+
+=== MERGED PAGE 484 ===
+                                      * 0019655344303 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                           3
+                              ,           ,
+
+                                  Diagram
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                                                  ĬÏú¾Ġ³íÉñÙùåĂêĀèî×
+                              © UCLES 2024                        ĬĖĜäÀĪµÃÎúïĄ³õÇùäĂ
+                                                                  ĥµąÕµµąõąĥĥĥÅµąÕąÕ
+                                                                                                   9702/52/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 485 ===
+        * 0019655344304 *
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+                                                                             4
+,           ,
+
+
+
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     .................................................................................................................................................. [15]
+                                    ĬÍú¾Ġ³íÉñÙùåĂìþèð×
+© UCLES 2024                        ĬĖĜáÀĤÇÆéøøċđÙĥĩÜĂ               9702/52/M/J/24
+                                    ĥąÕÕõµąÕĥÅĕĥąµåÕĕÕ
+
+
+=== MERGED PAGE 486 ===
+                                     * 0019655344405 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               5
+                              ,           ,
+
+                              2   A student investigates the resonant frequency of a metal rod. The metal rod of length L is
+                                  suspended from two rubber loops. A sensitive microphone with a cone is positioned at one end of
+                                  the rod. The microphone is attached to an oscilloscope, as shown in Fig. 2.1.
+
+                                                                                                                                    cone
+                                                                                     rubber loop                                             microphone
+
+                                                                                                                                              to oscilloscope
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  hammer                                      rod
+                                                                                                                                 stand
+                                                                                                                                         bench
+
+
+
+                                                                                    Fig. 2.1 (not to scale)
+
+                                  The rod is hit gently with a hammer.
+
+                                  The period T of the trace produced on the oscilloscope is determined.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  The experiment is repeated for different values of L.
+
+                                  It is suggested that T and L are related by the equation
+
+                                                                                                2Ln
+                                                                                           T=
+                                                                                                 C
+                                  where C and n are constants.
+
+                                  (a) A graph is plotted of lg T on the y-axis against lg L on the x-axis.
+
+                                       Determine expressions for the gradient and y-intercept.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+                                                                                                gradient = ...............................................................
+
+                                                                                             y-intercept = ...............................................................
+                                                                                                                                                                      [1]
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                         ĬÏù¿Ġ³íÉñÙùåĂëþèð×
+                              © UCLES 2024               ĬĖĜãÃğ¸äÚõČ°êęĥÙäĂ
+                                                         ĥµõĕõĕåµąÅµĥÅõåĕåÕ
+                                                                                         9702/52/M/J/24                                                   [Turn over
+
+
+=== MERGED PAGE 487 ===
+       * 0019655344406 *
+
+
+
+
+                                                                                                                                      DO NOT WRITE IN THIS MARGIN
+                                                          6
+,            ,
+
+    (b) Values of L and T are given in Table 2.1.
+
+                                                     Table 2.1
+
+
+            L / cm                 T / 10–5 s         lg (L / cm)                           lg (T / 10–5 s)
+
+
+                54                        24 ± 1
+
+
+
+
+                                                                                                                                      DO NOT WRITE IN THIS MARGIN
+                70                        32 ± 1
+
+
+                86                        39 ± 1
+
+
+                108                       49 ± 2
+
+
+                140                       64 ± 2
+
+
+                167                       74 ± 2
+
+
+
+
+                                                                                                                                      DO NOT WRITE IN THIS MARGIN
+         Calculate and record values of lg (L / cm) and lg (T / 10–5 s) in Table 2.1.
+         Include the absolute uncertainties in lg T.                                                                           [2]
+
+    (c) (i)      Plot a graph of lg (T / 10–5 s) against lg (L / cm). Include error bars for lg T.                             [2]
+
+         (ii)    Draw the straight line of best fit and a worst acceptable straight line on your graph. Label
+                 both lines.                                                                              [2]
+
+        (iii)    Determine the gradient of the line of best fit. Include the absolute uncertainty in your
+                 answer.
+
+
+
+
+                                                                                                                                      DO NOT WRITE IN THIS MARGIN
+
+
+
+
+                                                           gradient = ......................................................... [2]
+
+
+
+
+                                                                                                                                      DO NOT WRITE IN THIS MARGIN
+                             ĬÑù¿Ġ³íÉñÙùåĂêþåî×
+© UCLES 2024                 ĬĖěãÀĥÐêÒòùÅÊġĈñÔĂ     9702/52/M/J/24
+                             ĥĥÕĕõµåĕÅåĕĥąõąÕõÕ
+
+
+=== MERGED PAGE 488 ===
+                                     * 0019655344407 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                              7
+                              ,           ,
+
+
+                                                     1.90
+
+
+
+
+                                                     1.85
+
+
+
+
+                                                     1.80
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   lg (T / 10–5 s)
+
+                                                     1.75
+
+
+
+
+                                                     1.70
+
+
+
+
+                                                     1.65
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                     1.60
+
+
+
+
+                                                     1.55
+
+
+
+
+                                                     1.50
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                     1.45
+
+
+
+
+                                                     1.40
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                     1.35
+                                                         1.7                     1.8    1.9             2.0   2.1           2.2     2.3
+                                                                                                                 lg (L / cm)
+
+
+
+
+                                                            ĬÓù¿Ġ³íÉñÙùåĂêĀåî×
+                              © UCLES 2024                  ĬĖĜäÈģÔÚçĈĈĄĎęÔñäĂ
+                                                            ĥĥåÕµÕÅõÕÕÅĥąĕĥĕĥÕ
+                                                                                       9702/52/M/J/24                             [Turn over
+
+
+=== MERGED PAGE 489 ===
+          * 0019655344408 *
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                            8
+,                                              ,
+
+            (iv)     Determine the y-intercept of the line of best fit. Include the absolute uncertainty in your
+                     answer.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                         y-intercept = ......................................................... [2]
+
+       (d) Using your answers to (a), (c)(iii) and (c)(iv), determine the values of n and C. Include the
+           absolute uncertainties in your values. You need not be concerned with units.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+
+
+
+                                                                                        n = ...............................................................
+
+                                                                                       C = ...............................................................
+                                                                                                                                                      [3]
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+       (e) The experiment is repeated. Determine the length L of the rod that gives a value of T of
+           0.10 ms.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                        L = ................................................... cm [1]
+
+                                                                                                                                            [Total: 15]
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+                                     ĬÑù¿Ġ³íÉñÙùåĂìþåð×
+© UCLES 2024                         ĬĖĜáÈĩâÏÔĊÿċ°µòġÜĂ             9702/52/M/J/24
+                                     ĥÕõÕõÕÅÕµõµĥÅĕÅĕõÕ

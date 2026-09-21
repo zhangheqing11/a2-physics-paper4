@@ -1,0 +1,1069 @@
+
+=== MERGED PAGE 404 ===
+                          Cambridge International AS & A Level
+
+
+
+
+* 5 0 3 9 5 5 6 1 4 5 *
+                          PHYSICS                                                                                         9702/41
+                          Paper 4 A Level Structured Questions                                                     May/June 2024
+
+                                                                                                                           2 hours
+
+                          You must answer on the question paper.
+
+                          No additional materials are needed.
+
+                          INSTRUCTIONS
+                          ●   Answer all questions.
+                          ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                          ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                          ●   Write your answer to each question in the space provided.
+                          ●   Do not use an erasable pen or correction fluid.
+                          ●   Do not write on any bar codes.
+                          ●   You may use a calculator.
+                          ●   You should show all your working and use appropriate units.
+
+
+                          INFORMATION
+                          ●   The total mark for this paper is 100.
+                          ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                 This document has 24 pages. Any blank pages are indicated.
+
+
+                          DC (SL/CB) 329807/2
+                          © UCLES 2024                                                                                   [Turn over
+
+
+=== MERGED PAGE 405 ===
+                                               2
+
+Data
+
+acceleration of free fall               g = 9.81 m s–2
+
+speed of light in free space            c = 3.00 × 108 m s–1
+
+elementary charge                       e = 1.60 × 10–19 C
+
+unified atomic mass unit              1 u = 1.66 × 10–27 kg
+
+rest mass of proton                    mp = 1.67 × 10–27 kg
+
+rest mass of electron                  me = 9.11 × 10–31 kg
+
+Avogadro constant                      NA = 6.02 × 1023 mol–1
+
+molar gas constant                      R = 8.31 J K–1 mol–1
+
+Boltzmann constant                      k = 1.38 × 10–23 J K–1
+
+gravitational constant                  G = 6.67 × 10–11 N m2 kg–2
+
+permittivity of free space              ε0 = 8.85 × 10–12 F m–1
+                                      1
+                                 (        = 8.99 × 109 m F–1)
+                                     4rf0
+
+Planck constant                         h = 6.63 × 10–34 J s
+
+Stefan–Boltzmann constant               σ = 5.67 × 10–8 W m–2 K–4
+
+
+
+Formulae
+
+uniformly accelerated motion            s = ut + 12 at 2
+                                       v 2 = u 2 + 2as
+
+hydrostatic pressure                   ∆p = ρg∆h
+
+upthrust                                F = ρgV
+
+                                               fs v
+Doppler effect for sound waves          fo = v ! v
+                                                   s
+
+
+electric current                        I = Anvq
+
+resistors in series                     R = R1 + R2 + ...
+
+                                       1   1   1
+resistors in parallel                    =   +   + ...
+                                       R   R1 R2
+
+
+
+
+© UCLES 2024                             9702/41/M/J/24
+
+
+=== MERGED PAGE 406 ===
+                                          32
+
+                                        GM
+gravitational potential             ϕ =– r
+
+                                            GMm
+gravitational potential energy     EP = –    r
+
+                                          1 Nm
+pressure of an ideal gas            p = 3          〈c2〉
+                                            V
+
+simple harmonic motion              a = – ω 2x
+
+velocity of particle in s.h.m.      v = v0 cos ωt
+                                    v = !ω         (x 02 - x 2)
+
+                                            Q
+electric potential                 V =
+                                          4rf0 r
+
+                                           Qq
+electrical potential energy        EP =
+                                          4rf0 r
+
+                                   1   1   1
+capacitors in series                 =   +   + ...
+                                   C   C1 C2
+
+capacitors in parallel             C = C1 + C2 + ...
+
+                                                   t
+discharge of a capacitor            x = x 0 e - RC
+
+                                          BI
+Hall voltage                       VH =
+                                          ntq
+
+alternating current/voltage         x = x0 sin ωt
+
+radioactive decay                   x = x0e–λt
+
+                                          0.693
+decay constant                      λ =
+                                            t1
+                                               2
+
+
+
+                                   IR   (Z 1 - Z 2) 2
+intensity reflection coefficient      =
+                                   I0   (Z 1 + Z 2) 2
+
+Stefan–Boltzmann law                L = 4πσr 2T 4
+
+                                   ∆λ Df  v
+Doppler redshift                     á   ác
+                                   λ   f
+
+
+
+
+© UCLES 2024                        9702/41/M/J/24                [Turn over
+
+
+=== MERGED PAGE 407 ===
+                                                                           4
+
+1   (a) Define gravitational potential at a point.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A satellite X, of mass M, orbits a planet at a constant distance 4R from the centre of the
+        planet, as shown in Fig. 1.1.
+
+                                                                                                              planet
+                  orbit of Y
+
+                                                                                                                        satellite X,
+                                                                                                                        mass M
+
+
+
+                                                                    R                    4R
+
+                satellite Y,
+                 mass 2M
+
+                                                                                                                  orbit of X
+
+
+                                                           Fig. 1.1 (not to scale)
+
+         A second satellite Y, of mass 2M, orbits the planet with orbital radius R.
+
+         The gravitational potential at X due to the planet is –Φ. The planet is a uniform sphere.
+
+          (i)    Explain why the gravitational potential at X is negative.
+
+                  ...........................................................................................................................................
+
+                  ...........................................................................................................................................
+
+                  ..................................................................................................................................... [2]
+
+         (ii)    State an expression, in terms of Φ, for the gravitational potential at Y due to the planet.
+
+
+
+
+                                                       gravitational potential = ......................................................... [2]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 408 ===
+                                                     5
+
+        (iii)   Complete Table 1.1 by giving expressions, in terms of some or all of M, R and Φ, for the
+                quantities indicated for each of the satellites X and Y.
+
+                                                Table 1.1
+
+                                                satellite X                  satellite Y
+
+
+         gravitational field strength
+          at satellite due to planet
+
+
+
+           gravitational potential
+             energy of satellite
+
+
+                                                                                                      [4]
+
+                                                                                              [Total: 10]
+
+
+
+
+© UCLES 2024                                   9702/41/M/J/24                               [Turn over
+
+
+=== MERGED PAGE 409 ===
+                                                                         6
+
+2   (a) (i)     State the magnitude and unit of absolute zero on the thermodynamic temperature scale.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain why temperature measured using a laboratory liquid-in-glass thermometer does
+                not give a measurement of thermodynamic temperature.
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [1]
+
+    (b) Fig. 2.1 shows a simplified diagram of a type of thermometer called a platinum resistance
+        thermometer.
+
+                                      plastic strip                                              platinum wire
+
+
+
+
+     X
+     Y
+
+
+                                                                                                                          large glass tube
+
+                                                                   Fig. 2.1
+
+         The glass tube is immersed in the environment for which the temperature is to be determined.
+         The resistance between the terminals X and Y is measured.
+
+         Fig. 2.2 shows the variation of the resistivity ρ of platinum with thermodynamic temperature T.
+
+
+
+                                      ρ
+
+
+
+
+                                           0                                                       T
+
+                                                                   Fig. 2.2
+
+
+
+
+© UCLES 2024                                                     9702/41/M/J/24
+
+
+=== MERGED PAGE 410 ===
+                                                                           7
+
+          (i)    Explain how Fig. 2.2 shows that platinum is a suitable metal for use in a resistance
+                 thermometer.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [2]
+
+         (ii)    Suggest a reason why a platinum resistance thermometer is not suitable for measuring
+                 a rapidly changing temperature.
+
+                 ...........................................................................................................................................
+
+                 ...........................................................................................................................................
+
+                 ..................................................................................................................................... [1]
+
+        (iii)    Suggest a type of thermometer that is suitable for measuring a rapidly changing
+                 temperature.
+
+                 ..................................................................................................................................... [1]
+
+    (c) A negative temperature coefficient thermistor may be used as a type of resistance
+        thermometer.
+
+         State one way in which the variation with temperature of the resistance of a thermistor differs
+         from that of a platinum wire.
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+                                                                                                                                               [Total: 7]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 411 ===
+                                                                         8
+
+3   (a) (i)     State what is meant by an ideal gas.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Use one of the basic assumptions of the kinetic theory to explain what can be deduced
+                about the potential energy associated with the random motion of molecules in an ideal
+                gas.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+    (b) A sample of 0.26 m3 of an ideal gas is at pressure 2.0 × 105 Pa and temperature 290 K.
+
+         Determine:
+
+          (i)   the number N of molecules of the gas
+
+
+
+
+                                                                                    N = ......................................................... [2]
+
+         (ii)   the average translational kinetic energy EK of one molecule of the gas
+
+
+
+
+                                                                                   EK = ...................................................... J [2]
+
+        (iii)   the internal energy of the gas. Explain your reasoning.
+
+
+
+
+                                                               internal energy = ...................................................... J [2]
+
+© UCLES 2024                                                     9702/41/M/J/24
+
+
+=== MERGED PAGE 412 ===
+                                                    9
+
+    (c) The volume V of the gas in (b) is now varied, keeping its pressure constant.
+
+         On Fig. 3.1, sketch the variation with V of the internal energy U of the gas.
+
+
+
+                             U
+
+
+
+
+                              0
+                                  0                                  V
+
+                                                Fig. 3.1
+                                                                                                  [2]
+
+                                                                                          [Total: 12]
+
+
+
+
+© UCLES 2024                                  9702/41/M/J/24                             [Turn over
+
+
+=== MERGED PAGE 413 ===
+                                                                          10
+
+4   (a) State what is meant by resonance.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) A small ball is held in place using a stretched string. One end of the string is fixed to a wall
+        and the other end is attached to a vibration generator, as shown in Fig. 4.1.
+
+                                                                ball
+      vibration                                                                                                                              wall
+      generator
+
+
+
+
+                                                                                                   string
+
+                                                                       Fig. 4.1
+
+         Initially, the vibration generator is switched off.
+
+         A student displaces the ball vertically and then releases it. Fig. 4.2 shows the variation of the
+         displacement of the ball with time after it is released.
+
+
+
+
+        displacement
+
+
+
+
+                           0
+                               0              0.1                0.2               0.3                0.4               0.5                0.6
+                                                                                          time / s
+
+
+
+
+                                                                       Fig. 4.2
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 414 ===
+                                                                        11
+
+          (i)   State the name of the phenomenon illustrated by the decrease in the amplitude of the
+                oscillations in Fig. 4.2.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain the decrease with time of the amplitude of the oscillations of the ball.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+        (iii)   Determine the frequency of the oscillations of the ball.
+
+
+
+
+                                                                       frequency = .................................................... Hz [1]
+
+    (c) The vibration generator in (b) is switched on and its frequency f of vibration is gradually
+        increased from 0 to 10 Hz.
+
+         On Fig. 4.3, sketch the variation with f of the amplitude of the oscillations of the ball.
+
+
+
+
+                         amplitude
+
+
+
+
+                                         0
+                                             0               2.5               5.0                7.5              10.0
+                                                                                                          f / Hz
+
+                                                                   Fig. 4.3
+                                                                                                                                                       [2]
+
+                                                                                                                                             [Total: 8]
+
+
+
+
+© UCLES 2024                                                     9702/41/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 415 ===
+                                                                          12
+
+5    (a) Define electric field.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+     (b) Fig. 5.1 shows two parallel conducting plates that are in a vacuum. The plates are separated
+         by a distance of 6.7 cm and have a potential difference (p.d.) of 430 V between them.
+
+                                                                               +430 V
+                 conducting plate
+
+
+
+
+    electron, speed                                                                                                                           6.7 cm
+    2.6 × 107 m s–1
+
+
+
+
+                 conducting plate
+                                                                               0V
+
+                                                                     Fig. 5.1
+
+          (i)    On Fig. 5.1, draw four field lines to represent the electric field between the plates.                                                  [2]
+
+         (ii)    Determine the strength E of the electric field between the plates.
+
+
+
+
+                                                                                      E = ............................................... N C–1 [2]
+
+         (iii)   An electron travels at a speed of 2.6 × 107 m s–1 towards the region between the plates,
+                 as shown in Fig. 5.1.
+
+                 On Fig. 5.1, draw the path of the electron as it moves between and beyond the plates. [2]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 416 ===
+                                                                        13
+
+    (c) A uniform magnetic field is now applied in the region of the electric field in Fig. 5.1, so that the
+        electron in (b)(iii) travels undeviated through the region.
+
+          (i)   Determine the direction of the uniform magnetic field.
+
+                ..................................................................................................................................... [1]
+
+         (ii)   Explain, with reference to the forces exerted by the two fields on the electron, why the
+                path of the electron is undeviated.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+        (iii)   Determine the flux density B of the uniform magnetic field. Give a unit with your answer.
+
+
+
+
+                                                                                    B = ................................. unit ............... [2]
+
+                                                                                                                                           [Total: 13]
+
+
+
+
+© UCLES 2024                                                     9702/41/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 417 ===
+                                                                          14
+
+6   Fig. 6.1 shows a capacitor of capacitance C connected in series with a resistor of resistance R.
+
+                                                                                        C
+
+
+
+
+                                                                            R
+
+
+                                                                      Fig. 6.1
+
+    Initially the switch is open and there is a p.d. of 12 V across the capacitor.
+
+    At time t = 0, the switch is closed so that there is a current I in the resistor.
+
+    Fig. 6.2 shows the variation of I with t.
+
+                                         0.2
+
+                            I / mA
+
+                                         0.1
+
+
+
+
+                                            0
+                                                0                 2                 4                  6                 8
+                                                                                                              t/s
+
+                                                                      Fig. 6.2
+
+    (a) Explain the shape of the line in Fig. 6.2.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 418 ===
+                                                       15
+
+    (b) Use Fig. 6.2 to determine:
+
+          (i)   resistance R
+
+
+
+
+                                                                   R = ..................................................... Ω [2]
+
+         (ii)   the time constant τ of the circuit in Fig. 6.1.
+
+
+
+
+                                                                   τ = ...................................................... s [3]
+
+    (c) Use your answers in (b) to determine capacitance C.
+
+
+
+
+                                                                   C = ...................................................... F [2]
+
+                                                                                                                    [Total: 10]
+
+
+
+
+© UCLES 2024                                      9702/41/M/J/24                                                   [Turn over
+
+
+=== MERGED PAGE 419 ===
+                                                                          16
+
+7   A circuit contains a power supply that provides a sinusoidal alternating input voltage VIN. There is
+    an output voltage VOUT across a load resistor R, as shown in Fig. 7.1.
+
+                                                                          VIN
+
+
+
+
+                                                                      R          VOUT
+
+
+
+
+                                                                     Fig. 7.1
+
+    (a) State the purpose of the circuit in Fig. 7.1.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Fig. 7.2 shows the variation of VOUT with time t.
+
+                                         10
+
+                           VOUT / V
+
+                                           5
+
+
+
+
+                                           0
+                                               0              0.02               0.04              0.06               0.08
+                                                                                                              t/s
+
+                                                                     Fig. 7.2
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 420 ===
+                                                                          17
+
+          (i)    The load resistor R has a resistance of 370 Ω.
+
+                 Show that the maximum power dissipated in R is 0.22 W.
+
+
+
+
+                                                                                                                                                         [2]
+
+         (ii)    On Fig. 7.3, sketch the variation with t of the power P dissipated in R.
+
+                                      0.4
+
+                             P/W
+
+                                      0.2
+
+
+
+
+                                         0
+                                             0              0.02               0.04              0.06              0.08
+                                                                                                           t/s
+
+                                                                     Fig. 7.3
+                                                                                                                                                         [3]
+
+        (iii)    Calculate the mean power dissipated in R.
+
+
+
+
+                                                                     mean power = ..................................................... W [1]
+
+    (c) The circuit of Fig. 7.1 is disconnected, and R is connected directly across the power supply.
+
+         Explain, without calculation, how the mean power now dissipated in R compares with the
+         answer in (b)(iii).
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+                                                                                                                                             [Total: 10]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 421 ===
+                                                                          18
+
+8   (a) State what is meant by a photon.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [2]
+
+    (b) Fig. 8.1 shows a tube in which X-rays are produced at a metal target.
+
+                                                                     X               Y
+
+
+
+
+                                       particles
+
+
+
+
+          filament
+
+                      vacuum                                                                                           glass tube
+
+                                     metal target
+
+                                                                     Fig. 8.1
+
+         Particles are accelerated from the filament to the target by a constant high voltage applied
+         across the terminals X and Y.
+
+          (i)    State the name of the particles.
+
+                 ..................................................................................................................................... [1]
+
+         (ii)    On Fig. 8.1, use + and – signs to label terminals X and Y to indicate the polarity of the
+                 high voltage.                                                                          [1]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 422 ===
+                                                                          19
+
+    (c) For an accelerating voltage of 32 kV in Fig. 8.1, determine:
+
+          (i)    the maximum energy, in MeV, of an X-ray photon produced at the target
+
+
+
+
+                                                 maximum photon energy = ................................................. MeV [1]
+
+         (ii)    the maximum momentum of an X-ray photon produced at the target
+
+
+
+
+                                          maximum photon momentum = ................................................... N s [2]
+
+        (iii)    the minimum wavelength of X-rays produced at the target.
+
+
+
+
+                                                       minimum wavelength = ..................................................... m [3]
+
+    (d) Explain why X-rays can be used to produce images of internal body structures that have
+        good contrast.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [3]
+
+                                                                                                                                             [Total: 13]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 423 ===
+                                                                          20
+
+9   (a) Define half-life of a radioactive isotope.
+
+          ...................................................................................................................................................
+
+          ...................................................................................................................................................
+
+          ............................................................................................................................................. [1]
+
+    (b) Radioactive isotope X decays to isotope Y.
+
+         A sample contains only nuclei of X at time t = 0. Fig. 9.1 shows the variation with t of the
+         numbers of nuclei of X and of Y as the sample decays.
+
+                           4
+                                                                                                                                                Y
+        number of
+       nuclei / 1022
+                           3
+
+
+
+
+                           2
+
+
+
+
+                           1
+
+
+
+                                                                                                                                                X
+                           0
+                               0                10                20                 30                40                 50                60
+                                                                                                                t/s
+
+                                                                     Fig. 9.1
+
+          (i)    State the name of the quantity represented by the magnitude of the gradient of line X in
+                 Fig. 9.1.
+
+                 ..................................................................................................................................... [1]
+
+
+
+
+© UCLES 2024                                                       9702/41/M/J/24
+
+
+=== MERGED PAGE 424 ===
+                                                                        21
+
+         (ii)   State three conclusions about X or Y that may be drawn from Fig. 9.1. The conclusions
+                may be qualitative or quantitative. Use the space below for any working that you need.
+
+
+
+
+                1 ........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                2 ........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                3 ........................................................................................................................................
+
+                ...........................................................................................................................................
+                                                                                                                                                       [3]
+
+    (c) The mass of radioactive isotope X in the sample in (b) is 7.3 × 10–4 kg at time t = 0.
+
+         Determine the nucleon number of isotope X.
+
+
+
+
+                                                             nucleon number = ......................................................... [3]
+
+                                                                                                                                             [Total: 8]
+
+
+
+
+© UCLES 2024                                                     9702/41/M/J/24                                                          [Turn over
+
+
+=== MERGED PAGE 425 ===
+                                                                        22
+
+10 (a) (i)      State what is meant by the luminosity of a star.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [2]
+
+         (ii)   Explain how a standard candle in a distant galaxy can be used to determine the distance
+                of the galaxy from an observer.
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ...........................................................................................................................................
+
+                ..................................................................................................................................... [3]
+
+    (b) The Sun has a radius of 6.96 × 108 m and a surface temperature of 5780 K.
+        Light from the Sun is observed to have a peak intensity at a wavelength of 501 nm.
+
+          (i)   Calculate the luminosity of the Sun. Give a unit with your answer.
+
+
+
+
+                                                                       luminosity = ................................. unit ............... [2]
+
+         (ii)   Another star emits radiation that has a peak intensity at a wavelength of 624 nm.
+
+                Determine the surface temperature of this star.
+
+
+
+
+                                                       surface temperature = .......................................................K [2]
+
+                                                                                                                                             [Total: 9]
+
+
+
+© UCLES 2024                                                     9702/41/M/J/24
+
+
+=== MERGED PAGE 426 ===
+                                                                            24
+
+                                                                   BLANK PAGE
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+
+© UCLES 2024                                                         9702/41/M/J/24

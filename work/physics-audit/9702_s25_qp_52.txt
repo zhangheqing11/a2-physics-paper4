@@ -1,0 +1,591 @@
+
+=== MERGED PAGE 674 ===
+                                                     * 0000800000001 *
+
+
+
+                                                 ,               ,
+
+
+
+
+                                               Cambridge International AS & A Level
+
+                          ¬Oz> 4mHuOªE^y5W
+                          ¬Gr{Q d{{k{
+                          ¥UU55euU¥uEEeU5U
+
+
+
+
+* 3 7 6 0 0 8 0 5 9 7 *
+                                               PHYSICS                                                                                         9702/52
+                                               Paper 5 Planning, Analysis and Evaluation                                                May/June 2025
+
+                                                                                                                                      1 hour 15 minutes
+
+                                               You must answer on the question paper.
+
+                                               No additional materials are needed.
+
+                                               INSTRUCTIONS
+                                               ●   Answer all questions.
+                                               ●   Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+                                               ●   Write your name, centre number and candidate number in the boxes at the top of the page.
+                                               ●   Write your answer to each question in the space provided.
+                                               ●   Do not use an erasable pen or correction fluid.
+                                               ●   Do not write on any bar codes.
+                                               ●   You may use a calculator.
+                                               ●   You should show all your working and use appropriate units.
+
+
+                                               INFORMATION
+                                               ●   The total mark for this paper is 30.
+                                               ●   The number of marks for each question or part question is shown in brackets [ ].
+
+
+
+
+                                                                                        This document has 8 pages.
+
+
+                                               DC (DE/CT) 342384/3
+                                               © UCLES 2025                                                                                   [Turn over
+
+
+=== MERGED PAGE 675 ===
+        * 0000800000002 *
+
+
+
+
+                                                                                                             DO NOT WRITE IN THIS MARGIN
+                                                                  2
+    ,            ,
+
+1   A thin solid disc of radius r and thickness z is attached to a thin axle. String is wrapped around the
+    axle, as shown in Fig. 1.1.
+
+                                                                   z
+
+
+                                                   disc
+
+                    axle                                                            r
+
+
+
+
+                                                                                                             DO NOT WRITE IN THIS MARGIN
+                     string
+
+
+
+
+                     block
+
+                                                              Fig. 1.1
+
+
+
+
+                                                                                                             DO NOT WRITE IN THIS MARGIN
+    A block of mass m is attached to the string.
+
+    The block is released from rest and falls downwards. The block has speed v when it has fallen
+    through a distance h from the point of release. The value of v is determined using one light gate
+    connected to a timer.
+
+    It is suggested that v is related to m by the relationship
+
+                                                          h      πr 2z   1
+                                                            2 =        +
+                                                          v     2PQm     P
+    where P and Q are constants.
+
+
+
+
+                                                                                                             DO NOT WRITE IN THIS MARGIN
+    Plan a laboratory experiment to test the relationship between v and m.
+
+    Draw a diagram showing the arrangement of your equipment.
+
+    Explain how the results could be used to determine values for P and Q.
+
+    In your plan you should include:
+
+    •     the procedure to be followed
+
+    •     the measurements to be taken
+
+    •     the control of variables
+
+
+
+
+                                                                                                             DO NOT WRITE IN THIS MARGIN
+    •     the analysis of the data
+
+    •     any safety precautions to be taken.
+
+
+
+
+                              ĬÍú¾Ġ´íÈõÏĪÅĊßû·þ×
+© UCLES 2025                  ĬÇôüÔĬĜČÛîýĠÃÑ°ÃĕĂ            9702/52/M/J/25
+                              ĥąÅĕõÕĥĕĥååąÅÕÅĕĕÕ
+
+
+=== MERGED PAGE 676 ===
+                                      * 0000800000003 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                           3
+                                 ,                 ,
+
+                                  Diagram
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                   ..........................................................................................................................................................
+
+                                                                  ĬÏú¾Ġ´íÈõÏĪÅĊßù·þ×
+                              © UCLES 2025                        ĬÇóûÜĞĘüÞČôéėéĬÃĥĂ
+                                                                  ĥąµÕµµąõõÕõąÅµåÕąÕ
+                                                                                                   9702/52/M/J/25                                                          [Turn over
+
+
+=== MERGED PAGE 677 ===
+        * 0000800000004 *
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+                                                                             4
+   ,                 ,
+
+
+
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+
+
+
+                                                                                                                                                                  DO NOT WRITE IN THIS MARGIN
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     ..........................................................................................................................................................
+
+     .................................................................................................................................................. [15]
+                                    ĬÍú¾Ġ´íÈõÏĪÅĊÝû·Ā×
+© UCLES 2025                        ĬÇóúÜĨĦíÙĆûâµąÊÓčĂ               9702/52/M/J/25
+                                    ĥµĥÕõµąÕĕõąąąµąÕĕÕ
+
+
+=== MERGED PAGE 678 ===
+                                     * 0000800000005 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                     5
+                                  ,           ,
+
+                              2   A student investigates a circuit containing capacitors. The circuit is connected with a capacitor of
+                                  capacitance A, as shown in Fig. 2.1.
+
+                                                                                           X
+
+
+                                                                                                 A
+
+
+
+                                                                                   Y
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                             P              Q
+
+
+
+
+                                                                                                     V
+
+
+                                                                                                     Z
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                               Fig. 2.1
+
+                                  Two capacitors, each of capacitance C, are connected in parallel between P and Q.
+
+                                  Initially, switch X and switch Z are closed and switch Y is open.
+
+                                  Switches X and Z are opened. Switch Y is then closed. The maximum potential difference between
+                                  P and Q is measured using the voltmeter. This procedure is repeated and the mean maximum
+                                  potential difference V between P and Q is determined.
+
+                                  The experiment is then repeated by changing the number n of capacitors, each of capacitance C,
+                                  connected in parallel between P and Q.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                  It is suggested that V and n are related by the equation
+
+                                                                                          EA = V(nC + A)
+
+                                  where E is the electromotive force (e.m.f.) of the battery.
+
+                                                                              1
+                                  (a) A graph is plotted of                     on the y-axis against n on the x-axis.
+                                                                              V
+                                       Determine expressions for the gradient and y-intercept.
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                                     gradient = ...............................................................
+
+                                                                                                 y-intercept = ...............................................................
+                                                                                                                                                                          [1]
+                                                         ĬÏú¾Ġ´íÈõÏĪÅĊÝù·Ā×
+                              © UCLES 2025               ĬÇôùÔĢĪýàôĆħġíĎÓĝĂ
+                                                         ĥµĕĕµÕĥµąąÕąąÕĥĕąÕ
+                                                                                            9702/52/M/J/25                                                     [Turn over
+
+
+=== MERGED PAGE 679 ===
+       * 0000800000006 *
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                   6
+   ,                ,
+
+    (b) Values of n and the two measured values of the maximum potential difference V1 and V2 are
+        given in Table 2.1.
+
+                                                              Table 2.1
+
+                                                                                                        1
+                n         V1 / V                    V2 / V             V/V                                / V–1
+                                                                                                        V
+
+                2         4.30                      4.20
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                3         3.65                      3.75
+
+
+                4         3.30                      3.20
+
+
+                5         2.85                      2.95
+
+
+                6         2.65                      2.55
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                7         2.30                      2.40
+
+
+
+                                                  1
+        Calculate and record values of V / V and    / V–1 in Table 2.1. Include the absolute uncertainties
+                  1                               V
+        in V and    .                                                                                   [2]
+                 V
+                             1                                            1
+    (c) (i) Plot a graph of    / V–1 against n. Include error bars for      .                           [2]
+                            V                                             V
+         (ii)       Draw the straight line of best fit and a worst acceptable straight line on your graph. Label
+                    both lines.                                                                              [2]
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+        (iii)       Determine the gradient of the line of best fit. Include the absolute uncertainty in your
+                    answer.
+
+
+
+
+                                                                                                                                                DO NOT WRITE IN THIS MARGIN
+                                                                    gradient = .......................................................... [2]
+
+
+
+
+                               ĬÑú¾Ġ´íÈõÏĪÅĊàù¶þ×
+© UCLES 2025                   ĬÇóùÏĬĂćè÷÷ĎāąïûčĂ            9702/52/M/J/25
+                               ĥĥµĕµõĥĕÅĥõąÅÕÅÕÕÕ
+
+
+=== MERGED PAGE 680 ===
+                                     * 0000800000007 *
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                                                                        7
+                                 ,              ,
+
+
+                                         0.44
+
+
+
+
+                                         0.42
+
+
+
+
+                                         0.40
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                         0.38
+                                 1 –1
+                                   /V
+                                 V
+                                         0.36
+
+
+
+
+                                         0.34
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                         0.32
+
+
+
+
+                                         0.30
+
+
+
+
+                                         0.28
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                         0.26
+
+
+
+
+                                         0.24
+
+
+
+
+DO NOT WRITE IN THIS MARGIN
+                                         0.22
+                                                1                      2      3         4          5       6   7        8
+                                                                                                       n
+
+
+
+
+                                                         ĬÓú¾Ġ´íÈõÏĪÅĊàû¶þ×
+                              © UCLES 2025               ĬÇôú×Ğþ÷ÑāĊÛÕíëûĝĂ
+                                                         ĥĥÅÕõĕąõÕĕåąÅµåĕÅÕ
+                                                                                  9702/52/M/J/25                   [Turn over
+
+
+=== MERGED PAGE 681 ===
+          * 0000800000008 *
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                            8
+    ,                                            ,
+
+            (iv)     Determine the y-intercept of the line of best fit. Include the absolute uncertainty in your
+                     answer.
+
+
+
+
+                                                                         y-intercept = .......................................................... [2]
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+       (d) (i)       Using your answers to (a), (c)(iii) and (c)(iv), determine the values of E and C. Include
+                     appropriate units.
+
+                     Data: A = (2.2 ± 0.2) mF
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                       E = ...............................................................
+
+                                                                                       C = ...............................................................
+                                                                                                                                                      [2]
+
+             (ii)    Determine the percentage uncertainty in your value of C.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                          percentage uncertainty = ......................................................% [1]
+
+       (e) The experiment is repeated with 10 capacitors, each of capacitance C, connected in parallel
+           between P and Q. Determine the maximum potential difference V between P and Q.
+
+
+
+
+                                                                                                                                                              DO NOT WRITE IN THIS MARGIN
+                                                                                       V = .......................................................V [1]
+
+                                                                                                                                            [Total: 15]
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+                                     ĬÑú¾Ġ´íÈõÏĪÅĊÞù¶Ā×
+© UCLES 2025                         ĬÇôû×ĨðòæÿāÔ÷ÑĉīĕĂ              9702/52/M/J/25
+                                     ĥÕĕÕµĕąÕµµÕąąµąĕÕÕ

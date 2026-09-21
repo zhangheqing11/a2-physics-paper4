@@ -1,0 +1,836 @@
+
+===== 9702/42_Summer_2017_Q6 | PDF 296-297 | Electric Fields, Current Of Electricity =====
+A-Level Cambridge
+PHYSICS - P4
+CH17- ELECTRIC FIELDS
+1 - (9702/42_Summer_2017_Q6) - Electric Fields, Current Of Electricity
+(a) State Coulomb's law.
+. [2]
+(b) Two charged metal spheres A and B are situated in a vacuum, as illustrated in Fig. 6.1.
+6.0 cm
+sphere A
+sphere B
+P
+Fig. 6.1
+The shortest distance between the surfaces of the spheres is 6.0 cm.
+A movable point Plies along the line joining the centres of the two spheres, a distance x from
+the surface of sphere A.
+The variation with distance x of the electric field strength E at point P is shown in Fig. 6.2.
+10
+E/103 Vm-1
+5
+0-
+- 3
+6
+x/cm
+-5
+-10
+-15
+Fig. 6.2
+2017 - 2023
+295
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+(i)
+Use Fig. 6.2 to explain whether the two spheres have charges of the same, or opposite,
+sign.
+• (2]
+(il) A proton is at point P where x = 5.0cm.
+Use data from Fig. 6.2 to determine the acceleration of the proton.
+acceleration =
+ms 2[3]
+(c) Use data from Fig. 6.2 to state the value of x at which the rate of change of electric potential
+is maximum. Give the reason for the value you have chosen.
+2017 - 2023
+296
+P4 Topical
+
+===== 9702/41_Winter_2017_Q5 | PDF 298-299 | Electric Fields, Electromagnetic Induction =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+2 - (9702/41_Winter_2017_05) - Electric Fields, Electromagnetic Induction
+(a) (i) State Coulomb's law for the force between two point charges.
+11]
+Two point charges are situated in a vacuum and separated by a distance R. The force
+between the charges is Fc:
+On Fig. 5.1, sketch a graph to show the variation of the force F between the charges with
+separation x for values of x from x - Rto x = 4R.
+1.0 Fc
+0.8 Fct
+F
+0.6 Fc
+0.4 Fc
+0.2 Fc
+0.
+R
+2R
+3R
+4R
+Fig. 5.1
+(b) Two coils C and D are placed close to one another, as shown in Fig. 5.2.
+coil C
+coil D
+13]
+e.m.f. E
+Fig. 5.2
+2017 - 2023
+297
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+The variation with time t of the current 1 in coil C is shown in Fig. 5.3.
+On Fig. 5.4, show the variation with time t of the e.m.f. E induced in coil D for time t = 0 to
+time t=15.
+I
+- 14
+: 15
+Fig. 5.3
+E
+0
+- 12
+- 13 -
+- 14
+Fig. 5.4
+14]
+2017 - 2023
+298
+P4 Topical
+
+===== 9702/42_Winter_2017_Q6 | PDF 300-301 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17- ELECTRIC FIELDS
+3 - (9702/42_Winter_2017_Q6) - Electric Fields
+(a) For any point outside a spherical conductor, the charge on the sphere may be considered to
+act as a point charge at its centre. By reference to electric field lines, explain this.
+• [2]
+(b) An isolated spherical conductor has charge q, as shown in Fig. 6.1.
+x
+sphere,
+charge q.
+P
+Fig. 6.1
+Point P is a movable point that, at any one time, is a distance x from the centre of the sphere.
+The variation with distance x of the electric potential V at point P due to the charge on the
+sphere is shown in Fig. 6.2.
+14
+12
+V/103V
+10
+8
+4-
+2
+0
+2
+4
+6
+8
+10
+12
+x/cm
+Fig. 6.2
+2017 - 2023
+299
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+Use Fig. 6.2 to determine
+(1) the electric field strength E at point P where x = 6.0cm,
+E = .......
+............ NC-1 [3]
+(ii) the radius R of the sphere. Explain your answer.
+R= ..
+.. cm [2]
+2017 - 2023
+300
+P4 Topical
+
+===== 9702/41_Summer_2018_Q6 | PDF 302-302 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+4 - (9702/41_Summer_2018_Q6) - Electric Fields
+(a)
+State what is meant by electric field strength.
+...(1]
+An isolated metal sphere A of radius 26cm is positively charged. Sphere A is shown in
+Fig. 6.1.
+charged
+sphere A
+26cm
+Fig. 6.1
+Electrical breakdown (a spark) occurs when the electric field strength at the surface of the
+sphere exceeds 2.0 x 104 Vm 1
+Calculate the maximum charge Q that can be stored on the sphere.
+Q= ....
+...C [2]
+(c) A second isolated metal sphere B, also with charge +Q, has a radius of 52cm.
+Calculate the additional charge, in terms of Q, that may be stored on this sphere before
+electrical breakdown occurs.
+additional charge =
+....12]
+2017 - 2023
+301
+P4 Topical
+
+===== 9702/41_Winter_2018_Q6 | PDF 303-304 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+5 - (9702/41_Winter_2018_Q6) - Electric Fields
+(a) (I) Define electric potential at a point.
+•[2]
+(ii) State the relationship between electric potential and electric field strength at a point.
+[2]
+(b) Two parallel metal plates A and B are situated a distance 1.2cm apart in a vacuum, as shown
+in Fig. 6.1.
+-75 V
+plate B
+helium nucleus
+1.2cm
+OV
+plate A
+Fig. 6.1
+Plate A is earthed and plate B is at a potential of -75 V.
+A helium nucleus is situated between the plates, a distance x from plate A.
+Initially, the helium nucleus is at rest on plate A where x = 0.
+(i) The helium nucleus is free to move between the plates. By considering energy changes
+of the helium nucleus, explain why the speed at which it reaches plate B is independent
+of the separation of the plates.
+[2]
+2017 - 2023
+302
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(i) As the helium nucleus (¿He) moves from plate A towards plate B, its distance x from
+plate A increases.
+Calculate the speed of the nucleus after it has moved a distance x = 0.40 cm from plate A.
+CH17 - ELECTRIC FIELDS
+speed =
+.. ms' [3]
+2017 - 2023
+303
+P4 Topical
+
+===== 9702/42_Winter_2018_Q6 | PDF 305-306 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+6 - (9702/42_Winter_2018_Q6) - Electric Fields
+(a) State
+(i) what is meant by the electric potential at a point,
+(ii) the relationship between electric potential at a point and electric field strength at the
+point.
+[2]
+(b) Two similar solid metal spheres A and B, each of radius R, are situated in a vacuum such that
+the separation of their centres is D, as shown in Fig. 6.1.
+D
+x
+P
+sphere A
+charge +Q
+"R*:
+sphere B
+charge +q
+Fig. 6.1
+The charge +Q on sphere A is larger than the charge +q on sphere B.
+A movable point P is located on the line joining the centres of the two spheres.
+The point P is a distance x from the centre of sphere A.
+2017 - 2023
+304
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+On Fig. 6.2, sketch a graph to show the variation with x of the electric potential V between the
+centres of the two spheres.
+of
+0
+x
+surface of
+sphere A
+- surface of
+- sphere B
+Fig. 6.2
+(4]
+2017 - 2023
+305
+P4 Topical
+
+===== 9702/41_Summer_2019_Q5 | PDF 307-308 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+7 - (9702/41_Summer_2019_Q5) - Electric Fields
+(a)
+State what is meant by electric field strength.
+12]
+(b) Two point charges A and B are situated a distance 15cm apart in a vacuum, as illustrated in
+Fig. 5.1.
+P
+x
+15cm
+Fig. 5.1
+Point Plies on the line joining the charges and is a distance x from charge A
+The variation with distance x of the electric field strength E at point P is shown in Fig. 5.2.
+10
+8
+E/103NC-1
+6
+2
+0
+0
+-2
+-4•
+-6
+- 2
+- 6
+-8
++10 12 14
+x/cm
+Fig. 5.2
+2017 - 2023
+306
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+By reference to the direction of the electric field, state and explain whether the charges
+A and B have the same, or opposite, signs.
+[2]
+State why, although charge A is a point charge, the electric field strength between
+x = 3cm and x = 7cm does not obey an inverse-square law.
+[1]
+(iii) Use Fig. 5.2 to determine the ratio
+magnitude of charge A
+- .
+magnitude of charge B
+ratio =
+13]
+2017 - 2023
+307
+P4 Topical
+
+===== 9702/42_Summer_2019_Q6 | PDF 309-310 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+8 - (9702/42_Summer_2019_Q6) - Electric Fields
+(a)
+State what is meant by electric potential at a point.
+• [2]
+(b) Two parallel metal plates A and B are held a distance d apart in a vacuum, as illustrated
+in Fig. 6.1.
+plate B
++ Vo
+d
+P
+•
+. * .
+- 0V
+plate A
+Fig. 6.1
+Plate A is earthed and plate B is at a potential of + Vo.
+Point P is situated in the centre region between the plates at a distance x from plate B.
+The potential at point P is V.
+On Fig. 6.2, show the variation with x of the potential V for values of x from x = 0 to
++ Vo-
+potential
+V
+0
+d
+distance x
+Fig. 6.2
+[3]
+2017 - 2023
+308
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+(c) Two isolated solid metal spheres M and N, each of radius R, are situated in a vacuum. Their
+centres are a distance D apart, as illustrated in Fig. 6.3.
+D
+sphere M
+charge +Q
+sphere N
+charge +Q
+P
+Fig. 6.3
+Each sphere has charge +Q.
+Point P lies on the line joining the centres of the two spheres, and is a distance y from the
+centre of sphere M.
+On Fig. 6.4, show the variation with distance y of the electric potential at point P, for values of
+y from y = 0 to y = D
+potential
+(D-A) D
+Fig. 6.4
+14]
+2017 - 2023
+309
+P4 Topical
+
+===== 9702/41_Winter_2019_Q6 | PDF 311-312 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+9 - (9702/41_Winter_2019_Q6) - Electric Fields
+(a)
+State an expression for the electric field strength E at a distance r from a point charge Qin a
+vacuum.
+State the name of any other symbol used.
+12]
+Two point charges A and B are situated a distance 10.0 cm apart in a vacuum, as illustrated in
+Fig. 6.1.
+charge A
+charge B
+P
+10.0 cm
+Fig. 6.1
+A point P lies on the line joining the charges A and B. Point P is a distance x from A.
+The variation with distance x of the electric field strength E at point P is shown in Fig. 6.2.
+E/10 2NC-1
+2.5
+2.0
+1.5
+1.00
+2
+4
+6
+8
+10
+x/cm
+Fig. 6.2
+2017 - 2023
+310
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+State and explain whether the charges A and B:
+(i) have the same, or opposite, signs
+(2]
+(ii) have the same, or different, magnitudes.
+[2]
+(c) An electron is situated at point P.
+Without calculation, state and explain the variation in the magnitude of the acceleration of the
+electron as it moves from the position where x = 3cm to the position where x = 7cm.
+(4]
+2017 - 2023
+311
+P4 Topical
+
+===== 9702/42_Winter_2019_Q9 | PDF 313-314 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17- ELECTRIC FIELDS
+10 - (9702/42_Winter_2019_Q9) - Electric Fields
+(a) Define what is meant by electric potential at a point.
+[2]
+(b) In an a-particle scattering experiment, a-particles are directed towards a thin film of gold, as
+illustrated in Fig. 9.1.
+gold film
+beam of
+a-particles
+Fig. 9.1
+The apparatus is in a vacuum.
+The gold-197 ( gAu) nuclei in the film may be considered to be fixed point charges.
+The a-particles emitted from the source each have an energy of 4.8 MeV.
+Calculate:
+(i) the initial kinetic energy Ek, in J, of an a-particle emitted from the source
+EK =
+... J [1]
+2017 - 2023
+312
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+(il)
+the distance d of closest approach of an a-particle to a gold nucleus.
+d= .
+(c) Use your answer in (b)(i) to comment on the possible diameter of a gold nucleus.
+2017 - 2023
+313
+CH17- ELECTRIC FIELDS
+.. m [4]
+11]
+P4 Topical
+
+===== 9702/41_Summer_2020_Q5 | PDF 315-316 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+11 - (9702/41_Summer_2020_Q5) - Electric Fields
+State one similarity and one difference between the fields of force produced by an isolated
+point charge and by an isolated point mass.
+similarity: ..
+difference:
+[2]
+(b) An isolated solid metal sphere A of radius R has charge +Q, as illustrated in Fig. 5.1.
+P
+2R
+sphere A
+charge +Q
+Fig. 5.1
+A point P is distance 2R from the surface of the sphere.
+Determine an expression that includes the terms R and Q for the electric field strength E at
+point P.
+E= ...
+.. [2]
+2017 - 2023
+314
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17- ELECTRIC FIELDS
+(c) A second identical solid metal sphere B is now placed near sphere A. The centres of the
+spheres are separated by a distance 6R, as shown in Fig. 5.2.
+sphere A
+charge +Q
+sphere B
+charge -Q
+6R
+Fig. 5.2
+Point Plies midway between spheres A and B.
+Sphere B has charge -Q.
+Explain why:
+(i) the magnitude of the electric field strength at P is given by the sum of the magnitudes of
+the field strengths due to each sphere
+(ii) the electric field strength at point P due to the charged metal spheres is not, in practice,
+equal to 2E, where E is the electric field strength determined in (b).
+[2]
+2017 - 2023
+315
+P4 Topical
+
+===== 9702/42_Summer_2020_Q7 | PDF 317-318 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17- ELECTRIC FIELDS
+12 - (9702/42_Summer_2020_Q7) - Electric Fields
+A metal sphere of radius R is isolated in space.
+Point P is a distance x from the centre of the sphere, as illustrated in Fig. 7.1.
+P
+Fig. 7.1
+The variation with distance x of the electric field strength E due to the charge on the sphere is
+shown in Fig. 7.2.
+20
+15
+E/105 Vm-1
+10
+5
+0
+0
+2
+4
+6
+8
+10
+12
+x/cm
+Fig. 7.2
+(a) State what is meant by electric field strength.
+12]
+2017 - 2023
+316
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+(b) (i) Use Fig. 7.2 to determine the radius R of the sphere. Explain your working.
+R=
+(ii) Use Fig. 7.2 to determine the charge Q on the sphere.
+cm [2]
+Q=
+(c) An a-particle is situated a distance 8.0 cm from the centre of the sphere.
+Calculate the acceleration of the a-particle.
+C [3]
+acceleration =
+ms-2 [3]
+2017 - 2023
+317
+P4 Topical
+
+===== 9702/41_Winter_2020_Q5 | PDF 319-320 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+13 - (9702/41_Winter_2020_Q5) - Electric Fields
+(a) Define electric potential at a point.
+12)
+(b) Two point charges A and B are separated by a distance of 12.0 cm in a vacuum, as illustrated
+in Fig. 5.1.
+charge A
+• charge B
+12.0cm
+Fig. 5.1
+The charge of A is +2.0 x 10-9C.
+A point Plies on the line joining charges A and B. Its distance from charge A is x.
+The variation with distance x of the electric potential V at point P is shown in Fig. 5.2.
+20
+V/ 102V
+10
+0
+6
+8
+-10
+x/ cm -
+-12
+-10-
+-20-
+-30-
+-40 -
+Fig. 5.2
+2017 - 2023
+318
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+Use Fig. 5.2 to determine:
+(i) the charge of B
+charge = ...
+... C [3]
+(i) the change in electric potential when point P moves from the position where x = 9.0 cm to
+the position where x = 3.0 cm.
+change =
+. V [1]
+(c) An a-particle moves along the line joining point charges A and B in Fig. 5.1.
+The a-particle moves from the position where x = 9.0cm and just reaches the position where
+x = 3.0 cm.
+Use your answer in (b)(ii) to calculate the speed v of the a-particle at the position where
+x = 9.0 cm.
+V=...
+.. ms-1 [3]
+[Total: 9]
+2017 - 2023
+319
+P4 Topical
+
+===== 9702/42_Winter_2020_Q5 | PDF 321-322 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+14 - (9702/42_Winter_2020_Q5) - Electric Fields
+(a) (i) State what is meant by a field of force.
+.. (2]
+(ii) State one similarity and one difference between the electric field due to a point charge
+and the gravitational field due to a point mass.
+similarity:
+difference:.
+[2]
+(b) An isolated solid metal sphere of radius 0.15m is situated in a vacuum, as illustrated in
+Fig. 5.1.
+0.15 m
+P
+Fig. 5.1
+The electric field strength at the surface of the sphere is 84V m-1.
+Determine:
+(i)
+the charge Q on the sphere
+Q=
+...C [2]
+2017 - 2023
+320
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17- ELECTRIC FIELDS
+(ii) the electric field strength at point P, a distance x = 0.45m from the centre of the sphere.
+electric field strength =...
+.... Vm-' [2]
+(c) Use information from (b) to show, on the axes of Fig. 5.2, the variation of the electric field
+strength E with distance x from the centre of the sphere for values of x from x = 0 to x = 0.45m.
+100 TI
+80-
+E/Vm-1
+60-
+40-
+20-
+0.1
+0.2
+0.3
+0.4
+0.5
+x/m
+Fig. 5.2
+13]
+[Total: 11]
+2017 - 2023
+321
+P4 Topical
+
+===== 9702/43_Winter_2020_Q5 | PDF 323-324 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+15 - (9702/43_Winter_2020_Q5) - Electric Fields
+(a)
+Define electric potential at a point.
+[2]
+(b) Two point charges A and B are separated by a distance of 12.0 cm in a vacuum, as illustrated
+in Fig. 5.1.
+charge A
+P
+charge B
+12.0 cm
+Fig. 5.1
+The charge of A is +2.0 x 10°C.
+A point P lies on the line joining charges A and B. Its distance from charge A is x.
+The variation with distance x of the electric potential V at point P is shown in Fig. 5.2.
+20
+V/ 102V
+10-
+0
+4
+6
+8
+10
+- x/cm
+-12
+-10-
+-20+
+-30-
+-40-
+Fig. 5.2
+2017 - 2023
+322
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+Use Fig. 5.2 to determine:
+(i) the charge of B
+charge =
+... C [3]
+(ii) the change in electric potential when point P moves from the position where x = 9.0 cm to
+the position where x = 3.0 cm.
+change =
+.. V [1]
+(c) An a-particle moves along the line joining point charges A and B in Fig. 5.1.
+The a-particle moves from the position where x = 9.0cm and just reaches the position where
+x = 3.0 cm.
+Use your answer in (b)(ii) to calculate the speed v of the a-particle at the position where
+x = 9.0 cm.
+V=...
+ms 1[3]
+[Total: 9]
+2017 - 2023
+323
+P4 Topical
+
+===== 9702/41_Summer_2021_Q6 | PDF 327-328 | Electric Fields, Quantum Physics, Particle & Nuclear Physics =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+17 - (9702/41_Summer_2021_Q6) - Electric Fields, Quantum Physics, Particle & Nuclear Physics
+An isolated metal sphere of radius ris charged so that the electric field strength at its surface
+is Eo.
+On Fig. 6.1, sketch the variation of the electric field strength E with distance x from the centre
+of the sphere. Your sketch should extend from x = 0 to x = 3r.
+E
+field
+strength E
+2r
+3r
+distance x
+Fig. 6.1
+[3]
+(b) The de Broglie wavelength of a particle is 2o when its momentum is Po.
+On Fig. 6.2, sketch the variation with momentum p of the de Broglie wavelength 2 of the
+particle for values of momentum from
+P2 to Po.
+210
+wavelength 2
+Po
+momentum p
+Fig. 6.2
+12]
+2017 - 2023
+326
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+(c) A radioactive isotope decays with a half-life of 15s to form a stable product.
+A fresh sample of the radioactive isotope at time t = 0 contains No nuclei and no nuclei of the
+stable product.
+On Fig. 6.3, sketch the variation with t of the number n of nuclei of the stable product for time
+t = 0 to time t = 45s.
+number n
+0.5 NoT
+0
+15
+30
+45
+time t/s
+Fig. 6.3
+[3]
+2017 - 2023
+327
+P4 Topical
+
+===== 9702/42_Summer_2021_Q5 | PDF 325-326 | Electric Fields =====
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+16 - (9702/42_Summer_2021_Q5) - Electric Fields
+An isolated metal sphere of radius r is charged so that the electric potential at its surface is
+Vo.
+On Fig. 5.1, sketch the variation with distance x from the centre of the sphere of the electric
+potential. Your graph should extend from x = 0 to x = 3r.
+1.0 Vo
+electric
+potential
+0.5 0-
+0
+2r
+3r
+Fig. 5.1
+[3]
+(b) Photons having wavelength 2 are incident on a metal surface.
+The maximum wavelength for which there is emission of electrons is 2o.
+For photons of wavelength
+Z,, the maximum kinetic energy of the emitted slatrons Is EnAx
+On Fig. 5.2, sketch the variation with wavelength i of the maximum kinetic energy for values
+of wavelength between i = -
+2o and 2 = 2o.
+3
+3 EMAX
+energy
+2 EMAXT
+EMAX
+0
+Fig. 5.2
+[3]
+2017 - 2023
+324
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH17 - ELECTRIC FIELDS
+(c) A pure sample of a radioactive isotope contains No nuclei. The half-life of the isotope is T-
+The product of the radioactive decay is stable.
+The variation with time t of the number N of nuclei of the radioactive isotope is shown in
+Fig. 5.3.
+number
+No
+2
+N
+T
+time t
+Fig. 5.3
+On Fig. 5.3:
+• label, on the time axis, the time t = 1.0T; and the time t = 2.0Tą
+sketch the variation with time t of the number of nucle of the decay product for time t = 0
+to time t = T.
+[3]
+2017 - 2023
+325
+P4 Topical

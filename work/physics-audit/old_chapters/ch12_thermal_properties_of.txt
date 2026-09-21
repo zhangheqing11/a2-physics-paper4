@@ -1,0 +1,253 @@
+
+===== 9702/42_Winter_2017_Q2 | PDF 156-157 | Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+3 - (9702/42_Winter_2017_02) - Thermal Properties Of Materials
+(a) State what is meant by specific latent heat.
+(b) A beaker of boiling water is placed on the pan of a balance, as illustrated in Fig. 2.1.
+d.c. supply
+heater
+balance pan-
+boiling
+water
+Fig. 2.1
+The water is maintained at its boiling point by means of a heater.
+The change Min the balance reading in 300s is determined for two different input powers to
+the heater.
+The results are shown in Fig. 2.2.
+voltmeter reading ammeter reading
+11.5
+14.2
+5.2
+6.4
+Fig. 2.2
+(i) Energy is supplied continuously by the heater.
+State where, in this experiment,
+1.
+external work is done,
+M/g
+5.0
+9.1
+2.
+internal energy increases. Explain your answer.
+13]
+2017 - 2023
+155
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+(I) Use data in Fig. 2.2 to determine the specific latent heat of vaporisation of water.
+specific latent heat =
+...Jg [3]
+2017 - 2023
+156
+P4 Topical
+
+===== 9702/42_Winter_2018_Q3 | PDF 166-167 | Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+8 - (9702/42_Winter_2018_O3) - Thermal Properties Of Materials
+(a) Define specific latent heat of fusion.
+..[2]
+(b) A student sets up the apparatus shown in Fig. 3.1 in order to investigate the melting of ice.
+o+
+pure melting-
+ice
+-heater
+beaker
+water
+Fig. 3.1
+The heater is switched on.
+When the pure ice is melting at a constant rate, the data shown in Fig. 3.2 are collected.
+voltmeter reading ammeter reading
+/V
+/A
+initial mass of
+final mass of
+beaker
+beaker
+time of collection
+plus water/g
+plus water/g
+/minutes
+12.8
+4.60
+121.5
+185.0
+5.00
+Fig. 3.2
+The specific latent heat of fusion of ice is 332Jg1.
+(i) State what is observed by the student that shows that the ice is melting at a constant
+rate.
+....[1]
+2017 - 2023
+165
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+(ii)
+Use the data in Fig. 3.2 to determine the rate at which
+1. thermal energy is transferred to the melting ice,
+rate =
+2. thermal energy is gained from the surroundings.
+........... W
+rate =
+W
+[4]
+2017 - 2023
+166
+P4 Topical
+
+===== 9702/42_Winter_2019_Q3 | PDF 178-180 | Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+13 - (9702/42_Winter_2019_03) - Thermal Properties Of Materials
+(a) State what is meant by specific latent heat.
+12]
+(b) A student uses the apparatus illustrated in Fig. 3.1 to determine a value for the specific latent
+heat of fusion of ice.
+A
+0+
+ice
+g
+heater
+- beaker
+- melted ice
+pan of
+balance
+Fig. 3.1
+The balance reading measures the mass of the beaker and the melted ice (water) in the
+beaker.
+The heater is switched on and pieces of ice at 0°C are added continuously to the funnel so
+that the heater is always surrounded by ice.
+When water drips out of the funnel at a constant rate, the balance reading is noted at
+2.0 minute intervals. After 10 minutes, the current in the heater is increased and the balance
+readings are taken for a further 12 minutes.
+2017 - 2023
+177
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+The variation with time of the balance reading is shown in Fig. 3.2.
+300
+250-
+mass/g
+200-
+150-
+100-
+50-
+0-
+0
+12
+16
+20
+time / minutes
+24
+Fig. 3.2
+The readings of the ammeter and of the voltmeter are shown in Fig. 3.3.
+ammeter reading
+IA
+from time 0 to time 10 minutes
+after time 10 minutes
+voltmeter reading
+/V
+7.3
+15.1
+Fig. 3.3
+2017 - 2023
+178
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+(i) From time 0 to time 10.0 minutes, 65g of ice is melted.
+Use Fig. 3.2 to determine the mass of ice melted from time 12.0 minutes to time
+22.0 minutes.
+mass =
+-. g [1]
+Explain why, although the power of the heater is changed, the rate at which thermal
+energy is transferred from the surroundings to the ice is constant.
+11]
+(iii) Determine a value for the specific latent heat of fusion L of ice.
+L=
+… Jg-' [4]
+Calculate the rate at which thermal energy is transferred from the surroundings to the
+rate=
+.. W [2]
+2017 - 2023
+179
+P4 Topical
+
+===== 9702/42_Summer_2020_Q3 | PDF 182-182 | Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+15 - (9702/42_Summer_2020_03) - Thermal Properties Of Materials
+By reference to the first law of thermodynamics, state and explain the change, if any, in the internal
+energy of:
+(a) a lump of solid lead as it melts at constant temperature
+... (3]
+(b) some gas in a toy balloon when the balloon bursts and no thermal energy enters or leaves
+the gas.
+.. 3]
+2017 - 2023
+181
+P4 Topical
+
+===== 9702/41_Winter_2021_Q3 | PDF 183-184 | Thermal Properties Of Materials =====
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+16 - (9702/41_Winter_2021_Q3) - Thermal Properties Of Materials
+(a) Define specific heat capacity.
+[2]
+(b) A sealed container of fixed volume V contains N molecules, each of mass m, of an ideal gas
+at pressure p.
+State an expression, in terms of V, N, p and the Boltzmann constant k, for the
+thermodynamic temperature T of the gas.
+[1]
+(ii) Show that the mean translational kinetic energy Ek of a molecule of the gas is given by
+Ex = 3KT.
+12]
+(iii) Explain why the internal energy of the gas is equal to the total kinetic energy of the
+molecules.
+12]
+(c) The gas in (b) is supplied with thermal energy Q.
+(i) Explain, with reference to the first law of thermodynamics, why the increase in internal
+energy of the gas is Q.
+12]
+2017 - 2023
+182
+P4 Topical
+A-Level Cambridge
+PHYSICS - P4
+CH12 - THERMAL PROPERTIES OF
+MATERIALS
+(i) Use the expression in (b)(i) and the information in (c)(i) to show that the specific heat
+capacity c of the gas is given by
+C = 3m
+12]
+(d) The container in (b) is now replaced with one that does not have a fixed volume. Instead, the
+gas is able to expand, so that the pressure of the gas remains constant as thermal energy is
+supplied.
+Suggest, with a reason, how the specific heat capacity of the gas would now compare with
+the value in (c)(il).
+12]
+2017 - 2023
+183
+P4 Topical
